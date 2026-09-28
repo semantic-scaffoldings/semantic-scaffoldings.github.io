@@ -12,29 +12,18 @@
 <tspan x="28" dy="23.04">inspectable, so people can understand what it is doing and judge its</tspan>
 <tspan x="28" dy="23.04">results.</tspan>
 </text>
-<rect x="618.85" y="129.62" width="81.375" height="64.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="628.15" y1="144.62" x2="690.925" y2="144.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="628.15" y1="155.12" x2="679.3" y2="155.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="628.15" y1="165.62" x2="690.925" y2="165.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="704.1" y1="161.87" x2="750.6" y2="161.87" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="750.6" y1="161.87" x2="744.204" y2="166.105" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="750.6" y1="161.87" x2="744.204" y2="157.635" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="755.25" y="117.62" width="96.875" height="77.25" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="764.55" y1="132.62" x2="842.825" y2="132.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="764.55" y1="143.12" x2="831.2" y2="143.12" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="764.55" y1="153.62" x2="842.825" y2="153.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="873.05" y="132.62" width="93" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<rect x="873.05" y="155.87" width="63.55" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<rect x="873.05" y="179.12" width="34.875" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="852.125" y1="159.62" x2="869.95" y2="159.62" stroke="#a8501c" stroke-width="1.55"/>
-<text x="621.175" y="221.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="621.175" dy="0">inputs</tspan>
-</text>
-<text x="760.675" y="221.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="760.675" dy="0">result</tspan>
-</text>
-<text x="873.05" y="221.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="873.05" dy="0">reasons</tspan>
+<rect x="621.95" y="118.263" width="148.8" height="108.214" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="637.45" y1="136.477" x2="755.25" y2="136.477" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="637.45" y1="147.191" x2="730.45" y2="147.191" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="639" y="163.263" width="111.6" height="19.2857" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="770.75" y1="172.906" x2="803.3" y2="172.906" stroke="#a8501c" stroke-width="2"/>
+<rect x="804.85" y="130.049" width="161.2" height="81.4286" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="825" y="146.12" width="94.55" height="7.5" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="825" y="164.334" width="63.55" height="7.5" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="825" y="182.549" width="38.75" height="7.5" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<circle cx="750.6" cy="172.906" r="4.28571" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<text x="608" y="245.12" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="14.88" font-weight="400">
+<tspan x="608" dy="0">Result + inspectable reasons</tspan>
 </text>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>

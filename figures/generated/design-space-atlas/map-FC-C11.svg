@@ -11,19 +11,23 @@
 <tspan x="28" dy="0">Provides candidate outputs, continuations or a space of</tspan>
 <tspan x="28" dy="25.6">possibilities that people can explore, constrain and select from.</tspan>
 </text>
-<rect x="618.85" y="108.62" width="351.075" height="108.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
-<rect x="629.7" y="119.87" width="87.575" height="81" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="639" y1="134.87" x2="707.975" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="639" y1="145.37" x2="696.35" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="748.275" y="131.12" width="87.575" height="81" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="757.575" y1="146.12" x2="826.55" y2="146.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="757.575" y1="156.62" x2="814.925" y2="156.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="757.575" y1="167.12" x2="826.55" y2="167.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="866.85" y="119.87" width="87.575" height="81" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="876.15" y1="134.87" x2="945.125" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="876.15" y1="145.37" x2="933.5" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="876.15" y1="155.87" x2="945.125" y2="155.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="876.15" y1="166.37" x2="933.5" y2="166.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="620.4" y="119.334" width="105.4" height="108.214" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="634.35" y1="134.334" x2="710.3" y2="134.334" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="634.35" y1="145.049" x2="685.5" y2="145.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="635.9" y="172.906" width="74.4" height="20.3571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="645.2" y1="180.406" x2="680.85" y2="180.406" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="741.3" y="119.334" width="105.4" height="108.214" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="755.25" y1="134.334" x2="831.2" y2="134.334" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="755.25" y1="145.049" x2="806.4" y2="145.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="756.8" y="172.906" width="74.4" height="20.3571" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="766.1" y1="180.406" x2="794" y2="180.406" stroke="#a8501c" stroke-width="2"/>
+<rect x="862.2" y="119.334" width="105.4" height="108.214" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="876.15" y1="134.334" x2="952.1" y2="134.334" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="876.15" y1="145.049" x2="927.3" y2="145.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="877.7" y="172.906" width="74.4" height="20.3571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="887" y1="180.406" x2="907.15" y2="180.406" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="803.3" y1="211.477" x2="809.5" y2="215.763" stroke="#a8501c" stroke-width="2"/>
+<line x1="809.5" y1="215.763" x2="821.9" y2="203.977" stroke="#a8501c" stroke-width="2"/>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>
 </text>

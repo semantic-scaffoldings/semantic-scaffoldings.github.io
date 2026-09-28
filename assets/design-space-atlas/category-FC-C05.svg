@@ -12,35 +12,23 @@
 <tspan x="28" dy="23.04">so people can understand its structure and move between the whole</tspan>
 <tspan x="28" dy="23.04">and its parts.</tspan>
 </text>
-<rect x="617.3" y="121.37" width="24.8" height="21" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="650.625" y="121.37" width="24.8" height="21" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="617.3" y="150.62" width="24.8" height="21" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="650.625" y="150.62" width="24.8" height="21" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="617.3" y="179.87" width="24.8" height="21" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="650.625" y="179.87" width="24.8" height="21" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="689.375" y1="163.37" x2="732" y2="163.37" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="732" y1="163.37" x2="725.604" y2="167.605" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="732" y1="163.37" x2="725.604" y2="159.135" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="766.1" y1="134.12" x2="805.625" y2="168.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="805.625" y1="168.62" x2="765.325" y2="204.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="805.625" y1="168.62" x2="850.575" y2="150.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="805.625" y1="168.62" x2="859.875" y2="200.87" stroke="#a8501c" stroke-width="1.55"/>
-<circle cx="766.1" cy="134.12" r="9.75" fill="#faefe5" stroke="#a8501c" stroke-width="1.55"/>
-<circle cx="805.625" cy="168.62" r="9.75" fill="#faefe5" stroke="#a8501c" stroke-width="1.55"/>
-<circle cx="765.325" cy="204.62" r="9.75" fill="#faefe5" stroke="#a8501c" stroke-width="1.55"/>
-<circle cx="850.575" cy="150.62" r="9.75" fill="#faefe5" stroke="#a8501c" stroke-width="1.55"/>
-<circle cx="859.875" cy="200.87" r="9.75" fill="#faefe5" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="894.75" y="117.62" width="72.85" height="97.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="901.725" y="130.37" width="58.9" height="28.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<rect x="901.725" y="164.87" width="58.9" height="39.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<text x="615.75" y="237.62" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="615.75" dy="0">material</tspan>
-</text>
-<text x="752.15" y="237.62" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="752.15" dy="0">relations</tspan>
-</text>
-<text x="894.75" y="237.62" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="894.75" dy="0">levels</tspan>
+<rect x="621.95" y="133.263" width="37.2" height="27.8571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="668.45" y="122.549" width="37.2" height="27.8571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="634.35" y="175.049" width="37.2" height="27.8571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="677.75" y="188.977" width="37.2" height="27.8571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="728.9" y1="170.763" x2="770.75" y2="170.763" stroke="#a8501c" stroke-width="2"/>
+<line x1="770.75" y1="170.763" x2="761.795" y2="174.998" stroke="#a8501c" stroke-width="2"/>
+<line x1="770.75" y1="170.763" x2="761.795" y2="166.528" stroke="#a8501c" stroke-width="2"/>
+<rect x="794" y="117.191" width="167.4" height="114.643" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="807.95" y1="164.334" x2="947.45" y2="164.334" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="811.05" y="130.049" width="51.15" height="22.5" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="876.15" y="130.049" width="51.15" height="22.5" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="811.05" y="182.549" width="51.15" height="22.5" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="876.15" y="182.549" width="51.15" height="22.5" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="835.85" y1="152.549" x2="835.85" y2="182.549" stroke="#a8501c" stroke-width="2"/>
+<line x1="902.5" y1="152.549" x2="902.5" y2="182.549" stroke="#a8501c" stroke-width="2"/>
+<text x="608" y="245.12" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="14.88" font-weight="400">
+<tspan x="608" dy="0">Items grouped through relationships</tspan>
 </text>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>

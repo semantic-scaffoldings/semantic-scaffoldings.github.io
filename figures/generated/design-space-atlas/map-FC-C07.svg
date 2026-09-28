@@ -13,19 +13,19 @@
 <tspan x="28" dy="25.6">through search, navigation, filters, rankings and scope</tspan>
 <tspan x="28" dy="25.6">choices.</tspan>
 </text>
-<rect x="619.625" y="145.37" width="105.4" height="40.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<circle cx="635.125" cy="161.87" r="7.5" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<line x1="639.775" y1="167.12" x2="648.3" y2="174.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="660.7" y1="161.87" x2="713.4" y2="161.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="734.325" y1="165.62" x2="787.8" y2="165.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="787.8" y1="165.62" x2="781.404" y2="169.855" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="787.8" y1="165.62" x2="781.404" y2="161.385" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="801.75" y="114.62" width="154.225" height="27" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="817.25" y1="128.12" x2="918.775" y2="128.12" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="801.75" y="151.37" width="154.225" height="27" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="817.25" y1="164.87" x2="897.075" y2="164.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="801.75" y="188.12" width="154.225" height="27" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="817.25" y1="201.62" x2="875.375" y2="201.62" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="621.95" y="112.906" width="341" height="30" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<circle cx="645.2" cy="125.763" r="6.42857" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="652.95" y1="131.12" x2="660.7" y2="136.477" stroke="#a8501c" stroke-width="2"/>
+<line x1="679.3" y1="127.906" x2="832.75" y2="127.906" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="621.95" y="155.763" width="341" height="20.3571" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="640.55" y1="166.477" x2="849.8" y2="166.477" stroke="#a8501c" stroke-width="2"/>
+<line x1="894.75" y1="166.477" x2="941.25" y2="166.477" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="621.95" y="182.549" width="341" height="20.3571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="640.55" y1="193.263" x2="807.95" y2="193.263" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="894.75" y1="193.263" x2="930.4" y2="193.263" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="621.95" y="209.334" width="341" height="20.3571" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="640.55" y1="220.049" x2="766.1" y2="220.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="894.75" y1="220.049" x2="919.55" y2="220.049" stroke="#9ba7ab" stroke-width="1.6"/>
 <text x="28" y="285.24" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>
 </text>

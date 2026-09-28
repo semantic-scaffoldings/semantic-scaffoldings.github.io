@@ -12,20 +12,26 @@
 <tspan x="28" dy="25.6">criterion or reference. It includes feedback on attempts,</tspan>
 <tspan x="28" dy="25.6">problem diagnosis, quality assessments and checks.</tspan>
 </text>
-<rect x="624.275" y="121.37" width="112.375" height="83.25" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="633.575" y1="136.37" x2="727.35" y2="136.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="633.575" y1="146.87" x2="715.725" y2="146.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="633.575" y1="157.37" x2="727.35" y2="157.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="746.725" y1="163.37" x2="797.875" y2="163.37" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="797.875" y1="163.37" x2="791.479" y2="167.605" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="797.875" y1="163.37" x2="791.479" y2="159.135" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="813.375" y="116.87" width="147.25" height="94.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="823.45" y="129.62" width="12.4" height="12" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="846.7" y1="135.62" x2="947.45" y2="135.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="823.45" y="153.62" width="12.4" height="12" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="846.7" y1="159.62" x2="947.45" y2="159.62" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="823.45" y="177.62" width="12.4" height="12" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="846.7" y1="183.62" x2="947.45" y2="183.62" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="620.4" y="122.549" width="111.6" height="106.071" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="635.9" y1="140.763" x2="716.5" y2="140.763" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="635.9" y1="151.477" x2="691.7" y2="151.477" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="637.45" y="173.977" width="75.95" height="23.5714" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="745.95" y1="173.977" x2="792.45" y2="173.977" stroke="#a8501c" stroke-width="2"/>
+<line x1="792.45" y1="173.977" x2="783.495" y2="178.212" stroke="#a8501c" stroke-width="2"/>
+<line x1="792.45" y1="173.977" x2="783.495" y2="169.742" stroke="#a8501c" stroke-width="2"/>
+<rect x="807.95" y="115.049" width="158.1" height="116.786" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="823.45" y="130.049" width="26.35" height="18.2143" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="865.3" y1="138.62" x2="947.45" y2="138.62" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="823.45" y="162.191" width="26.35" height="18.2143" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="865.3" y1="170.763" x2="947.45" y2="170.763" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="823.45" y="194.334" width="26.35" height="18.2143" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="865.3" y1="202.906" x2="947.45" y2="202.906" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="826.55" y1="137.549" x2="832.75" y2="141.834" stroke="#a8501c" stroke-width="2"/>
+<line x1="832.75" y1="141.834" x2="845.15" y2="130.049" stroke="#a8501c" stroke-width="2"/>
+<line x1="828.1" y1="164.334" x2="845.15" y2="176.12" stroke="#a8501c" stroke-width="2"/>
+<line x1="828.1" y1="176.12" x2="845.15" y2="164.334" stroke="#a8501c" stroke-width="2"/>
+<line x1="826.55" y1="201.834" x2="832.75" y2="206.12" stroke="#a8501c" stroke-width="2"/>
+<line x1="832.75" y1="206.12" x2="845.15" y2="194.334" stroke="#a8501c" stroke-width="2"/>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>
 </text>

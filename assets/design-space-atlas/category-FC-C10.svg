@@ -11,22 +11,21 @@
 <tspan x="28" dy="0">Lets people change a representation, revise an output or redirect a</tspan>
 <tspan x="28" dy="23.04">process through edits, settings, parameters and reversible actions.</tspan>
 </text>
-<rect x="628.15" y="118.37" width="117.8" height="83.25" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="637.45" y1="133.37" x2="736.65" y2="133.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="637.45" y1="143.87" x2="725.025" y2="143.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="637.45" y1="154.37" x2="736.65" y2="154.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="756.025" y1="159.62" x2="807.175" y2="159.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="807.175" y1="159.62" x2="800.779" y2="163.855" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="807.175" y1="159.62" x2="800.779" y2="155.385" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="821.9" y="118.37" width="129.425" height="83.25" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="831.2" y1="133.37" x2="942.025" y2="133.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="831.2" y1="143.87" x2="930.4" y2="143.87" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="831.2" y1="154.37" x2="942.025" y2="154.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="832.75" y1="157.37" x2="942.025" y2="157.37" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="644.425" y1="227.12" x2="942.8" y2="227.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<circle cx="827.325" cy="227.12" r="7.5" fill="#faefe5" stroke="#a8501c" stroke-width="1.55"/>
-<text x="645.975" y="246.62" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="645.975" dy="0">edit / steer / adjust</tspan>
+<rect x="623.5" y="111.834" width="339.45" height="118.929" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="639" y1="130.049" x2="947.45" y2="130.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="639" y1="140.763" x2="922.65" y2="140.763" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="642.1" y="154.691" width="300.7" height="23.5714" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="657.6" y1="166.477" x2="873.05" y2="166.477" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="642.1" y="190.049" width="300.7" height="24.6429" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="659.15" y1="202.906" x2="769.2" y2="202.906" stroke="#a8501c" stroke-width="2"/>
+<line x1="776.95" y1="195.406" x2="776.95" y2="209.334" stroke="#a8501c" stroke-width="2"/>
+<line x1="885.45" y1="195.406" x2="893.2" y2="213.62" stroke="#a8501c" stroke-width="2"/>
+<line x1="893.2" y1="213.62" x2="899.4" y2="207.191" stroke="#a8501c" stroke-width="2"/>
+<line x1="899.4" y1="207.191" x2="911.8" y2="205.049" stroke="#a8501c" stroke-width="2"/>
+<line x1="911.8" y1="205.049" x2="885.45" y2="195.406" stroke="#a8501c" stroke-width="2"/>
+<circle cx="922.65" cy="166.477" r="4.28571" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<text x="608" y="245.12" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="14.88" font-weight="400">
+<tspan x="608" dy="0">One part preserved; another edited</tspan>
 </text>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>

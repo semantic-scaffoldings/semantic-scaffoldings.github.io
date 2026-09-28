@@ -13,29 +13,26 @@
 <tspan x="28" dy="25.6">another through shared representations, structured discussion,</tspan>
 <tspan x="28" dy="25.6">role framing and control over what is disclosed.</tspan>
 </text>
-<circle cx="639" cy="128.12" r="10.5" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<line x1="639" y1="138.62" x2="639" y2="170.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="621.175" y1="153.62" x2="656.825" y2="153.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="639" y1="170.12" x2="625.05" y2="185.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="639" y1="170.12" x2="652.95" y2="185.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<circle cx="945.9" cy="128.12" r="10.5" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<line x1="945.9" y1="138.62" x2="945.9" y2="170.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="928.075" y1="153.62" x2="963.725" y2="153.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="945.9" y1="170.12" x2="931.95" y2="185.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="945.9" y1="170.12" x2="959.85" y2="185.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="667.675" y1="162.62" x2="721.925" y2="162.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="721.925" y1="162.62" x2="715.529" y2="166.855" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="721.925" y1="162.62" x2="715.529" y2="158.385" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="917.225" y1="162.62" x2="863.75" y2="162.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="863.75" y1="162.62" x2="870.146" y2="158.385" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="863.75" y1="162.62" x2="870.146" y2="166.855" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="734.325" y="114.62" width="117.025" height="92.25" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<rect x="743.625" y="125.87" width="44.95" height="46.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="752.925" y1="140.87" x2="779.275" y2="140.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="752.925" y1="151.37" x2="767.65" y2="151.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="795.55" y="149.87" width="44.175" height="46.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="804.85" y1="164.87" x2="830.425" y2="164.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="804.85" y1="175.37" x2="818.8" y2="175.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="697.9" y="112.906" width="198.4" height="118.929" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="713.4" y1="131.12" x2="880.8" y2="131.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="713.4" y1="141.834" x2="856" y2="141.834" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="718.05" y="170.763" width="156.55" height="26.7857" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="620.4" y="126.834" width="60.45" height="41.7857" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="680.85" y1="147.191" x2="697.9" y2="147.191" stroke="#a8501c" stroke-width="2"/>
+<rect x="913.35" y="179.334" width="54.25" height="41.7857" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="896.3" y1="199.691" x2="913.35" y2="199.691" stroke="#a8501c" stroke-width="2"/>
+<line x1="763" y1="184.691" x2="770.75" y2="202.906" stroke="#a8501c" stroke-width="2"/>
+<line x1="770.75" y1="202.906" x2="776.95" y2="196.477" stroke="#a8501c" stroke-width="2"/>
+<line x1="776.95" y1="196.477" x2="789.35" y2="194.334" stroke="#a8501c" stroke-width="2"/>
+<line x1="789.35" y1="194.334" x2="763" y2="184.691" stroke="#a8501c" stroke-width="2"/>
+<line x1="854.45" y1="147.191" x2="862.2" y2="165.406" stroke="#a8501c" stroke-width="2"/>
+<line x1="862.2" y1="165.406" x2="868.4" y2="158.977" stroke="#a8501c" stroke-width="2"/>
+<line x1="868.4" y1="158.977" x2="880.8" y2="156.834" stroke="#a8501c" stroke-width="2"/>
+<line x1="880.8" y1="156.834" x2="854.45" y2="147.191" stroke="#a8501c" stroke-width="2"/>
+<line x1="635.9" y1="138.62" x2="665.35" y2="138.62" stroke="#a8501c" stroke-width="2"/>
+<line x1="635.9" y1="149.334" x2="656.05" y2="149.334" stroke="#a8501c" stroke-width="2"/>
+<line x1="930.4" y1="192.191" x2="959.85" y2="192.191" stroke="#a8501c" stroke-width="2"/>
+<line x1="930.4" y1="202.906" x2="950.55" y2="202.906" stroke="#a8501c" stroke-width="2"/>
 <text x="28" y="285.24" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>
 </text>

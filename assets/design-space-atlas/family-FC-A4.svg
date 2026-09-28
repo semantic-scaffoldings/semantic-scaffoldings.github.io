@@ -2,29 +2,20 @@
 <text x="28" y="34" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">
 <tspan x="28" dy="0">FC-A4 / DESIGN FAMILY</tspan>
 </text>
-<rect x="115.167" y="90.25" width="146.25" height="124.7" rx="5.41667" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="128.167" y1="111.75" x2="248.417" y2="111.75" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="128.167" y1="126.8" x2="232.167" y2="126.8" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="128.167" y1="141.85" x2="248.417" y2="141.85" stroke="#c8d1d9" stroke-width="2.16667"/>
-<circle cx="222.417" cy="135.4" r="25.8" fill="#faefe5" stroke="#a8501c" stroke-width="2.16667"/>
-<text x="217" y="142.925" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
-<tspan x="217" dy="0">!</tspan>
-</text>
-<line x1="280.917" y1="149.375" x2="345.917" y2="149.375" stroke="#a8501c" stroke-width="2.16667"/>
-<line x1="345.917" y1="149.375" x2="336.976" y2="155.445" stroke="#a8501c" stroke-width="2.16667"/>
-<line x1="345.917" y1="149.375" x2="336.976" y2="143.305" stroke="#a8501c" stroke-width="2.16667"/>
-<rect x="367.583" y="98.85" width="227.5" height="105.35" rx="5.41667" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="380.583" y1="120.35" x2="582.083" y2="120.35" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="380.583" y1="135.4" x2="565.833" y2="135.4" stroke="#a8501c" stroke-width="2.16667"/>
-<line x1="380.583" y1="150.45" x2="582.083" y2="150.45" stroke="#c8d1d9" stroke-width="2.16667"/>
-<text x="381.667" y="187" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
-<tspan x="381.667" dy="0">suggested action</tspan>
-</text>
-<text x="126" y="259.025" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
-<tspan x="126" dy="0">notice</tspan>
-</text>
-<text x="402.25" y="259.025" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
-<tspan x="402.25" dy="0">consider next step</tspan>
+<rect x="119.5" y="76.4286" width="290.333" height="167.393" rx="8.66667" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="141.167" y1="102.536" x2="388.167" y2="102.536" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="141.167" y1="117.893" x2="353.5" y2="117.893" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="143.333" y="153.214" width="188.5" height="27.6429" rx="8.66667" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<circle cx="381.667" cy="167.036" r="10.75" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="444.5" y="125.571" width="156" height="96.75" rx="8.66667" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="396.833" y1="167.036" x2="442.333" y2="167.036" stroke="#a8501c" stroke-width="2"/>
+<line x1="464" y1="148.607" x2="572.333" y2="148.607" stroke="#a8501c" stroke-width="2"/>
+<line x1="464" y1="163.964" x2="557.167" y2="163.964" stroke="#a8501c" stroke-width="2"/>
+<line x1="481.333" y1="191.607" x2="565.833" y2="191.607" stroke="#a8501c" stroke-width="2"/>
+<line x1="565.833" y1="191.607" x2="553.316" y2="197.677" stroke="#a8501c" stroke-width="2"/>
+<line x1="565.833" y1="191.607" x2="553.316" y2="185.537" stroke="#a8501c" stroke-width="2"/>
+<text x="100" y="267" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="100" dy="0">A next step attached to the work</tspan>
 </text>
 <text x="28" y="311" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">
 <tspan x="28" dy="0">Guidance and feedback</tspan>

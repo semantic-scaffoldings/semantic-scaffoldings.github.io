@@ -12,26 +12,22 @@
 <tspan x="28" dy="23.04">or how much help is available through staged disclosure, learning</tspan>
 <tspan x="28" dy="23.04">paths or changing support.</tspan>
 </text>
-<rect x="622.725" y="119.87" width="99.2" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="632.025" y1="134.87" x2="712.625" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="632.025" y1="145.37" x2="701" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="631.25" y="170.12" width="82.15" height="25.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<rect x="744.4" y="119.87" width="99.2" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="753.7" y1="134.87" x2="834.3" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="753.7" y1="145.37" x2="822.675" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="752.925" y="170.12" width="82.15" height="25.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<rect x="866.075" y="119.87" width="99.2" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="875.375" y1="134.87" x2="955.975" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="875.375" y1="145.37" x2="944.35" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="874.6" y="170.12" width="82.15" height="25.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
-<text x="627.375" y="235.37" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="627.375" dy="0">explain</tspan>
-</text>
-<text x="750.6" y="235.37" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="750.6" dy="0">reveal</tspan>
-</text>
-<text x="871.5" y="235.37" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="871.5" dy="0">withdraw</tspan>
+<rect x="623.5" y="111.834" width="341" height="120" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="639" y1="130.049" x2="949" y2="130.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="639" y1="140.763" x2="924.2" y2="140.763" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="642.1" y="152.549" width="302.25" height="30" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="659.15" y1="163.263" x2="911.8" y2="163.263" stroke="#a8501c" stroke-width="2"/>
+<line x1="659.15" y1="172.906" x2="866.85" y2="172.906" stroke="#a8501c" stroke-width="2"/>
+<rect x="642.1" y="194.334" width="144.15" height="24.6429" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="801.75" y="194.334" width="142.6" height="24.6429" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="662.25" y1="206.12" x2="733.55" y2="206.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="755.25" y1="201.834" x2="755.25" y2="211.477" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="747.5" y1="206.12" x2="763" y2="206.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="821.9" y1="206.12" x2="880.8" y2="206.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="914.9" y1="201.834" x2="914.9" y2="211.477" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="907.15" y1="206.12" x2="922.65" y2="206.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<text x="608" y="245.12" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="14.88" font-weight="400">
+<tspan x="608" dy="0">Help revealed when needed</tspan>
 </text>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>

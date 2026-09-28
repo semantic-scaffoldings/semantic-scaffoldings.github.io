@@ -11,22 +11,29 @@
 <tspan x="28" dy="0">Places alternatives, cases or states in a common frame so people</tspan>
 <tspan x="28" dy="23.04">can examine their similarities, differences and trade-offs.</tspan>
 </text>
-<rect x="633.575" y="120.62" width="124" height="93.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="642.875" y1="135.62" x2="748.275" y2="135.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="642.875" y1="146.12" x2="736.65" y2="146.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="642.875" y1="156.62" x2="748.275" y2="156.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="815.7" y="120.62" width="124" height="93.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="825" y1="135.62" x2="930.4" y2="135.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="825" y1="146.12" x2="918.775" y2="146.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="825" y1="156.62" x2="930.4" y2="156.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="642.875" y="163.37" width="104.625" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<rect x="825" y="163.37" width="104.625" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="757.575" y1="170.87" x2="815.7" y2="170.87" stroke="#a8501c" stroke-width="1.55"/>
-<text x="642.875" y="239.87" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="642.875" dy="0">candidate A</tspan>
+<rect x="625.05" y="113.977" width="336.35" height="118.929" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="730.45" y1="113.977" x2="730.45" y2="232.906" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="843.6" y1="113.977" x2="843.6" y2="232.906" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="625.05" y1="146.12" x2="961.4" y2="146.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="625.05" y1="175.049" x2="961.4" y2="175.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="625.05" y1="203.977" x2="961.4" y2="203.977" stroke="#9ba7ab" stroke-width="1.6"/>
+<text x="759.9" y="136.477" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="759.9" dy="0">A</tspan>
 </text>
-<text x="826.55" y="239.87" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="826.55" dy="0">candidate B</tspan>
+<text x="876.15" y="136.477" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="876.15" dy="0">B</tspan>
+</text>
+<line x1="642.1" y1="160.049" x2="707.2" y2="160.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="642.1" y1="188.977" x2="707.2" y2="188.977" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="642.1" y1="217.906" x2="707.2" y2="217.906" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="741.3" y="152.549" width="93" height="17.1429" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="863.75" y1="161.12" x2="938.15" y2="161.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="752.15" y1="188.977" x2="820.35" y2="188.977" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="854.45" y="180.406" width="96.1" height="17.1429" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="741.3" y="209.334" width="93" height="17.1429" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="863.75" y1="217.906" x2="938.15" y2="217.906" stroke="#9ba7ab" stroke-width="1.6"/>
+<text x="608" y="245.12" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="14.88" font-weight="400">
+<tspan x="608" dy="0">Alternatives aligned by criteria</tspan>
 </text>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>

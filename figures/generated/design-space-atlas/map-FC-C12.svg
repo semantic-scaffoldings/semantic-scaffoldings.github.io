@@ -12,15 +12,19 @@
 <tspan x="28" dy="25.6">behaviour or practise in a simulated setting and inspect what</tspan>
 <tspan x="28" dy="25.6">happens.</tspan>
 </text>
-<rect x="624.275" y="121.37" width="127.875" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<circle cx="650.625" cy="149.12" r="9" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<rect x="683.175" y="166.37" width="45.725" height="21" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="762.225" y1="165.62" x2="819.575" y2="165.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="819.575" y1="165.62" x2="813.179" y2="169.855" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="819.575" y1="165.62" x2="813.179" y2="161.385" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="835.075" y="114.62" width="134.075" height="101.25" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
-<circle cx="862.975" cy="181.37" r="9" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<rect x="896.3" y="134.12" width="48.05" height="21" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="620.4" y="110.763" width="342.55" height="124.286" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="656.05" y1="196.477" x2="656.05" y2="131.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="656.05" y1="196.477" x2="935.05" y2="196.477" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="656.05" y1="187.906" x2="725.8" y2="172.906" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="725.8" y1="172.906" x2="800.2" y2="178.263" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="800.2" y1="178.263" x2="869.95" y2="149.334" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="869.95" y1="149.334" x2="935.05" y2="138.62" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="656.05" y1="187.906" x2="725.8" y2="172.906" stroke="#a8501c" stroke-width="2"/>
+<line x1="725.8" y1="172.906" x2="800.2" y2="151.477" stroke="#a8501c" stroke-width="2"/>
+<line x1="800.2" y1="151.477" x2="869.95" y2="141.834" stroke="#a8501c" stroke-width="2"/>
+<line x1="869.95" y1="141.834" x2="935.05" y2="116.12" stroke="#a8501c" stroke-width="2"/>
+<line x1="663.8" y1="218.977" x2="919.55" y2="218.977" stroke="#9ba7ab" stroke-width="1.6"/>
+<circle cx="812.6" cy="218.977" r="6.42857" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>
 </text>

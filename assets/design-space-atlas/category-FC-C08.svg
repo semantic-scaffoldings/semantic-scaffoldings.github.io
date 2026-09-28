@@ -12,29 +12,23 @@
 <tspan x="28" dy="23.04">annotations, memory aids and replay, so people can revisit and</tspan>
 <tspan x="28" dy="23.04">continue their work.</tspan>
 </text>
-<rect x="625.05" y="115.37" width="196.075" height="97.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<rect x="636.675" y="128.87" width="70.525" height="54.75" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="645.975" y1="143.87" x2="697.9" y2="143.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="645.975" y1="154.37" x2="686.275" y2="154.37" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="645.975" y1="164.87" x2="697.9" y2="164.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="718.05" y="149.87" width="89.9" height="50.25" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="727.35" y1="164.87" x2="798.65" y2="164.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="727.35" y1="175.37" x2="787.025" y2="175.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="727.35" y1="185.87" x2="798.65" y2="185.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="831.975" y1="161.12" x2="875.375" y2="161.12" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="875.375" y1="161.12" x2="868.979" y2="165.355" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="875.375" y1="161.12" x2="868.979" y2="156.885" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="884.675" y="121.37" width="79.825" height="78.75" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="893.975" y1="136.37" x2="955.2" y2="136.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="893.975" y1="146.87" x2="943.575" y2="146.87" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="893.975" y1="157.37" x2="955.2" y2="157.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<circle cx="673.1" cy="230.87" r="5.25" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<line x1="679.3" y1="230.87" x2="766.875" y2="230.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<circle cx="773.075" cy="230.87" r="5.25" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<line x1="779.275" y1="230.87" x2="866.85" y2="230.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<circle cx="873.05" cy="230.87" r="5.25" fill="#faefe5" stroke="#a8501c" stroke-width="1.55"/>
-<text x="839.725" y="248.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400">
-<tspan x="839.725" dy="0">return to a record</tspan>
+<rect x="620.4" y="115.049" width="124" height="115.714" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="634.35" y="128.977" width="94.55" height="25.7143" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="634.35" y="166.477" width="94.55" height="25.7143" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<rect x="807.95" y="115.049" width="159.65" height="115.714" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="823.45" y1="133.263" x2="952.1" y2="133.263" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="823.45" y1="143.977" x2="927.3" y2="143.977" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="828.1" y="187.906" width="119.35" height="27.8571" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="728.9" y1="179.334" x2="773.85" y2="179.334" stroke="#a8501c" stroke-width="2"/>
+<line x1="773.85" y1="179.334" x2="773.85" y2="203.977" stroke="#a8501c" stroke-width="2"/>
+<line x1="773.85" y1="203.977" x2="825" y2="203.977" stroke="#a8501c" stroke-width="2"/>
+<line x1="825" y1="203.977" x2="816.045" y2="208.212" stroke="#a8501c" stroke-width="2"/>
+<line x1="825" y1="203.977" x2="816.045" y2="199.742" stroke="#a8501c" stroke-width="2"/>
+<circle cx="651.4" cy="202.906" r="2.14286" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<circle cx="651.4" cy="212.549" r="2.14286" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<circle cx="651.4" cy="222.191" r="2.14286" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<text x="608" y="245.12" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="14.88" font-weight="400">
+<tspan x="608" dy="0">A prior record brought back</tspan>
 </text>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>

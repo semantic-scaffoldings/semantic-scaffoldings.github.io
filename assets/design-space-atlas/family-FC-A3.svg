@@ -2,22 +2,21 @@
 <text x="28" y="34" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">
 <tspan x="28" dy="0">FC-A3 / DESIGN FAMILY</tspan>
 </text>
-<rect x="128.167" y="82.725" width="164.667" height="119.325" rx="5.41667" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="141.167" y1="104.225" x2="279.833" y2="104.225" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="141.167" y1="119.275" x2="263.583" y2="119.275" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="141.167" y1="134.325" x2="279.833" y2="134.325" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="306.917" y1="141.85" x2="378.417" y2="141.85" stroke="#a8501c" stroke-width="2.16667"/>
-<line x1="378.417" y1="141.85" x2="369.476" y2="147.92" stroke="#a8501c" stroke-width="2.16667"/>
-<line x1="378.417" y1="141.85" x2="369.476" y2="135.78" stroke="#a8501c" stroke-width="2.16667"/>
-<rect x="399" y="82.725" width="180.917" height="119.325" rx="5.41667" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="412" y1="104.225" x2="566.917" y2="104.225" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="412" y1="119.275" x2="550.667" y2="119.275" stroke="#a8501c" stroke-width="2.16667"/>
-<line x1="412" y1="134.325" x2="566.917" y2="134.325" stroke="#c8d1d9" stroke-width="2.16667"/>
-<line x1="414.167" y1="138.625" x2="566.917" y2="138.625" stroke="#a8501c" stroke-width="2.16667"/>
-<line x1="150.917" y1="238.6" x2="568" y2="238.6" stroke="#c8d1d9" stroke-width="2.16667"/>
-<circle cx="406.583" cy="238.6" r="10.75" fill="#faefe5" stroke="#a8501c" stroke-width="2.16667"/>
-<text x="153.083" y="266.55" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
-<tspan x="153.083" dy="0">edit / steer / adjust</tspan>
+<rect x="121.667" y="73.3571" width="474.5" height="170.464" rx="8.66667" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="143.333" y1="99.4643" x2="574.5" y2="99.4643" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="143.333" y1="114.821" x2="539.833" y2="114.821" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="147.667" y="134.786" width="420.333" height="33.7857" rx="8.66667" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="169.333" y1="151.679" x2="470.5" y2="151.679" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="147.667" y="185.464" width="420.333" height="35.3214" rx="8.66667" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="171.5" y1="203.893" x2="325.333" y2="203.893" stroke="#a8501c" stroke-width="2"/>
+<line x1="336.167" y1="193.143" x2="336.167" y2="213.107" stroke="#a8501c" stroke-width="2"/>
+<line x1="487.833" y1="193.143" x2="498.667" y2="219.25" stroke="#a8501c" stroke-width="2"/>
+<line x1="498.667" y1="219.25" x2="507.333" y2="210.036" stroke="#a8501c" stroke-width="2"/>
+<line x1="507.333" y1="210.036" x2="524.667" y2="206.964" stroke="#a8501c" stroke-width="2"/>
+<line x1="524.667" y1="206.964" x2="487.833" y2="193.143" stroke="#a8501c" stroke-width="2"/>
+<circle cx="539.833" cy="151.679" r="6.14286" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<text x="100" y="267" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="100" dy="0">One part preserved; another edited</tspan>
 </text>
 <text x="28" y="311" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">
 <tspan x="28" dy="0">User control and expression</tspan>

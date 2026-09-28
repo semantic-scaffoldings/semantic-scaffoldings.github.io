@@ -12,22 +12,20 @@
 <tspan x="28" dy="25.6">underlying cases, so people can trace where it came from and</tspan>
 <tspan x="28" dy="25.6">check its basis.</tspan>
 </text>
-<rect x="618.85" y="139.37" width="103.85" height="69" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="628.15" y1="154.37" x2="713.4" y2="154.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="628.15" y1="164.87" x2="701.775" y2="164.87" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="628.15" y1="175.37" x2="713.4" y2="175.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="728.9" y1="171.62" x2="786.25" y2="171.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="786.25" y1="171.62" x2="779.854" y2="175.855" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="786.25" y1="171.62" x2="779.854" y2="167.385" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="827.325" y="116.12" width="117.025" height="84.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="836.625" y1="131.12" x2="935.05" y2="131.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="836.625" y1="141.62" x2="923.425" y2="141.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="836.625" y1="152.12" x2="935.05" y2="152.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="806.4" y="130.37" width="117.025" height="84.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
-<line x1="815.7" y1="145.37" x2="914.125" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="815.7" y1="155.87" x2="902.5" y2="155.87" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="815.7" y1="166.37" x2="914.125" y2="166.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<rect x="815.7" y="157.37" width="95.325" height="13.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="620.4" y="130.049" width="148.8" height="82.5" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="635.9" y1="148.263" x2="753.7" y2="148.263" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="635.9" y1="158.977" x2="728.9" y2="158.977" stroke="#9ba7ab" stroke-width="1.6"/>
+<circle cx="732" cy="184.691" r="8.57143" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="744.4" y1="184.691" x2="797.1" y2="184.691" stroke="#a8501c" stroke-width="2"/>
+<line x1="797.1" y1="184.691" x2="797.1" y2="165.406" stroke="#a8501c" stroke-width="2"/>
+<line x1="797.1" y1="165.406" x2="823.45" y2="165.406" stroke="#a8501c" stroke-width="2"/>
+<rect x="826.55" y="110.763" width="137.95" height="121.071" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="842.05" y1="128.977" x2="949" y2="128.977" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="842.05" y1="139.691" x2="924.2" y2="139.691" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="840.5" y="155.763" width="106.95" height="21.4286" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="840.5" y1="194.334" x2="942.8" y2="194.334" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="840.5" y1="205.049" x2="918" y2="205.049" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="840.5" y1="215.763" x2="942.8" y2="215.763" stroke="#9ba7ab" stroke-width="1.6"/>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>
 </text>

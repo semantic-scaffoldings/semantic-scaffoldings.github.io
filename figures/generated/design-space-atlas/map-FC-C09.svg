@@ -12,22 +12,22 @@
 <tspan x="28" dy="0">Lets people state what they want through goals, rules, criteria,</tspan>
 <tspan x="28" dy="25.6">examples or structured inputs that the system can act on.</tspan>
 </text>
-<circle cx="640.55" cy="138.62" r="10.5" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
-<line x1="640.55" y1="149.12" x2="640.55" y2="180.62" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="622.725" y1="164.12" x2="658.375" y2="164.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="640.55" y1="180.62" x2="626.6" y2="196.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="640.55" y1="180.62" x2="654.5" y2="196.37" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="668.45" y1="169.37" x2="719.6" y2="169.37" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="719.6" y1="169.37" x2="713.204" y2="173.605" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="719.6" y1="169.37" x2="713.204" y2="165.135" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="732.775" y="116.12" width="113.925" height="87" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
-<line x1="742.075" y1="131.12" x2="837.4" y2="131.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="742.075" y1="141.62" x2="825.775" y2="141.62" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="742.075" y1="152.12" x2="837.4" y2="152.12" stroke="#c8d1d9" stroke-width="1.55"/>
-<line x1="855.225" y1="161.87" x2="890.875" y2="161.87" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="890.875" y1="161.87" x2="884.479" y2="166.105" stroke="#a8501c" stroke-width="1.55"/>
-<line x1="890.875" y1="161.87" x2="884.479" y2="157.635" stroke="#a8501c" stroke-width="1.55"/>
-<rect x="898.625" y="135.62" width="70.525" height="65.25" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<rect x="621.95" y="110.763" width="344.1" height="123.214" rx="6.2" fill="#ffffff" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="639" y="123.62" width="308.45" height="30" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="902.5" y1="131.12" x2="910.25" y2="149.334" stroke="#a8501c" stroke-width="2"/>
+<line x1="910.25" y1="149.334" x2="916.45" y2="142.906" stroke="#a8501c" stroke-width="2"/>
+<line x1="916.45" y1="142.906" x2="928.85" y2="140.763" stroke="#a8501c" stroke-width="2"/>
+<line x1="928.85" y1="140.763" x2="902.5" y2="131.12" stroke="#a8501c" stroke-width="2"/>
+<rect x="642.1" y="170.763" width="17.05" height="11.7857" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="676.2" y1="176.12" x2="800.2" y2="176.12" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="642.1" y="188.977" width="17.05" height="11.7857" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="676.2" y1="194.334" x2="835.85" y2="194.334" stroke="#9ba7ab" stroke-width="1.6"/>
+<rect x="642.1" y="207.191" width="17.05" height="11.7857" rx="6.2" fill="#faefe5" stroke="#a8501c" stroke-width="2"/>
+<line x1="676.2" y1="212.549" x2="871.5" y2="212.549" stroke="#9ba7ab" stroke-width="1.6"/>
+<line x1="643.65" y1="175.049" x2="649.85" y2="179.334" stroke="#a8501c" stroke-width="2"/>
+<line x1="649.85" y1="179.334" x2="662.25" y2="167.549" stroke="#a8501c" stroke-width="2"/>
+<line x1="643.65" y1="193.263" x2="649.85" y2="197.549" stroke="#a8501c" stroke-width="2"/>
+<line x1="649.85" y1="197.549" x2="662.25" y2="185.763" stroke="#a8501c" stroke-width="2"/>
 <text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
 <tspan x="28" dy="0">DESIGN CHOICES</tspan>
 </text>
