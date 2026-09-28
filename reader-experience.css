@@ -232,6 +232,19 @@ body[data-paper-navigation] .paper-route-map [role=tabpanel] h2{font-size:23px!i
 @media(max-width:600px){.shelf-stage{height:185px!important}.reader-citation-toolbar{padding:8px 10px}.reader-citation textarea{font-size:11px!important;min-height:185px}.discovery-library>.shelf-footer-guide{padding-top:16px;margin-bottom:10px}.shelf-preview{padding:16px 18px}.shelf-preview h3{font-size:16px!important}.shelf-preview .reader-kicker{font-size:10px!important}.reader-citation-intro>h2{font-size:20px!important}}
 
 .support-trajectory-figure{max-width:960px;margin:2rem auto;background:#fff}.support-trajectory-figure>img{display:block;width:100%;height:auto}.support-trajectory-figure>figcaption{font-size:1rem;line-height:1.55;color:var(--muted,#636d67);padding:12px 0}.support-trajectory-figure>figcaption a{white-space:normal}
+.reader-support-mobile{display:none}
+@media screen and (max-width:640px){
+ .support-trajectory-figure:has(.reader-support-mobile)>img{display:none}
+ .reader-support-mobile{display:block}
+ .reader-support-mobile h3{font-size:21px!important;line-height:1.3!important;margin:0 0 10px!important}
+ .reader-support-mobile p{font-size:14px!important;line-height:1.5;margin:0 0 22px!important;color:#636d67}
+ .reader-support-mobile ul{list-style:none;padding:0!important;margin:0!important;display:grid;gap:20px}
+ .reader-support-mobile li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px 12px;font-size:16px;line-height:1.4}
+ .reader-support-mobile strong{font-variant-numeric:tabular-nums}
+ .reader-support-track{grid-column:1/-1;height:14px;background:#f1eee9}
+ .reader-support-track i{display:block;height:100%;background:#a54c29}
+ .reader-support-track .support-unclear{background:repeating-linear-gradient(135deg,#a9aaa4 0 2px,#eeeee9 2px 6px)}
+}
 
 /* Current reader surfaces share white paper, including retained components.
    Keep semantic fills, selected states and the shelf materials in their owners. */
@@ -275,12 +288,17 @@ body[data-publication-route=tldr] [data-tldr-root]{
 body[data-publication-route=tldr] .publication-nav{max-width:94rem!important;font-size:1rem!important}
 body[data-publication-route=tldr] .t-story-shell{max-width:94rem!important;column-gap:2.5rem!important}
 body[data-publication-route=tldr] .t-story-main{min-width:0;max-width:78rem}
+/* A bare grid track keeps a figure's intrinsic width, even when the page
+   itself fits the phone. Let the finding's text, charts and maps shrink. */
+body[data-publication-route=tldr] .t-finding-body{grid-template-columns:minmax(0,1fr)}
+body[data-publication-route=tldr] .t-finding-body>*{min-width:0;max-width:100%}
+body[data-publication-route=tldr] .t-finding-body img{max-width:100%;height:auto}
 body[data-publication-route=tldr] .t-story-main>.t-story-act>.t-wrap{padding-inline:0!important}
 body[data-publication-route=tldr] .t-story-act{padding-block:56px!important;min-height:0!important}
 body[data-publication-route=tldr] .t-act-threshold{margin-bottom:28px!important;padding-block:0!important}
 body[data-publication-route=tldr] .t-act-threshold h2{max-width:30ch!important}
 body[data-publication-route=tldr] .t-finding-intro{max-width:68ch;margin-bottom:28px!important}
-body[data-publication-route=tldr] :is(.quant-figure,.trend-chart,.finding-focus,.reader-finding-example,.rm-support,.reader-analysis-method){max-width:68rem;margin-inline:auto}
+body[data-publication-route=tldr] :is(.quant-figure,.trend-chart,.finding-focus,.reader-finding-example,.rm-support,.reader-analysis-method){max-width:min(100%,68rem);margin-inline:auto}
 body[data-publication-route=tldr] :is(.finding-focus,.reader-finding-example){margin-block:28px!important}
 body[data-publication-route=tldr] .reader-finding-example{font-size:17px!important;line-height:1.7!important;max-width:68ch}
 body[data-publication-route=tldr] .rm-heading{padding-bottom:26px;max-width:68ch}
@@ -316,10 +334,14 @@ body[data-publication-route=tldr] .reader-analysis-rows h3{font-size:22px!import
  body[data-publication-route=tldr] .t-story-act{padding-block:38px!important}
 }
 @media(max-width:640px){
+ /* Header and in-section reading links remain available without covering a
+    chart's values with the desktop's floating side switch. */
+ body[data-publication-route] .publication-depth-nav{display:none}
  body[data-publication-route=tldr] .rm-detail-mobile dd{font-size:14px;line-height:1.35;overflow-wrap:anywhere}
  body[data-publication-route=tldr] .rm-detail-mobile dl{gap:12px}
  .reader-analysis-rows dl{grid-template-columns:1fr;gap:16px}
  .reader-analysis-rows article>header{gap:12px}
  body[data-publication-route=tldr] .reader-analysis-rows h3{font-size:20px!important}
- body[data-publication-route=tldr] .t-story-main>.t-story-act>.t-wrap{padding-inline:20px!important}
+ /* The story shell already supplies the phone's 20px page gutter. */
+ body[data-publication-route=tldr] .t-story-main>.t-story-act>.t-wrap{padding-inline:0!important}
 }

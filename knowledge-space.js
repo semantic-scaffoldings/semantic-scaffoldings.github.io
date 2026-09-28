@@ -44,11 +44,23 @@
         for(const n of nodes)if(isMain(n))dot(n,'rgba(141,123,106,.29)',1.05);
       }
       ctx.font='10px system-ui,sans-serif';ctx.textAlign='center';
+      const labelBoxes=[];
       for(const c of [...data.communities].sort((a,b)=>b.radius-a.radius).slice(0,5)) {
-        const [x,y]=point(c),label=c.label.length>31?c.label.slice(0,29)+'…':c.label;
-        const ly=Math.max(14,y-c.radius*s+13),width=ctx.measureText(label).width;
-        ctx.fillStyle='rgba(251,248,241,.9)';ctx.fillRect(x-width/2-4,ly-10,width+8,14);
-        ctx.fillStyle='#766953';ctx.fillText(label,x,ly);
+        const [x,y]=point(c),maxWidth=Math.min(170,w-24);
+        let label=c.label;
+        while(label.length>1&&ctx.measureText(label).width>maxWidth)label=label.slice(0,-2)+'…';
+        const width=ctx.measureText(label).width,lx=Math.max(width/2+8,Math.min(w-width/2-8,x));
+        const desired=Math.max(14,Math.min(h-8,y-c.radius*s+13));
+        let ly=desired;
+        // Retain fixed node positions; move only overlapping labels on narrow
+        // canvases so no title is clipped at the edge or printed over another.
+        for(const offset of [0,16,-16,32,-32,48,-48]) {
+          const candidate=Math.max(14,Math.min(h-8,desired+offset));
+          if(!labelBoxes.some(b=>Math.abs(candidate-b.y)<15&&Math.abs(lx-b.x)<(width+b.width)/2+8)){ly=candidate;break;}
+        }
+        labelBoxes.push({x:lx,y:ly,width});
+        ctx.fillStyle='rgba(251,248,241,.94)';ctx.fillRect(lx-width/2-4,ly-10,width+8,14);
+        ctx.fillStyle='#766953';ctx.fillText(label,lx,ly);
       }
       for(const n of sources) {const a=atlasById.get(n.atlas_id);if(isMain(a))dot(a,selected?'rgba(94,121,115,.18)':'rgba(67,110,111,.55)',1.7);}
       const pairs=selectedPairs();

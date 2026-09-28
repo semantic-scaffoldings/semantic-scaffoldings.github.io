@@ -5,3 +5,25 @@
 @media(max-width:760px){.ks{padding:.8rem}.ks-layout{grid-template-columns:1fr}.ks canvas{height:340px}.ks-dock{border-left:0;border-top:1px solid var(--ks-line);max-height:440px}.ks-controls>button{font-size:.8rem}.ks-controls{align-items:stretch}}
 @media print{.ks-controls,.ks-layers,.ks-dock,.ks canvas{display:none}.ks-layout{display:block;border:0}.ks{break-inside:avoid}.ks-notes{display:block}}
 .ct.ct-knowledge-space>.ks{margin:0;border:0;padding:0;background:transparent}.ct .ks-deep-dive{margin-top:1rem;border-top:1px solid #ded6c9;padding-top:.8rem}.ct .ks-deep-dive>summary{cursor:pointer;font:600 15px/1.5 system-ui,sans-serif;color:#854023}.ct .ks-deep-dive[open]>.ct-heading{margin-top:1.2rem}.ct .ks-deep-dive>.ct-heading h3{font-size:22px}.ct .ks-deep-dive>.ct-heading p{font-size:15px}.ct .ks-controls button,.ct .ks-controls input,.ct .ks-controls select{font:14px/1.4 system-ui,sans-serif}.ct .ks-dock li button{min-height:0}.ct .ks-layers input{min-height:0}.ct .ks>header h3{font:600 27px/1.25 system-ui,sans-serif}
+/* Each map is also embedded in a narrow report column. Its controls must be
+   allowed to shrink independently of the page's grid and fieldset defaults. */
+.ks,.ks-controls,.ks-controls>label,.ks-layers,.ks-layout,.ks-dock{min-width:0;max-width:100%;box-sizing:border-box}
+.ks-controls input,.ks-controls select{width:100%;min-width:0;max-width:100%;box-sizing:border-box}
+.ks-dock :is(h4,p,a,button){overflow-wrap:anywhere}
+@media(max-width:700px){
+ .ks-controls{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:end}
+ .ks-controls label:first-child{grid-column:1/-1;min-width:0}
+ .ks .ks-controls :is(input,select,button){min-height:44px;font:16px/1.4 system-ui,sans-serif}
+ .ks .ks-controls>button{font-size:14px;padding-inline:10px}
+ .ks-layers{gap:0 12px}
+ .ks-layers label{display:flex;align-items:center;gap:5px;min-height:44px;white-space:normal}
+ .ks-layers input{flex:none;margin:0;width:18px;height:18px}
+ .ks canvas{height:auto;aspect-ratio:1/1;min-height:240px}
+ .ks-map-caption{font-size:13px;line-height:1.45}
+ .ks .ks-dock li button{min-height:44px;width:100%;font-size:14px;line-height:1.45}
+ .ks-dock{max-height:440px;padding:12px}
+}
+@media(max-width:380px){
+ .ks-controls{grid-template-columns:minmax(0,1fr)}
+ .ks-controls>button{justify-self:start}
+}
