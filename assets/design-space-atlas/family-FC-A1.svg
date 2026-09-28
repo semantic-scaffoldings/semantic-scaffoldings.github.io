@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="396" viewBox="0 0 720 396" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Explanation and visibility</title><desc id="atlas-description">What can a person inspect and understand?</desc><rect width="720" height="396" fill="white"/><rect x="0" y="0" width="720" height="390" rx="0" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+<text x="28" y="34" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">
+<tspan x="28" dy="0">FC-A1 / DESIGN FAMILY</tspan>
+</text>
+<rect x="115.167" y="98.85" width="113.75" height="92.45" rx="5.41667" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="128.167" y1="120.35" x2="215.917" y2="120.35" stroke="#c8d1d9" stroke-width="2.16667"/>
+<line x1="128.167" y1="135.4" x2="199.667" y2="135.4" stroke="#c8d1d9" stroke-width="2.16667"/>
+<line x1="128.167" y1="150.45" x2="215.917" y2="150.45" stroke="#c8d1d9" stroke-width="2.16667"/>
+<line x1="234.333" y1="145.075" x2="299.333" y2="145.075" stroke="#a8501c" stroke-width="2.16667"/>
+<line x1="299.333" y1="145.075" x2="290.392" y2="151.145" stroke="#a8501c" stroke-width="2.16667"/>
+<line x1="299.333" y1="145.075" x2="290.392" y2="139.005" stroke="#a8501c" stroke-width="2.16667"/>
+<rect x="305.833" y="81.65" width="135.417" height="110.725" rx="5.41667" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="318.833" y1="103.15" x2="428.25" y2="103.15" stroke="#c8d1d9" stroke-width="2.16667"/>
+<line x1="318.833" y1="118.2" x2="412" y2="118.2" stroke="#a8501c" stroke-width="2.16667"/>
+<line x1="318.833" y1="133.25" x2="428.25" y2="133.25" stroke="#c8d1d9" stroke-width="2.16667"/>
+<rect x="470.5" y="103.15" width="130" height="21.5" rx="5.41667" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="470.5" y="136.475" width="88.8333" height="21.5" rx="5.41667" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="470.5" y="169.8" width="48.75" height="21.5" rx="5.41667" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="441.25" y1="141.85" x2="466.167" y2="141.85" stroke="#a8501c" stroke-width="2.16667"/>
+<text x="118.417" y="230" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
+<tspan x="118.417" dy="0">inputs</tspan>
+</text>
+<text x="313.417" y="230" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
+<tspan x="313.417" dy="0">result</tspan>
+</text>
+<text x="470.5" y="230" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400">
+<tspan x="470.5" dy="0">reasons</tspan>
+</text>
+<text x="28" y="311" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">
+<tspan x="28" dy="0">Explanation and visibility</tspan>
+</text>
+<text x="28" y="350" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">What can a person inspect and understand?</tspan>
+</text>
+<text x="28" y="380" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400">
+<tspan x="28" dy="0">Conceptual schematic</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-A1" target="_top" aria-label="Explanation and visibility"><rect x="0" y="0" width="720" height="390" fill="transparent" pointer-events="all"/></a></svg>

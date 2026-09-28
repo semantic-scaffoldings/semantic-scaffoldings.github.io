@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="870" height="1314" viewBox="0 0 870 1314">
+<title id="figure-title">Knowledge used in the theory-lineage cards</title>
+<desc id="figure-description">Partial classification of 2,058 papers: 6,264 of 51,815 source records classified (12.1%). Three knowledge types branch into concepts and methods, counting coded source uses rather than papers.</desc>
+<metadata>{&quot;figure_id&quot;:&quot;theory_lineage_tree&quot;,&quot;parity_spec_sha256&quot;:&quot;df0717696db1d0abcc20761a608956604c595acffab40b76d5f5cdc21d34e7c3&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
+<rect x="0" y="0" width="870" height="1314" fill="#ffffff"/>
+<text x="20" y="34" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="start">
+<tspan x="20" dy="0">Knowledge used in the theory-lineage cards</tspan>
+</text>
+<text x="20" y="72" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="20" dy="0">2,058 papers · 6,264 / 51,815 source records classified (12.1%)</tspan>
+</text>
+<text x="20" y="110" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="start">
+<tspan x="20" dy="0">Knowledge type / category</tspan>
+</text>
+<text x="760" y="110" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">Uses</tspan>
+</text>
+<text x="850" y="110" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">Share</tspan>
+</text>
+<line x1="20" y1="122" x2="859" y2="122" stroke="#d3ddd6" stroke-width="1"/>
+<text x="20" y="148" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="start">
+<tspan x="20" dy="0">Design knowledge</tspan>
+</text>
+<text x="760" y="148" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="end">
+<tspan x="760" dy="0">3,829</tspan>
+</text>
+<text x="850" y="148" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">61.1%</tspan>
+</text>
+<line x1="32" y1="160" x2="32" y2="380" stroke="#795584" stroke-width="1.5"/>
+<line x1="32" y1="176" x2="52" y2="176" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="184" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Visualization languages and tools</tspan>
+</text>
+<text x="760" y="184" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">802</tspan>
+</text>
+<text x="850" y="184" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">12.8%</tspan>
+</text>
+<line x1="32" y1="210" x2="52" y2="210" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="218" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Visualization research practice</tspan>
+</text>
+<text x="760" y="218" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">759</tspan>
+</text>
+<text x="850" y="218" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">12.1%</tspan>
+</text>
+<line x1="32" y1="244" x2="52" y2="244" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="252" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Visualization by data type</tspan>
+</text>
+<text x="760" y="252" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">759</tspan>
+</text>
+<text x="850" y="252" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">12.1%</tspan>
+</text>
+<line x1="32" y1="278" x2="52" y2="278" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="286" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Visual analytics of models</tspan>
+</text>
+<text x="760" y="286" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">734</tspan>
+</text>
+<text x="850" y="286" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">11.7%</tspan>
+</text>
+<line x1="32" y1="312" x2="52" y2="312" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="320" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Visualization applications and genres</tspan>
+</text>
+<text x="760" y="320" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">454</tspan>
+</text>
+<text x="850" y="320" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">7.2%</tspan>
+</text>
+<line x1="32" y1="346" x2="52" y2="346" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="354" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Methods and instruments</tspan>
+</text>
+<text x="760" y="354" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">234</tspan>
+</text>
+<text x="850" y="354" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">3.7%</tspan>
+</text>
+<line x1="32" y1="380" x2="52" y2="380" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="388" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Notations, media and programming</tspan>
+</text>
+<text x="760" y="388" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">87</tspan>
+</text>
+<text x="850" y="388" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">1.4%</tspan>
+</text>
+<text x="20" y="426" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="start">
+<tspan x="20" dy="0">Computational methods</tspan>
+</text>
+<text x="760" y="426" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="end">
+<tspan x="760" dy="0">1,240</tspan>
+</text>
+<text x="850" y="426" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">19.8%</tspan>
+</text>
+<line x1="32" y1="438" x2="32" y2="692" stroke="#795584" stroke-width="1.5"/>
+<line x1="32" y1="454" x2="52" y2="454" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="462" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Neural architectures and pretrained models</tspan>
+</text>
+<text x="760" y="462" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">507</tspan>
+</text>
+<text x="850" y="462" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">8.1%</tspan>
+</text>
+<line x1="32" y1="488" x2="52" y2="488" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="496" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Clustering, mining and statistical learning methods</tspan>
+</text>
+<text x="760" y="496" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">249</tspan>
+</text>
+<text x="850" y="496" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">4.0%</tspan>
+</text>
+<line x1="32" y1="522" x2="52" y2="522" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="530" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Dimensionality reduction and projection</tspan>
+</text>
+<text x="760" y="530" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">228</tspan>
+</text>
+<text x="850" y="530" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">3.6%</tspan>
+</text>
+<line x1="32" y1="556" x2="52" y2="556" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="564" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Prompt engineering and language-model tooling</tspan>
+</text>
+<text x="760" y="564" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">171</tspan>
+</text>
+<text x="850" y="564" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">2.7%</tspan>
+</text>
+<line x1="32" y1="590" x2="52" y2="590" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="598" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Affective computing: automatic recognition of emotion</tspan>
+</text>
+<text x="760" y="598" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">43</tspan>
+</text>
+<text x="850" y="598" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.7%</tspan>
+</text>
+<line x1="32" y1="624" x2="52" y2="624" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="632" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Differential privacy and privacy-preserving data release</tspan>
+</text>
+<text x="760" y="632" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">20</tspan>
+</text>
+<text x="850" y="632" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.3%</tspan>
+</text>
+<line x1="32" y1="658" x2="52" y2="658" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="666" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Computer graphics and physical simulation techniques</tspan>
+</text>
+<text x="760" y="666" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">16</tspan>
+</text>
+<text x="850" y="666" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.3%</tspan>
+</text>
+<line x1="32" y1="692" x2="52" y2="692" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="700" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Symmetry, orbifolds and low-dimensional topology</tspan>
+</text>
+<text x="760" y="700" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">6</tspan>
+</text>
+<text x="850" y="700" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.1%</tspan>
+</text>
+<text x="20" y="738" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="start">
+<tspan x="20" dy="0">Cognition and human activity</tspan>
+</text>
+<text x="760" y="738" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="end">
+<tspan x="760" dy="0">1,195</tspan>
+</text>
+<text x="850" y="738" fill="#795584" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">19.1%</tspan>
+</text>
+<line x1="32" y1="750" x2="32" y2="1242" stroke="#795584" stroke-width="1.5"/>
+<line x1="32" y1="766" x2="52" y2="766" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="774" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Visualization perception and encoding</tspan>
+</text>
+<text x="760" y="774" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">259</tspan>
+</text>
+<text x="850" y="774" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">4.1%</tspan>
+</text>
+<line x1="32" y1="800" x2="52" y2="800" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="808" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Explanation and transparency</tspan>
+</text>
+<text x="760" y="808" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">229</tspan>
+</text>
+<text x="850" y="808" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">3.7%</tspan>
+</text>
+<line x1="32" y1="834" x2="52" y2="834" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="842" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Learning and instruction</tspan>
+</text>
+<text x="760" y="842" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">146</tspan>
+</text>
+<text x="850" y="842" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">2.3%</tspan>
+</text>
+<line x1="32" y1="868" x2="52" y2="868" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="876" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Creativity and design</tspan>
+</text>
+<text x="760" y="876" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">129</tspan>
+</text>
+<text x="850" y="876" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">2.1%</tspan>
+</text>
+<line x1="32" y1="902" x2="52" y2="902" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="910" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Fairness, policy and participation</tspan>
+</text>
+<text x="760" y="910" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">106</tspan>
+</text>
+<text x="850" y="910" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">1.7%</tspan>
+</text>
+<line x1="32" y1="936" x2="52" y2="936" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="944" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Cognition, memory and attention</tspan>
+</text>
+<text x="760" y="944" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">78</tspan>
+</text>
+<text x="850" y="944" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">1.2%</tspan>
+</text>
+<line x1="32" y1="970" x2="52" y2="970" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="978" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Sensemaking and information work</tspan>
+</text>
+<text x="760" y="978" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">74</tspan>
+</text>
+<text x="850" y="978" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">1.2%</tspan>
+</text>
+<line x1="32" y1="1004" x2="52" y2="1004" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1012" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Human-machine arrangement</tspan>
+</text>
+<text x="760" y="1012" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">46</tspan>
+</text>
+<text x="850" y="1012" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.7%</tspan>
+</text>
+<line x1="32" y1="1038" x2="52" y2="1038" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1046" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Groups, crowds and social agents</tspan>
+</text>
+<text x="760" y="1046" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">42</tspan>
+</text>
+<text x="850" y="1046" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.7%</tspan>
+</text>
+<line x1="32" y1="1072" x2="52" y2="1072" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1080" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Reasoning and bias</tspan>
+</text>
+<text x="760" y="1080" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">24</tspan>
+</text>
+<text x="850" y="1080" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.4%</tspan>
+</text>
+<line x1="32" y1="1106" x2="52" y2="1106" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1114" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Trust and reliance</tspan>
+</text>
+<text x="760" y="1114" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">22</tspan>
+</text>
+<text x="850" y="1114" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.4%</tspan>
+</text>
+<line x1="32" y1="1140" x2="52" y2="1140" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1148" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Professional practice</tspan>
+</text>
+<text x="760" y="1148" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">19</tspan>
+</text>
+<text x="850" y="1148" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.3%</tspan>
+</text>
+<line x1="32" y1="1174" x2="52" y2="1174" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1182" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Visualization and graph reading</tspan>
+</text>
+<text x="760" y="1182" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">15</tspan>
+</text>
+<text x="850" y="1182" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.2%</tspan>
+</text>
+<line x1="32" y1="1208" x2="52" y2="1208" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1216" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Embodiment and adaptation</tspan>
+</text>
+<text x="760" y="1216" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">4</tspan>
+</text>
+<text x="850" y="1216" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.1%</tspan>
+</text>
+<line x1="32" y1="1242" x2="52" y2="1242" stroke="#795584" stroke-width="1.5"/>
+<text x="64" y="1250" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="64" dy="0">Identity and narrative</tspan>
+</text>
+<text x="760" y="1250" fill="#26312d" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="760" dy="0">2</tspan>
+</text>
+<text x="850" y="1250" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="end">
+<tspan x="850" dy="0">0.0%</tspan>
+</text>
+<text x="20" y="1298" fill="#5d6963" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="start">
+<tspan x="20" dy="0">One source cited by two papers contributes two uses.</tspan>
+</text>
+</svg>

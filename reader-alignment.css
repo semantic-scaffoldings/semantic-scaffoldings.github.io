@@ -1,0 +1,21 @@
+/* Content alignment only. The retained presentation styles and motion stay intact. */
+:root{--publication-font:"Segoe UI",sans-serif;--t-ui:var(--publication-font)}
+body[data-reader-design],body[data-reader-design][data-reader-design] *{font-family:var(--publication-font)!important}
+.reader-project-context{padding:9px max(24px,calc((100% - 1380px)/2));font:12px/1.4 "Segoe UI",sans-serif;color:#6c625d;background:#fbf7f1}
+.reader-project-context a{color:inherit;text-decoration:none}
+.reader-project-context a:hover{color:#b4491a;text-decoration:underline}
+.reader-alignment-note{padding:.85rem 1rem;border-left:2px solid #bd693c;background:#faf4ec;color:#6c625d;font:400 .82rem/1.6 var(--publication-font,"Segoe UI",sans-serif);max-width:84ch;margin:1rem 0 1.5rem}
+.reader-alignment-note a{color:#a64818;text-underline-offset:3px}
+.reader-learning-comparisons,.reader-measurement{margin:2rem 0;padding-top:1.5rem;border-top:1px solid #ded6cb}
+.reader-learning-comparisons>h3,.reader-measurement>h3{font:600 1.4rem/1.3 var(--publication-font,"Segoe UI",sans-serif);margin:0 0 1.3rem}
+.reader-measurement .table-wrap{overflow-x:auto;max-width:100%;margin:1rem 0}
+.reader-measurement table{border-collapse:collapse;width:100%;min-width:32rem;font:400 .9rem/1.55 var(--publication-font,"Segoe UI",sans-serif)}
+.reader-measurement :is(th,td){text-align:left;vertical-align:top;padding:.85rem;border-bottom:1px solid #ded6cb}
+.reader-measurement th{font-weight:600;background:#f8f0e6}
+.reader-measurement caption{text-align:left;color:#6c625d;margin-bottom:.7rem;font-size:.8rem}
+.reader-measurement>p{font:400 .87rem/1.65 var(--publication-font,"Segoe UI",sans-serif);color:#6c625d;max-width:84ch}
+body[data-reader-design] #tldr-act-theoretical-foundations .cognition-pair{margin:1rem 0 2rem}
+body[data-reader-design] .lpr-plain-summary{max-width:78ch}
+@media(max-width:720px){body[data-reader-design] section.lpr-hero.paper-frame{width:calc(100% - 2.5rem)!important}}
+@media print{.reader-project-context{display:none}}
+body[data-reader-design] .aligned-findings .cognition-feature > header h4{font-family:var(--publication-font)!important}

@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="718" viewBox="0 0 1008 718" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Structuring the workflow</title><desc id="atlas-description">How are stages, responsibilities and continuity arranged? Separate progression through work, allocation of actions and authority, and continuity across interruptions or handoffs.</desc><rect width="1008" height="718" fill="white"/><text x="28" y="27" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">FC-C16 / Guidance and feedback</tspan>
+</text>
+<text x="28" y="65" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="28" dy="0">Structuring the workflow</tspan>
+</text>
+<text x="28" y="119.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="28" dy="0">How are stages, responsibilities and continuity</tspan>
+<tspan x="28" dy="28.16">arranged?</tspan>
+</text>
+<text x="28" y="188.44" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="28" dy="0">Organises work into stages, loops, roles and decision points,</tspan>
+<tspan x="28" dy="25.6">with ways to coordinate actions, hand work over, recover from</tspan>
+<tspan x="28" dy="25.6">problems and resume later.</tspan>
+</text>
+<rect x="621.175" y="139.37" width="81.375" height="52.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="705.65" y1="165.62" x2="748.275" y2="165.62" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="748.275" y1="165.62" x2="741.879" y2="169.855" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="748.275" y1="165.62" x2="741.879" y2="161.385" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="755.25" y="139.37" width="81.375" height="52.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="839.725" y1="165.62" x2="882.35" y2="165.62" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="882.35" y1="165.62" x2="875.954" y2="169.855" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="882.35" y1="165.62" x2="875.954" y2="161.385" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="889.325" y="139.37" width="81.375" height="52.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="928.85" y1="196.37" x2="928.85" y2="221.12" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="928.85" y1="221.12" x2="659.925" y2="221.12" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="659.925" y1="221.12" x2="659.925" y2="195.62" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="659.925" y1="195.62" x2="664.301" y2="201.81" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="659.925" y1="195.62" x2="655.549" y2="201.81" stroke="#a8501c" stroke-width="1.55"/>
+<text x="28" y="285.24" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">DESIGN CHOICES</tspan>
+</text>
+<text x="300" y="285.24" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="300" dy="0">RETAINED DISTINCTIONS</tspan>
+</text>
+<text x="28" y="337.24" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Sequence and</tspan>
+<tspan x="28" dy="25.6">recurrence</tspan>
+</text>
+<line x1="254" y1="347.04" x2="290" y2="347.04" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="305.24" width="334" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="329.24" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC069</tspan>
+</text>
+<text x="312" y="356.24" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">staged or phased workflow</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC069" target="_top" aria-label="FC069: staged or phased workflow"><rect x="300" y="305.24" width="334" height="83.6" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="305.24" width="334" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="329.24" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC070</tspan>
+</text>
+<text x="658" y="356.24" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">iterative revision loop</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC070" target="_top" aria-label="FC070: iterative revision loop"><rect x="646" y="305.24" width="334" height="83.6" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="432.84" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Responsibility and</tspan>
+<tspan x="28" dy="25.6">routing</tspan>
+</text>
+<line x1="254" y1="455.44" x2="290" y2="455.44" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="400.84" width="218.667" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="424.84" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC071</tspan>
+</text>
+<text x="312" y="451.84" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">human decision</tspan>
+<tspan x="312" dy="25.6">checkpoint or gate</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC071" target="_top" aria-label="FC071: human decision checkpoint or gate"><rect x="300" y="400.84" width="218.667" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="530.667" y="400.84" width="218.667" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="542.667" y="424.84" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="542.667" dy="0">FC072</tspan>
+</text>
+<text x="542.667" y="451.84" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="542.667" dy="0">division of labour</tspan>
+<tspan x="542.667" dy="25.6">across agents</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC072" target="_top" aria-label="FC072: division of labour across agents"><rect x="530.667" y="400.84" width="218.667" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="761.333" y="400.84" width="218.667" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="773.333" y="424.84" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="773.333" dy="0">FC074</tspan>
+</text>
+<text x="773.333" y="451.84" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="773.333" dy="0">orchestration and</tspan>
+<tspan x="773.333" dy="25.6">routing of actions</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC074" target="_top" aria-label="FC074: orchestration and routing of actions"><rect x="761.333" y="400.84" width="218.667" height="109.2" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="554.04" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Continuity and</tspan>
+<tspan x="28" dy="25.6">recovery</tspan>
+</text>
+<line x1="254" y1="576.64" x2="290" y2="576.64" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="522.04" width="218.667" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="546.04" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC073</tspan>
+</text>
+<text x="312" y="573.04" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">handoff of work state</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC073" target="_top" aria-label="FC073: handoff of work state"><rect x="300" y="522.04" width="218.667" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="530.667" y="522.04" width="218.667" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="542.667" y="546.04" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="542.667" dy="0">FC075</tspan>
+</text>
+<text x="542.667" y="573.04" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="542.667" dy="0">interaction repair and</tspan>
+<tspan x="542.667" dy="25.6">recovery</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC075" target="_top" aria-label="FC075: interaction repair and recovery"><rect x="530.667" y="522.04" width="218.667" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="761.333" y="522.04" width="218.667" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="773.333" y="546.04" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="773.333" dy="0">FC076</tspan>
+</text>
+<text x="773.333" y="573.04" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="773.333" dy="0">resumable and</tspan>
+<tspan x="773.333" dy="25.6">persistent work state</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC076" target="_top" aria-label="FC076: resumable and persistent work state"><rect x="761.333" y="522.04" width="218.667" height="109.2" fill="transparent" pointer-events="all"/></a>
+<line x1="28" y1="646.24" x2="980" y2="646.24" stroke="#c8d1d9" stroke-width="2"/>
+<text x="28" y="671.24" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC075: System move that clarifies, confirms or repairs (VA038).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-CHI-2025-e0e97de1fde8f39eadf1&amp;mechanism=M3&amp;unit=s1%3ARFMR-CHI-2025-e0e97de1fde8f39eadf1%3Asections.1.blocks.3%3A1&amp;code=s1%3Afacet%3AFC075%7Cs1%3Avalue%3AVA038&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Chatbots for Data Collection in Surveys: A Comparison of Four Theory-Based Interview Probes"><rect x="28" y="654.24" width="952" height="30.32" fill="transparent" pointer-events="all"/></a></svg>

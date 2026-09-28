@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="1200" height="480" viewBox="0 0 1200 480">
+<title id="figure-title">From task intent to action</title>
+<desc id="figure-description">The functions connect coded mechanisms to human activities. Arrows indicate possible dependencies; people can revisit activities as the task changes.</desc>
+<metadata>{&quot;figure_id&quot;:&quot;meaning_action_grammar&quot;,&quot;parity_spec_sha256&quot;:&quot;3e17ed04ccc58c2b3da80ac0d9849634bd603d12116884803e1612aab14e4032&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
+<rect x="0" y="0" width="1200" height="480" fill="#ffffff"/>
+<text x="30" y="35" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" text-anchor="start">
+<tspan x="30" dy="0">From task intent to action</tspan>
+</text>
+<circle cx="165" cy="201" r="133" fill="#e3eeee" stroke="none" stroke-width="0"/>
+<rect x="145" y="98" width="36" height="32" rx="3" fill="#ffffff" stroke="#a8501c" stroke-width="2"/>
+<line x1="152" y1="106" x2="173" y2="106" stroke="#a8501c" stroke-width="2"/>
+<line x1="152" y1="114" x2="166" y2="114" stroke="#a8501c" stroke-width="2"/>
+<line x1="152" y1="122" x2="170" y2="122" stroke="#a8501c" stroke-width="2"/>
+<text x="165" y="180" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle">
+<tspan x="165" dy="0">Specify intent</tspan>
+</text>
+<text x="165" y="231" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="middle">
+<tspan x="165" dy="0">What is the task?</tspan>
+</text>
+<text x="165" y="273" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="165" dy="0">Goals · criteria</tspan>
+</text>
+<text x="165" y="299" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="165" dy="0">constraints</tspan>
+</text>
+<line x1="303" y1="201" x2="308" y2="201" stroke="#a8501c" stroke-width="2"/>
+<polygon points="308,196 317,201 308,206" fill="#a8501c" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="455" cy="201" r="133" fill="#d5e6e1" stroke="none" stroke-width="0"/>
+<rect x="435" y="98" width="18" height="13" rx="2" fill="#ffffff" stroke="#a8501c" stroke-width="2"/>
+<rect x="461" y="98" width="18" height="13" rx="2" fill="#ffffff" stroke="#a8501c" stroke-width="2"/>
+<rect x="448" y="120" width="18" height="13" rx="2" fill="#ffffff" stroke="#a8501c" stroke-width="2"/>
+<line x1="444" y1="112" x2="457" y2="119" stroke="#a8501c" stroke-width="2"/>
+<line x1="470" y1="112" x2="457" y2="119" stroke="#a8501c" stroke-width="2"/>
+<text x="455" y="180" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle">
+<tspan x="455" dy="0">Represent possibilities</tspan>
+</text>
+<text x="455" y="231" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="middle">
+<tspan x="455" dy="0">What can be considered?</tspan>
+</text>
+<text x="455" y="273" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="455" dy="0">Relations · alternatives</tspan>
+</text>
+<text x="455" y="299" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="455" dy="0">evidence</tspan>
+</text>
+<line x1="593" y1="201" x2="598" y2="201" stroke="#a8501c" stroke-width="2"/>
+<polygon points="598,196 607,201 598,206" fill="#a8501c" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="745" cy="201" r="133" fill="#efe0cf" stroke="none" stroke-width="0"/>
+<rect x="725" y="98" width="19" height="33" rx="2" fill="#ffffff" stroke="#a8501c" stroke-width="2"/>
+<rect x="750" y="98" width="19" height="33" rx="2" fill="#ffffff" stroke="#a8501c" stroke-width="2"/>
+<path d="M 754.0 115.0 L 758.0 119.0 L 765.0 108.0" fill="none" stroke="#a8501c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="745" y="180" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle">
+<tspan x="745" dy="0">Evaluate alternatives</tspan>
+</text>
+<text x="745" y="231" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="middle">
+<tspan x="745" dy="0">What is worth pursuing?</tspan>
+</text>
+<text x="745" y="273" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="745" dy="0">Comparison · rationale</tspan>
+</text>
+<text x="745" y="299" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="745" dy="0">feedback</tspan>
+</text>
+<line x1="883" y1="201" x2="888" y2="201" stroke="#a8501c" stroke-width="2"/>
+<polygon points="888,196 897,201 888,206" fill="#a8501c" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="1035" cy="201" r="133" fill="#ecd0bf" stroke="none" stroke-width="0"/>
+<rect x="1015" y="98" width="36" height="33" rx="3" fill="#ffffff" stroke="#a8501c" stroke-width="2"/>
+<line x1="1022" y1="109" x2="1037" y2="109" stroke="#a8501c" stroke-width="2"/>
+<line x1="1022" y1="118" x2="1032" y2="118" stroke="#a8501c" stroke-width="2"/>
+<path d="M 1035.0 126.0 L 1053.0 108.0 L 1057.0 112.0 L 1039.0 130.0 L 1035.0 126.0" fill="#ffffff" stroke="#a8501c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1035" y="180" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle">
+<tspan x="1035" dy="0">Act and revise</tspan>
+</text>
+<text x="1035" y="231" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="middle">
+<tspan x="1035" dy="0">What can change?</tspan>
+</text>
+<text x="1035" y="273" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="1035" dy="0">Editing · guidance</tspan>
+</text>
+<text x="1035" y="299" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle">
+<tspan x="1035" dy="0">revision</tspan>
+</text>
+<path d="M 1035.0 346.0 C 1035.0 382.0 165.0 382.0 165.0 346.0" fill="none" stroke="#65867f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<polygon points="160,353 165,343 170,353" fill="#65867f" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="600" y="400" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" text-anchor="middle">
+<tspan x="600" dy="0">Activities recur as criteria, evidence and outputs change</tspan>
+</text>
+<line x1="30" y1="423" x2="1170" y2="423" stroke="#c8d1d9" stroke-width="2"/>
+<text x="30" y="455" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start">
+<tspan x="30" dy="0">Memory and coordination</tspan>
+</text>
+<text x="365" y="455" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="start">
+<tspan x="365" dy="0">Annotations, histories and shared representations connect activities.</tspan>
+</text>
+</svg>

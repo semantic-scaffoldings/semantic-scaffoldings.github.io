@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="650" viewBox="0 0 1008 650" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">What-if exploration and rehearsal</title><desc id="atlas-description">What can be tried before acting in the real setting? Separate learning how a system responds, constructing a hypothetical world, and rehearsing a person&#x27;s activity.</desc><rect width="1008" height="650" fill="white"/><text x="28" y="27" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">FC-C12 / User control and expression</tspan>
+</text>
+<text x="28" y="65" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="28" dy="0">What-if exploration and rehearsal</tspan>
+</text>
+<text x="28" y="119.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="28" dy="0">What can be tried before acting in the real setting?</tspan>
+</text>
+<text x="28" y="160.28" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="28" dy="0">Lets people try hypothetical changes, probe a system&#x27;s</tspan>
+<tspan x="28" dy="25.6">behaviour or practise in a simulated setting and inspect what</tspan>
+<tspan x="28" dy="25.6">happens.</tspan>
+</text>
+<rect x="624.275" y="121.37" width="127.875" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<circle cx="650.625" cy="149.12" r="9" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
+<rect x="683.175" y="166.37" width="45.725" height="21" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="762.225" y1="165.62" x2="819.575" y2="165.62" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="819.575" y1="165.62" x2="813.179" y2="169.855" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="819.575" y1="165.62" x2="813.179" y2="161.385" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="835.075" y="114.62" width="134.075" height="101.25" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<circle cx="862.975" cy="181.37" r="9" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
+<rect x="896.3" y="134.12" width="48.05" height="21" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">DESIGN CHOICES</tspan>
+</text>
+<text x="300" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="300" dy="0">RETAINED DISTINCTIONS</tspan>
+</text>
+<text x="28" y="320.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Probe the system</tspan>
+</text>
+<line x1="254" y1="329.92" x2="290" y2="329.92" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="288.12" width="680" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC098</tspan>
+</text>
+<text x="312" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">system-behaviour probing</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC098" target="_top" aria-label="FC098: system-behaviour probing"><rect x="300" y="288.12" width="680" height="83.6" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="415.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Construct a scenario</tspan>
+</text>
+<line x1="254" y1="425.52" x2="290" y2="425.52" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="383.72" width="680" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="407.72" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC097</tspan>
+</text>
+<text x="312" y="434.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">scenario construction and what-if exploration</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC097" target="_top" aria-label="FC097: scenario construction and what-if exploration"><rect x="300" y="383.72" width="680" height="83.6" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="511.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Rehearse an activity</tspan>
+</text>
+<line x1="254" y1="521.12" x2="290" y2="521.12" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="479.32" width="680" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="503.32" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC096</tspan>
+</text>
+<text x="312" y="530.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">simulated environment for rehearsal</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC096" target="_top" aria-label="FC096: simulated environment for rehearsal"><rect x="300" y="479.32" width="680" height="83.6" fill="transparent" pointer-events="all"/></a>
+<line x1="28" y1="577.92" x2="980" y2="577.92" stroke="#c8d1d9" stroke-width="2"/>
+<text x="28" y="602.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC096: Practice, rehearsal or simulation environment (VA058).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-CHI-2024-6ca31c7ae087482bbc5a&amp;mechanism=M6&amp;unit=s1%3ARFMR-CHI-2024-6ca31c7ae087482bbc5a%3Asections.1.blocks.6%3A1&amp;code=s1%3Afacet%3AFC096%7Cs1%3Avalue%3AVA058&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education"><rect x="28" y="585.92" width="952" height="30.32" fill="transparent" pointer-events="all"/></a></svg>

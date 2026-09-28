@@ -1,0 +1,21 @@
+{
+  "package": "pdfjs-dist",
+  "version": "5.6.205",
+  "license": "Apache-2.0",
+  "source": "https://github.com/mozilla/pdf.js/releases/tag/v5.6.205",
+  "purpose": "Local browser renderer for the two manuscript PDF editions. Matching core and worker only; no third-party network requests.",
+  "files": {
+    "pdf.min.mjs": {
+      "bytes": 430304,
+      "sha256": "2221020ea508479dcc1221f36f2731656339230097c69ba1f78802832c0ad685"
+    },
+    "pdf.worker.min.mjs": {
+      "bytes": 1244253,
+      "sha256": "51a2fd1ea47f1a9b0814e65e0c336c739c54957795ee774e8f93cb81e8028dd1"
+    },
+    "LICENSE": {
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    }
+  }
+}

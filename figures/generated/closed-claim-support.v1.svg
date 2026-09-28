@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="1008" height="384" viewBox="0 0 1008 384">
+<title id="figure-title">Claim support and developmental risk indicators</title>
+<desc id="figure-description">n=2,891 included cards in each panel.</desc>
+<metadata>{&quot;figure_id&quot;:&quot;closed_claim_support&quot;,&quot;parity_spec_sha256&quot;:&quot;844dac712d9f309f1dbc204fe35549c96ed2d14faeffac97504becf1386b20a4&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
+<rect x="0" y="0" width="1008" height="384" fill="#ffffff"/>
+<text x="0" y="24" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Claim support and developmental risk indicators</tspan>
+</text>
+<text x="0" y="46" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Each row is a mutually exclusive coding over the same 2,891 included cards.</tspan>
+</text>
+<text x="0" y="88" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Claim scope against coded</tspan>
+<tspan x="0" dy="16">evidence</tspan>
+</text>
+<rect x="248" y="74" width="399.847803528191" height="28" rx="0" fill="#3f6288" stroke="none" stroke-width="2"/>
+<text x="447.924" y="93.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="447.924" dy="0">52.6%</tspan>
+</text>
+<rect x="647.847803528191" y="74" width="360.152196471809" height="28" rx="0" fill="#d1dce8" stroke="none" stroke-width="2"/>
+<text x="827.924" y="93.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="827.924" dy="0">47.4%</tspan>
+</text>
+<rect x="248" y="74" width="760.0" height="28" rx="0" fill="none" stroke="#c8d1d9" stroke-width="1.5"/>
+<rect x="248" y="113" width="11" height="11" rx="2" fill="#3f6288" stroke="none" stroke-width="2"/>
+<text x="266" y="122" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="266" dy="0">Evidence supports claim 1,521 (52.6%)</tspan>
+</text>
+<rect x="534.06" y="113" width="11" height="11" rx="2" fill="#d1dce8" stroke="none" stroke-width="2"/>
+<text x="552.06" y="122" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="552.06" dy="0">Claim exceeds evidence 1,370 (47.4%)</tspan>
+</text>
+<text x="0" y="184" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Over-reliance or de-skilling</tspan>
+<tspan x="0" dy="16">risk</tspan>
+</text>
+<rect x="248" y="170" width="496.063645797302" height="28" rx="0" fill="#d1dce8" stroke="none" stroke-width="2"/>
+<text x="496.032" y="189.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="496.032" dy="0">65.3%</tspan>
+</text>
+<rect x="744.063645797302" y="170" width="215.82843306814252" height="28" rx="0" fill="#a6bbd2" stroke="none" stroke-width="2"/>
+<text x="851.978" y="189.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="851.978" dy="0">28.4%</tspan>
+</text>
+<rect x="959.8920788654445" y="170" width="44.69041854029748" height="28" rx="0" fill="#3f6288" stroke="none" stroke-width="2"/>
+<rect x="1004.5824974057421" y="170" width="3.4175025942579396" height="28" rx="0" fill="#8c9ba6" stroke="none" stroke-width="2"/>
+<rect x="248" y="170" width="760.0" height="28" rx="0" fill="none" stroke="#c8d1d9" stroke-width="1.5"/>
+<rect x="248" y="209" width="11" height="11" rx="2" fill="#d1dce8" stroke="none" stroke-width="2"/>
+<text x="266" y="218" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="266" dy="0">Not reported 1,887 (65.3%)</tspan>
+</text>
+<rect x="463.99" y="209" width="11" height="11" rx="2" fill="#a6bbd2" stroke="none" stroke-width="2"/>
+<text x="481.99" y="218" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="481.99" dy="0">Raised by authors 821 (28.4%)</tspan>
+</text>
+<rect x="699.09" y="209" width="11" height="11" rx="2" fill="#3f6288" stroke="none" stroke-width="2"/>
+<text x="717.09" y="218" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="717.09" dy="0">Measured by authors 170 (5.9%)</tspan>
+</text>
+<rect x="248" y="229" width="11" height="11" rx="2" fill="#8c9ba6" stroke="none" stroke-width="2"/>
+<text x="266" y="238" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="266" dy="0">Noted by reviewer 13 (0.4%)</tspan>
+</text>
+<text x="0" y="300" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Support decreases over time</tspan>
+</text>
+<rect x="248" y="286" width="727.6651677620201" height="28" rx="0" fill="#d1dce8" stroke="none" stroke-width="2"/>
+<text x="611.833" y="305.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="611.833" dy="0">95.7%</tspan>
+</text>
+<rect x="975.6651677620201" y="286" width="18.664821860947768" height="28" rx="0" fill="#3f6288" stroke="none" stroke-width="2"/>
+<rect x="994.3299896229679" y="286" width="13.6700103770321" height="28" rx="0" fill="#8c9ba6" stroke="none" stroke-width="2"/>
+<rect x="248" y="286" width="760.0" height="28" rx="0" fill="none" stroke="#c8d1d9" stroke-width="1.5"/>
+<rect x="248" y="325" width="11" height="11" rx="2" fill="#d1dce8" stroke="none" stroke-width="2"/>
+<text x="266" y="334" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="266" dy="0">No 2,768 (95.7%)</tspan>
+</text>
+<rect x="400.28999999999996" y="325" width="11" height="11" rx="2" fill="#3f6288" stroke="none" stroke-width="2"/>
+<text x="418.29" y="334" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="418.29" dy="0">Yes 71 (2.5%)</tspan>
+</text>
+<rect x="533.47" y="325" width="11" height="11" rx="2" fill="#8c9ba6" stroke="none" stroke-width="2"/>
+<text x="551.47" y="334" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="551.47" dy="0">Unclear 52 (1.8%)</tspan>
+</text>
+</svg>

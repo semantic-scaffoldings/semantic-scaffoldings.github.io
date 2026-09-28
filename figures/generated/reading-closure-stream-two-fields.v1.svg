@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="1008" height="859" viewBox="0 0 1008 859">
+<title id="figure-title">Stream 2: each coded field</title>
+<desc id="figure-description">One panel per recorded field. Shares use each series&#x27; own final size; streams are never pooled.</desc>
+<metadata>{&quot;figure_id&quot;:&quot;reading_closure_stream_two_fields&quot;,&quot;parity_spec_sha256&quot;:&quot;edf0fb69269ebc2d3c3da9e74af2b420765978fa98dd7d7a7edebece671ce966&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
+<rect x="0" y="0" width="1008" height="859" fill="#ffffff"/>
+<text x="0" y="29" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="start">
+<tspan x="0" dy="0">Stream 2: each coded field</tspan>
+</text>
+<text x="0" y="58" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Reading order on a log scale; each curve reaches 100% of its own recorded vocabulary.</tspan>
+</text>
+<text x="0" y="84" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Dotted: raw values. Dashed: canonical codes. Solid: categories. Thick: families, where present.</tspan>
+</text>
+<rect x="0.0" y="118" width="320.0" height="216" rx="6" fill="#ffffff" stroke="#e2e8ea" stroke-width="1"/>
+<text x="14.0" y="144" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start">
+<tspan x="14.0" dy="0">affected capability</tspan>
+</text>
+<line x1="42.0" y1="277" x2="304.0" y2="277" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="281" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">0</tspan>
+</text>
+<line x1="42.0" y1="223.0" x2="304.0" y2="223.0" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="227.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">50</tspan>
+</text>
+<line x1="42.0" y1="169" x2="304.0" y2="169" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="173" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">100%</tspan>
+</text>
+<text x="42.0" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="42.0" dy="0">10</tspan>
+</text>
+<text x="193.096" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="193.096" dy="0">100</tspan>
+</text>
+<text x="304.0" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="304.0" dy="0">542</tspan>
+</text>
+<path d="M 42.0 205.0 L 87.484 193.545 L 114.091 177.182 L 132.969 172.273 L 147.611 172.273 L 159.575 170.636 L 169.691 169.0 L 178.453 169.0 L 186.182 169.0 L 193.096 169.0 L 199.35 169.0 L 205.06 169.0 L 210.312 169.0 L 215.175 169.0 L 219.702 169.0 L 223.937 169.0 L 227.916 169.0 L 231.666 169.0 L 235.214 169.0 L 238.58 169.0 L 241.782 169.0 L 244.834 169.0 L 247.751 169.0 L 250.544 169.0 L 253.223 169.0 L 255.797 169.0 L 258.273 169.0 L 260.659 169.0 L 262.962 169.0 L 265.187 169.0 L 267.338 169.0 L 269.422 169.0 L 271.441 169.0 L 273.4 169.0 L 275.302 169.0 L 277.151 169.0 L 278.949 169.0 L 280.699 169.0 L 282.403 169.0 L 284.065 169.0 L 285.685 169.0 L 287.266 169.0 L 288.81 169.0 L 290.319 169.0 L 291.793 169.0 L 293.236 169.0 L 294.647 169.0 L 296.028 169.0 L 297.382 169.0 L 298.707 169.0 L 300.007 169.0 L 301.281 169.0 L 302.531 169.0 L 303.757 169.0 L 304.0 169.0" fill="none" stroke="#3f6288" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.0 4.0"/>
+<path d="M 42.0 169.0 L 87.484 169.0 L 114.091 169.0 L 132.969 169.0 L 147.611 169.0 L 159.575 169.0 L 169.691 169.0 L 178.453 169.0 L 186.182 169.0 L 193.096 169.0 L 199.35 169.0 L 205.06 169.0 L 210.312 169.0 L 215.175 169.0 L 219.702 169.0 L 223.937 169.0 L 227.916 169.0 L 231.666 169.0 L 235.214 169.0 L 238.58 169.0 L 241.782 169.0 L 244.834 169.0 L 247.751 169.0 L 250.544 169.0 L 253.223 169.0 L 255.797 169.0 L 258.273 169.0 L 260.659 169.0 L 262.962 169.0 L 265.187 169.0 L 267.338 169.0 L 269.422 169.0 L 271.441 169.0 L 273.4 169.0 L 275.302 169.0 L 277.151 169.0 L 278.949 169.0 L 280.699 169.0 L 282.403 169.0 L 284.065 169.0 L 285.685 169.0 L 287.266 169.0 L 288.81 169.0 L 290.319 169.0 L 291.793 169.0 L 293.236 169.0 L 294.647 169.0 L 296.028 169.0 L 297.382 169.0 L 298.707 169.0 L 300.007 169.0 L 301.281 169.0 L 302.531 169.0 L 303.757 169.0 L 304.0 169.0" fill="none" stroke="#3f6288" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 42.0 273.675 L 87.484 271.139 L 114.091 267.877 L 132.969 264.574 L 147.611 261.611 L 159.575 258.499 L 169.691 255.046 L 178.453 252.169 L 186.182 249.036 L 193.096 245.988 L 199.35 242.577 L 205.06 239.38 L 210.312 236.332 L 215.175 234.84 L 219.702 233.05 L 223.937 231.195 L 227.916 229.618 L 231.666 227.551 L 235.214 225.803 L 238.58 223.842 L 241.782 221.966 L 244.834 220.112 L 247.751 217.639 L 250.544 215.337 L 253.223 213.483 L 255.797 211.97 L 258.273 210.883 L 260.659 209.583 L 262.962 208.112 L 265.187 206.854 L 267.338 205.405 L 269.422 204.169 L 271.441 203.018 L 273.4 201.782 L 275.302 200.652 L 277.151 199.586 L 278.949 198.648 L 280.699 197.753 L 282.403 196.879 L 284.065 195.877 L 285.685 194.748 L 287.266 193.81 L 288.81 192.851 L 290.319 191.87 L 291.793 190.911 L 293.236 189.931 L 294.647 188.929 L 296.028 187.906 L 297.382 185.156 L 298.707 181.874 L 300.007 178.634 L 301.281 175.458 L 302.531 172.645 L 303.757 169.639 L 304.0 169.0" fill="none" stroke="#3f6288" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0 4.0"/>
+<path d="M 42.0 169.0 L 87.484 169.0 L 114.091 169.0 L 132.969 169.0 L 147.611 169.0 L 159.575 169.0 L 169.691 169.0 L 178.453 169.0 L 186.182 169.0 L 193.096 169.0 L 199.35 169.0 L 205.06 169.0 L 210.312 169.0 L 215.175 169.0 L 219.702 169.0 L 223.937 169.0 L 227.916 169.0 L 231.666 169.0 L 235.214 169.0 L 238.58 169.0 L 241.782 169.0 L 244.834 169.0 L 247.751 169.0 L 250.544 169.0 L 253.223 169.0 L 255.797 169.0 L 258.273 169.0 L 260.659 169.0 L 262.962 169.0 L 265.187 169.0 L 267.338 169.0 L 269.422 169.0 L 271.441 169.0 L 273.4 169.0 L 275.302 169.0 L 277.151 169.0 L 278.949 169.0 L 280.699 169.0 L 282.403 169.0 L 284.065 169.0 L 285.685 169.0 L 287.266 169.0 L 288.81 169.0 L 290.319 169.0 L 291.793 169.0 L 293.236 169.0 L 294.647 169.0 L 296.028 169.0 L 297.382 169.0 L 298.707 169.0 L 300.007 169.0 L 301.281 169.0 L 302.531 169.0 L 303.757 169.0 L 304.0 169.0" fill="none" stroke="#3f6288" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="14.0" y="315" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="14.0" dy="0">66 canonical codes; 14 categories; 5,067 raw</tspan>
+<tspan x="14.0" dy="15">values; 7 families</tspan>
+</text>
+<rect x="344.0" y="118" width="320.0" height="216" rx="6" fill="#ffffff" stroke="#e2e8ea" stroke-width="1"/>
+<text x="358.0" y="144" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start">
+<tspan x="358.0" dy="0">affected work activity</tspan>
+</text>
+<line x1="386.0" y1="277" x2="648.0" y2="277" stroke="#e2e8ea" stroke-width="1"/>
+<text x="379.0" y="281" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="379.0" dy="0">0</tspan>
+</text>
+<line x1="386.0" y1="223.0" x2="648.0" y2="223.0" stroke="#e2e8ea" stroke-width="1"/>
+<text x="379.0" y="227.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="379.0" dy="0">50</tspan>
+</text>
+<line x1="386.0" y1="169" x2="648.0" y2="169" stroke="#e2e8ea" stroke-width="1"/>
+<text x="379.0" y="173" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="379.0" dy="0">100%</tspan>
+</text>
+<text x="386.0" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="386.0" dy="0">10</tspan>
+</text>
+<text x="537.096" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="537.096" dy="0">100</tspan>
+</text>
+<text x="648.0" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="648.0" dy="0">542</tspan>
+</text>
+<path d="M 386.0 209.755 L 431.484 195.491 L 458.091 187.34 L 476.969 175.113 L 491.611 175.113 L 503.575 173.075 L 513.691 171.038 L 522.453 171.038 L 530.182 171.038 L 537.096 171.038 L 543.35 171.038 L 549.06 171.038 L 554.312 171.038 L 559.175 171.038 L 563.702 171.038 L 567.937 169.0 L 571.916 169.0 L 575.666 169.0 L 579.214 169.0 L 582.58 169.0 L 585.782 169.0 L 588.834 169.0 L 591.751 169.0 L 594.544 169.0 L 597.223 169.0 L 599.797 169.0 L 602.273 169.0 L 604.659 169.0 L 606.962 169.0 L 609.187 169.0 L 611.338 169.0 L 613.422 169.0 L 615.441 169.0 L 617.4 169.0 L 619.302 169.0 L 621.151 169.0 L 622.949 169.0 L 624.699 169.0 L 626.403 169.0 L 628.065 169.0 L 629.685 169.0 L 631.266 169.0 L 632.81 169.0 L 634.319 169.0 L 635.793 169.0 L 637.236 169.0 L 638.647 169.0 L 640.028 169.0 L 641.382 169.0 L 642.707 169.0 L 644.007 169.0 L 645.281 169.0 L 646.531 169.0 L 647.757 169.0 L 648.0 169.0" fill="none" stroke="#3f6288" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.0 4.0"/>
+<path d="M 386.0 169.0 L 431.484 169.0 L 458.091 169.0 L 476.969 169.0 L 491.611 169.0 L 503.575 169.0 L 513.691 169.0 L 522.453 169.0 L 530.182 169.0 L 537.096 169.0 L 543.35 169.0 L 549.06 169.0 L 554.312 169.0 L 559.175 169.0 L 563.702 169.0 L 567.937 169.0 L 571.916 169.0 L 575.666 169.0 L 579.214 169.0 L 582.58 169.0 L 585.782 169.0 L 588.834 169.0 L 591.751 169.0 L 594.544 169.0 L 597.223 169.0 L 599.797 169.0 L 602.273 169.0 L 604.659 169.0 L 606.962 169.0 L 609.187 169.0 L 611.338 169.0 L 613.422 169.0 L 615.441 169.0 L 617.4 169.0 L 619.302 169.0 L 621.151 169.0 L 622.949 169.0 L 624.699 169.0 L 626.403 169.0 L 628.065 169.0 L 629.685 169.0 L 631.266 169.0 L 632.81 169.0 L 634.319 169.0 L 635.793 169.0 L 637.236 169.0 L 638.647 169.0 L 640.028 169.0 L 641.382 169.0 L 642.707 169.0 L 644.007 169.0 L 645.281 169.0 L 646.531 169.0 L 647.757 169.0 L 648.0 169.0" fill="none" stroke="#3f6288" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 386.0 274.193 L 431.484 271.812 L 458.091 268.881 L 476.969 265.985 L 491.611 263.196 L 503.575 260.3 L 513.691 257.297 L 522.453 254.668 L 530.182 251.754 L 537.096 249.161 L 543.35 246.034 L 549.06 243.102 L 554.312 240.42 L 559.175 238.714 L 563.702 237.257 L 567.937 235.747 L 571.916 234.361 L 575.666 232.478 L 579.214 229.991 L 582.58 227.077 L 585.782 224.555 L 588.834 222.156 L 591.751 219.491 L 594.544 216.631 L 597.223 214.446 L 599.797 212.616 L 602.273 211.248 L 604.659 210.04 L 606.962 208.707 L 609.187 207.517 L 611.338 206.309 L 613.422 205.136 L 615.441 203.715 L 617.4 202.418 L 619.302 201.068 L 621.151 199.984 L 622.949 199.114 L 624.699 198.314 L 626.403 197.426 L 628.065 196.413 L 629.685 195.454 L 631.266 194.352 L 632.81 193.357 L 634.319 192.22 L 635.793 190.994 L 637.236 189.822 L 638.647 188.489 L 640.028 187.264 L 641.382 184.67 L 642.707 181.578 L 644.007 178.363 L 645.281 175.271 L 646.531 172.589 L 647.757 169.533 L 648.0 169.0" fill="none" stroke="#3f6288" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0 4.0"/>
+<path d="M 386.0 169.0 L 431.484 169.0 L 458.091 169.0 L 476.969 169.0 L 491.611 169.0 L 503.575 169.0 L 513.691 169.0 L 522.453 169.0 L 530.182 169.0 L 537.096 169.0 L 543.35 169.0 L 549.06 169.0 L 554.312 169.0 L 559.175 169.0 L 563.702 169.0 L 567.937 169.0 L 571.916 169.0 L 575.666 169.0 L 579.214 169.0 L 582.58 169.0 L 585.782 169.0 L 588.834 169.0 L 591.751 169.0 L 594.544 169.0 L 597.223 169.0 L 599.797 169.0 L 602.273 169.0 L 604.659 169.0 L 606.962 169.0 L 609.187 169.0 L 611.338 169.0 L 613.422 169.0 L 615.441 169.0 L 617.4 169.0 L 619.302 169.0 L 621.151 169.0 L 622.949 169.0 L 624.699 169.0 L 626.403 169.0 L 628.065 169.0 L 629.685 169.0 L 631.266 169.0 L 632.81 169.0 L 634.319 169.0 L 635.793 169.0 L 637.236 169.0 L 638.647 169.0 L 640.028 169.0 L 641.382 169.0 L 642.707 169.0 L 644.007 169.0 L 645.281 169.0 L 646.531 169.0 L 647.757 169.0 L 648.0 169.0" fill="none" stroke="#3f6288" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="358.0" y="315" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="358.0" dy="0">53 canonical codes; 10 categories; 6,079 raw</tspan>
+<tspan x="358.0" dy="15">values; 5 families</tspan>
+</text>
+<rect x="688.0" y="118" width="320.0" height="216" rx="6" fill="#ffffff" stroke="#e2e8ea" stroke-width="1"/>
+<text x="702.0" y="144" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start">
+<tspan x="702.0" dy="0">applicability condition</tspan>
+</text>
+<line x1="730.0" y1="277" x2="992.0" y2="277" stroke="#e2e8ea" stroke-width="1"/>
+<text x="723.0" y="281" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="723.0" dy="0">0</tspan>
+</text>
+<line x1="730.0" y1="223.0" x2="992.0" y2="223.0" stroke="#e2e8ea" stroke-width="1"/>
+<text x="723.0" y="227.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="723.0" dy="0">50</tspan>
+</text>
+<line x1="730.0" y1="169" x2="992.0" y2="169" stroke="#e2e8ea" stroke-width="1"/>
+<text x="723.0" y="173" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="723.0" dy="0">100%</tspan>
+</text>
+<text x="730.0" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="730.0" dy="0">10</tspan>
+</text>
+<text x="881.096" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="881.096" dy="0">100</tspan>
+</text>
+<text x="992.0" y="296" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="992.0" dy="0">542</tspan>
+</text>
+<path d="M 730.0 171.842 L 775.484 171.842 L 802.091 171.842 L 820.969 169.0 L 835.611 169.0 L 847.575 169.0 L 857.691 169.0 L 866.453 169.0 L 874.182 169.0 L 881.096 169.0 L 887.35 169.0 L 893.06 169.0 L 898.312 169.0 L 903.175 169.0 L 907.702 169.0 L 911.937 169.0 L 915.916 169.0 L 919.666 169.0 L 923.214 169.0 L 926.58 169.0 L 929.782 169.0 L 932.834 169.0 L 935.751 169.0 L 938.544 169.0 L 941.223 169.0 L 943.797 169.0 L 946.273 169.0 L 948.659 169.0 L 950.962 169.0 L 953.187 169.0 L 955.338 169.0 L 957.422 169.0 L 959.441 169.0 L 961.4 169.0 L 963.302 169.0 L 965.151 169.0 L 966.949 169.0 L 968.699 169.0 L 970.403 169.0 L 972.065 169.0 L 973.685 169.0 L 975.266 169.0 L 976.81 169.0 L 978.319 169.0 L 979.793 169.0 L 981.236 169.0 L 982.647 169.0 L 984.028 169.0 L 985.382 169.0 L 986.707 169.0 L 988.007 169.0 L 989.281 169.0 L 990.531 169.0 L 991.757 169.0 L 992.0 169.0" fill="none" stroke="#3f6288" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.0 4.0"/>
+<path d="M 730.0 169.0 L 775.484 169.0 L 802.091 169.0 L 820.969 169.0 L 835.611 169.0 L 847.575 169.0 L 857.691 169.0 L 866.453 169.0 L 874.182 169.0 L 881.096 169.0 L 887.35 169.0 L 893.06 169.0 L 898.312 169.0 L 903.175 169.0 L 907.702 169.0 L 911.937 169.0 L 915.916 169.0 L 919.666 169.0 L 923.214 169.0 L 926.58 169.0 L 929.782 169.0 L 932.834 169.0 L 935.751 169.0 L 938.544 169.0 L 941.223 169.0 L 943.797 169.0 L 946.273 169.0 L 948.659 169.0 L 950.962 169.0 L 953.187 169.0 L 955.338 169.0 L 957.422 169.0 L 959.441 169.0 L 961.4 169.0 L 963.302 169.0 L 965.151 169.0 L 966.949 169.0 L 968.699 169.0 L 970.403 169.0 L 972.065 169.0 L 973.685 169.0 L 975.266 169.0 L 976.81 169.0 L 978.319 169.0 L 979.793 169.0 L 981.236 169.0 L 982.647 169.0 L 984.028 169.0 L 985.382 169.0 L 986.707 169.0 L 988.007 169.0 L 989.281 169.0 L 990.531 169.0 L 991.757 169.0 L 992.0 169.0" fill="none" stroke="#3f6288" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 730.0 274.957 L 775.484 273.257 L 802.091 271.529 L 820.969 269.714 L 835.611 267.971 L 847.575 266.071 L 857.691 264.086 L 866.453 262.3 L 874.182 260.5 L 881.096 258.743 L 887.35 257.014 L 893.06 255.314 L 898.312 253.643 L 903.175 252.043 L 907.702 249.257 L 911.937 246.5 L 915.916 244.114 L 919.666 241.743 L 923.214 238.657 L 926.58 235.071 L 929.782 231.743 L 932.834 228.714 L 935.751 226.1 L 938.544 223.5 L 941.223 221.757 L 943.797 219.357 L 946.273 217.429 L 948.659 215.286 L 950.962 212.886 L 953.187 210.914 L 955.338 208.714 L 957.422 206.529 L 959.441 204.443 L 961.4 202.357 L 963.302 200.3 L 965.151 198.5 L 966.949 196.871 L 968.699 195.243 L 970.403 193.643 L 972.065 191.871 L 973.685 190.043 L 975.266 188.443 L 976.81 186.757 L 978.319 185.186 L 979.793 183.471 L 981.236 181.857 L 982.647 180.214 L 984.028 178.843 L 985.382 177.214 L 986.707 175.614 L 988.007 174.0 L 989.281 172.343 L 990.531 170.829 L 991.757 169.3 L 992.0 169.0" fill="none" stroke="#3f6288" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0 4.0"/>
+<path d="M 730.0 169.0 L 775.484 169.0 L 802.091 169.0 L 820.969 169.0 L 835.611 169.0 L 847.575 169.0 L 857.691 169.0 L 866.453 169.0 L 874.182 169.0 L 881.096 169.0 L 887.35 169.0 L 893.06 169.0 L 898.312 169.0 L 903.175 169.0 L 907.702 169.0 L 911.937 169.0 L 915.916 169.0 L 919.666 169.0 L 923.214 169.0 L 926.58 169.0 L 929.782 169.0 L 932.834 169.0 L 935.751 169.0 L 938.544 169.0 L 941.223 169.0 L 943.797 169.0 L 946.273 169.0 L 948.659 169.0 L 950.962 169.0 L 953.187 169.0 L 955.338 169.0 L 957.422 169.0 L 959.441 169.0 L 961.4 169.0 L 963.302 169.0 L 965.151 169.0 L 966.949 169.0 L 968.699 169.0 L 970.403 169.0 L 972.065 169.0 L 973.685 169.0 L 975.266 169.0 L 976.81 169.0 L 978.319 169.0 L 979.793 169.0 L 981.236 169.0 L 982.647 169.0 L 984.028 169.0 L 985.382 169.0 L 986.707 169.0 L 988.007 169.0 L 989.281 169.0 L 990.531 169.0 L 991.757 169.0 L 992.0 169.0" fill="none" stroke="#3f6288" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="702.0" y="315" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="702.0" dy="0">38 canonical codes; 7 categories; 7,560 raw values;</tspan>
+<tspan x="702.0" dy="15">4 families</tspan>
+</text>
+<rect x="0.0" y="352" width="320.0" height="216" rx="6" fill="#ffffff" stroke="#e2e8ea" stroke-width="1"/>
+<text x="14.0" y="378" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start">
+<tspan x="14.0" dy="0">applicability context</tspan>
+</text>
+<line x1="42.0" y1="511" x2="304.0" y2="511" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="515" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">0</tspan>
+</text>
+<line x1="42.0" y1="457.0" x2="304.0" y2="457.0" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="461.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">50</tspan>
+</text>
+<line x1="42.0" y1="403" x2="304.0" y2="403" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="407" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">100%</tspan>
+</text>
+<text x="42.0" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="42.0" dy="0">10</tspan>
+</text>
+<text x="193.096" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="193.096" dy="0">100</tspan>
+</text>
+<text x="304.0" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="304.0" dy="0">542</tspan>
+</text>
+<path d="M 42.0 461.0 L 87.484 455.0 L 114.091 437.0 L 132.969 425.0 L 147.611 421.0 L 159.575 417.0 L 169.691 411.0 L 178.453 407.0 L 186.182 405.0 L 193.096 405.0 L 199.35 405.0 L 205.06 405.0 L 210.312 403.0 L 215.175 403.0 L 219.702 403.0 L 223.937 403.0 L 227.916 403.0 L 231.666 403.0 L 235.214 403.0 L 238.58 403.0 L 241.782 403.0 L 244.834 403.0 L 247.751 403.0 L 250.544 403.0 L 253.223 403.0 L 255.797 403.0 L 258.273 403.0 L 260.659 403.0 L 262.962 403.0 L 265.187 403.0 L 267.338 403.0 L 269.422 403.0 L 271.441 403.0 L 273.4 403.0 L 275.302 403.0 L 277.151 403.0 L 278.949 403.0 L 280.699 403.0 L 282.403 403.0 L 284.065 403.0 L 285.685 403.0 L 287.266 403.0 L 288.81 403.0 L 290.319 403.0 L 291.793 403.0 L 293.236 403.0 L 294.647 403.0 L 296.028 403.0 L 297.382 403.0 L 298.707 403.0 L 300.007 403.0 L 301.281 403.0 L 302.531 403.0 L 303.757 403.0 L 304.0 403.0" fill="none" stroke="#3f6288" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.0 4.0"/>
+<path d="M 42.0 421.0 L 87.484 421.0 L 114.091 412.0 L 132.969 403.0 L 147.611 403.0 L 159.575 403.0 L 169.691 403.0 L 178.453 403.0 L 186.182 403.0 L 193.096 403.0 L 199.35 403.0 L 205.06 403.0 L 210.312 403.0 L 215.175 403.0 L 219.702 403.0 L 223.937 403.0 L 227.916 403.0 L 231.666 403.0 L 235.214 403.0 L 238.58 403.0 L 241.782 403.0 L 244.834 403.0 L 247.751 403.0 L 250.544 403.0 L 253.223 403.0 L 255.797 403.0 L 258.273 403.0 L 260.659 403.0 L 262.962 403.0 L 265.187 403.0 L 267.338 403.0 L 269.422 403.0 L 271.441 403.0 L 273.4 403.0 L 275.302 403.0 L 277.151 403.0 L 278.949 403.0 L 280.699 403.0 L 282.403 403.0 L 284.065 403.0 L 285.685 403.0 L 287.266 403.0 L 288.81 403.0 L 290.319 403.0 L 291.793 403.0 L 293.236 403.0 L 294.647 403.0 L 296.028 403.0 L 297.382 403.0 L 298.707 403.0 L 300.007 403.0 L 301.281 403.0 L 302.531 403.0 L 303.757 403.0 L 304.0 403.0" fill="none" stroke="#3f6288" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 42.0 508.277 L 87.484 506.32 L 114.091 503.069 L 132.969 500.24 L 147.611 497.279 L 159.575 494.476 L 169.691 491.568 L 178.453 488.898 L 186.182 485.937 L 193.096 483.134 L 199.35 480.437 L 205.06 477.582 L 210.312 474.991 L 215.175 473.299 L 219.702 471.237 L 223.937 469.175 L 227.916 467.377 L 231.666 465.579 L 235.214 463.596 L 238.58 461.561 L 241.782 459.604 L 244.834 457.674 L 247.751 454.951 L 250.544 452.651 L 253.223 450.642 L 255.797 449.002 L 258.273 447.681 L 260.659 446.094 L 262.962 444.349 L 265.187 442.816 L 267.338 441.177 L 269.422 439.617 L 271.441 438.163 L 273.4 436.682 L 275.302 435.228 L 277.151 433.88 L 278.949 432.637 L 280.699 431.474 L 282.403 430.284 L 284.065 429.015 L 285.685 427.693 L 287.266 426.53 L 288.81 425.34 L 290.319 424.151 L 291.793 422.882 L 293.236 421.665 L 294.647 420.423 L 296.028 419.365 L 297.382 417.118 L 298.707 413.972 L 300.007 411.169 L 301.281 408.684 L 302.531 406.199 L 303.757 403.608 L 304.0 403.0" fill="none" stroke="#3f6288" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0 4.0"/>
+<path d="M 42.0 403.0 L 87.484 403.0 L 114.091 403.0 L 132.969 403.0 L 147.611 403.0 L 159.575 403.0 L 169.691 403.0 L 178.453 403.0 L 186.182 403.0 L 193.096 403.0 L 199.35 403.0 L 205.06 403.0 L 210.312 403.0 L 215.175 403.0 L 219.702 403.0 L 223.937 403.0 L 227.916 403.0 L 231.666 403.0 L 235.214 403.0 L 238.58 403.0 L 241.782 403.0 L 244.834 403.0 L 247.751 403.0 L 250.544 403.0 L 253.223 403.0 L 255.797 403.0 L 258.273 403.0 L 260.659 403.0 L 262.962 403.0 L 265.187 403.0 L 267.338 403.0 L 269.422 403.0 L 271.441 403.0 L 273.4 403.0 L 275.302 403.0 L 277.151 403.0 L 278.949 403.0 L 280.699 403.0 L 282.403 403.0 L 284.065 403.0 L 285.685 403.0 L 287.266 403.0 L 288.81 403.0 L 290.319 403.0 L 291.793 403.0 L 293.236 403.0 L 294.647 403.0 L 296.028 403.0 L 297.382 403.0 L 298.707 403.0 L 300.007 403.0 L 301.281 403.0 L 302.531 403.0 L 303.757 403.0 L 304.0 403.0" fill="none" stroke="#3f6288" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="14.0" y="549" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="14.0" dy="0">54 canonical codes; 12 categories; 4,085 raw</tspan>
+<tspan x="14.0" dy="15">values; 4 families</tspan>
+</text>
+<rect x="344.0" y="352" width="320.0" height="216" rx="6" fill="#ffffff" stroke="#e2e8ea" stroke-width="1"/>
+<text x="358.0" y="378" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start">
+<tspan x="358.0" dy="0">applicability population</tspan>
+</text>
+<line x1="386.0" y1="511" x2="648.0" y2="511" stroke="#e2e8ea" stroke-width="1"/>
+<text x="379.0" y="515" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="379.0" dy="0">0</tspan>
+</text>
+<line x1="386.0" y1="457.0" x2="648.0" y2="457.0" stroke="#e2e8ea" stroke-width="1"/>
+<text x="379.0" y="461.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="379.0" dy="0">50</tspan>
+</text>
+<line x1="386.0" y1="403" x2="648.0" y2="403" stroke="#e2e8ea" stroke-width="1"/>
+<text x="379.0" y="407" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="379.0" dy="0">100%</tspan>
+</text>
+<text x="386.0" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="386.0" dy="0">10</tspan>
+</text>
+<text x="537.096" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="537.096" dy="0">100</tspan>
+</text>
+<text x="648.0" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="648.0" dy="0">542</tspan>
+</text>
+<path d="M 386.0 472.6 L 431.484 451.0 L 458.091 434.2 L 476.969 415.0 L 491.611 415.0 L 503.575 415.0 L 513.691 410.2 L 522.453 405.4 L 530.182 405.4 L 537.096 405.4 L 543.35 405.4 L 549.06 405.4 L 554.312 403.0 L 559.175 403.0 L 563.702 403.0 L 567.937 403.0 L 571.916 403.0 L 575.666 403.0 L 579.214 403.0 L 582.58 403.0 L 585.782 403.0 L 588.834 403.0 L 591.751 403.0 L 594.544 403.0 L 597.223 403.0 L 599.797 403.0 L 602.273 403.0 L 604.659 403.0 L 606.962 403.0 L 609.187 403.0 L 611.338 403.0 L 613.422 403.0 L 615.441 403.0 L 617.4 403.0 L 619.302 403.0 L 621.151 403.0 L 622.949 403.0 L 624.699 403.0 L 626.403 403.0 L 628.065 403.0 L 629.685 403.0 L 631.266 403.0 L 632.81 403.0 L 634.319 403.0 L 635.793 403.0 L 637.236 403.0 L 638.647 403.0 L 640.028 403.0 L 641.382 403.0 L 642.707 403.0 L 644.007 403.0 L 645.281 403.0 L 646.531 403.0 L 647.757 403.0 L 648.0 403.0" fill="none" stroke="#3f6288" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.0 4.0"/>
+<path d="M 386.0 435.4 L 431.484 424.6 L 458.091 424.6 L 476.969 403.0 L 491.611 403.0 L 503.575 403.0 L 513.691 403.0 L 522.453 403.0 L 530.182 403.0 L 537.096 403.0 L 543.35 403.0 L 549.06 403.0 L 554.312 403.0 L 559.175 403.0 L 563.702 403.0 L 567.937 403.0 L 571.916 403.0 L 575.666 403.0 L 579.214 403.0 L 582.58 403.0 L 585.782 403.0 L 588.834 403.0 L 591.751 403.0 L 594.544 403.0 L 597.223 403.0 L 599.797 403.0 L 602.273 403.0 L 604.659 403.0 L 606.962 403.0 L 609.187 403.0 L 611.338 403.0 L 613.422 403.0 L 615.441 403.0 L 617.4 403.0 L 619.302 403.0 L 621.151 403.0 L 622.949 403.0 L 624.699 403.0 L 626.403 403.0 L 628.065 403.0 L 629.685 403.0 L 631.266 403.0 L 632.81 403.0 L 634.319 403.0 L 635.793 403.0 L 637.236 403.0 L 638.647 403.0 L 640.028 403.0 L 641.382 403.0 L 642.707 403.0 L 644.007 403.0 L 645.281 403.0 L 646.531 403.0 L 647.757 403.0 L 648.0 403.0" fill="none" stroke="#3f6288" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 386.0 508.606 L 431.484 506.959 L 458.091 504.534 L 476.969 502.14 L 491.611 499.56 L 503.575 497.29 L 513.691 494.648 L 522.453 492.409 L 530.182 490.295 L 537.096 487.839 L 543.35 485.228 L 549.06 482.585 L 554.312 480.223 L 559.175 478.358 L 563.702 476.119 L 567.937 473.725 L 571.916 471.611 L 575.666 469.404 L 579.214 467.073 L 582.58 464.679 L 585.782 462.44 L 588.834 460.171 L 591.751 457.902 L 594.544 455.446 L 597.223 453.301 L 599.797 451.311 L 602.273 449.756 L 604.659 447.891 L 606.962 445.839 L 609.187 444.036 L 611.338 442.109 L 613.422 440.275 L 615.441 438.565 L 617.4 436.824 L 619.302 435.114 L 621.151 433.528 L 622.949 432.067 L 624.699 430.699 L 626.403 429.301 L 628.065 427.839 L 629.685 426.285 L 631.266 424.917 L 632.81 423.518 L 634.319 422.119 L 635.793 420.627 L 637.236 419.228 L 638.647 417.767 L 640.028 416.492 L 641.382 414.378 L 642.707 411.58 L 644.007 409.249 L 645.281 407.477 L 646.531 406.047 L 647.757 403.466 L 648.0 403.0" fill="none" stroke="#3f6288" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0 4.0"/>
+<path d="M 386.0 403.0 L 431.484 403.0 L 458.091 403.0 L 476.969 403.0 L 491.611 403.0 L 503.575 403.0 L 513.691 403.0 L 522.453 403.0 L 530.182 403.0 L 537.096 403.0 L 543.35 403.0 L 549.06 403.0 L 554.312 403.0 L 559.175 403.0 L 563.702 403.0 L 567.937 403.0 L 571.916 403.0 L 575.666 403.0 L 579.214 403.0 L 582.58 403.0 L 585.782 403.0 L 588.834 403.0 L 591.751 403.0 L 594.544 403.0 L 597.223 403.0 L 599.797 403.0 L 602.273 403.0 L 604.659 403.0 L 606.962 403.0 L 609.187 403.0 L 611.338 403.0 L 613.422 403.0 L 615.441 403.0 L 617.4 403.0 L 619.302 403.0 L 621.151 403.0 L 622.949 403.0 L 624.699 403.0 L 626.403 403.0 L 628.065 403.0 L 629.685 403.0 L 631.266 403.0 L 632.81 403.0 L 634.319 403.0 L 635.793 403.0 L 637.236 403.0 L 638.647 403.0 L 640.028 403.0 L 641.382 403.0 L 642.707 403.0 L 644.007 403.0 L 645.281 403.0 L 646.531 403.0 L 647.757 403.0 L 648.0 403.0" fill="none" stroke="#3f6288" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="358.0" y="549" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="358.0" dy="0">45 canonical codes; 10 categories; 3,474 raw</tspan>
+<tspan x="358.0" dy="15">values; 4 families</tspan>
+</text>
+<rect x="688.0" y="352" width="320.0" height="216" rx="6" fill="#ffffff" stroke="#e2e8ea" stroke-width="1"/>
+<text x="702.0" y="378" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start">
+<tspan x="702.0" dy="0">lineage named construct</tspan>
+</text>
+<line x1="730.0" y1="511" x2="992.0" y2="511" stroke="#e2e8ea" stroke-width="1"/>
+<text x="723.0" y="515" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="723.0" dy="0">0</tspan>
+</text>
+<line x1="730.0" y1="457.0" x2="992.0" y2="457.0" stroke="#e2e8ea" stroke-width="1"/>
+<text x="723.0" y="461.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="723.0" dy="0">50</tspan>
+</text>
+<line x1="730.0" y1="403" x2="992.0" y2="403" stroke="#e2e8ea" stroke-width="1"/>
+<text x="723.0" y="407" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="723.0" dy="0">100%</tspan>
+</text>
+<text x="730.0" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="730.0" dy="0">10</tspan>
+</text>
+<text x="881.096" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="881.096" dy="0">100</tspan>
+</text>
+<text x="992.0" y="530" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="992.0" dy="0">542</tspan>
+</text>
+<path d="M 730.0 481.171 L 775.484 462.657 L 802.091 455.457 L 820.969 440.029 L 835.611 435.914 L 847.575 431.8 L 857.691 422.543 L 866.453 420.486 L 874.182 416.371 L 881.096 413.286 L 887.35 410.2 L 893.06 409.171 L 898.312 407.114 L 903.175 407.114 L 907.702 405.057 L 911.937 404.029 L 915.916 403.0 L 919.666 403.0 L 923.214 403.0 L 926.58 403.0 L 929.782 403.0 L 932.834 403.0 L 935.751 403.0 L 938.544 403.0 L 941.223 403.0 L 943.797 403.0 L 946.273 403.0 L 948.659 403.0 L 950.962 403.0 L 953.187 403.0 L 955.338 403.0 L 957.422 403.0 L 959.441 403.0 L 961.4 403.0 L 963.302 403.0 L 965.151 403.0 L 966.949 403.0 L 968.699 403.0 L 970.403 403.0 L 972.065 403.0 L 973.685 403.0 L 975.266 403.0 L 976.81 403.0 L 978.319 403.0 L 979.793 403.0 L 981.236 403.0 L 982.647 403.0 L 984.028 403.0 L 985.382 403.0 L 986.707 403.0 L 988.007 403.0 L 989.281 403.0 L 990.531 403.0 L 991.757 403.0 L 992.0 403.0" fill="none" stroke="#3f6288" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.0 4.0"/>
+<path d="M 730.0 463.75 L 775.484 436.75 L 802.091 430.0 L 820.969 416.5 L 835.611 416.5 L 847.575 416.5 L 857.691 403.0 L 866.453 403.0 L 874.182 403.0 L 881.096 403.0 L 887.35 403.0 L 893.06 403.0 L 898.312 403.0 L 903.175 403.0 L 907.702 403.0 L 911.937 403.0 L 915.916 403.0 L 919.666 403.0 L 923.214 403.0 L 926.58 403.0 L 929.782 403.0 L 932.834 403.0 L 935.751 403.0 L 938.544 403.0 L 941.223 403.0 L 943.797 403.0 L 946.273 403.0 L 948.659 403.0 L 950.962 403.0 L 953.187 403.0 L 955.338 403.0 L 957.422 403.0 L 959.441 403.0 L 961.4 403.0 L 963.302 403.0 L 965.151 403.0 L 966.949 403.0 L 968.699 403.0 L 970.403 403.0 L 972.065 403.0 L 973.685 403.0 L 975.266 403.0 L 976.81 403.0 L 978.319 403.0 L 979.793 403.0 L 981.236 403.0 L 982.647 403.0 L 984.028 403.0 L 985.382 403.0 L 986.707 403.0 L 988.007 403.0 L 989.281 403.0 L 990.531 403.0 L 991.757 403.0 L 992.0 403.0" fill="none" stroke="#3f6288" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 730.0 509.337 L 775.484 507.911 L 802.091 506.455 L 820.969 504.911 L 835.611 503.218 L 847.575 501.822 L 857.691 500.337 L 866.453 499.059 L 874.182 497.723 L 881.096 496.119 L 887.35 494.812 L 893.06 493.356 L 898.312 491.574 L 903.175 489.703 L 907.702 486.881 L 911.937 484.0 L 915.916 481.297 L 919.666 478.505 L 923.214 474.05 L 926.58 469.119 L 929.782 465.109 L 932.834 461.218 L 935.751 458.129 L 938.544 455.485 L 941.223 453.851 L 943.797 451.861 L 946.273 450.05 L 948.659 448.327 L 950.962 446.426 L 953.187 444.703 L 955.338 442.683 L 957.422 440.901 L 959.441 439.238 L 961.4 437.574 L 963.302 435.822 L 965.151 433.921 L 966.949 431.752 L 968.699 429.851 L 970.403 427.95 L 972.065 425.96 L 973.685 423.97 L 975.266 422.366 L 976.81 420.703 L 978.319 418.891 L 979.793 417.079 L 981.236 415.416 L 982.647 413.663 L 984.028 412.446 L 985.382 410.842 L 986.707 409.356 L 988.007 408.02 L 989.281 406.653 L 990.531 405.079 L 991.757 403.267 L 992.0 403.0" fill="none" stroke="#3f6288" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0 4.0"/>
+<text x="702.0" y="549" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="702.0" dy="0">105 canonical codes; 16 categories; 3,636 raw</tspan>
+<tspan x="702.0" dy="15">values</tspan>
+</text>
+<rect x="0.0" y="586" width="320.0" height="216" rx="6" fill="#ffffff" stroke="#e2e8ea" stroke-width="1"/>
+<text x="14.0" y="612" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start">
+<tspan x="14.0" dy="0">support form</tspan>
+</text>
+<line x1="42.0" y1="745" x2="304.0" y2="745" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="749" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">0</tspan>
+</text>
+<line x1="42.0" y1="691.0" x2="304.0" y2="691.0" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="695.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">50</tspan>
+</text>
+<line x1="42.0" y1="637" x2="304.0" y2="637" stroke="#e2e8ea" stroke-width="1"/>
+<text x="35.0" y="641" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="end">
+<tspan x="35.0" dy="0">100%</tspan>
+</text>
+<text x="42.0" y="764" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="42.0" dy="0">10</tspan>
+</text>
+<text x="193.096" y="764" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="193.096" dy="0">100</tspan>
+</text>
+<text x="304.0" y="764" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="304.0" dy="0">542</tspan>
+</text>
+<path d="M 42.0 701.0 L 87.484 681.0 L 114.091 666.333 L 132.969 654.333 L 147.611 650.333 L 159.575 647.667 L 169.691 645.0 L 178.453 645.0 L 186.182 645.0 L 193.096 645.0 L 199.35 642.333 L 205.06 639.667 L 210.312 639.667 L 215.175 639.667 L 219.702 639.667 L 223.937 638.333 L 227.916 638.333 L 231.666 638.333 L 235.214 638.333 L 238.58 637.0 L 241.782 637.0 L 244.834 637.0 L 247.751 637.0 L 250.544 637.0 L 253.223 637.0 L 255.797 637.0 L 258.273 637.0 L 260.659 637.0 L 262.962 637.0 L 265.187 637.0 L 267.338 637.0 L 269.422 637.0 L 271.441 637.0 L 273.4 637.0 L 275.302 637.0 L 277.151 637.0 L 278.949 637.0 L 280.699 637.0 L 282.403 637.0 L 284.065 637.0 L 285.685 637.0 L 287.266 637.0 L 288.81 637.0 L 290.319 637.0 L 291.793 637.0 L 293.236 637.0 L 294.647 637.0 L 296.028 637.0 L 297.382 637.0 L 298.707 637.0 L 300.007 637.0 L 301.281 637.0 L 302.531 637.0 L 303.757 637.0 L 304.0 637.0" fill="none" stroke="#3f6288" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.0 4.0"/>
+<path d="M 42.0 658.6 L 87.484 651.4 L 114.091 644.2 L 132.969 637.0 L 147.611 637.0 L 159.575 637.0 L 169.691 637.0 L 178.453 637.0 L 186.182 637.0 L 193.096 637.0 L 199.35 637.0 L 205.06 637.0 L 210.312 637.0 L 215.175 637.0 L 219.702 637.0 L 223.937 637.0 L 227.916 637.0 L 231.666 637.0 L 235.214 637.0 L 238.58 637.0 L 241.782 637.0 L 244.834 637.0 L 247.751 637.0 L 250.544 637.0 L 253.223 637.0 L 255.797 637.0 L 258.273 637.0 L 260.659 637.0 L 262.962 637.0 L 265.187 637.0 L 267.338 637.0 L 269.422 637.0 L 271.441 637.0 L 273.4 637.0 L 275.302 637.0 L 277.151 637.0 L 278.949 637.0 L 280.699 637.0 L 282.403 637.0 L 284.065 637.0 L 285.685 637.0 L 287.266 637.0 L 288.81 637.0 L 290.319 637.0 L 291.793 637.0 L 293.236 637.0 L 294.647 637.0 L 296.028 637.0 L 297.382 637.0 L 298.707 637.0 L 300.007 637.0 L 301.281 637.0 L 302.531 637.0 L 303.757 637.0 L 304.0 637.0" fill="none" stroke="#3f6288" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 42.0 742.123 L 87.484 740.078 L 114.091 737.313 L 132.969 734.571 L 147.611 731.964 L 159.575 729.064 L 169.691 725.715 L 178.453 722.523 L 186.182 719.377 L 193.096 716.769 L 199.35 713.308 L 205.06 709.802 L 210.312 706.767 L 215.175 705.351 L 219.702 703.621 L 223.937 701.867 L 227.916 700.339 L 231.666 697.732 L 235.214 696.226 L 238.58 693.843 L 241.782 692.158 L 244.834 690.472 L 247.751 688.179 L 250.544 685.774 L 253.223 683.819 L 255.797 682.425 L 258.273 681.324 L 260.659 679.975 L 262.962 678.514 L 265.187 677.211 L 267.338 675.817 L 269.422 674.513 L 271.441 673.277 L 273.4 672.019 L 275.302 670.805 L 277.151 669.636 L 278.949 668.49 L 280.699 667.501 L 282.403 666.489 L 284.065 665.41 L 285.685 664.287 L 287.266 663.298 L 288.81 662.286 L 290.319 661.275 L 291.793 660.128 L 293.236 659.094 L 294.647 657.858 L 296.028 656.645 L 297.382 654.06 L 298.707 650.329 L 300.007 647.204 L 301.281 643.878 L 302.531 640.664 L 303.757 637.652 L 304.0 637.0" fill="none" stroke="#3f6288" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0 4.0"/>
+<path d="M 42.0 637.0 L 87.484 637.0 L 114.091 637.0 L 132.969 637.0 L 147.611 637.0 L 159.575 637.0 L 169.691 637.0 L 178.453 637.0 L 186.182 637.0 L 193.096 637.0 L 199.35 637.0 L 205.06 637.0 L 210.312 637.0 L 215.175 637.0 L 219.702 637.0 L 223.937 637.0 L 227.916 637.0 L 231.666 637.0 L 235.214 637.0 L 238.58 637.0 L 241.782 637.0 L 244.834 637.0 L 247.751 637.0 L 250.544 637.0 L 253.223 637.0 L 255.797 637.0 L 258.273 637.0 L 260.659 637.0 L 262.962 637.0 L 265.187 637.0 L 267.338 637.0 L 269.422 637.0 L 271.441 637.0 L 273.4 637.0 L 275.302 637.0 L 277.151 637.0 L 278.949 637.0 L 280.699 637.0 L 282.403 637.0 L 284.065 637.0 L 285.685 637.0 L 287.266 637.0 L 288.81 637.0 L 290.319 637.0 L 291.793 637.0 L 293.236 637.0 L 294.647 637.0 L 296.028 637.0 L 297.382 637.0 L 298.707 637.0 L 300.007 637.0 L 301.281 637.0 L 302.531 637.0 L 303.757 637.0 L 304.0 637.0" fill="none" stroke="#3f6288" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="14.0" y="783" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="14.0" dy="0">81 canonical codes; 15 categories; 4,805 raw</tspan>
+<tspan x="14.0" dy="15">values; 6 families</tspan>
+</text>
+</svg>

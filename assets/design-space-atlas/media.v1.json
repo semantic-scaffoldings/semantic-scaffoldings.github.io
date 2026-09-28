@@ -1,0 +1,1013 @@
+{
+  "media": [
+    {
+      "alt": "Live overlays expose the vehicle’s planned route and detected objects in the road scene.",
+      "bibkey": "Schneider2021ExplAInYT",
+      "callouts": [
+        {
+          "label": "Intended route overlaid on the road",
+          "number": 1,
+          "x": 0.73,
+          "y": 0.65
+        },
+        {
+          "label": "Detected obstacle marked in the scene",
+          "number": 2,
+          "x": 0.72,
+          "y": 0.35
+        }
+      ],
+      "caption": "Live overlays expose the vehicle’s planned route and detected objects in the road scene.",
+      "card_id": "RFMR-CHI-2021-d2eabc1e2c0a62f661f0",
+      "card_sha256": "0fb86140053dcf2875089d653760b4fa2d3c6f49b1f62b40bf20a4c63e60c25a",
+      "category_ids": [
+        "FC-C01"
+      ],
+      "code_ids": [
+        "FC006"
+      ],
+      "credit": "Schneider, Tobias and Hois, Joana and Rosenstein, Alischa and Ghellal, Sabiha and Theofanou-Fülbier, Dimitra and Gerlicher, Ansgar R.S.; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.089,
+        0.105,
+        0.911,
+        0.283
+      ],
+      "crop_pdf_points": [
+        54.467999999999996,
+        83.16,
+        557.532,
+        224.13599999999997
+      ],
+      "family_id": "FC-A1",
+      "figure": 2,
+      "id": "fc-c01-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 565,
+      "image_sha256": "3477eca1332733fcadfe88062768b9bfab3b9807b19ca4f2a1006cf27f1466da",
+      "image_width": 2014,
+      "mechanism_id": "M1",
+      "paper_id": "RFMR-CHI-2021-d2eabc1e2c0a62f661f0",
+      "path": "assets/design-space-atlas/sources/fc-c01.png",
+      "physical_page": 4,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 2, PDF page 4",
+      "source_sha256": "88654874396fdfbb87e7b444ba0b1a809ab4ba7d1a969e53f56678a42fed900d",
+      "source_title": "ExplAIn Yourself! Transparency for Positive UX in Autonomous Driving",
+      "source_url": "https://doi.org/10.1145/3411764.3446647",
+      "title": "ExplAIn Yourself! Transparency for Positive UX in Autonomous Driving"
+    },
+    {
+      "alt": "The design card places a supporting source passage and its citation beside the implication.",
+      "bibkey": "Shin2024FromPT",
+      "callouts": [
+        {
+          "label": "Supporting passage",
+          "number": 1,
+          "x": 0.74,
+          "y": 0.73
+        },
+        {
+          "label": "Citation back to the paper",
+          "number": 2,
+          "x": 0.74,
+          "y": 0.9
+        }
+      ],
+      "caption": "The design card places a supporting source passage and its citation beside the implication.",
+      "card_id": "RFMR-CHI-2024-48c663c583eb2508fbd7",
+      "card_sha256": "98be0bd39447bcd8a79240fa7d44ba23a8f239b8e7824cb41db6f3d020c2d752",
+      "category_ids": [
+        "FC-C02"
+      ],
+      "code_ids": [
+        "FC009"
+      ],
+      "credit": "Shin, Donghoon and Wang, Lucy Lu and Hsieh, Gary; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.267,
+        0.11,
+        0.752,
+        0.345
+      ],
+      "crop_pdf_points": [
+        163.404,
+        87.12,
+        460.224,
+        273.23999999999995
+      ],
+      "family_id": "FC-A1",
+      "figure": 1,
+      "id": "fc-c02-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 745,
+      "image_sha256": "0d3141ac1efd18420c8d4b42e30de882f9ea6622463889b92b8a660e86a6f09d",
+      "image_width": 1188,
+      "mechanism_id": "M5",
+      "paper_id": "RFMR-CHI-2024-48c663c583eb2508fbd7",
+      "path": "assets/design-space-atlas/sources/fc-c02.png",
+      "physical_page": 2,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 1, PDF page 2",
+      "source_sha256": "f240dfe2c1c482dd0de2a7557f23d96675d0e66c2ba7fa5bcfa47eeacac73342",
+      "source_title": "From Paper to Card: Transforming Design Implications with Generative AI",
+      "source_url": "https://doi.org/10.1145/3613904.3642266",
+      "title": "From Paper to Card: Transforming Design Implications with Generative AI"
+    },
+    {
+      "alt": "Audience segments become profile cards, with detailed experiences and motivations available on selection.",
+      "bibkey": "Choi2024ProxonaSC",
+      "callouts": [
+        {
+          "label": "Compact audience profiles",
+          "number": 1,
+          "x": 0.64,
+          "y": 0.49
+        },
+        {
+          "label": "Expanded persona details",
+          "number": 2,
+          "x": 0.9,
+          "y": 0.37
+        }
+      ],
+      "caption": "Audience segments become profile cards, with detailed experiences and motivations available on selection.",
+      "card_id": "RFMR-CHI-2025-67edd15efb6aef668ea7",
+      "card_sha256": "08ddefaffa39c44d3402c4765445bba20778955ced22b20773b1d97d8ef3d970",
+      "category_ids": [
+        "FC-C03"
+      ],
+      "code_ids": [
+        "FC109"
+      ],
+      "credit": "Choi, Yoonseo and Kang, Eun Jeong and Choi, Seulgi and Lee, Min Kyung and Kim, Juho; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.087,
+        0.104,
+        0.91,
+        0.502
+      ],
+      "crop_pdf_points": [
+        53.244,
+        82.368,
+        556.9200000000001,
+        397.584
+      ],
+      "family_id": "FC-A1",
+      "figure": 2,
+      "id": "fc-c03-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1262,
+      "image_sha256": "cb3d5298829ed28c3832ca3fa245b59de710599f4ad8ceaca5ef2ef9c7331334",
+      "image_width": 2016,
+      "mechanism_id": "M2",
+      "paper_id": "RFMR-CHI-2025-67edd15efb6aef668ea7",
+      "path": "assets/design-space-atlas/sources/fc-c03.png",
+      "physical_page": 6,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 2, PDF page 6",
+      "source_sha256": "8dff2a617bd6c8f2a85c5652493837b3f7ef04d1b2e13a9b054c7cac43d5646c",
+      "source_title": "Proxona: Supporting Creators’ Sensemaking and Ideation with LLM-Powered Audience Personas",
+      "source_url": "https://doi.org/10.1145/3706598.3714034",
+      "title": "Proxona: Supporting Creators’ Sensemaking and Ideation with LLM-Powered Audience Personas"
+    },
+    {
+      "alt": "A notebook presents a chart and its generated description together; the library also supports alternative output placements.",
+      "bibkey": "Nylund2025MatplotAltAP",
+      "callouts": [
+        {
+          "label": "Description surfaced as text",
+          "number": 1,
+          "x": 0.2,
+          "y": 0.54
+        },
+        {
+          "label": "The same chart remains visible",
+          "number": 2,
+          "x": 0.3,
+          "y": 0.8
+        }
+      ],
+      "caption": "A notebook presents a chart and its generated description together; the library also supports alternative output placements.",
+      "card_id": "RFMR-EUROVIS-2025-b99eea4a83ead84c2ce2",
+      "card_sha256": "d3293ddd7ed05951f08b598d72d24801e9b4bd5fe58cbef26fcba77dbe60abcb",
+      "category_ids": [
+        "FC-C04"
+      ],
+      "code_ids": [
+        "FC088"
+      ],
+      "credit": "Nylund, Kai and Mankoff, Jennifer and Potluri, Venkatesh; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.118,
+        0.349,
+        0.922,
+        0.713
+      ],
+      "crop_pdf_points": [
+        72.216,
+        276.40799999999996,
+        564.264,
+        564.696
+      ],
+      "family_id": "FC-A1",
+      "figure": 1,
+      "id": "fc-c04-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1154,
+      "image_sha256": "74832a0fd0624ef7cb5824ba9f3c0c2a3625204440fe59a73a4ee07f5b446467",
+      "image_width": 1970,
+      "mechanism_id": "M3",
+      "paper_id": "RFMR-EUROVIS-2025-b99eea4a83ead84c2ce2",
+      "path": "assets/design-space-atlas/sources/fc-c04.png",
+      "physical_page": 1,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 1, PDF page 1",
+      "source_sha256": "e2d2eed54886d4ca6bf2199010740aa7e085971132fb84958db03ed7ff06e4aa",
+      "source_title": "MatplotAlt: A Python Library for Adding Alt Text to Matplotlib Figures in Computational Notebooks",
+      "source_url": "https://doi.org/none_reported",
+      "title": "MatplotAlt: A Python Library for Adding Alt Text to Matplotlib Figures in Computational Notebooks"
+    },
+    {
+      "alt": "An idea is decomposed into linked, editable research-question, solution, evaluation and contribution nodes.",
+      "bibkey": "Pu2024IdeaSynthIR",
+      "callouts": [
+        {
+          "label": "Research question node",
+          "number": 6,
+          "x": 0.4,
+          "y": 0.2
+        },
+        {
+          "label": "Linked solution node",
+          "number": 7,
+          "x": 0.42,
+          "y": 0.53
+        }
+      ],
+      "caption": "An idea is decomposed into linked, editable research-question, solution, evaluation and contribution nodes.",
+      "card_id": "RFMR-CHI-2025-50756bb533f80e1e8052",
+      "card_sha256": "b9173fd777d4b70d5b18fa78e87fb82a3d29c766e1746417a0c5a28dd11a3252",
+      "category_ids": [
+        "FC-C05"
+      ],
+      "code_ids": [
+        "FC018"
+      ],
+      "credit": "Pu, Kevin and Feng, K. J. Kevin and Grossman, Tovi and Hope, Tom and Dalvi Mishra, Bhavana and Latzke, Matt and Bragg, Jonathan and Chang, Joseph Chee and Siangliulue, Pao; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.086,
+        0.104,
+        0.91,
+        0.756
+      ],
+      "crop_pdf_points": [
+        52.632,
+        82.368,
+        556.9200000000001,
+        598.752
+      ],
+      "family_id": "FC-A2",
+      "figure": 4,
+      "id": "fc-c05-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 2067,
+      "image_sha256": "9cef130d9d03f261bed4132988dd3b2cf6dcd615ef4acc409459050b2c5b3875",
+      "image_width": 2018,
+      "mechanism_id": "M1",
+      "paper_id": "RFMR-CHI-2025-50756bb533f80e1e8052",
+      "path": "assets/design-space-atlas/sources/fc-c05.png",
+      "physical_page": 8,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 4, PDF page 8",
+      "source_sha256": "91d7f3b05ef5a7b47d3e2692bb63a41de02a5321e035537fe13bdf2bf3417e0d",
+      "source_title": "Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback",
+      "source_url": "https://doi.org/10.1145/3706598.3714057",
+      "title": "Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback"
+    },
+    {
+      "alt": "The interface aligns multiple image descriptions in a detailed narrative and a separate discrepancy summary.",
+      "bibkey": "Chen2025SurfacingVT",
+      "callouts": [
+        {
+          "label": "Detailed merged description",
+          "number": 1,
+          "x": 0.45,
+          "y": 0.33
+        },
+        {
+          "label": "Agreements and disagreements",
+          "number": 2,
+          "x": 0.84,
+          "y": 0.35
+        }
+      ],
+      "caption": "The interface aligns multiple image descriptions in a detailed narrative and a separate discrepancy summary.",
+      "card_id": "RFMR-ASSETS-2025-d178773ec858512fb958",
+      "card_sha256": "fcdd853b640718b8372be8d56fe010ada7f36b952b7a896358409fe11d28c8e3",
+      "category_ids": [
+        "FC-C06"
+      ],
+      "code_ids": [
+        "FC024"
+      ],
+      "credit": "Chen, Meng and Iyer, Akhil and Pavel, Amy; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.089,
+        0.105,
+        0.91,
+        0.375
+      ],
+      "crop_pdf_points": [
+        54.467999999999996,
+        83.16,
+        556.9200000000001,
+        297.0
+      ],
+      "family_id": "FC-A2",
+      "figure": 2,
+      "id": "fc-c06-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 856,
+      "image_sha256": "7bb5c5863188cae59b1bcb32fa4cc27302fc5b66dddd967493162ff35e82dc74",
+      "image_width": 2011,
+      "mechanism_id": "M3",
+      "paper_id": "RFMR-ASSETS-2025-d178773ec858512fb958",
+      "path": "assets/design-space-atlas/sources/fc-c06.png",
+      "physical_page": 5,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 2, PDF page 5",
+      "source_sha256": "eca5163d206690a04b4deb35e7bd8388890bad16dd6884d96a05a6538ddd0957",
+      "source_title": "Surfacing Variations to Calibrate Perceived Reliability of MLLM-generated Image Descriptions",
+      "source_url": "https://doi.org/10.1145/3663547.3746393",
+      "title": "Surfacing Variations to Calibrate Perceived Reliability of MLLM-generated Image Descriptions"
+    },
+    {
+      "alt": "Related-search suggestions provide alternative formulations for continuing a search.",
+      "bibkey": "Oliveira2023From1B",
+      "callouts": [
+        {
+          "label": "Follow-on query formulations",
+          "number": 1,
+          "x": 0.72,
+          "y": 0.47
+        }
+      ],
+      "caption": "Related-search suggestions provide alternative formulations for continuing a search.",
+      "card_id": "RFMR-CHIIR-2023-a38f3be5eba2747aefd4",
+      "card_sha256": "05d1c3238f8bdac5f75a1d093499167a9c059f0dc7b55b2bf6c2688b4c481463",
+      "category_ids": [
+        "FC-C07"
+      ],
+      "code_ids": [
+        "FC030"
+      ],
+      "credit": "Oliveira, Bruno and Teixeira Lopes, Carla; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.517,
+        0.71,
+        0.914,
+        0.787
+      ],
+      "crop_pdf_points": [
+        316.404,
+        562.3199999999999,
+        559.368,
+        623.304
+      ],
+      "family_id": "FC-A2",
+      "figure": 16,
+      "id": "fc-c07-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 245,
+      "image_sha256": "cec99111233c84369c77a41b6c1c8bacd66d6d5546aab597a289fbecedeb0028",
+      "image_width": 973,
+      "mechanism_id": "M7",
+      "paper_id": "RFMR-CHIIR-2023-a38f3be5eba2747aefd4",
+      "path": "assets/design-space-atlas/sources/fc-c07.png",
+      "physical_page": 5,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 16, PDF page 5",
+      "source_sha256": "7a2d991e26f0c43bec3b03f9897d105bec396714bad12b8ce14a50d9221a6a6a",
+      "source_title": "From 10 Blue Links Pages to Feature-Full Search Engine Results Pages - Analysis of the Temporal Evolution of SERP Features",
+      "source_url": "https://doi.org/10.1145/3576840.3578307",
+      "title": "From 10 Blue Links Pages to Feature-Full Search Engine Results Pages - Analysis of the Temporal Evolution of SERP Features"
+    },
+    {
+      "alt": "An Insight Cart holds candidate facts for later selection into a connected data story.",
+      "bibkey": "Fu2025DataWeaverAD",
+      "callouts": [
+        {
+          "label": "Facts held in the Insight Cart",
+          "number": 1,
+          "x": 0.67,
+          "y": 0.52
+        },
+        {
+          "label": "Connected story components",
+          "number": 2,
+          "x": 0.3,
+          "y": 0.54
+        }
+      ],
+      "caption": "An Insight Cart holds candidate facts for later selection into a connected data story.",
+      "card_id": "RFMR-EUROVIS-2025-30ec2864c7cb422010d1",
+      "card_sha256": "4fcab16ad64e577d413fcb41d029a4db3c54b9228504869240c3e64fdaeabf7d",
+      "category_ids": [
+        "FC-C08"
+      ],
+      "code_ids": [
+        "FC082"
+      ],
+      "credit": "Fu, Y. and Bromley, D. and Setlur, V.; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.112,
+        0.098,
+        0.88,
+        0.387
+      ],
+      "crop_pdf_points": [
+        68.544,
+        77.616,
+        538.5600000000001,
+        306.504
+      ],
+      "family_id": "FC-A2",
+      "figure": 2,
+      "id": "fc-c08-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 917,
+      "image_sha256": "ef063957bb2af61c1abc0747c4e2ace4f7e00cbbbbcbaec98a0f87ffa41015b7",
+      "image_width": 1881,
+      "mechanism_id": "M3",
+      "paper_id": "RFMR-EUROVIS-2025-30ec2864c7cb422010d1",
+      "path": "assets/design-space-atlas/sources/fc-c08.png",
+      "physical_page": 5,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 2, PDF page 5",
+      "source_sha256": "df3d093431b6f60131c270c449c39fe8bd2d9c3023fac83c035031bb8b5703af",
+      "source_title": "DATAWEAVER: Authoring Data-Driven Narratives through the Integrated Composition of Visualization and Text",
+      "source_url": "https://doi.org/10.1111/cgf.70098",
+      "title": "DATAWEAVER: Authoring Data-Driven Narratives through the Integrated Composition of Visualization and Text"
+    },
+    {
+      "alt": "Situated keep/remove judgments supply examples of the content a person wants the classifier to retain.",
+      "bibkey": "Wang2024EndUA",
+      "callouts": [
+        {
+          "label": "Keep or remove this example",
+          "number": 1,
+          "x": 0.86,
+          "y": 0.32
+        },
+        {
+          "label": "Train the filter from labels",
+          "number": 2,
+          "x": 0.87,
+          "y": 0.9
+        }
+      ],
+      "caption": "Situated keep/remove judgments supply examples of the content a person wants the classifier to retain.",
+      "card_id": "RFMR-CHI-2025-8ef4184d4445b29b1783",
+      "card_sha256": "9d38ec40c4c08b2339eb6b9fcd136afc1088c5a7b16c3ead8b4ded03bd707caf",
+      "category_ids": [
+        "FC-C09"
+      ],
+      "code_ids": [
+        "FC054"
+      ],
+      "credit": "Wang, Leijie and Yurechko, Kathryn and Dani, Pranati and Chen, Quan Ze and Zhang, Amy X.; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.217,
+        0.426,
+        0.79,
+        0.57
+      ],
+      "crop_pdf_points": [
+        132.804,
+        337.392,
+        483.48,
+        451.43999999999994
+      ],
+      "family_id": "FC-A3",
+      "figure": 2,
+      "id": "fc-c09-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 457,
+      "image_sha256": "db17e72ce43fffd9561ed44d7a2f1e62972830efc8e8c94b009757872958913f",
+      "image_width": 1403,
+      "mechanism_id": "M1",
+      "paper_id": "RFMR-CHI-2025-8ef4184d4445b29b1783",
+      "path": "assets/design-space-atlas/sources/fc-c09.png",
+      "physical_page": 6,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 2, PDF page 6",
+      "source_sha256": "05fa6162ff9c56e63dc459c64ca334acffdc82cec82849ac3c03e7d1228175a1",
+      "source_title": "End User Authoring of Personalized Content Classifiers: Comparing Example Labeling, Rule Writing, and LLM Prompting",
+      "source_url": "https://doi.org/not_reported",
+      "title": "End User Authoring of Personalized Content Classifiers: Comparing Example Labeling, Rule Writing, and LLM Prompting"
+    },
+    {
+      "alt": "Viewers switch between sound sources, imitations and sensory descriptions for the same captioned material.",
+      "bibkey": "Huang2025CapTuneAN",
+      "callouts": [
+        {
+          "label": "Choose how the sound is represented",
+          "number": 5,
+          "x": 0.8,
+          "y": 0.75
+        }
+      ],
+      "caption": "Viewers switch between sound sources, imitations and sensory descriptions for the same captioned material.",
+      "card_id": "RFMR-ASSETS-2025-1d2087fd79ec57f2cce3",
+      "card_sha256": "6ba8908695f2f56dba6f5dc306ea5b340136f599a8d952021e0504d00533c7a6",
+      "category_ids": [
+        "FC-C10"
+      ],
+      "code_ids": [
+        "FC050"
+      ],
+      "credit": "Huang, Jeremy Zhengqi and de Lacerda Pataca, Caluã and Wu, Liang-Yuan and Jain, Dhruv; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.111,
+        0.104,
+        0.89,
+        0.598
+      ],
+      "crop_pdf_points": [
+        67.932,
+        82.368,
+        544.6800000000001,
+        473.616
+      ],
+      "family_id": "FC-A3",
+      "figure": 4,
+      "id": "fc-c10-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1566,
+      "image_sha256": "6a3782a79e7f31894b822d35d8e5b15e03028109a25b45f43362e51dac117eee",
+      "image_width": 1908,
+      "mechanism_id": "M6",
+      "paper_id": "RFMR-ASSETS-2025-1d2087fd79ec57f2cce3",
+      "path": "assets/design-space-atlas/sources/fc-c10.png",
+      "physical_page": 8,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 4, PDF page 8",
+      "source_sha256": "4d056cfe7875daa63c58ee62f3e541d1bb4f5ac16da6088c4e636252c165ce33",
+      "source_title": "CapTune: Adapting Non-Speech Captions With Anchored Generative Models",
+      "source_url": "https://doi.org/10.1145/3663547.3746346",
+      "title": "CapTune: Adapting Non-Speech Captions With Anchored Generative Models"
+    },
+    {
+      "alt": "A text snippet exposes explicit actions for generating a revised version while the author continues composing.",
+      "bibkey": "Lisnic2025PlumeST",
+      "callouts": [
+        {
+          "label": "Regenerate, shorten or simplify",
+          "number": 1,
+          "x": 0.54,
+          "y": 0.8
+        }
+      ],
+      "caption": "A text snippet exposes explicit actions for generating a revised version while the author continues composing.",
+      "card_id": "RFMR-CHI-2025-c5618f8c671fa24b6f7f",
+      "card_sha256": "72af72a98c0608ac39ff1c9947f59f3a2659f1daa4a9e79df080e11d43f4aaca",
+      "category_ids": [
+        "FC-C11"
+      ],
+      "code_ids": [
+        "FC110"
+      ],
+      "credit": "Lisnic, Maxim and Setlur, Vidya and Sultanum, Nicole; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.1,
+        0.103,
+        0.473,
+        0.505
+      ],
+      "crop_pdf_points": [
+        61.2,
+        81.576,
+        289.476,
+        399.96
+      ],
+      "family_id": "FC-A3",
+      "figure": 5,
+      "id": "fc-c11-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1274,
+      "image_sha256": "8966442530e85026b94a22872ca90fe68a15bb5160951df4e80469f14723c242",
+      "image_width": 914,
+      "mechanism_id": "M4",
+      "paper_id": "RFMR-CHI-2025-c5618f8c671fa24b6f7f",
+      "path": "assets/design-space-atlas/sources/fc-c11.png",
+      "physical_page": 11,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 5, PDF page 11",
+      "source_sha256": "c558eaba60f1b12f87fd31dacb00b23a97b0401cd05bd6fd1780cef2e7f38737",
+      "source_title": "Plume: Scaffolding Text Composition in Dashboards",
+      "source_url": "https://doi.org/10.1145/3706598.3713580",
+      "title": "Plume: Scaffolding Text Composition in Dashboards"
+    },
+    {
+      "alt": "Preservice teachers rehearse classroom discussion with represented students and a persistent dialogue history.",
+      "bibkey": "Barrett2025PatternAO",
+      "callouts": [
+        {
+          "label": "Dialogue history",
+          "number": 1,
+          "x": 0.3,
+          "y": 0.65
+        },
+        {
+          "label": "Teacher question entry",
+          "number": 2,
+          "x": 0.9,
+          "y": 0.08
+        }
+      ],
+      "caption": "Preservice teachers rehearse classroom discussion with represented students and a persistent dialogue history.",
+      "card_id": "RFMR-learning_LAK-2025-4f4213ab4e216bafdfcb",
+      "card_sha256": "7ec2d1169ed9940643daeb92e308cf09ee28681e3b268e9261e165fdb4ceb0bb",
+      "category_ids": [
+        "FC-C12"
+      ],
+      "code_ids": [
+        "FC096"
+      ],
+      "credit": "Barrett, Alex and Ke, Fengfeng and Zhang, Nuodi and Dai, Chih-Pu and Bhowmik, Saptarshi and Yuan, Xin; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.135,
+        0.104,
+        0.86,
+        0.393
+      ],
+      "crop_pdf_points": [
+        82.62,
+        82.368,
+        526.3199999999999,
+        311.25600000000003
+      ],
+      "family_id": "FC-A3",
+      "figure": 1,
+      "id": "fc-c12-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 917,
+      "image_sha256": "fc702abafb9261ca200a08981d57f6ca01d47e69d3f318c314ef0df132d93b48",
+      "image_width": 1776,
+      "mechanism_id": "M1",
+      "paper_id": "RFMR-learning_LAK-2025-4f4213ab4e216bafdfcb",
+      "path": "assets/design-space-atlas/sources/fc-c12.png",
+      "physical_page": 3,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 1, PDF page 3",
+      "source_sha256": "8afccb6871e8793f2ce59092f39cdb3895f6fe304e379366b396faf64871461b",
+      "source_title": "Pattern analysis of ambitious science talk between preservice teachers and AI-powered student agents",
+      "source_url": "https://doi.org/10.1145/3706468.3706570",
+      "title": "Pattern analysis of ambitious science talk between preservice teachers and AI-powered student agents"
+    },
+    {
+      "alt": "The study contrasts fixed energy-saving tips with a conversational condition that elicits household context.",
+      "bibkey": "Berney2024CareBasedEA",
+      "callouts": [
+        {
+          "label": "Fixed tips",
+          "number": 1,
+          "x": 0.28,
+          "y": 0.46
+        },
+        {
+          "label": "Conversational condition",
+          "number": 2,
+          "x": 0.91,
+          "y": 0.44
+        }
+      ],
+      "caption": "The study contrasts fixed energy-saving tips with a conversational condition that elicits household context.",
+      "card_id": "RFMR-CHI-2024-cee5fd1ac91b4343b88b",
+      "card_sha256": "2b283e6a3891d7f9b95309a91b42748596b9c997b3a55a1aa5160d54bb45f6fe",
+      "category_ids": [
+        "FC-C13"
+      ],
+      "code_ids": [
+        "FC040"
+      ],
+      "credit": "Berney, Manon and Ouaazki, Abdessalam and Macko, Vladimir and Kocher, Bruno and Holzer, Adrian; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.17,
+        0.11,
+        0.83,
+        0.269
+      ],
+      "crop_pdf_points": [
+        104.04,
+        87.12,
+        507.96,
+        213.048
+      ],
+      "family_id": "FC-A4",
+      "figure": 6,
+      "id": "fc-c13-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 505,
+      "image_sha256": "9a2493ae0332c0870500e891adbcd1f3ac8399e6a2ed5293e88c8ff216a420fa",
+      "image_width": 1616,
+      "mechanism_id": "M4",
+      "paper_id": "RFMR-CHI-2024-cee5fd1ac91b4343b88b",
+      "path": "assets/design-space-atlas/sources/fc-c13.png",
+      "physical_page": 6,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 6, PDF page 6",
+      "source_sha256": "9ce2b5b1cc57d0fbeb84605f2c7885a403e76cca80271838293552bf767c8cd8",
+      "source_title": "Care-Based Eco-Feedback Augmented with Generative AI: Fostering Pro-Environmental Behavior through Emotional Attachment",
+      "source_url": "https://doi.org/10.1145/3613904.3642296",
+      "title": "Care-Based Eco-Feedback Augmented with Generative AI: Fostering Pro-Environmental Behavior through Emotional Attachment"
+    },
+    {
+      "alt": "Persistent coverage bars and local unread-reference counts make progress through the literature visible.",
+      "bibkey": "Palani2023RelatedlySL",
+      "callouts": [
+        {
+          "label": "Paragraph and reference coverage",
+          "number": 1,
+          "x": 0.52,
+          "y": 0.07
+        },
+        {
+          "label": "Unread-reference count",
+          "number": 2,
+          "x": 0.22,
+          "y": 0.21
+        }
+      ],
+      "caption": "Persistent coverage bars and local unread-reference counts make progress through the literature visible.",
+      "card_id": "RFMR-CHI-2023-33a965c15c24742f83ac",
+      "card_sha256": "c0a25efe09b5224ae6577c3131800cb71049a173f7b6876719cc119bdff2d92f",
+      "category_ids": [
+        "FC-C14"
+      ],
+      "code_ids": [
+        "FC066"
+      ],
+      "credit": "Palani, Srishti and Naik, Aakanksha and Downey, Doug and Zhang, Amy X. and Bragg, Jonathan and Chang, Joseph Chee; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.087,
+        0.104,
+        0.91,
+        0.602
+      ],
+      "crop_pdf_points": [
+        53.244,
+        82.368,
+        556.9200000000001,
+        476.784
+      ],
+      "family_id": "FC-A4",
+      "figure": 1,
+      "id": "fc-c14-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1579,
+      "image_sha256": "952b3f09874d13136cdc7200940a3501ab27ed5dcb13c3ab6e7cc3602d701a43",
+      "image_width": 2016,
+      "mechanism_id": "M13",
+      "paper_id": "RFMR-CHI-2023-33a965c15c24742f83ac",
+      "path": "assets/design-space-atlas/sources/fc-c14.png",
+      "physical_page": 2,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 1, PDF page 2",
+      "source_sha256": "d2e291303731f344f500d093fb925b9219493f75bfcc36ccdb597e2389cc0fcb",
+      "source_title": "Relatedly: Scaffolding Literature Reviews with Existing Related Work Sections",
+      "source_url": "https://doi.org/10.1145/3544548.3580841",
+      "title": "Relatedly: Scaffolding Literature Reviews with Existing Related Work Sections"
+    },
+    {
+      "alt": "Historical equipment, skill and rune choices can be inspected beside controls revealing the current match.",
+      "bibkey": "Ma2025StratInconDA",
+      "callouts": [
+        {
+          "label": "Historical equipment choices",
+          "number": 1,
+          "x": 0.77,
+          "y": 0.16
+        },
+        {
+          "label": "Switch to current choices",
+          "number": 2,
+          "x": 0.91,
+          "y": 0.16
+        }
+      ],
+      "caption": "Historical equipment, skill and rune choices can be inspected beside controls revealing the current match.",
+      "card_id": "RFMR-IUI-2025-1462a00f09514b8042cb",
+      "card_sha256": "cfdc239b838d1bd857ad4003af5841a943bf0edbb93b6873d2fe8e37929f759a",
+      "category_ids": [
+        "FC-C15"
+      ],
+      "code_ids": [
+        "FC102"
+      ],
+      "credit": "Ma, Ruofei and Zhao, Yu and Shao, Yuheng and Yao, Yunjie and Li, Quan; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.516,
+        0.454,
+        0.913,
+        0.725
+      ],
+      "crop_pdf_points": [
+        315.79200000000003,
+        359.568,
+        558.756,
+        574.1999999999999
+      ],
+      "family_id": "FC-A4",
+      "figure": 8,
+      "id": "fc-c15-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 859,
+      "image_sha256": "94bccdee4f364167183991c168421e010cc1adeddf743ea8b42fd5ce840f3a36",
+      "image_width": 973,
+      "mechanism_id": "M9",
+      "paper_id": "RFMR-IUI-2025-1462a00f09514b8042cb",
+      "path": "assets/design-space-atlas/sources/fc-c15.png",
+      "physical_page": 12,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 8, PDF page 12",
+      "source_sha256": "51f4a7c9f0e33081712ee610735238c107c8450bcd67d86a06b2911f9c9bb6c2",
+      "source_title": "StratIncon Detector: Analyzing Strategy Inconsistencies Between Real-Time Strategy and Preferred Professional Strategy in MOBA Esports",
+      "source_url": "https://doi.org/10.1145/3708359.3712088",
+      "title": "StratIncon Detector: Analyzing Strategy Inconsistencies Between Real-Time Strategy and Preferred Professional Strategy in MOBA Esports"
+    },
+    {
+      "alt": "Stage criteria and a controller decision determine whether the creative problem-solving workflow advances.",
+      "bibkey": "Zha2024MentigoAI",
+      "callouts": [
+        {
+          "label": "Stage-specific completion criteria",
+          "number": 1,
+          "x": 0.43,
+          "y": 0.21
+        },
+        {
+          "label": "Decision to advance or remain",
+          "number": 2,
+          "x": 0.9,
+          "y": 0.26
+        }
+      ],
+      "caption": "Stage criteria and a controller decision determine whether the creative problem-solving workflow advances.",
+      "card_id": "RFMR-CHI-2025-d8500000e7f8db0586ac",
+      "card_sha256": "28690dd9c114ea07ad80819ebdfc6addb22e781846a190eec8c65a190c63948c",
+      "category_ids": [
+        "FC-C16"
+      ],
+      "code_ids": [
+        "FC074"
+      ],
+      "credit": "Zha, Siyu and Liu, Yujia and Zheng, Chengbo and Xu, Jiaqi and Yu, Fuze and Gong, Jiangtao and Xu, Yingqing; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.09,
+        0.107,
+        0.908,
+        0.46
+      ],
+      "crop_pdf_points": [
+        55.08,
+        84.744,
+        555.696,
+        364.32
+      ],
+      "family_id": "FC-A4",
+      "figure": 2,
+      "id": "fc-c16-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1120,
+      "image_sha256": "65f412bc68987a6a289b3ac0e799e22f94a7db944acac4752b0034a093d594bb",
+      "image_width": 2003,
+      "mechanism_id": "M1",
+      "paper_id": "RFMR-CHI-2025-d8500000e7f8db0586ac",
+      "path": "assets/design-space-atlas/sources/fc-c16.png",
+      "physical_page": 9,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 2, PDF page 9",
+      "source_sha256": "df1fb4bece224ee499b1a58614f13f206504c069e847aeacd5f41c287a7702f7",
+      "source_title": "Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process",
+      "source_url": "https://doi.org/not_reported",
+      "title": "Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process"
+    },
+    {
+      "alt": "A guided form elicits design context before the system customizes research cards.",
+      "bibkey": "Shin2025WhatAM",
+      "callouts": [
+        {
+          "label": "Who and what is being designed",
+          "number": 1,
+          "x": 0.28,
+          "y": 0.45
+        },
+        {
+          "label": "Select the design stage",
+          "number": 2,
+          "x": 0.28,
+          "y": 0.73
+        }
+      ],
+      "caption": "A guided form elicits design context before the system customizes research cards.",
+      "card_id": "RFMR-DIS-2025-da9a742bbe3afded5118",
+      "card_sha256": "17a7a290ca0c059f538d8b19548f9805d4cb7cc5d38cbcc3ed15224d4fbf069f",
+      "category_ids": [
+        "FC-C17"
+      ],
+      "code_ids": [
+        "FC059"
+      ],
+      "credit": "Shin, Donghoon and Chen, Tze-Yu and Hsieh, Gary and Wang, Lucy Lu; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.087,
+        0.104,
+        0.91,
+        0.457
+      ],
+      "crop_pdf_points": [
+        53.244,
+        82.368,
+        556.9200000000001,
+        361.944
+      ],
+      "family_id": "FC-A4",
+      "figure": 1,
+      "id": "fc-c17-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1119,
+      "image_sha256": "7dce2d4a29acb791f13999c9700867a16f9ec7a489dbceab7111b5991c54f58c",
+      "image_width": 2016,
+      "mechanism_id": "M1",
+      "paper_id": "RFMR-DIS-2025-da9a742bbe3afded5118",
+      "path": "assets/design-space-atlas/sources/fc-c17.png",
+      "physical_page": 7,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 1, PDF page 7",
+      "source_sha256": "36fb25164283953a40ae0c3981141dbbdfa528b98be1af93ce0b358db6183938",
+      "source_title": "What About My Design Context?: Exploring the Use of Generative AI to Support Customization of Translational Research Artifacts",
+      "source_url": "https://doi.org/10.1145/3715336.3735686",
+      "title": "What About My Design Context?: Exploring the Use of Generative AI to Support Customization of Translational Research Artifacts"
+    },
+    {
+      "alt": "Personas expose distinct stakeholder positions; separate controls support dialogue and staged exposure.",
+      "bibkey": "Zhang2024SeeWT",
+      "callouts": [
+        {
+          "label": "Distinct stakeholder profiles",
+          "number": 1,
+          "x": 0.1,
+          "y": 0.21
+        },
+        {
+          "label": "Progressive viewpoint sequence",
+          "number": 2,
+          "x": 0.59,
+          "y": 0.72
+        }
+      ],
+      "caption": "Personas expose distinct stakeholder positions; separate controls support dialogue and staged exposure.",
+      "card_id": "RFMR-CHI-2024-6e0022c6b061de1f7f04",
+      "card_sha256": "aec36de07c7e1c51daf0bd6b3aefb380b39d0d74cc4744cb70b2c3265727d1eb",
+      "category_ids": [
+        "FC-C18"
+      ],
+      "code_ids": [
+        "FC092"
+      ],
+      "credit": "Zhang, Yu and Sun, Jingwei and Feng, Li and Yao, Cen and Fan, Mingming and Zhang, Liuxin and Wang, Qianying and Geng, Xin and Rui, Yong; CC BY; cropped; numbered annotations added by this review.",
+      "crop_normalized": [
+        0.09,
+        0.108,
+        0.91,
+        0.529
+      ],
+      "crop_pdf_points": [
+        55.08,
+        85.536,
+        556.9200000000001,
+        418.968
+      ],
+      "family_id": "FC-A5",
+      "figure": 3,
+      "id": "fc-c18-source",
+      "image_generation": "direct crop from verified PDF page; no generated or altered paper imagery",
+      "image_height": 1334,
+      "image_sha256": "351ddbe6f209c3c8bbca134e57a308137de707153072ac12fb5706480c83256d",
+      "image_width": 2008,
+      "mechanism_id": "M1",
+      "paper_id": "RFMR-CHI-2024-6e0022c6b061de1f7f04",
+      "path": "assets/design-space-atlas/sources/fc-c18.png",
+      "physical_page": 7,
+      "source_licence": "cc-by",
+      "source_locator": "Figure 3, PDF page 7",
+      "source_sha256": "a001fc38967ccbb63a515cb009f8e406e5eb6a1916f09cd3f09e92a50ec44f82",
+      "source_title": "See Widely, Think Wisely: Toward Designing a Generative Multi-agent System to Burst Filter Bubbles",
+      "source_url": "https://doi.org/10.1145/3613904.3642545",
+      "title": "See Widely, Think Wisely: Toward Designing a Generative Multi-agent System to Burst Filter Bubbles"
+    }
+  ],
+  "schema_version": "1.0.0"
+}

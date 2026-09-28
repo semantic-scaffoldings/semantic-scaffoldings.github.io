@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="1008" height="396" viewBox="0 0 1008 396">
+<title id="figure-title">Support profiles within learning-evidence groups</title>
+<desc id="figure-description">A matrix over the 2,761 papers coded in both fields. Rows: the learning-evidence families, including the papers that measured no capability, with the number of papers in each. Columns: the facet families. Each cell is the share of the row&#x27;s papers carrying the column family, with the count. Descriptive; model-assisted grouping.</desc>
+<metadata>{&quot;figure_id&quot;:&quot;design_space_learning_by_reach&quot;,&quot;parity_spec_sha256&quot;:&quot;ffd1687bb43d514391f71c0264a1d6a107f35ef04085448e4a7d26bfde9026d0&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
+<rect x="0" y="0" width="1008" height="396" fill="#ffffff"/>
+<text x="0" y="22" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="start">
+<tspan x="0" dy="0">Support profiles within learning-evidence groups</tspan>
+</text>
+<text x="0" y="42" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">share of the row&#x27;s papers carrying each family; 2,761 papers coded in both fields</tspan>
+</text>
+<text x="250" y="78.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">
+<tspan x="250" dy="0">what the interface makes reachable</tspan>
+</text>
+<text x="325.8" y="96.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="325.8" dy="0">Organisation and</tspan>
+</text>
+<text x="325.8" y="109.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="325.8" dy="0">comparison</tspan>
+</text>
+<text x="477.4" y="96.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="477.4" dy="0">Guidance and</tspan>
+</text>
+<text x="477.4" y="109.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="477.4" dy="0">feedback</tspan>
+</text>
+<text x="629.0" y="96.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="629.0" dy="0">Explanation and</tspan>
+</text>
+<text x="629.0" y="109.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="629.0" dy="0">visibility</tspan>
+</text>
+<text x="780.6" y="96.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="780.6" dy="0">User control and</tspan>
+</text>
+<text x="780.6" y="109.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="780.6" dy="0">expression</tspan>
+</text>
+<text x="932.2" y="96.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="932.2" dy="0">Collaboration and</tspan>
+</text>
+<text x="932.2" y="109.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="932.2" dy="0">perspective</tspan>
+</text>
+<text x="0" y="120.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">
+<tspan x="0" dy="0">learning evidence</tspan>
+</text>
+<text x="0" y="148.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Learning not measured</tspan>
+</text>
+<text x="0" y="161.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">n = 1,334 papers</tspan>
+</text>
+<rect x="252.0" y="134.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="325.8" y="150.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="325.8" dy="0">73.8%</tspan>
+</text>
+<text x="325.8" y="164.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="325.8" dy="0">985</tspan>
+</text>
+<rect x="403.6" y="134.0" width="147.6" height="36" rx="3" fill="#f2d5bf" stroke="#ffffff" stroke-width="1"/>
+<text x="477.4" y="150.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="477.4" dy="0">66.9%</tspan>
+</text>
+<text x="477.4" y="164.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="477.4" dy="0">893</tspan>
+</text>
+<rect x="555.2" y="134.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="629.0" y="150.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="629.0" dy="0">64.2%</tspan>
+</text>
+<text x="629.0" y="164.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="629.0" dy="0">856</tspan>
+</text>
+<rect x="706.8" y="134.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="780.6" y="150.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="780.6" dy="0">52.5%</tspan>
+</text>
+<text x="780.6" y="164.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="780.6" dy="0">701</tspan>
+</text>
+<rect x="858.4" y="134.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="932.2" y="150.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="932.2" dy="0">11.4%</tspan>
+</text>
+<text x="932.2" y="164.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="932.2" dy="0">152</tspan>
+</text>
+<text x="0" y="194.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">A proxy measured instead</tspan>
+</text>
+<text x="0" y="207.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">n = 1,039 papers</tspan>
+</text>
+<rect x="252.0" y="180.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="325.8" y="196.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="325.8" dy="0">71.3%</tspan>
+</text>
+<text x="325.8" y="210.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="325.8" dy="0">741</tspan>
+</text>
+<rect x="403.6" y="180.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="477.4" y="196.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="477.4" dy="0">74.1%</tspan>
+</text>
+<text x="477.4" y="210.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="477.4" dy="0">770</tspan>
+</text>
+<rect x="555.2" y="180.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="629.0" y="196.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="629.0" dy="0">61.5%</tspan>
+</text>
+<text x="629.0" y="210.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="629.0" dy="0">639</tspan>
+</text>
+<rect x="706.8" y="180.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="780.6" y="196.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="780.6" dy="0">50.0%</tspan>
+</text>
+<text x="780.6" y="210.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="780.6" dy="0">520</tspan>
+</text>
+<rect x="858.4" y="180.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="932.2" y="196.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="932.2" dy="0">14.6%</tspan>
+</text>
+<text x="932.2" y="210.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="932.2" dy="0">152</tspan>
+</text>
+<text x="0" y="240.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Learning measured</tspan>
+</text>
+<text x="0" y="253.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">n = 258 papers</tspan>
+</text>
+<rect x="252.0" y="226.0" width="147.6" height="36" rx="3" fill="#faefe5" stroke="#ffffff" stroke-width="1"/>
+<text x="325.8" y="242.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="325.8" dy="0">60.9%</tspan>
+</text>
+<text x="325.8" y="256.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="325.8" dy="0">157</tspan>
+</text>
+<rect x="403.6" y="226.0" width="147.6" height="36" rx="3" fill="#a8501c" stroke="#ffffff" stroke-width="1"/>
+<text x="477.4" y="242.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="477.4" dy="0">82.9%</tspan>
+</text>
+<text x="477.4" y="256.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="477.4" dy="0">214</tspan>
+</text>
+<rect x="555.2" y="226.0" width="147.6" height="36" rx="3" fill="#f2d5bf" stroke="#ffffff" stroke-width="1"/>
+<text x="629.0" y="242.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="629.0" dy="0">57.4%</tspan>
+</text>
+<text x="629.0" y="256.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="629.0" dy="0">148</tspan>
+</text>
+<rect x="706.8" y="226.0" width="147.6" height="36" rx="3" fill="#faefe5" stroke="#ffffff" stroke-width="1"/>
+<text x="780.6" y="242.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="780.6" dy="0">41.5%</tspan>
+</text>
+<text x="780.6" y="256.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="780.6" dy="0">107</tspan>
+</text>
+<rect x="858.4" y="226.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="932.2" y="242.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="932.2" dy="0">14.3%</tspan>
+</text>
+<text x="932.2" y="256.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="932.2" dy="0">37</tspan>
+</text>
+<text x="0" y="286.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Learning self-reported only</tspan>
+</text>
+<text x="0" y="299.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">n = 130 papers</tspan>
+</text>
+<rect x="252.0" y="272.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="325.8" y="288.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="325.8" dy="0">71.5%</tspan>
+</text>
+<text x="325.8" y="302.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="325.8" dy="0">93</tspan>
+</text>
+<rect x="403.6" y="272.0" width="147.6" height="36" rx="3" fill="#a8501c" stroke="#ffffff" stroke-width="1"/>
+<text x="477.4" y="288.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="477.4" dy="0">84.6%</tspan>
+</text>
+<text x="477.4" y="302.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="477.4" dy="0">110</tspan>
+</text>
+<rect x="555.2" y="272.0" width="147.6" height="36" rx="3" fill="#e6ad84" stroke="#ffffff" stroke-width="1"/>
+<text x="629.0" y="288.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="629.0" dy="0">63.8%</tspan>
+</text>
+<text x="629.0" y="302.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="629.0" dy="0">83</tspan>
+</text>
+<rect x="706.8" y="272.0" width="147.6" height="36" rx="3" fill="#cf7f45" stroke="#ffffff" stroke-width="1"/>
+<text x="780.6" y="288.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="780.6" dy="0">54.6%</tspan>
+</text>
+<text x="780.6" y="302.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="780.6" dy="0">71</tspan>
+</text>
+<rect x="858.4" y="272.0" width="147.6" height="36" rx="3" fill="#cf7f45" stroke="#ffffff" stroke-width="1"/>
+<text x="932.2" y="288.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="932.2" dy="0">20.0%</tspan>
+</text>
+<text x="932.2" y="302.0" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="932.2" dy="0">26</tspan>
+</text>
+<line x1="0" y1="318.0" x2="1008.0" y2="318.0" stroke="#c8d1d9" stroke-width="1"/>
+<text x="0" y="336.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">
+<tspan x="0" dy="0">all papers in the matrix</tspan>
+</text>
+<text x="0" y="349.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">n = 2,761 papers</tspan>
+</text>
+<text x="325.8" y="338.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="325.8" dy="0">71.6%</tspan>
+</text>
+<text x="477.4" y="338.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="477.4" dy="0">72.0%</tspan>
+</text>
+<text x="629.0" y="338.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="629.0" dy="0">62.5%</tspan>
+</text>
+<text x="780.6" y="338.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="780.6" dy="0">50.7%</tspan>
+</text>
+<text x="932.2" y="338.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<tspan x="932.2" dy="0">13.3%</tspan>
+</text>
+<text x="0" y="370.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">colour: the row&#x27;s share against the column&#x27;s share over all papers; dark is 8 points or more above, pale 8 or</tspan>
+<tspan x="0" dy="17">more below</tspan>
+</text>
+</svg>

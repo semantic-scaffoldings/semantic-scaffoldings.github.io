@@ -1,0 +1,497 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="1049" viewBox="0 0 1008 1049" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Semantic scaffolding design atlas</title><desc id="atlas-description">Eighteen interface schematics grouped into five design families. Orange highlights each illustrated operation. These are conceptual examples, not source screenshots or quantitative marks.</desc><rect width="1008" height="1049" fill="white"/><text x="24" y="35" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="24" dy="0">What does the interface make possible?</tspan>
+</text>
+<text x="24" y="67" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="24" dy="0">Five design families · eighteen categories · 110 retained distinctions</tspan>
+</text>
+<g data-family="FC-A1" role="group" aria-label="Explanation and visibility">
+<text x="24" y="115" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="24" dy="0">Explanation and visibility</tspan>
+</text>
+<text x="440" y="114" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="440" dy="0">What can a person inspect and understand?</tspan>
+</text>
+<line x1="24" y1="129" x2="984" y2="129" stroke="#17232e" stroke-width="1.5"/>
+<g data-category="FC-C01" data-schematic="explain" role="group" aria-label="Explaining system behaviour">
+<title>Which aspect of the system is made inspectable?</title>
+<rect x="34.3729" y="157.298" width="47.7969" height="39.1479" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="39.8354" y1="166.402" x2="76.7073" y2="166.402" stroke="#566574" stroke-width="1.7"/>
+<line x1="39.8354" y1="172.775" x2="69.8792" y2="172.775" stroke="#566574" stroke-width="1.7"/>
+<line x1="39.8354" y1="179.148" x2="76.7073" y2="179.148" stroke="#566574" stroke-width="1.7"/>
+<line x1="84.4458" y1="176.872" x2="111.758" y2="176.872" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="111.758" y1="176.872" x2="108.001" y2="179.442" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="111.758" y1="176.872" x2="108.001" y2="174.302" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="114.49" y="150.015" width="56.901" height="46.8865" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="119.952" y1="159.119" x2="165.928" y2="159.119" stroke="#566574" stroke-width="1.7"/>
+<line x1="119.952" y1="165.492" x2="159.1" y2="165.492" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="119.952" y1="171.865" x2="165.928" y2="171.865" stroke="#566574" stroke-width="1.7"/>
+<rect x="183.681" y="159.119" width="54.625" height="9.10417" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="183.681" y="173.23" width="37.3271" height="9.10417" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="183.681" y="187.342" width="20.4844" height="9.10417" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="171.391" y1="175.506" x2="181.86" y2="175.506" stroke="#a8501c" stroke-width="2.4"/>
+<text x="24" y="240" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="24" dy="0">Explaining system</tspan>
+<tspan x="24" dy="23">behaviour</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C01" target="_top" aria-label="Explaining system behaviour"><rect x="24" y="135" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C02" data-schematic="evidence" role="group" aria-label="Sources and evidence">
+<title>How can a result be traced or checked?</title>
+<rect x="278.873" y="163.216" width="60.9979" height="41.8792" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="284.335" y1="172.32" x2="334.408" y2="172.32" stroke="#566574" stroke-width="1.7"/>
+<line x1="284.335" y1="178.693" x2="327.58" y2="178.693" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="284.335" y1="185.066" x2="334.408" y2="185.066" stroke="#566574" stroke-width="1.7"/>
+<line x1="343.512" y1="182.79" x2="377.198" y2="182.79" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="377.198" y1="182.79" x2="373.441" y2="185.36" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="377.198" y1="182.79" x2="373.441" y2="180.219" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="401.324" y="149.104" width="68.7365" height="51.4385" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="406.786" y1="158.208" x2="464.598" y2="158.208" stroke="#566574" stroke-width="1.7"/>
+<line x1="406.786" y1="164.581" x2="457.77" y2="164.581" stroke="#566574" stroke-width="1.7"/>
+<line x1="406.786" y1="170.954" x2="464.598" y2="170.954" stroke="#566574" stroke-width="1.7"/>
+<rect x="389.033" y="157.753" width="68.7365" height="51.4385" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="394.496" y1="166.857" x2="452.307" y2="166.857" stroke="#566574" stroke-width="1.7"/>
+<line x1="394.496" y1="173.23" x2="445.479" y2="173.23" stroke="#566574" stroke-width="1.7"/>
+<line x1="394.496" y1="179.603" x2="452.307" y2="179.603" stroke="#566574" stroke-width="1.7"/>
+<rect x="394.496" y="174.141" width="55.9906" height="8.19375" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<text x="268.5" y="240" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="268.5" dy="0">Sources and evidence</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C02" target="_top" aria-label="Sources and evidence"><rect x="268.5" y="135" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C03" data-schematic="summarise" role="group" aria-label="Summarising and labelling content">
+<title>How is content condensed, interpreted or recast?</title>
+<rect x="527.015" y="146.828" width="60.5427" height="66.9156" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="155.932" x2="582.095" y2="155.932" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="162.305" x2="575.267" y2="162.305" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="168.678" x2="582.095" y2="168.678" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="175.051" x2="575.267" y2="175.051" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="181.424" x2="582.095" y2="181.424" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="187.797" x2="575.267" y2="187.797" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="194.17" x2="582.095" y2="194.17" stroke="#566574" stroke-width="1.7"/>
+<line x1="532.477" y1="200.543" x2="575.267" y2="200.543" stroke="#566574" stroke-width="1.7"/>
+<line x1="593.93" y1="180.514" x2="631.712" y2="180.514" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="631.712" y1="180.514" x2="627.956" y2="183.084" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="631.712" y1="180.514" x2="627.956" y2="177.943" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="639.451" y="163.216" width="75.5646" height="35.9615" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="644.914" y1="172.32" x2="709.553" y2="172.32" stroke="#566574" stroke-width="1.7"/>
+<line x1="644.914" y1="178.693" x2="702.725" y2="178.693" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="644.914" y1="185.066" x2="709.553" y2="185.066" stroke="#566574" stroke-width="1.7"/>
+<text x="513" y="240" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="513" dy="0">Summarising and</tspan>
+<tspan x="513" dy="23">labelling content</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C03" target="_top" aria-label="Summarising and labelling content"><rect x="513" y="135" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C04" data-schematic="represent" role="group" aria-label="Visual and sensory representation">
+<title>Through which form can a person perceive meaning?</title>
+<rect x="767.873" y="168.678" width="45.0656" height="37.3271" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="773.335" y1="177.782" x2="807.476" y2="177.782" stroke="#566574" stroke-width="1.7"/>
+<line x1="773.335" y1="184.155" x2="800.648" y2="184.155" stroke="#566574" stroke-width="1.7"/>
+<line x1="773.335" y1="190.528" x2="807.476" y2="190.528" stroke="#566574" stroke-width="1.7"/>
+<line x1="816.58" y1="187.342" x2="843.893" y2="187.342" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="843.893" y1="187.342" x2="840.136" y2="189.912" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="843.893" y1="187.342" x2="840.136" y2="184.771" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="853.452" y="153.201" width="24.5813" height="40.0583" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="855.728" y="179.603" width="4.55208" height="10.925" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="862.556" y="163.671" width="4.55208" height="26.8573" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="869.384" y="172.775" width="4.55208" height="17.7531" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="891.69" y1="175.051" x2="891.69" y2="181.424" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="897.152" y1="169.133" x2="897.152" y2="187.342" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="902.615" y1="163.216" x2="902.615" y2="193.259" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="908.077" y1="175.051" x2="908.077" y2="181.424" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="913.54" y1="169.133" x2="913.54" y2="187.342" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="919.002" y1="163.216" x2="919.002" y2="193.259" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="924.465" y1="175.051" x2="924.465" y2="181.424" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="948.591" cy="161.395" r="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="958.605" cy="161.395" r="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="948.591" cy="174.141" r="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="958.605" cy="174.141" r="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="948.591" cy="186.886" r="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="958.605" cy="186.886" r="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<text x="757.5" y="240" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="757.5" dy="0">Visual and sensory</tspan>
+<tspan x="757.5" dy="23">representation</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C04" target="_top" aria-label="Visual and sensory representation"><rect x="757.5" y="135" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<a href="../../design-space-atlas.html#FC-A1" target="_top" aria-label="Explanation and visibility"><rect x="24" y="92" width="960" height="36" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-family="FC-A2" role="group" aria-label="Organisation and comparison">
+<text x="24" y="313" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="24" dy="0">Organisation and comparison</tspan>
+</text>
+<text x="440" y="312" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="440" dy="0">How can a person organise and compare material?</tspan>
+</text>
+<line x1="24" y1="327" x2="984" y2="327" stroke="#17232e" stroke-width="1.5"/>
+<g data-category="FC-C05" data-schematic="organise" role="group" aria-label="Organising and structuring">
+<title>Which relationships give material its structure?</title>
+<rect x="33.4625" y="350.291" width="14.5667" height="12.7458" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="53.0365" y="350.291" width="14.5667" height="12.7458" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="33.4625" y="368.044" width="14.5667" height="12.7458" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="53.0365" y="368.044" width="14.5667" height="12.7458" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="33.4625" y="385.797" width="14.5667" height="12.7458" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="53.0365" y="385.797" width="14.5667" height="12.7458" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="75.7969" y1="375.782" x2="100.833" y2="375.782" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="100.833" y1="375.782" x2="97.0763" y2="378.353" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="100.833" y1="375.782" x2="97.0763" y2="373.212" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="120.862" y1="358.029" x2="144.078" y2="378.969" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="144.078" y1="378.969" x2="120.407" y2="400.819" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="144.078" y1="378.969" x2="170.48" y2="368.044" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="144.078" y1="378.969" x2="175.943" y2="398.543" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="120.862" cy="358.029" r="5.91771" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="144.078" cy="378.969" r="5.91771" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="120.407" cy="400.819" r="5.91771" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="170.48" cy="368.044" r="5.91771" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="175.943" cy="398.543" r="5.91771" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="196.427" y="348.015" width="42.7896" height="59.1771" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="200.524" y="355.753" width="34.5958" height="17.2979" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="200.524" y="376.693" width="34.5958" height="24.126" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<text x="24" y="438" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="24" dy="0">Organising and</tspan>
+<tspan x="24" dy="23">structuring</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C05" target="_top" aria-label="Organising and structuring"><rect x="24" y="333" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C06" data-schematic="compare" role="group" aria-label="Comparing alternatives">
+<title>What is placed in a common comparison frame?</title>
+<rect x="287.522" y="349.835" width="72.8333" height="56.901" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="292.984" y1="358.94" x2="354.893" y2="358.94" stroke="#566574" stroke-width="1.7"/>
+<line x1="292.984" y1="365.312" x2="348.065" y2="365.312" stroke="#566574" stroke-width="1.7"/>
+<line x1="292.984" y1="371.685" x2="354.893" y2="371.685" stroke="#566574" stroke-width="1.7"/>
+<rect x="394.496" y="349.835" width="72.8333" height="56.901" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="399.958" y1="358.94" x2="461.867" y2="358.94" stroke="#566574" stroke-width="1.7"/>
+<line x1="399.958" y1="365.312" x2="455.039" y2="365.312" stroke="#566574" stroke-width="1.7"/>
+<line x1="399.958" y1="371.685" x2="461.867" y2="371.685" stroke="#566574" stroke-width="1.7"/>
+<rect x="292.984" y="375.782" width="61.4531" height="9.10417" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="399.958" y="375.782" width="61.4531" height="9.10417" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="360.355" y1="380.334" x2="394.496" y2="380.334" stroke="#a8501c" stroke-width="2.4"/>
+<text x="268.5" y="438" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="268.5" dy="0">Comparing alternatives</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C06" target="_top" aria-label="Comparing alternatives"><rect x="268.5" y="333" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C07" data-schematic="search" role="group" aria-label="Search, filtering and ranking">
+<title>How is relevant material found and brought into view?</title>
+<rect x="523.828" y="364.857" width="61.9083" height="24.5813" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="532.932" cy="374.872" r="4.55208" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<line x1="535.664" y1="378.058" x2="540.671" y2="382.61" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="547.954" y1="374.872" x2="578.908" y2="374.872" stroke="#566574" stroke-width="1.7"/>
+<line x1="591.199" y1="377.148" x2="622.608" y2="377.148" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="622.608" y1="377.148" x2="618.851" y2="379.718" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="622.608" y1="377.148" x2="618.851" y2="374.578" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="630.802" y="346.194" width="90.5865" height="16.3875" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="639.906" y1="354.387" x2="699.539" y2="354.387" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="630.802" y="368.499" width="90.5865" height="16.3875" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="639.906" y1="376.693" x2="686.793" y2="376.693" stroke="#566574" stroke-width="1.7"/>
+<rect x="630.802" y="390.804" width="90.5865" height="16.3875" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="639.906" y1="398.998" x2="674.047" y2="398.998" stroke="#a8501c" stroke-width="2.4"/>
+<text x="513" y="438" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="513" dy="0">Search, filtering and</tspan>
+<tspan x="513" dy="23">ranking</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C07" target="_top" aria-label="Search, filtering and ranking"><rect x="513" y="333" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C08" data-schematic="remember" role="group" aria-label="Notes, history and memory">
+<title>What is kept available for continuing the work?</title>
+<rect x="771.515" y="346.649" width="115.168" height="59.1771" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="778.343" y="354.843" width="41.424" height="33.2302" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="783.805" y1="363.947" x2="814.304" y2="363.947" stroke="#566574" stroke-width="1.7"/>
+<line x1="783.805" y1="370.32" x2="807.476" y2="370.32" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="783.805" y1="376.693" x2="814.304" y2="376.693" stroke="#566574" stroke-width="1.7"/>
+<rect x="826.14" y="367.589" width="52.8042" height="30.499" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="831.602" y1="376.693" x2="873.481" y2="376.693" stroke="#566574" stroke-width="1.7"/>
+<line x1="831.602" y1="383.066" x2="866.653" y2="383.066" stroke="#566574" stroke-width="1.7"/>
+<line x1="831.602" y1="389.439" x2="873.481" y2="389.439" stroke="#566574" stroke-width="1.7"/>
+<line x1="893.055" y1="374.417" x2="918.547" y2="374.417" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="918.547" y1="374.417" x2="914.79" y2="376.987" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="918.547" y1="374.417" x2="914.79" y2="371.846" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="924.009" y="350.291" width="46.8865" height="47.7969" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="929.472" y1="359.395" x2="965.433" y2="359.395" stroke="#566574" stroke-width="1.7"/>
+<line x1="929.472" y1="365.768" x2="958.605" y2="365.768" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="929.472" y1="372.141" x2="965.433" y2="372.141" stroke="#566574" stroke-width="1.7"/>
+<circle cx="799.737" cy="416.751" r="3.18646" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<line x1="803.379" y1="416.751" x2="854.818" y2="416.751" stroke="#566574" stroke-width="1.7"/>
+<circle cx="858.459" cy="416.751" r="3.18646" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<line x1="862.101" y1="416.751" x2="913.54" y2="416.751" stroke="#566574" stroke-width="1.7"/>
+<circle cx="917.181" cy="416.751" r="3.18646" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<text x="757.5" y="438" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="757.5" dy="0">Notes, history and</tspan>
+<tspan x="757.5" dy="23">memory</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C08" target="_top" aria-label="Notes, history and memory"><rect x="757.5" y="333" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<a href="../../design-space-atlas.html#FC-A2" target="_top" aria-label="Organisation and comparison"><rect x="24" y="290" width="960" height="36" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-family="FC-A3" role="group" aria-label="User control and expression">
+<text x="24" y="511" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="24" dy="0">User control and expression</tspan>
+</text>
+<text x="440" y="510" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="440" dy="0">What can a person express, change or try?</tspan>
+</text>
+<line x1="24" y1="525" x2="984" y2="525" stroke="#17232e" stroke-width="1.5"/>
+<g data-category="FC-C09" data-schematic="specify" role="group" aria-label="Goals and constraints">
+<title>How does a person specify what the system should do?</title>
+<circle cx="47.1187" cy="558.76" r="6.37292" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<line x1="47.1187" y1="565.133" x2="47.1187" y2="584.252" stroke="#566574" stroke-width="1.7"/>
+<line x1="36.649" y1="574.237" x2="57.5885" y2="574.237" stroke="#566574" stroke-width="1.7"/>
+<line x1="47.1187" y1="584.252" x2="38.925" y2="593.811" stroke="#566574" stroke-width="1.7"/>
+<line x1="47.1187" y1="584.252" x2="55.3125" y2="593.811" stroke="#566574" stroke-width="1.7"/>
+<line x1="63.5063" y1="577.424" x2="93.55" y2="577.424" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="93.55" y1="577.424" x2="89.793" y2="579.994" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="93.55" y1="577.424" x2="89.793" y2="574.854" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="101.289" y="545.104" width="66.9156" height="52.8042" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="106.751" y1="554.208" x2="162.742" y2="554.208" stroke="#566574" stroke-width="1.7"/>
+<line x1="106.751" y1="560.581" x2="155.914" y2="560.581" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="106.751" y1="566.954" x2="162.742" y2="566.954" stroke="#566574" stroke-width="1.7"/>
+<line x1="173.211" y1="572.872" x2="194.151" y2="572.872" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="194.151" y1="572.872" x2="190.394" y2="575.442" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="194.151" y1="572.872" x2="190.394" y2="570.302" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="198.703" y="556.94" width="41.424" height="39.6031" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7" stroke-dasharray="6 5"/>
+<text x="24" y="636" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="24" dy="0">Goals and constraints</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C09" target="_top" aria-label="Goals and constraints"><rect x="24" y="531" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C10" data-schematic="control" role="group" aria-label="Editing and steering">
+<title>Where can a person intervene in the work?</title>
+<rect x="284.335" y="546.47" width="69.1917" height="50.5281" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="289.798" y1="555.574" x2="348.065" y2="555.574" stroke="#566574" stroke-width="1.7"/>
+<line x1="289.798" y1="561.947" x2="341.236" y2="561.947" stroke="#566574" stroke-width="1.7"/>
+<line x1="289.798" y1="568.32" x2="348.065" y2="568.32" stroke="#566574" stroke-width="1.7"/>
+<line x1="359.445" y1="571.506" x2="389.489" y2="571.506" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="389.489" y1="571.506" x2="385.732" y2="574.077" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="389.489" y1="571.506" x2="385.732" y2="568.936" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="398.137" y="546.47" width="76.0198" height="50.5281" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="403.6" y1="555.574" x2="468.695" y2="555.574" stroke="#566574" stroke-width="1.7"/>
+<line x1="403.6" y1="561.947" x2="461.867" y2="561.947" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="403.6" y1="568.32" x2="468.695" y2="568.32" stroke="#566574" stroke-width="1.7"/>
+<line x1="404.51" y1="570.141" x2="468.695" y2="570.141" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="293.895" y1="612.475" x2="469.15" y2="612.475" stroke="#566574" stroke-width="1.7"/>
+<circle cx="401.324" cy="612.475" r="4.55208" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<text x="268.5" y="636" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="268.5" dy="0">Editing and steering</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C10" target="_top" aria-label="Editing and steering"><rect x="268.5" y="531" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C11" data-schematic="alternatives" role="group" aria-label="Generating and choosing alternatives">
+<title>How are possibilities offered and shaped?</title>
+<rect x="523.373" y="540.552" width="206.209" height="66.0052" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7" stroke-dasharray="6 5"/>
+<rect x="529.746" y="547.38" width="51.4385" height="49.1625" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="535.208" y1="556.484" x2="575.722" y2="556.484" stroke="#566574" stroke-width="1.7"/>
+<line x1="535.208" y1="562.857" x2="568.894" y2="562.857" stroke="#566574" stroke-width="1.7"/>
+<rect x="599.393" y="554.208" width="51.4385" height="49.1625" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="604.855" y1="563.312" x2="645.369" y2="563.312" stroke="#566574" stroke-width="1.7"/>
+<line x1="604.855" y1="569.685" x2="638.541" y2="569.685" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="604.855" y1="576.058" x2="645.369" y2="576.058" stroke="#566574" stroke-width="1.7"/>
+<rect x="669.04" y="547.38" width="51.4385" height="49.1625" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="674.502" y1="556.484" x2="715.016" y2="556.484" stroke="#566574" stroke-width="1.7"/>
+<line x1="674.502" y1="562.857" x2="708.188" y2="562.857" stroke="#566574" stroke-width="1.7"/>
+<line x1="674.502" y1="569.23" x2="715.016" y2="569.23" stroke="#566574" stroke-width="1.7"/>
+<line x1="674.502" y1="575.603" x2="708.188" y2="575.603" stroke="#566574" stroke-width="1.7"/>
+<text x="513" y="636" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="513" dy="0">Generating and</tspan>
+<tspan x="513" dy="23">choosing alternatives</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C11" target="_top" aria-label="Generating and choosing alternatives"><rect x="513" y="531" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C12" data-schematic="simulate" role="group" aria-label="What-if exploration and rehearsal">
+<title>What can be tried before acting in the real setting?</title>
+<rect x="771.059" y="548.291" width="75.1094" height="51.8938" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<circle cx="786.536" cy="565.133" r="5.4625" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<rect x="805.655" y="575.603" width="26.8573" height="12.7458" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="852.086" y1="575.148" x2="885.772" y2="575.148" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="885.772" y1="575.148" x2="882.015" y2="577.718" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="885.772" y1="575.148" x2="882.015" y2="572.578" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="894.876" y="544.194" width="78.751" height="61.4531" rx="2.27604" fill="#ffffff" stroke="#566574" stroke-width="1.7" stroke-dasharray="6 5"/>
+<circle cx="911.264" cy="584.707" r="5.4625" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<rect x="930.837" y="556.029" width="28.2229" height="12.7458" rx="2.27604" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<text x="757.5" y="636" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="757.5" dy="0">What-if exploration and</tspan>
+<tspan x="757.5" dy="23">rehearsal</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C12" target="_top" aria-label="What-if exploration and rehearsal"><rect x="757.5" y="531" width="226.5" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<a href="../../design-space-atlas.html#FC-A3" target="_top" aria-label="User control and expression"><rect x="24" y="488" width="960" height="36" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-family="FC-A4" role="group" aria-label="Guidance and feedback">
+<text x="24" y="709" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="24" dy="0">Guidance and feedback</tspan>
+</text>
+<text x="440" y="708" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="440" dy="0">How is the next action or reflection supported?</tspan>
+</text>
+<line x1="24" y1="723" x2="984" y2="723" stroke="#17232e" stroke-width="1.5"/>
+<g data-category="FC-C13" data-schematic="guide" role="group" aria-label="Recommendations and guidance">
+<title>What helps a person decide where to look or what to do?</title>
+<rect x="32.9467" y="744.6" width="47.7" height="40.9867" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="37.1867" y1="751.667" x2="76.4067" y2="751.667" stroke="#566574" stroke-width="1.7"/>
+<line x1="37.1867" y1="756.613" x2="71.1067" y2="756.613" stroke="#566574" stroke-width="1.7"/>
+<line x1="37.1867" y1="761.56" x2="76.4067" y2="761.56" stroke="#566574" stroke-width="1.7"/>
+<circle cx="67.9267" cy="759.44" r="8.48" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="87.0067" y1="764.033" x2="108.207" y2="764.033" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="108.207" y1="764.033" x2="105.29" y2="766.028" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="108.207" y1="764.033" x2="105.29" y2="762.038" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="115.273" y="747.427" width="74.2" height="34.6267" rx="1.76667" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="119.513" y1="754.493" x2="185.233" y2="754.493" stroke="#566574" stroke-width="1.7"/>
+<line x1="119.513" y1="759.44" x2="179.933" y2="759.44" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="119.513" y1="764.387" x2="185.233" y2="764.387" stroke="#566574" stroke-width="1.7"/>
+<text x="63.6867" y="764.033" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="63.6867" dy="0">!</tspan>
+</text>
+<text x="24" y="834" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="24" dy="0">Recommendations</tspan>
+<tspan x="24" dy="23">and guidance</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C13" target="_top" aria-label="Recommendations and guidance"><rect x="24" y="729" width="177.6" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C14" data-schematic="check" role="group" aria-label="Feedback and checking">
+<title>What basis is provided for judging the work?</title>
+<rect x="231.02" y="743.54" width="51.2333" height="39.22" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="235.26" y1="750.607" x2="278.013" y2="750.607" stroke="#566574" stroke-width="1.7"/>
+<line x1="235.26" y1="755.553" x2="272.713" y2="755.553" stroke="#566574" stroke-width="1.7"/>
+<line x1="235.26" y1="760.5" x2="278.013" y2="760.5" stroke="#566574" stroke-width="1.7"/>
+<line x1="286.847" y1="763.327" x2="310.167" y2="763.327" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="310.167" y1="763.327" x2="307.25" y2="765.322" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="310.167" y1="763.327" x2="307.25" y2="761.332" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="317.233" y="741.42" width="67.1333" height="44.52" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<rect x="321.827" y="747.427" width="5.65333" height="5.65333" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="332.427" y1="750.253" x2="378.36" y2="750.253" stroke="#566574" stroke-width="1.7"/>
+<rect x="321.827" y="758.733" width="5.65333" height="5.65333" rx="1.76667" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="332.427" y1="761.56" x2="378.36" y2="761.56" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="321.827" y="770.04" width="5.65333" height="5.65333" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="332.427" y1="772.867" x2="378.36" y2="772.867" stroke="#566574" stroke-width="1.7"/>
+<text x="219.6" y="834" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="219.6" dy="0">Feedback and</tspan>
+<tspan x="219.6" dy="23">checking</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C14" target="_top" aria-label="Feedback and checking"><rect x="219.6" y="729" width="177.6" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C15" data-schematic="pace" role="group" aria-label="Instruction and paced help">
+<title>What help is available, and when is it available?</title>
+<rect x="425.913" y="742.833" width="45.2267" height="40.28" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="430.153" y1="749.9" x2="466.9" y2="749.9" stroke="#566574" stroke-width="1.7"/>
+<line x1="430.153" y1="754.847" x2="461.6" y2="754.847" stroke="#566574" stroke-width="1.7"/>
+<rect x="429.8" y="766.507" width="37.4533" height="12.0133" rx="1.76667" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="481.387" y="742.833" width="45.2267" height="40.28" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="485.627" y1="749.9" x2="522.373" y2="749.9" stroke="#566574" stroke-width="1.7"/>
+<line x1="485.627" y1="754.847" x2="517.073" y2="754.847" stroke="#566574" stroke-width="1.7"/>
+<rect x="485.273" y="766.507" width="37.4533" height="12.0133" rx="1.76667" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="536.86" y="742.833" width="45.2267" height="40.28" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="541.1" y1="749.9" x2="577.847" y2="749.9" stroke="#566574" stroke-width="1.7"/>
+<line x1="541.1" y1="754.847" x2="572.547" y2="754.847" stroke="#566574" stroke-width="1.7"/>
+<rect x="540.747" y="766.507" width="37.4533" height="12.0133" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7" stroke-dasharray="6 5"/>
+<text x="415.2" y="834" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="415.2" dy="0">Instruction and</tspan>
+<tspan x="415.2" dy="23">paced help</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C15" target="_top" aria-label="Instruction and paced help"><rect x="415.2" y="729" width="177.6" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C16" data-schematic="workflow" role="group" aria-label="Structuring the workflow">
+<title>How are stages, responsibilities and continuity arranged?</title>
+<rect x="620.807" y="752.02" width="37.1" height="24.7333" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="659.32" y1="764.387" x2="678.753" y2="764.387" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="678.753" y1="764.387" x2="675.837" y2="766.382" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="678.753" y1="764.387" x2="675.837" y2="762.392" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="681.933" y="752.02" width="37.1" height="24.7333" rx="1.76667" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="720.447" y1="764.387" x2="739.88" y2="764.387" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="739.88" y1="764.387" x2="736.964" y2="766.382" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="739.88" y1="764.387" x2="736.964" y2="762.392" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="743.06" y="752.02" width="37.1" height="24.7333" rx="1.76667" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="761.08" y1="778.873" x2="761.08" y2="790.533" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="761.08" y1="790.533" x2="638.473" y2="790.533" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="638.473" y1="790.533" x2="638.473" y2="778.52" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="638.473" y1="778.52" x2="640.468" y2="781.436" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="638.473" y1="778.52" x2="636.478" y2="781.436" stroke="#a8501c" stroke-width="2.4"/>
+<text x="633.173" y="770.747" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="633.173" dy="0">1</tspan>
+</text>
+<text x="694.3" y="770.747" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="694.3" dy="0">2</tspan>
+</text>
+<text x="755.427" y="770.747" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="755.427" dy="0">3</tspan>
+</text>
+<text x="610.8" y="834" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="610.8" dy="0">Structuring the</tspan>
+<tspan x="610.8" dy="23">workflow</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C16" target="_top" aria-label="Structuring the workflow"><rect x="610.8" y="729" width="177.6" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-category="FC-C17" data-schematic="reflect" role="group" aria-label="Questions and reflection prompts">
+<title>Which part of a person&#x27;s thinking is elicited?</title>
+<rect x="815.7" y="740.36" width="58.3" height="32.1533" rx="1.76667" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<circle cx="901.913" cy="752.02" r="4.94667" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<line x1="901.913" y1="756.967" x2="901.913" y2="771.807" stroke="#566574" stroke-width="1.7"/>
+<line x1="893.787" y1="764.033" x2="910.04" y2="764.033" stroke="#566574" stroke-width="1.7"/>
+<line x1="901.913" y1="771.807" x2="895.553" y2="779.227" stroke="#566574" stroke-width="1.7"/>
+<line x1="901.913" y1="771.807" x2="908.273" y2="779.227" stroke="#566574" stroke-width="1.7"/>
+<line x1="877.533" y1="761.913" x2="889.547" y2="761.913" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="889.547" y1="761.913" x2="886.63" y2="763.908" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="889.547" y1="761.913" x2="886.63" y2="759.918" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="914.987" y1="762.62" x2="928.767" y2="762.62" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="928.767" y1="762.62" x2="925.85" y2="764.615" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="928.767" y1="762.62" x2="925.85" y2="760.625" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="933.713" y="743.54" width="40.6333" height="42.7533" rx="1.76667" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="937.953" y1="750.607" x2="970.107" y2="750.607" stroke="#566574" stroke-width="1.7"/>
+<line x1="937.953" y1="755.553" x2="964.807" y2="755.553" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="937.953" y1="760.5" x2="970.107" y2="760.5" stroke="#566574" stroke-width="1.7"/>
+<text x="836.547" y="763.68" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="836.547" dy="0">?</tspan>
+</text>
+<text x="806.4" y="834" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="806.4" dy="0">Questions and</tspan>
+<tspan x="806.4" dy="23">reflection prompts</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C17" target="_top" aria-label="Questions and reflection prompts"><rect x="806.4" y="729" width="177.6" height="143" fill="transparent" pointer-events="all"/></a>
+</g>
+<a href="../../design-space-atlas.html#FC-A4" target="_top" aria-label="Guidance and feedback"><rect x="24" y="686" width="960" height="36" fill="transparent" pointer-events="all"/></a>
+</g>
+<g data-family="FC-A5" role="group" aria-label="Collaboration and perspective">
+<text x="24" y="907" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="24" dy="0">Collaboration and perspective</tspan>
+</text>
+<text x="440" y="906" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="440" dy="0">How can people share work and perspectives?</tspan>
+</text>
+<line x1="24" y1="921" x2="984" y2="921" stroke="#17232e" stroke-width="1.5"/>
+<g data-category="FC-C18" data-schematic="collaborate" role="group" aria-label="Shared views and perspectives">
+<title>How do contributions and viewpoints become shared?</title>
+<circle cx="42.1667" cy="950.35" r="6.35833" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<line x1="42.1667" y1="956.708" x2="42.1667" y2="975.783" stroke="#566574" stroke-width="1.7"/>
+<line x1="31.7208" y1="965.792" x2="52.6125" y2="965.792" stroke="#566574" stroke-width="1.7"/>
+<line x1="42.1667" y1="975.783" x2="33.9917" y2="985.321" stroke="#566574" stroke-width="1.7"/>
+<line x1="42.1667" y1="975.783" x2="50.3417" y2="985.321" stroke="#566574" stroke-width="1.7"/>
+<circle cx="222.017" cy="950.35" r="6.35833" fill="#ffffff" stroke="#17232e" stroke-width="1.7"/>
+<line x1="222.017" y1="956.708" x2="222.017" y2="975.783" stroke="#566574" stroke-width="1.7"/>
+<line x1="211.571" y1="965.792" x2="232.463" y2="965.792" stroke="#566574" stroke-width="1.7"/>
+<line x1="222.017" y1="975.783" x2="213.842" y2="985.321" stroke="#566574" stroke-width="1.7"/>
+<line x1="222.017" y1="975.783" x2="230.192" y2="985.321" stroke="#566574" stroke-width="1.7"/>
+<line x1="58.9708" y1="971.242" x2="90.7625" y2="971.242" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="90.7625" y1="971.242" x2="87.0141" y2="973.806" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="90.7625" y1="971.242" x2="87.0141" y2="968.677" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="205.213" y1="971.242" x2="173.875" y2="971.242" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="173.875" y1="971.242" x2="177.623" y2="968.677" stroke="#a8501c" stroke-width="2.4"/>
+<line x1="173.875" y1="971.242" x2="177.623" y2="973.806" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="98.0292" y="942.175" width="68.5792" height="55.8625" rx="2.27083" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<rect x="103.479" y="948.987" width="26.3417" height="28.1583" rx="2.27083" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="108.929" y1="958.071" x2="124.371" y2="958.071" stroke="#566574" stroke-width="1.7"/>
+<line x1="108.929" y1="964.429" x2="117.558" y2="964.429" stroke="#566574" stroke-width="1.7"/>
+<rect x="133.908" y="963.521" width="25.8875" height="28.1583" rx="2.27083" fill="#ffffff" stroke="#566574" stroke-width="1.7"/>
+<line x1="139.358" y1="972.604" x2="154.346" y2="972.604" stroke="#566574" stroke-width="1.7"/>
+<line x1="139.358" y1="978.962" x2="147.533" y2="978.962" stroke="#566574" stroke-width="1.7"/>
+<text x="280" y="974" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="280" dy="0">Shared views and perspectives</tspan>
+</text>
+<rect x="644" y="951" width="20" height="20" rx="3" fill="#faefe5" stroke="#a8501c" stroke-width="2.4"/>
+<text x="676" y="968" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="676" dy="0">Highlighted operation</tspan>
+</text>
+<text x="644" y="1001" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="644" dy="0">Conceptual interface schematics</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC-C18" target="_top" aria-label="Shared views and perspectives"><rect x="24" y="927" width="590" height="106" fill="transparent" pointer-events="all"/></a>
+</g>
+<a href="../../design-space-atlas.html#FC-A5" target="_top" aria-label="Collaboration and perspective"><rect x="24" y="884" width="960" height="36" fill="transparent" pointer-events="all"/></a>
+</g></svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="675" viewBox="0 0 1008 675" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Sources and evidence</title><desc id="atlas-description">How can a result be traced or checked? Tracing origin and derivation, opening underlying cases, and assessing evidence answer different checking questions.</desc><rect width="1008" height="675" fill="white"/><text x="28" y="27" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">FC-C02 / Explanation and visibility</tspan>
+</text>
+<text x="28" y="65" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="28" dy="0">Sources and evidence</tspan>
+</text>
+<text x="28" y="119.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="28" dy="0">How can a result be traced or checked?</tspan>
+</text>
+<text x="28" y="160.28" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="28" dy="0">Connects a result to its sources, supporting evidence or</tspan>
+<tspan x="28" dy="25.6">underlying cases, so people can trace where it came from and</tspan>
+<tspan x="28" dy="25.6">check its basis.</tspan>
+</text>
+<rect x="618.85" y="139.37" width="103.85" height="69" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="628.15" y1="154.37" x2="713.4" y2="154.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="628.15" y1="164.87" x2="701.775" y2="164.87" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="628.15" y1="175.37" x2="713.4" y2="175.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="728.9" y1="171.62" x2="786.25" y2="171.62" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="786.25" y1="171.62" x2="779.854" y2="175.855" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="786.25" y1="171.62" x2="779.854" y2="167.385" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="827.325" y="116.12" width="117.025" height="84.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="836.625" y1="131.12" x2="935.05" y2="131.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="836.625" y1="141.62" x2="923.425" y2="141.62" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="836.625" y1="152.12" x2="935.05" y2="152.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="806.4" y="130.37" width="117.025" height="84.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="815.7" y1="145.37" x2="914.125" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="815.7" y1="155.87" x2="902.5" y2="155.87" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="815.7" y1="166.37" x2="914.125" y2="166.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="815.7" y="157.37" width="95.325" height="13.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">DESIGN CHOICES</tspan>
+</text>
+<text x="300" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="300" dy="0">RETAINED DISTINCTIONS</tspan>
+</text>
+<text x="28" y="320.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Origin and derivation</tspan>
+</text>
+<line x1="254" y1="342.72" x2="290" y2="342.72" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="288.12" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC009</tspan>
+</text>
+<text x="312" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">output-to-source provenance link</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC009" target="_top" aria-label="FC009: output-to-source provenance link"><rect x="300" y="288.12" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="288.12" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC012</tspan>
+</text>
+<text x="658" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">analytic-history provenance</tspan>
+<tspan x="658" dy="25.6">capture</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC012" target="_top" aria-label="FC012: analytic-history provenance capture"><rect x="646" y="288.12" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="441.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Underlying cases</tspan>
+</text>
+<line x1="254" y1="451.12" x2="290" y2="451.12" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="409.32" width="680" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="433.32" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC010</tspan>
+</text>
+<text x="312" y="460.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">aggregate-to-instance drill-down</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC010" target="_top" aria-label="FC010: aggregate-to-instance drill-down"><rect x="300" y="409.32" width="680" height="83.6" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="536.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Evidence for a claim</tspan>
+</text>
+<line x1="254" y1="546.72" x2="290" y2="546.72" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="504.92" width="680" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="528.92" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC011</tspan>
+</text>
+<text x="312" y="555.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">evidence presented for verification</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC011" target="_top" aria-label="FC011: evidence presented for verification"><rect x="300" y="504.92" width="680" height="83.6" fill="transparent" pointer-events="all"/></a>
+<line x1="28" y1="603.52" x2="980" y2="603.52" stroke="#c8d1d9" stroke-width="2"/>
+<text x="28" y="628.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC010: Drill-down from summary to underlying instances (VA012).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-EUROVIS-2019-f612baa1313d03c53bb2&amp;mechanism=M2&amp;unit=s1%3ARFMR-EUROVIS-2019-f612baa1313d03c53bb2%3Asections.1.blocks.2%3A1&amp;code=s1%3Afacet%3AFC010%7Cs1%3Avalue%3AVA012&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Topic Tomographies (TopTom): a visual approach to distill information from media streams"><rect x="28" y="611.52" width="952" height="30.32" fill="transparent" pointer-events="all"/></a></svg>

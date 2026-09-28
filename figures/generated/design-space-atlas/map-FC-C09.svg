@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="727" viewBox="0 0 1008 727" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Goals and constraints</title><desc id="atlas-description">How does a person specify what the system should do? Distinguish conveying intent, providing a structured or executable specification, and declaring constraints or evaluation criteria.</desc><rect width="1008" height="727" fill="white"/><text x="28" y="27" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">FC-C09 / User control and expression</tspan>
+</text>
+<text x="28" y="65" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="28" dy="0">Goals and constraints</tspan>
+</text>
+<text x="28" y="119.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="28" dy="0">How does a person specify what the system should</tspan>
+<tspan x="28" dy="28.16">do?</tspan>
+</text>
+<text x="28" y="188.44" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="28" dy="0">Lets people state what they want through goals, rules, criteria,</tspan>
+<tspan x="28" dy="25.6">examples or structured inputs that the system can act on.</tspan>
+</text>
+<circle cx="640.55" cy="138.62" r="10.5" fill="#ffffff" stroke="#17232e" stroke-width="1.55"/>
+<line x1="640.55" y1="149.12" x2="640.55" y2="180.62" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="622.725" y1="164.12" x2="658.375" y2="164.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="640.55" y1="180.62" x2="626.6" y2="196.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="640.55" y1="180.62" x2="654.5" y2="196.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="668.45" y1="169.37" x2="719.6" y2="169.37" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="719.6" y1="169.37" x2="713.204" y2="173.605" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="719.6" y1="169.37" x2="713.204" y2="165.135" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="732.775" y="116.12" width="113.925" height="87" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="742.075" y1="131.12" x2="837.4" y2="131.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="742.075" y1="141.62" x2="825.775" y2="141.62" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="742.075" y1="152.12" x2="837.4" y2="152.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="855.225" y1="161.87" x2="890.875" y2="161.87" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="890.875" y1="161.87" x2="884.479" y2="166.105" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="890.875" y1="161.87" x2="884.479" y2="157.635" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="898.625" y="135.62" width="70.525" height="65.25" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">DESIGN CHOICES</tspan>
+</text>
+<text x="300" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="300" dy="0">RETAINED DISTINCTIONS</tspan>
+</text>
+<text x="28" y="320.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Words and</tspan>
+<tspan x="28" dy="25.6">demonstrations</tspan>
+</text>
+<line x1="254" y1="342.72" x2="290" y2="342.72" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="288.12" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC053</tspan>
+</text>
+<text x="312" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">natural-language or conversational</tspan>
+<tspan x="312" dy="25.6">specification</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC053" target="_top" aria-label="FC053: natural-language or conversational specification"><rect x="300" y="288.12" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="288.12" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC054</tspan>
+</text>
+<text x="658" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">example or demonstration</tspan>
+<tspan x="658" dy="25.6">specification</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC054" target="_top" aria-label="FC054: example or demonstration specification"><rect x="646" y="288.12" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="441.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Structured and</tspan>
+<tspan x="28" dy="25.6">executable input</tspan>
+</text>
+<line x1="254" y1="463.92" x2="290" y2="463.92" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="409.32" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="433.32" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC057</tspan>
+</text>
+<text x="312" y="460.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">structured input form or schema</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC057" target="_top" aria-label="FC057: structured input form or schema"><rect x="300" y="409.32" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="409.32" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="433.32" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC058</tspan>
+</text>
+<text x="658" y="460.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">authoring a formal or executable</tspan>
+<tspan x="658" dy="25.6">representation</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC058" target="_top" aria-label="FC058: authoring a formal or executable representation"><rect x="646" y="409.32" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="562.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Conditions and criteria</tspan>
+</text>
+<line x1="254" y1="585.12" x2="290" y2="585.12" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="530.52" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="554.52" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC055</tspan>
+</text>
+<text x="312" y="581.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">explicit constraint or rule</tspan>
+<tspan x="312" dy="25.6">specification</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC055" target="_top" aria-label="FC055: explicit constraint or rule specification"><rect x="300" y="530.52" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="530.52" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="554.52" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC056</tspan>
+</text>
+<text x="658" y="581.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">criteria and rubric specification</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC056" target="_top" aria-label="FC056: criteria and rubric specification"><rect x="646" y="530.52" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<line x1="28" y1="654.72" x2="980" y2="654.72" stroke="#c8d1d9" stroke-width="2"/>
+<text x="28" y="679.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC055: Rule, criterion or rubric authoring (VA042).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-CHI-2022-25be560f0581dcdbe5c2&amp;mechanism=M1&amp;unit=s1%3ARFMR-CHI-2022-25be560f0581dcdbe5c2%3Asections.1.blocks.1%3A1&amp;code=s1%3Afacet%3AFC055%7Cs1%3Avalue%3AVA042&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Solving Separation-of-Concerns Problems in Collaborative Design of Human-AI Systems through Leaky Abstractions"><rect x="28" y="662.72" width="952" height="30.32" fill="transparent" pointer-events="all"/></a></svg>

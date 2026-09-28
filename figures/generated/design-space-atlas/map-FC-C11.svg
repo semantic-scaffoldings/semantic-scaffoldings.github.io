@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="731" viewBox="0 0 1008 731" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Generating and choosing alternatives</title><desc id="atlas-description">How are possibilities offered and shaped? Separate presenting a choice space, producing new content, and bounding the generation process. A continuation is not necessarily a set of alternatives.</desc><rect width="1008" height="731" fill="white"/><text x="28" y="27" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">FC-C11 / User control and expression</tspan>
+</text>
+<text x="28" y="65" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="28" dy="0">Generating and choosing alternatives</tspan>
+</text>
+<text x="28" y="119.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="28" dy="0">How are possibilities offered and shaped?</tspan>
+</text>
+<text x="28" y="160.28" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="28" dy="0">Provides candidate outputs, continuations or a space of</tspan>
+<tspan x="28" dy="25.6">possibilities that people can explore, constrain and select from.</tspan>
+</text>
+<rect x="618.85" y="108.62" width="351.075" height="108.75" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<rect x="629.7" y="119.87" width="87.575" height="81" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="639" y1="134.87" x2="707.975" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="639" y1="145.37" x2="696.35" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="748.275" y="131.12" width="87.575" height="81" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="757.575" y1="146.12" x2="826.55" y2="146.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="757.575" y1="156.62" x2="814.925" y2="156.62" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="757.575" y1="167.12" x2="826.55" y2="167.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="866.85" y="119.87" width="87.575" height="81" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="876.15" y1="134.87" x2="945.125" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="876.15" y1="145.37" x2="933.5" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="876.15" y1="155.87" x2="945.125" y2="155.87" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="876.15" y1="166.37" x2="933.5" y2="166.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">DESIGN CHOICES</tspan>
+</text>
+<text x="300" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="300" dy="0">RETAINED DISTINCTIONS</tspan>
+</text>
+<text x="28" y="320.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Present a choice space</tspan>
+</text>
+<line x1="254" y1="342.72" x2="290" y2="342.72" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="288.12" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC035</tspan>
+</text>
+<text x="312" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">candidate or option set to choose</tspan>
+<tspan x="312" dy="25.6">from</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC035" target="_top" aria-label="FC035: candidate or option set to choose from"><rect x="300" y="288.12" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="288.12" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC038</tspan>
+</text>
+<text x="658" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">option-space landscape or design</tspan>
+<tspan x="658" dy="25.6">space</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC038" target="_top" aria-label="FC038: option-space landscape or design space"><rect x="646" y="288.12" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="441.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Generate or continue</tspan>
+</text>
+<line x1="254" y1="463.92" x2="290" y2="463.92" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="409.32" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="433.32" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC036</tspan>
+</text>
+<text x="312" y="460.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">generated alternatives to explore</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC036" target="_top" aria-label="FC036: generated alternatives to explore"><rect x="300" y="409.32" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="409.32" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="433.32" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC110</tspan>
+</text>
+<text x="658" y="460.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">completion and continuation of</tspan>
+<tspan x="658" dy="25.6">content</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC110" target="_top" aria-label="FC110: completion and continuation of content"><rect x="646" y="409.32" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="562.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Bound generation</tspan>
+</text>
+<line x1="254" y1="572.32" x2="290" y2="572.32" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="530.52" width="680" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="554.52" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC037</tspan>
+</text>
+<text x="312" y="581.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">user-constrained generation</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC037" target="_top" aria-label="FC037: user-constrained generation"><rect x="300" y="530.52" width="680" height="83.6" fill="transparent" pointer-events="all"/></a>
+<line x1="28" y1="629.12" x2="980" y2="629.12" stroke="#c8d1d9" stroke-width="2"/>
+<text x="28" y="654.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC036: Gallery of generated alternatives to choose among (VA033).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-CHI-2024-28ae8961ce6a9c2e6672&amp;mechanism=M1&amp;unit=s1%3ARFMR-CHI-2024-28ae8961ce6a9c2e6672%3Asections.1.blocks.1%3A1&amp;code=s1%3Afacet%3AFC036%7Cs1%3Avalue%3AVA033&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: TypeDance: Creating Semantic Typographic Logos from Image through Personalized Generation"><rect x="28" y="637.12" width="952" height="30.32" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="684.44" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC110: Completion or continuation of what the person began (VA036).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-ACL-2023-1f0f95eec7045db35e17&amp;mechanism=M1&amp;unit=s1%3ARFMR-ACL-2023-1f0f95eec7045db35e17%3Asections.1.blocks.1%3A1&amp;code=s1%3Afacet%3AFC110%7Cs1%3Avalue%3AVA036&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Effidit: An Assistant for Improving Writing Efficiency"><rect x="28" y="667.44" width="952" height="30.32" fill="transparent" pointer-events="all"/></a></svg>

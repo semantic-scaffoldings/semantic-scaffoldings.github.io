@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="1008" height="1116" viewBox="0 0 1008 1116">
+<title id="figure-title">Where recorded code vocabularies stopped expanding</title>
+<desc id="figure-description">For each field, the last new code in its retained observation or batch sequence. The pale remainder contains no further new codes; this does not establish saturation.</desc>
+<metadata>{&quot;figure_id&quot;:&quot;open_field_closure_curves&quot;,&quot;parity_spec_sha256&quot;:&quot;570d9ed7cfc0d3da615b6b5ad78bcbf164e0ff3db35d0176645bd2306910f026&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
+<rect x="0" y="0" width="1008" height="1116" fill="#ffffff"/>
+<text x="0" y="30" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start">
+<tspan x="0" dy="0">Where did the recorded vocabulary stop expanding?</tspan>
+</text>
+<text x="0" y="52" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Colour ends at the last new code. The pale remainder reuses codes already encountered.</tspan>
+</text>
+<text x="232.0" y="102" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="232.0" dy="0">Position in this field&#x27;s recorded sequence</tspan>
+</text>
+<text x="232.0" y="124" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="232.0" dy="0">0%</tspan>
+</text>
+<line x1="232.0" y1="131" x2="232.0" y2="976.0" stroke="#eef2f3" stroke-width="0.7"/>
+<text x="372.0" y="124" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="372.0" dy="0">25%</tspan>
+</text>
+<line x1="372.0" y1="131" x2="372.0" y2="976.0" stroke="#eef2f3" stroke-width="0.7"/>
+<text x="512.0" y="124" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="512.0" dy="0">50%</tspan>
+</text>
+<line x1="512.0" y1="131" x2="512.0" y2="976.0" stroke="#eef2f3" stroke-width="0.7"/>
+<text x="652.0" y="124" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="middle">
+<tspan x="652.0" dy="0">75%</tspan>
+</text>
+<line x1="652.0" y1="131" x2="652.0" y2="976.0" stroke="#eef2f3" stroke-width="0.7"/>
+<text x="792.0" y="124" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="end">
+<tspan x="792.0" dy="0">100%</tspan>
+</text>
+<line x1="792.0" y1="131" x2="792.0" y2="976.0" stroke="#eef2f3" stroke-width="0.7"/>
+<text x="0" y="160.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Mechanism facet</tspan>
+</text>
+<rect x="232.0" y="147.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="147.0" width="31.157147084936373" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="145.0" x2="260.0" y2="138.0" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="160.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">110 codes</tspan>
+</text>
+<text x="238.0" y="176.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 5.6%; 15,955 values without one</tspan>
+</text>
+<text x="0" y="200.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Mechanism value</tspan>
+</text>
+<rect x="232.0" y="187.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="187.0" width="45.36285927370776" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="185.0" x2="260.0" y2="178.0" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="200.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">104 codes</tspan>
+</text>
+<text x="238.0" y="216.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 8.1%; 16,019 values without one</tspan>
+</text>
+<text x="0" y="240.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Author terminology</tspan>
+</text>
+<rect x="232.0" y="227.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="227.0" width="168.92356800851215" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="225.0" x2="260.0" y2="218.0" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="316.0" y1="225.0" x2="316.0" y2="222.875" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="372.0" y1="225.0" x2="372.0" y2="222.925" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="428.0" y1="225.0" x2="428.0" y2="222.975" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="240.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">209 codes</tspan>
+</text>
+<text x="238.0" y="256.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 30.2%; 11,814 values without one</tspan>
+</text>
+<text x="0" y="280.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Distinctive mechanism feature</tspan>
+</text>
+<rect x="232.0" y="267.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="267.0" width="39.988538025101725" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="265.0" x2="260.0" y2="258.0" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="280.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">63 codes</tspan>
+</text>
+<text x="238.0" y="296.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 7.1%; 16,203 values without one</tspan>
+</text>
+<text x="0" y="320.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Workflow before support</tspan>
+</text>
+<rect x="232.0" y="307.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="307.0" width="215.86735277301315" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="305.0" x2="260.0" y2="298.0" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="316.0" y1="305.0" x2="316.0" y2="302.9" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="428.0" y1="305.0" x2="428.0" y2="302.9" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="320.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">52 codes</tspan>
+</text>
+<text x="238.0" y="336.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 38.5%; 5,374 values without one</tspan>
+</text>
+<text x="0" y="360.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Workflow with support</tspan>
+</text>
+<rect x="232.0" y="347.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="347.0" width="81.91063174114022" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="345.0" x2="260.0" y2="338.0" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="316.0" y1="345.0" x2="316.0" y2="342.921875" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="360.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">65 codes</tspan>
+</text>
+<text x="238.0" y="376.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 14.6%; 7,757 values without one</tspan>
+</text>
+<text x="0" y="400.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Activity externalized to tool</tspan>
+</text>
+<rect x="232.0" y="387.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="387.0" width="280.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="400.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">81 codes</tspan>
+</text>
+<text x="238.0" y="416.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 3 of 6; 3 packets without one</tspan>
+</text>
+<text x="0" y="440.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Activity retained by person</tspan>
+</text>
+<rect x="232.0" y="427.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="427.0" width="400.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="440.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">45 codes</tspan>
+</text>
+<text x="238.0" y="456.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 5 of 7; 2 packets without one</tspan>
+</text>
+<text x="0" y="480.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Work still required</tspan>
+</text>
+<rect x="232.0" y="467.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="467.0" width="480.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="480.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">40 codes</tspan>
+</text>
+<text x="238.0" y="496.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 6 of 7; 1 packet without one</tspan>
+</text>
+<text x="0" y="520.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Learning evidence</tspan>
+</text>
+<rect x="232.0" y="507.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="507.0" width="224.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="520.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">31 codes</tspan>
+</text>
+<text x="238.0" y="536.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 2 of 5; 3 packets without one</tspan>
+</text>
+<text x="0" y="560.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Evidence basis</tspan>
+</text>
+<rect x="232.0" y="547.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="547.0" width="13.886688479421387" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="545.0" x2="260.0" y2="538.0" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="560.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">39 codes</tspan>
+</text>
+<text x="238.0" y="576.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 2.5%; 16,989 values without one</tspan>
+</text>
+<text x="0" y="600.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Alignment note</tspan>
+</text>
+<rect x="232.0" y="587.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="587.0" width="80.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="600.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">55 codes</tspan>
+</text>
+<text x="238.0" y="616.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 1 of 7; 6 packets without one</tspan>
+</text>
+<text x="0" y="640.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Claim</tspan>
+</text>
+<rect x="232.0" y="627.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="627.0" width="240.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="640.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">36 codes</tspan>
+</text>
+<text x="238.0" y="656.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 3 of 7; 4 packets without one</tspan>
+</text>
+<text x="0" y="680.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Limitations</tspan>
+</text>
+<rect x="232.0" y="667.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="667.0" width="160.82339651060624" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="665.0" x2="260.0" y2="658.0" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="372.0" y1="665.0" x2="372.0" y2="662.9122807017544" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="680.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">58 codes</tspan>
+</text>
+<text x="238.0" y="696.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 28.7%; 5,679 values without one</tspan>
+</text>
+<text x="0" y="720.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Boundary conditions</tspan>
+</text>
+<rect x="232.0" y="707.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="707.0" width="272.549091576436" height="17.0" rx="3" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<line x1="260.0" y1="705.0" x2="260.0" y2="698.0" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="372.0" y1="705.0" x2="372.0" y2="702.8148148148148" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="428.0" y1="705.0" x2="428.0" y2="702.8148148148148" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="484.0" y1="705.0" x2="484.0" y2="702.6296296296297" stroke="#a8501c" stroke-width="1.5"/>
+<text x="1008.0" y="720.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">31 codes</tspan>
+</text>
+<text x="238.0" y="736.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code at 48.7%; 2,797 values without one</tspan>
+</text>
+<text x="0" y="760.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Null or negative results</tspan>
+</text>
+<rect x="232.0" y="747.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="747.0" width="448.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="760.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">52 codes</tspan>
+</text>
+<text x="238.0" y="776.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 4 of 5; 1 packet without one</tspan>
+</text>
+<text x="0" y="800.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Technical evaluation</tspan>
+</text>
+<rect x="232.0" y="787.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="787.0" width="280.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="800.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">33 codes</tspan>
+</text>
+<text x="238.0" y="816.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 1 of 2; 1 packet without one</tspan>
+</text>
+<text x="0" y="840.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Novelty comparison</tspan>
+</text>
+<rect x="232.0" y="827.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="827.0" width="280.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="840.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">22 codes</tspan>
+</text>
+<text x="238.0" y="856.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 1 of 2; 1 packet without one</tspan>
+</text>
+<text x="0" y="880.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Validation comparison</tspan>
+</text>
+<rect x="232.0" y="867.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<text x="1008.0" y="880.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">27 codes</tspan>
+</text>
+<text x="238.0" y="896.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">one retained batch: growth cannot be assessed</tspan>
+</text>
+<text x="0" y="920.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Work domain</tspan>
+</text>
+<rect x="232.0" y="907.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<rect x="232.0" y="907.0" width="480.0" height="17.0" rx="3" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="1008.0" y="920.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">130 codes</tspan>
+</text>
+<text x="238.0" y="936.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">last new code in packet 6 of 7; 1 packet without one</tspan>
+</text>
+<text x="0" y="960.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">Prior knowledge used</tspan>
+</text>
+<rect x="232.0" y="947.0" width="560.0" height="17.0" rx="3" fill="#eef2f3" stroke="none" stroke-width="2"/>
+<text x="1008.0" y="960.0" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="end">
+<tspan x="1008.0" dy="0">7 codes</tspan>
+</text>
+<text x="238.0" y="976.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="238.0" dy="0">one retained batch: growth cannot be assessed</tspan>
+</text>
+<rect x="0" y="1017.0" width="14" height="10" rx="2" fill="#cf7f45" stroke="none" stroke-width="2"/>
+<text x="20" y="1026.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="20" dy="0">Nine fields retain observation order; ticks show first-use counts within each tenth of that sequence.</tspan>
+</text>
+<rect x="0" y="1035.0" width="14" height="10" rx="2" fill="#f2d5bf" stroke="#c8d1d9" stroke-width="2"/>
+<text x="20" y="1044.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="20" dy="0">Twelve fields retain batch order only; their bars locate the last batch that introduced a code.</tspan>
+</text>
+<text x="0" y="1063.0" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">
+<tspan x="0" dy="0">This checks label reuse within the recorded sequence, not coverage of every meaningful distinction. Stable labels can still contain low-confidence or</tspan>
+<tspan x="0" dy="17">overly broad assignments.</tspan>
+</text>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "snapshot_id": "049210b44559-round1-survivors-20260909",
+  "date": "2026-09-09",
+  "papers": 4751,
+  "with_references": 3233,
+  "without_references": 1518,
+  "coverage_pct": 68.0,
+  "streams": {
+    "s1": {
+      "papers": 4331,
+      "with_references": 3067
+    },
+    "s2": {
+      "papers": 448,
+      "with_references": 189
+    }
+  },
+  "overlap": {
+    "papers": 28,
+    "with_references": 23
+  },
+  "publisher_withheld": 1321,
+  "missing_reference_states": {
+    "complete_saved_list": 7,
+    "complete_by_count_agreement": 11,
+    "not_saved": 31,
+    "legacy_nonempty_pagination_unverified": 3,
+    "source_empty_count_unknown": 11,
+    "publisher_withheld": 1321,
+    "empty_despite_positive_count": 29,
+    "source_empty": 105
+  },
+  "definition": "A covered paper has at least one usable reference in the frozen bibliography snapshot; its reference list need not be complete.",
+  "population": "September 9 Stream 1 screening survivors and Stream 2 known survivors, deduplicated by recorded identity; not the current AI-scoped included corpus.",
+  "inputs": {
+    "atlas_sha256": "7cc669e2ded24a4dc364bde01536582e38ed80649d5b6b9eccf8a323db76c42c",
+    "snapshot_sha256": "b6899475272f4def8704dfe4c247d99b459a6e40feee4d599532fb6dd3df4d7a",
+    "reference_incidence_sha256": "51f462b44f1cc4515f3003da5d6833df7d227cfbb0e2cb3baa298435416354d7"
+  }
+}

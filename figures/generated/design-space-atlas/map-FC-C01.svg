@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="827" viewBox="0 0 1008 827" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Explaining system behaviour</title><desc id="atlas-description">Which aspect of the system is made inspectable? Separate the explanation of one result, the running process, the model across cases, and the limits of what it can establish.</desc><rect width="1008" height="827" fill="white"/><text x="28" y="27" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">FC-C01 / Explanation and visibility</tspan>
+</text>
+<text x="28" y="65" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="28" dy="0">Explaining system behaviour</tspan>
+</text>
+<text x="28" y="119.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="28" dy="0">Which aspect of the system is made inspectable?</tspan>
+</text>
+<text x="28" y="160.28" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="28" dy="0">Makes a system&#x27;s outputs, behaviour, uncertainty or current</tspan>
+<tspan x="28" dy="25.6">state inspectable, so people can understand what it is doing</tspan>
+<tspan x="28" dy="25.6">and judge its results.</tspan>
+</text>
+<rect x="618.85" y="129.62" width="81.375" height="64.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="628.15" y1="144.62" x2="690.925" y2="144.62" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="628.15" y1="155.12" x2="679.3" y2="155.12" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="628.15" y1="165.62" x2="690.925" y2="165.62" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="704.1" y1="161.87" x2="750.6" y2="161.87" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="750.6" y1="161.87" x2="744.204" y2="166.105" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="750.6" y1="161.87" x2="744.204" y2="157.635" stroke="#a8501c" stroke-width="1.55"/>
+<rect x="755.25" y="117.62" width="96.875" height="77.25" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="764.55" y1="132.62" x2="842.825" y2="132.62" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="764.55" y1="143.12" x2="831.2" y2="143.12" stroke="#a8501c" stroke-width="1.55"/>
+<line x1="764.55" y1="153.62" x2="842.825" y2="153.62" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="873.05" y="132.62" width="93" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="873.05" y="155.87" width="63.55" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="873.05" y="179.12" width="34.875" height="15" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<line x1="852.125" y1="159.62" x2="869.95" y2="159.62" stroke="#a8501c" stroke-width="1.55"/>
+<text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">DESIGN CHOICES</tspan>
+</text>
+<text x="300" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="300" dy="0">RETAINED DISTINCTIONS</tspan>
+</text>
+<text x="28" y="320.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">A particular result</tspan>
+</text>
+<line x1="254" y1="329.92" x2="290" y2="329.92" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="288.12" width="334" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC001</tspan>
+</text>
+<text x="312" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">output rationale exposed</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC001" target="_top" aria-label="FC001: output rationale exposed"><rect x="300" y="288.12" width="334" height="83.6" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="288.12" width="334" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC002</tspan>
+</text>
+<text x="658" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">feature attribution for an output</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC002" target="_top" aria-label="FC002: feature attribution for an output"><rect x="646" y="288.12" width="334" height="83.6" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="415.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Process and sequence</tspan>
+</text>
+<line x1="254" y1="438.32" x2="290" y2="438.32" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="383.72" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="407.72" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC006</tspan>
+</text>
+<text x="312" y="434.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">live process-state visibility</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC006" target="_top" aria-label="FC006: live process-state visibility"><rect x="300" y="383.72" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="383.72" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="407.72" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC008</tspan>
+</text>
+<text x="658" y="434.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">stepwise reasoning or execution</tspan>
+<tspan x="658" dy="25.6">trace</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC008" target="_top" aria-label="FC008: stepwise reasoning or execution trace"><rect x="646" y="383.72" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="536.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Model and internals</tspan>
+</text>
+<line x1="254" y1="546.72" x2="290" y2="546.72" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="504.92" width="334" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="528.92" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC003</tspan>
+</text>
+<text x="312" y="555.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">global model-behaviour summary</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC003" target="_top" aria-label="FC003: global model-behaviour summary"><rect x="300" y="504.92" width="334" height="83.6" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="504.92" width="334" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="528.92" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC007</tspan>
+</text>
+<text x="658" y="555.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">internal or latent state surfaced</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC007" target="_top" aria-label="FC007: internal or latent state surfaced"><rect x="646" y="504.92" width="334" height="83.6" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="632.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Reliability and limits</tspan>
+</text>
+<line x1="254" y1="655.12" x2="290" y2="655.12" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="600.52" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="624.52" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC004</tspan>
+</text>
+<text x="312" y="651.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">uncertainty and confidence</tspan>
+<tspan x="312" dy="25.6">exposed</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC004" target="_top" aria-label="FC004: uncertainty and confidence exposed"><rect x="300" y="600.52" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<rect x="646" y="600.52" width="334" height="109.2" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="658" y="624.52" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="658" dy="0">FC005</tspan>
+</text>
+<text x="658" y="651.52" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="658" dy="0">capability and</tspan>
+<tspan x="658" dy="25.6">knowledge-boundary disclosure</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC005" target="_top" aria-label="FC005: capability and knowledge-boundary disclosure"><rect x="646" y="600.52" width="334" height="109.2" fill="transparent" pointer-events="all"/></a>
+<line x1="28" y1="724.72" x2="980" y2="724.72" stroke="#c8d1d9" stroke-width="2"/>
+<text x="28" y="749.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC001: Rationale for a specific machine output (VA001).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-CHI-2024-e3109e8e22f038bd9ad6&amp;mechanism=M3&amp;unit=s1%3ARFMR-CHI-2024-e3109e8e22f038bd9ad6%3Asections.1.blocks.3%3A1&amp;code=s1%3Afacet%3AFC001%7Cs1%3Avalue%3AVA001&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Beyond the Waiting Room: Patient’s Perspectives on the Conversational Nuances of Pre-Consultation Chatbots"><rect x="28" y="732.72" width="952" height="30.32" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="780.04" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC002: Feature or factor contribution to an outcome (VA002).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-EUROVIS-2024-5d32316dbeea618122cf&amp;mechanism=M7&amp;unit=s1%3ARFMR-EUROVIS-2024-5d32316dbeea618122cf%3Asections.1.blocks.7%3A1&amp;code=s1%3Afacet%3AFC002%7Cs1%3Avalue%3AVA002&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Visual Analytics for Fine-grained Text Classification Models and Datasets"><rect x="28" y="763.04" width="952" height="30.32" fill="transparent" pointer-events="all"/></a></svg>

@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="782" viewBox="0 0 1008 782" role="img" aria-labelledby="atlas-title atlas-description"><title id="atlas-title">Instruction and paced help</title><desc id="atlas-description">What help is available, and when is it available? Instructional content, the amount or timing of support, and progression across sessions are distinct design choices. Fading is not automatically evidence of learning.</desc><rect width="1008" height="782" fill="white"/><text x="28" y="27" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">FC-C15 / Guidance and feedback</tspan>
+</text>
+<text x="28" y="65" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">
+<tspan x="28" dy="0">Instruction and paced help</tspan>
+</text>
+<text x="28" y="119.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="28" dy="0">What help is available, and when is it available?</tspan>
+</text>
+<text x="28" y="160.28" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="28" dy="0">Provides explanations, examples and orientation, and controls</tspan>
+<tspan x="28" dy="25.6">when or how much help is available through staged disclosure,</tspan>
+<tspan x="28" dy="25.6">learning paths or changing support.</tspan>
+</text>
+<rect x="622.725" y="119.87" width="99.2" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="632.025" y1="134.87" x2="712.625" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="632.025" y1="145.37" x2="701" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="631.25" y="170.12" width="82.15" height="25.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="744.4" y="119.87" width="99.2" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="753.7" y1="134.87" x2="834.3" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="753.7" y1="145.37" x2="822.675" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="752.925" y="170.12" width="82.15" height="25.5" rx="3.875" fill="#faefe5" stroke="#a8501c" stroke-width="1.5"/>
+<rect x="866.075" y="119.87" width="99.2" height="85.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5"/>
+<line x1="875.375" y1="134.87" x2="955.975" y2="134.87" stroke="#c8d1d9" stroke-width="1.55"/>
+<line x1="875.375" y1="145.37" x2="944.35" y2="145.37" stroke="#c8d1d9" stroke-width="1.55"/>
+<rect x="874.6" y="170.12" width="82.15" height="25.5" rx="3.875" fill="#ffffff" stroke="#c8d1d9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="28" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">DESIGN CHOICES</tspan>
+</text>
+<text x="300" y="268.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="300" dy="0">RETAINED DISTINCTIONS</tspan>
+</text>
+<text x="28" y="320.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Explain, exemplify and</tspan>
+<tspan x="28" dy="25.6">orient</tspan>
+</text>
+<line x1="254" y1="355.52" x2="290" y2="355.52" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="288.12" width="218.667" height="134.8" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC101</tspan>
+</text>
+<text x="312" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">conceptual</tspan>
+<tspan x="312" dy="25.6">explanation of</tspan>
+<tspan x="312" dy="25.6">domain meaning</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC101" target="_top" aria-label="FC101: conceptual explanation of domain meaning"><rect x="300" y="288.12" width="218.667" height="134.8" fill="transparent" pointer-events="all"/></a>
+<rect x="530.667" y="288.12" width="218.667" height="134.8" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="542.667" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="542.667" dy="0">FC102</tspan>
+</text>
+<text x="542.667" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="542.667" dy="0">worked example or</tspan>
+<tspan x="542.667" dy="25.6">exemplar</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC102" target="_top" aria-label="FC102: worked example or exemplar"><rect x="530.667" y="288.12" width="218.667" height="134.8" fill="transparent" pointer-events="all"/></a>
+<rect x="761.333" y="288.12" width="218.667" height="134.8" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="773.333" y="312.12" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="773.333" dy="0">FC103</tspan>
+</text>
+<text x="773.333" y="339.12" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="773.333" dy="0">orientation and</tspan>
+<tspan x="773.333" dy="25.6">onboarding</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC103" target="_top" aria-label="FC103: orientation and onboarding"><rect x="761.333" y="288.12" width="218.667" height="134.8" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="466.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Change amount or</tspan>
+<tspan x="28" dy="25.6">release</tspan>
+</text>
+<line x1="254" y1="502.32" x2="290" y2="502.32" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="434.92" width="218.667" height="134.8" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="458.92" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC099</tspan>
+</text>
+<text x="312" y="485.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">graduated or faded</tspan>
+<tspan x="312" dy="25.6">support</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC099" target="_top" aria-label="FC099: graduated or faded support"><rect x="300" y="434.92" width="218.667" height="134.8" fill="transparent" pointer-events="all"/></a>
+<rect x="530.667" y="434.92" width="218.667" height="134.8" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="542.667" y="458.92" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="542.667" dy="0">FC100</tspan>
+</text>
+<text x="542.667" y="485.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="542.667" dy="0">progressive</tspan>
+<tspan x="542.667" dy="25.6">disclosure of detail</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC100" target="_top" aria-label="FC100: progressive disclosure of detail"><rect x="530.667" y="434.92" width="218.667" height="134.8" fill="transparent" pointer-events="all"/></a>
+<rect x="761.333" y="434.92" width="218.667" height="134.8" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="773.333" y="458.92" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="773.333" dy="0">FC039</tspan>
+</text>
+<text x="773.333" y="485.92" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="773.333" dy="0">deliberate restriction</tspan>
+<tspan x="773.333" dy="25.6">or withdrawal of</tspan>
+<tspan x="773.333" dy="25.6">support</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC039" target="_top" aria-label="FC039: deliberate restriction or withdrawal of support"><rect x="761.333" y="434.92" width="218.667" height="134.8" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="613.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="28" dy="0">Sequence learning</tspan>
+<tspan x="28" dy="25.6">sessions</tspan>
+</text>
+<line x1="254" y1="623.52" x2="290" y2="623.52" stroke="#a8501c" stroke-width="2"/>
+<rect x="300" y="581.72" width="680" height="83.6" rx="8" fill="#faefe5" stroke="none" stroke-width="1.5"/>
+<text x="312" y="605.72" fill="#a8501c" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="312" dy="0">FC104</tspan>
+</text>
+<text x="312" y="632.72" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+<tspan x="312" dy="0">curriculum and learning-path structuring</tspan>
+</text>
+<a href="../../design-space-atlas.html#FC104" target="_top" aria-label="FC104: curriculum and learning-path structuring"><rect x="300" y="581.72" width="680" height="83.6" fill="transparent" pointer-events="all"/></a>
+<line x1="28" y1="680.32" x2="980" y2="680.32" stroke="#c8d1d9" stroke-width="2"/>
+<text x="28" y="705.32" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC099: Graduated help that escalates or fades by response (VA093).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-IUI-2025-3c275a739d53f5002ba2&amp;mechanism=M4&amp;unit=s1%3ARFMR-IUI-2025-3c275a739d53f5002ba2%3Asections.1.blocks.4%3A1&amp;code=s1%3Afacet%3AFC099%7Cs1%3Avalue%3AVA093&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Exploring the Design Space of Cognitive Engagement Techniques with AI-Generated Code for Enhanced Learning"><rect x="28" y="688.32" width="952" height="30.32" fill="transparent" pointer-events="all"/></a>
+<text x="28" y="735.64" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="28" dy="0">Recorded form · FC102: Worked or contrastive examples as instruction (VA057).</tspan>
+</text>
+<a href="../../card-gallery.html?card=RFMR-ACL-2023-1f0f95eec7045db35e17&amp;mechanism=M7&amp;unit=s1%3ARFMR-ACL-2023-1f0f95eec7045db35e17%3Asections.1.blocks.7%3A1&amp;code=s1%3Afacet%3AFC102%7Cs1%3Avalue%3AVA057&amp;lens=mechanisms" target="_top" aria-label="Inspect recorded mechanism: Effidit: An Assistant for Improving Writing Efficiency"><rect x="28" y="718.64" width="952" height="30.32" fill="transparent" pointer-events="all"/></a></svg>
