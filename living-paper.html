@@ -2042,894 +2042,7 @@ a[href="#roots"],a[href="living-paper.html#roots"],a[href="#tldr-act-theoretical
 </style>
 <link href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2032%2032%22%20style%3D%22color%3A%23a74b20%22%3E%3Crect%20width%3D%2232%22%20height%3D%2232%22%20rx%3D%228%22%20fill%3D%22%23fffaf3%22%2F%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20stroke-width%3D%221.55%22%20transform%3D%22translate%281.5%201.5%29%20scale%281.24%29%22%3E%3Cg%20stroke-width%3D%221.25%22%20opacity%3D%22.72%22%3E%3Cpath%20d%3D%22M3.4%2023%205.9%207M12.9%2023%2015.4%207M3.87%2019.40h9.5v1.2h-9.5ZM5.37%2019.40v1.2M4.65%2014.40h9.5v1.2h-9.5ZM6.15%2014.40v1.2M5.43%209.40h9.5v1.2h-9.5ZM6.93%209.40v1.2%22%2F%3E%3C%2Fg%3E%3Ccircle%20cx%3D%229.9%22%20cy%3D%224.3%22%20r%3D%221.8%22%2F%3E%3Cpath%20d%3D%22M10%206.2%209.9%2011.6M10.5%207.1%2011.64%205.78%2013.3%204.95M9.4%207.5%207.67%207.77%207.4%209.6M9.9%2011.6%207.82%2012.16%207.6%2014.4M9.9%2011.6%2012.04%2011.76%2012.2%2014%22%2F%3E%3Cpath%20d%3D%22M18.2%200.4C18.98%202.22%2018.98%202.22%2020.8%203C18.98%203.78%2018.98%203.78%2018.2%205.6C17.42%203.78%2017.42%203.78%2015.6%203C17.42%202.22%2017.42%202.22%2018.2%200.4Z%22%20fill%3D%22currentColor%22%20stroke%3D%22none%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" id="semantic-scaffold-favicon" rel="icon" type="image/svg+xml"/>
 <script id="publication-veil-boot">(function(){try{var raw=sessionStorage.getItem('publication-dive');if(!raw){return;}var r=JSON.parse(raw);var file=((location.pathname.split('/').pop()||'index.html').toLowerCase())||'index.html';if(!r||typeof r.t!=='number'||Date.now()-r.t>8000||(r.to&&r.to!==file)){sessionStorage.removeItem('publication-dive');return;}var h=document.documentElement;h.setAttribute('data-publication-veiled','true');h.setAttribute('data-publication-veil-direction',r.direction||'stay');h.setAttribute('data-publication-veil-since',String(r.t));h.setAttribute('data-publication-veil-kicker',r.kicker||'');h.setAttribute('data-publication-veil-title',r.title||'');}catch(e){}})();</script>
-<script crossorigin="anonymous" defer="" id="publication-motion-lib" integrity="sha512-NcZdtrT77bJr4STcmsGAESr06BYGE8woZdSdEgqnpyqac7sugNO+Tr4bGwGF3MsnEkGKhU2KL2xh6Ec+BqsaHA==" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js"></script><script crossorigin="anonymous" defer="" id="publication-motion-plugin" integrity="sha512-P2IDYZfqSwjcSjX0BKeNhwRUH8zRPGlgcWl5n6gBLzdi4Y5/0O4zaXrtO4K9TZK6Hn1BenYpKowuCavNandERg==" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/ScrollTrigger.min.js"></script><link href="assets/citation-atlas.css?v=4ec25db056c9" id="citation-atlas-css" rel="stylesheet"/>
-<style>
-/* Reading measure. The body ran the full width of the sheet, which is why the
-   page was hard to read: ~110 characters a line, well past the 45-90 that
-   sustained reading needs. */
-.paper-page .manuscript-section > p,
-.paper-page .manuscript-section > ul,
-.paper-page .manuscript-section > ol,
-.paper-page #abstract p{max-width:34em}
-.paper-page .manuscript-section > p{
-  text-align:left;              /* justified text with no hyphenation dictionary
-                                   produced the rivers of whitespace visible in
-                                   the screenshots */
-  hyphens:auto;
-  line-height:1.62;
-  margin:0 0 .95em}
-.paper-page h2{margin:1.9em 0 .5em;line-height:1.25}
-.paper-page h3{margin:1.5em 0 .35em;line-height:1.3}
-.paper-page figure figcaption,.paper-page .figure-caption{max-width:100%}
-
-/* Citations */
-/* Citations wear the paper's accent, like every other link on it; the
-   browser's blue never appears. */
-a.lp-cite{color:var(--lpr-accent,#a64818);text-decoration:none;font-variant-numeric:tabular-nums;
-  padding:0 .5px;border-radius:3px}
-a.lp-cite:hover,a.lp-cite:focus{background:color-mix(in srgb,var(--lpr-accent,#a64818) 10%,transparent);text-decoration:none}
-.lp-refs{margin:2.4em 0 0;font-size:var(--lpr-type-sm,.9375rem);line-height:1.5}
-.lp-refs h2{margin:0 0 .2em}
-.lp-refs-note{color:var(--lpr-muted,#615a54);font-size:1em;margin:0 0 .8em;max-width:34em}
-.lp-ref-list{list-style:none;margin:0;padding:0;width:100%;max-width:100%}
-.lp-ref{display:grid;grid-template-columns:2.2em 1fr;gap:.2em .4em;
-  padding:.4em 0;border-bottom:1px dotted var(--lpr-rule,#e4e2dd);font-size:1em;line-height:1.5}
-.lp-ref:last-child{border-bottom:0}
-.lp-ref-n{color:var(--lpr-muted,#615a54);font-variant-numeric:tabular-nums;text-align:right}
-.lp-ref:target{background:color-mix(in srgb,var(--lpr-accent,#a64818) 8%,transparent);border-radius:5px}
-.lp-missing{margin-top:1em;font-size:.9em;color:#8a5a00;background:#fff8e6;
-  border:1px solid #f0e0b0;border-radius:7px;padding:.6em .8em;max-width:40em}
-
-/* The citation card */
-#lp-card{position:fixed;z-index:9999;max-width:23em;background:#fffefb;
-  border:1px solid #e0d9d0;border-radius:6px;box-shadow:0 8px 26px rgba(48,38,31,.14);
-  padding:11px 13px;font-family:var(--lpr-font,var(--publication-font,sans-serif));font-size:var(--lpr-type-xs,.8125rem);line-height:1.5;display:none;color:#171716}
-#lp-card[data-open="1"]{display:block}
-#lp-card[data-pinned="1"]{border-color:var(--lpr-accent,#a64818);box-shadow:0 8px 28px rgba(166,72,24,.16)}
-#lp-card .lp-card-n{color:var(--lpr-accent,#a64818);font-size:var(--lpr-type-2xs,.75rem);letter-spacing:.08em;
-  text-transform:uppercase;font-weight:600}
-#lp-card .lp-card-title{font-weight:600;margin:2px 0 4px}
-#lp-card .lp-card-meta{color:#615a54}
-#lp-card a{color:var(--lpr-accent,#a64818)}
-
-/* Commentable blocks get a quiet rule just inside the left edge. The previous
-   affordance was an absolutely positioned uppercase label in the right margin:
-   it sat outside the text column, overlapped the margin, and read as a
-   rendering fault rather than an invitation. */
-[data-comment-anchor]{position:relative;transition:box-shadow .12s ease}
-[data-comment-anchor]:hover{box-shadow:-0.5rem 0 0 -0.4rem #cbd5e2}
-/* Audit furniture above the abstract: present for the ledger, not for
-   the reader. Hidden here rather than removed, see FURNITURE_HIDDEN. */
-.paper-byline,.status-strip{display:none!important}
-@media print{#lp-card{display:none!important}}
-</style>
-<style>
-#latex-source{display:none;font-family:Inter,ui-sans-serif,system-ui,sans-serif}
-:root[data-paper-view="latex"] #latex-source{display:block}
-:root[data-paper-view="latex"] .paper-frame{display:none}
-.ov-head{margin:0 0 1.1rem}
-.ov-head h2{margin:0 0 .3rem;font-size:1.25rem}
-.ov-head p{margin:0 0 .6rem;max-width:78ch;color:var(--muted,#6f665e);
-  font-size:.85rem;line-height:1.6}
-.ov-actions{display:flex;gap:.5rem;flex-wrap:wrap;margin:.7rem 0 0}
-.ov-actions a,.ov-file-actions a{display:inline-flex;align-items:center;color:inherit;
-  font-size:.75rem;text-decoration:none;padding:.3rem .65rem;
-  border:1px solid var(--line,#d9cec5);border-radius:.35rem;background:var(--paper,#fffdf9)}
-.ov-file-actions{display:flex;gap:.35rem;align-items:center;flex-wrap:wrap}
-.ov-copy{font:inherit;font-size:.75rem;cursor:pointer;padding:.3rem .7rem;
-  border:1px solid var(--line,#d9cec5);border-radius:.35rem;
-  background:var(--paper,#fffdf9);color:inherit;white-space:nowrap}
-.ov-copy:hover{border-color:currentColor}
-.ov-copy[data-copied="1"]{background:#1f9d55;border-color:#1f9d55;color:#fff}
-.ov-file{border:1px solid var(--line,#e4dcd2);border-radius:.6rem;
-  margin:0 0 .8rem;overflow:hidden;background:var(--paper,#fff)}
-.ov-file-head{display:flex;gap:1rem;align-items:center;justify-content:space-between;
-  padding:.6rem .8rem;border-bottom:1px solid var(--line,#e4dcd2);
-  background:var(--surface,#f6f0e9)}
-.ov-file-head h3{margin:0;font-size:.85rem;font-family:ui-monospace,SFMono-Regular,
-  Menlo,Consolas,monospace}
-.ov-file-head p{margin:.12rem 0 0;font-size:.7rem;color:var(--muted,#6f665e)}
-.ov-src{margin:0;padding:.7rem .8rem;max-height:26rem;overflow:auto;
-  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
-  font-size:.7rem;line-height:1.55;white-space:pre;tab-size:2}
-.ov-note{margin:1rem 0 0;padding-top:.7rem;border-top:1px solid var(--line,#e4dcd2);
-  font-size:.75rem;color:var(--muted,#6f665e);line-height:1.6;max-width:78ch}
-</style>
-<style>
-.pdf-switch{display:grid;gap:.55rem;margin:0}
-.pdf-switch__tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.35rem}
-.pdf-switch button{font:inherit;font-size:.78rem;text-align:left;cursor:pointer;
-  padding:.7rem .8rem;border:1px solid var(--line,#d9cec5);border-radius:.4rem;
-  background:var(--paper,#fffdf9);color:inherit;min-width:0}
-.pdf-switch button:hover{border-color:currentColor}
-.pdf-switch button[aria-selected="true"]{background:var(--ink,#2b2622);
-  border-color:var(--ink,#2b2622);color:var(--paper,#fffdf9);font-weight:600}
-.pdf-switch small{display:block;font-size:.66rem;opacity:.72;font-weight:400;
-  margin-top:.22rem;overflow-wrap:anywhere}
-.pdf-build-state{margin:0;color:var(--muted,#6f665e);font-size:.72rem;line-height:1.45}
-.pdf-web-entry{display:block;margin:0 0 .5rem;font-size:.72rem;line-height:1.5;
-  color:var(--muted,#6f665e)}
-.pdf-web-entry button{font:inherit;font-size:.72rem;cursor:pointer;padding:0;
-  border:0;background:none;color:inherit;text-decoration:underline}
-.pdf-web-entry button[aria-pressed="true"]{font-weight:700;text-decoration:none}
-/* The renderer's own two-button control. Hidden, never removed. */
-.layout-switch{display:none}
-.pdf-pane{display:none;font-family:Inter,ui-sans-serif,system-ui,sans-serif}
-.pdf-pane-head{display:flex;gap:1rem;align-items:baseline;justify-content:space-between;
-  flex-wrap:wrap;margin:0 0 .6rem}
-.pdf-pane-head>div{min-width:0}
-.pdf-pane-head h2{margin:0;font-size:1.15rem}
-.pdf-pane-head p{margin:.15rem 0 0;font-size:.75rem;color:var(--muted,#6f665e)}
-.pdf-pane-actions{display:flex;gap:.45rem;flex-wrap:wrap}
-.pdf-pane-actions a{font-size:.73rem;text-decoration:none;padding:.3rem .7rem;
-  border:1px solid var(--line,#d9cec5);border-radius:999px;color:inherit;
-  white-space:nowrap}
-.pdf-pane-actions a:hover{border-color:currentColor}
-.pdf-frame{width:100%;height:min(82vh,1100px);border:1px solid var(--line,#e4dcd2);
-  border-radius:.5rem;background:var(--surface,#f6f0e9)}
-.pdf-fallback{margin:.7rem 0 0;font-size:.75rem;line-height:1.6;
-  color:var(--muted,#6f665e);max-width:78ch}
-.pdf-pane :where(p,code){overflow-wrap:anywhere;word-break:break-word}
-.pdf-stale{margin:0 0 .7rem;padding:.5rem .7rem;border-radius:.45rem;
-  border:1px solid #b8860b;background:#fff8e6;color:#5a4200;font-size:.75rem;
-  line-height:1.55}
-/* ---------------------------------------------------------------------------
-   The web edition reads as one continuous article, not as photographed pages.
-
-   Two problems this replaces. First, the renderer painted the manuscript onto
-   fixed 11in `.paper-page` sheets with `overflow:hidden`, which only works if
-   something reflows content to fit -- and on screen nothing does. Measured: 5 of
-   11 sheets overflowed, one holding 3,751px of content in a 1,056px box, and on
-   a single sheet 26 of 36 paragraphs sat below the painted edge, unreadable and
-   unscrollable. Roughly half the manuscript was invisible, silently.
-
-   Second, what remained was a shrunken photocopy of print: 11.6px body text in
-   two 333px columns. Correct for paper, unreadable on a screen.
-
-   So in `web` mode the page furniture goes: no sheets, no shadows, no page
-   padding, one column. The article gets a reading measure instead -- 18px on a
-   38rem column, measured at 74 characters a line, inside the 45-75 band -- and
-   the wide diagrams break out past the text column so they are legible rather
-   than squeezed to it.
-
-   Print and both PDF modes are untouched. Real pagination is what the two
-   compiled PDFs are for; this surface is for reading and commenting.
-   --------------------------------------------------------------------------- */
-:root[data-paper-mode="web"] .paper-workspace,
-:root[data-paper-mode="web"] .paper-frame,
-:root[data-paper-mode="web"] .paper-pages{max-width:none;width:auto;background:none;
-  padding:0;margin:0}
-:root[data-paper-mode="web"] .paper-page{width:auto;max-width:none;height:auto;
-  min-height:0;overflow:visible;box-shadow:none;border:0;border-radius:0;
-  background:none;margin:0;padding:0}
-/* `!important` only here: the renderer sets the two-column rule inline-equivalent
-   at a specificity this cannot otherwise beat, and a second column is the one
-   thing a continuous article must not have. */
-:root[data-paper-mode="web"] .page-columns{column-count:1 !important;column-gap:0;
-  column-rule:none}
-/* The sizes are the reading layer's tokens (living_paper_reading sets them
-   on the workspace); the fallbacks are the same values, so the web article
-   reads the same with or without that layer. Five steps, not twelve. */
-:root[data-paper-mode="web"] .manuscript-section,
-:root[data-paper-mode="web"] .paper-header{max-width:38rem;margin-left:auto;
-  margin-right:auto;font-size:var(--lpr-type-body,1.0625rem);line-height:1.6}
-:root[data-paper-mode="web"] p.paper-paragraph{font-size:var(--lpr-type-body,1.0625rem);line-height:1.6;
-  margin:0 auto 1.1rem;max-width:38rem}
-:root[data-paper-mode="web"] .manuscript-section h2{font-size:var(--lpr-type-heading,1.625rem);
-  font-weight:600;line-height:1.2;margin:2.6rem auto .7rem;max-width:38rem}
-:root[data-paper-mode="web"] .manuscript-section h3{font-size:var(--lpr-type-subheading,1.1875rem);
-  font-weight:600;line-height:1.3;margin:1.9rem auto .45rem;max-width:38rem}
-:root[data-paper-mode="web"] .manuscript-section ul,
-:root[data-paper-mode="web"] .manuscript-section ol{max-width:38rem;
-  margin-left:auto;margin-right:auto;font-size:var(--lpr-type-body,1.0625rem);line-height:1.6}
-/* Wide diagrams step outside the text measure rather than being squeezed into it. */
-:root[data-paper-mode="web"] .manuscript-section figure{width:min(52rem,92vw);
-  max-width:none;position:relative;left:50%;transform:translateX(-50%);
-  margin:2.6rem 0}
-:root[data-paper-mode="web"] .manuscript-section figure img{width:100%;height:auto}
-/* A wide table scrolls in its own box; the page itself never scrolls sideways. */
-:root[data-paper-mode="web"] figure.tex-table{overflow-x:auto}
-@media (max-width:700px){
-  :root[data-paper-mode="web"] .manuscript-section,
-  :root[data-paper-mode="web"] .paper-header,
-  :root[data-paper-mode="web"] p.paper-paragraph{max-width:none;
-    padding-left:1.1rem;padding-right:1.1rem;font-size:1.0625rem}
-  :root[data-paper-mode="web"] .manuscript-section figure{width:100%;left:0;
-    transform:none}
-}
-:root[data-paper-mode="two-column"] #pdf-pane-two-column,
-:root[data-paper-mode="single-column"] #pdf-pane-single-column{display:block}
-/* Every mode but `web` hides the web edition. The renderer sets no `display` on
-   .paper-frame, so a single class selector is enough and no !important is. */
-:root[data-paper-mode="two-column"] .paper-frame,
-:root[data-paper-mode="single-column"] .paper-frame,
-:root[data-paper-mode="latex"] .paper-frame{display:none}
-/* Small screens: an <object> PDF renders as a blank box on most mobile browsers
-   rather than failing over to its fallback content, so the embed is dropped and
-   the download card shown instead. A blank rectangle is worse than a link. */
-@media (max-width:700px){
-  .pdf-frame{display:none}
-  .pdf-fallback{padding:.85rem;border:1px solid var(--line,#e4dcd2);
-    border-radius:.4rem;background:var(--surface,#f6f0e9);font-size:.8rem}
-  .pdf-switch__tabs{grid-template-columns:1fr}
-}
-@media print{
-  .pdf-pane{display:none!important}
-  :root[data-paper-mode] .paper-frame{display:block!important}
-}
-</style>
-<style id="lpr-style">
-/* ---------------------------------------------------------------- palette */
-/* The warm publication field remains visible around a bounded white sheet.
-   A quiet edge and shadow restore the proportions of a paper without bringing
-   back simulated pages or a document-viewer frame. */
-.paper-workspace,#lpr-reader-tools,.lpr-reading-shell,.lpr-hero{--lpr-paper:#fffefb;--lpr-ink:#171716;
-  --lpr-muted:#615a54;--lpr-rule:#e4e2dd;--lpr-accent:var(--publication-accent,#a64818);
-  --lpr-font:var(--publication-font,Roboto,"Helvetica Neue",Arial,sans-serif);--lpr-measure:86ch;
-  --lpr-column:var(--lpr-measure);--lpr-sheet:64rem;--lpr-figure:var(--lpr-column);--lpr-rail:13rem;
-  /* The shell is as wide as its parts, rail + gutter + the widest figure, and is
-     centred in the viewport, so the text column stands near the middle of the page
-     instead of leaving the right third empty. */
-  --lpr-gutter:clamp(1.5rem,3vw,3.5rem);
-  /* The shell is wide, so the rail stands near the left edge with a small gap, and
-     the text column centres itself in the cell beside the rail (2026-09-06). */
-  --lpr-shell:110rem;
-  /* Five deliberate steps cover utilities, captions, prose, section heads,
-     and the title.  Keeping them here prevents each renderer from inventing a
-     slightly different size and weight. */
-  --lpr-type-2xs:.75rem;--lpr-type-xs:.8125rem;--lpr-type-sm:.9375rem;--lpr-type-body:1.0625rem;
-  --lpr-type-subheading:1.1875rem;--lpr-type-heading:1.625rem;
-  --lpr-type-display:clamp(1.9rem,3vw,2.55rem)}
-
-/* ------------------------------------------------------------------ layout */
-/* One column, one container, one left edge. The rail sits hard left and the
-   gutter is wide, so the outline stops crowding the first words of every line.
-   `justify-content:start` is what actually moves the rail left -- the grid was
-   centred inside `max-width`, so widening the gutter alone just pushed the text
-   right and kept the rail beside it. */
-.paper-workspace{box-sizing:border-box;display:block!important;width:100%;max-width:var(--lpr-sheet);
-  margin:1rem 0 3rem!important;padding:clamp(1.6rem,4vw,3rem)!important;
-  /* No box: the article sits on the page's own paper, as the story does.
-     The sheet had kept a border and a shadow after its fill went, which
-     read as a card with nothing in it. */
-  border:0;border-radius:0;background:transparent;box-shadow:none;
-  font-family:var(--lpr-font);min-width:0}
-/* The hero: title, note and cards at the TL;DR's width, on the ground. */
-/* Strong selectors: the frame's own sheet centres the title and caps the
-   header at the measure, and both carry !important. */
-section.lpr-hero.paper-frame{box-sizing:border-box;width:min(calc(100% - 10rem),var(--lpr-shell))!important;
-  max-width:none!important;margin:0 auto!important;padding:.75rem 0 0!important}section.lpr-hero.paper-frame .paper-header{width:min(100%,var(--lpr-sheet))!important;
-  max-width:var(--lpr-sheet)!important;margin:0!important;text-align:left!important}
-section.lpr-hero.paper-frame .paper-header>:is(p,h1){max-width:var(--lpr-column)!important;
-  margin-left:0!important;margin-right:0!important;text-align:left!important}
-section.lpr-hero.paper-frame .sr-paper-contribution-map{width:100%!important;max-width:none!important;
-  margin:0 0 1.5rem!important}
-@keyframes lpr-arrive{from{opacity:0;transform:translateY(.7rem)}to{opacity:1;transform:none}}
-.lpr-hero-arrive .sr-paper-teaser-panel{animation:lpr-arrive .55s cubic-bezier(.2,.7,.2,1) backwards}
-.lpr-hero-arrive .sr-paper-teaser-panel:nth-child(2){animation-delay:.09s}
-.lpr-hero-arrive .sr-paper-teaser-panel:nth-child(3){animation-delay:.18s}
-@media (prefers-reduced-motion:reduce){.lpr-hero-arrive .sr-paper-teaser-panel{animation:none}}/* The same shell as the TL;DR's story: a rail column on the left, the
-   content beside it, the pair centred at the TL;DR's width. The sheet keeps
-   its own measure inside the second column. */
-.lpr-reading-shell{display:grid;grid-template-columns:minmax(10.5rem,var(--lpr-rail)) minmax(0,1fr);
-  column-gap:var(--lpr-gutter);align-items:start;
-  width:min(calc(100% - 10rem),var(--lpr-shell));margin:0 auto}
-/* When the comment dock is open the page keeps clear of it, so the column
-   re-centres in the space that is left instead of hiding under the dock. */
-html.pc-open body{padding-right:min(26rem,42vw);transition:padding-right .2s ease}
-html.pc-open .publication-nav{padding-right:min(26rem,42vw)}
-/* The web-mode rule `:root[data-paper-mode="web"] .paper-workspace` sets width:auto with one
-   more attribute selector than this one, so the width carries the flag too. */
-.lpr-reading-shell>.paper-workspace{grid-area:1/2;width:min(100%,calc(var(--lpr-column) + 6rem))!important;margin:0 auto!important}
-.paper-tools{display:none!important}
-/* Before the script builds the reading shell, the sheet already stands where
-   the shell will put it -- the rail's column and gutter to its left, the
-   shell's own margins either side -- so the rail's arrival does not shove
-   the text sideways. */
-@media (min-width:980px){
-  html:not(.lpr-ready) .paper-workspace{
-    /* The same arithmetic as the shell: the cell beside the rail, and the column
-       centred inside it, so the script's arrival moves nothing. */
-    --lpr-cell:calc(min(100% - 10rem,var(--lpr-shell)) - var(--lpr-rail) - var(--lpr-gutter));
-    --lpr-block:min(var(--lpr-cell),calc(var(--lpr-column) + 6rem));
-    --lpr-shell-left:calc(max(5rem,(100% - var(--lpr-shell))/2) + var(--lpr-rail) + var(--lpr-gutter)
-      + (var(--lpr-cell) - var(--lpr-block))/2);
-    width:var(--lpr-block);
-    margin:1rem 0 3rem var(--lpr-shell-left)!important}
-  /* Figures and prose share the article's reading measure. */
-  .paper-frame .manuscript-section :is(figure,.tex-table,table,pre){
-    max-width:min(100%,var(--lpr-figure))!important}
-  :root[data-paper-mode="web"] .paper-frame .manuscript-section figure{
-    width:min(100%,var(--lpr-figure));left:0;transform:none}
-}
-/* Large displays: extend the shared reading column to the right. The workspace
-   and outline keep their positions; prose, figures, and tables use one measure. */
-@media screen and (min-width:1440px){
-  .paper-workspace,#lpr-reader-tools,.lpr-reading-shell,.lpr-hero{
-    --lpr-column:clamp(48rem,46vw,70rem);--lpr-sheet:96rem;
-    --lpr-shell:144rem;--lpr-rail:15rem;--lpr-gutter:clamp(3rem,4vw,6rem);
-    --lpr-type-body:1.125rem;--lpr-type-sm:1rem;--lpr-type-xs:.875rem}
-  .lpr-reading-shell>.paper-workspace{width:min(100%,var(--lpr-sheet))!important}
-  html:not(.lpr-ready) .paper-workspace{--lpr-block:min(var(--lpr-cell),var(--lpr-sheet))}
-}
-
-/* The simulated sheet becomes a plain continuous column. Killing the fixed
-   height is what actually fixes the misalignment: with overflow hidden and a
-   fixed 11in, content that overflowed a sheet was clipped and the next block
-   started a new container at a different inset. */
-.paper-pages{counter-reset:none!important}
-.paper-page{
-  background:transparent!important;
-  box-shadow:none!important;
-  border:0!important;
-  height:auto!important;
-  min-height:0!important;
-  width:auto!important;
-  max-width:none!important;
-  overflow:visible!important;
-  margin:0!important;
-  padding:0!important;
-  border-radius:0!important;
-}
-.paper-page::after{content:none!important}
-.paper-page--first{padding-top:0!important}
-.paper-sheet,.paper-frame :where(.page-columns,.manuscript-section){
-  box-sizing:border-box!important;width:100%!important;max-width:none!important;
-  margin:0!important;padding:0!important;columns:auto!important;column-count:1!important}
-.paper-frame .manuscript-section{max-width:var(--lpr-column)!important}
-.paper-frame{background:transparent!important;border-radius:0!important;
-  box-shadow:none!important;padding:0!important;margin:0!important}
-
-/* -------------------------------------------------------------- typography */
-.paper-frame{color:var(--lpr-ink);font-family:var(--lpr-font);
-  font-size:var(--lpr-type-body);font-weight:400;line-height:1.6;font-synthesis:none}
-/* One link style on the paper: citations, section and figure references,
-   DOIs and card links all in the accent, no underline at rest, a hairline on
-   hover. The browser's blue never appears. */
-.paper-frame a:not(.publication-nav__link):not(.lp-cite){color:var(--lpr-accent);text-decoration:none;
-  text-decoration-color:color-mix(in srgb,var(--lpr-accent) 55%,transparent);
-  text-decoration-thickness:1px;text-underline-offset:.16em}
-.paper-frame a:not(.publication-nav__link):not(.lp-cite):hover,
-.paper-frame a:not(.publication-nav__link):not(.lp-cite):focus-visible{text-decoration-line:underline}
-.paper-frame :where(h1,h2,h3,h4,h5,h6,p,li,dt,dd,td,th,figcaption,blockquote),
-.paper-tools :where(a,p,span,strong){font-family:var(--lpr-font)!important}
-.paper-frame .manuscript-section > p,
-.paper-frame #abstract p,
-.paper-frame .manuscript-section > ul,
-.paper-frame .manuscript-section > ol,
-.paper-frame .manuscript-section > blockquote,
-.paper-frame #abstract blockquote{
-  box-sizing:border-box;
-  width:min(100%,var(--lpr-column));
-  max-width:var(--lpr-column)!important;
-  text-align:left;                  /* justified with no hyphenation dictionary
-                                       gave the whitespace rivers */
-  hyphens:auto;
-  margin:0 0 1.05em;
-}
-.paper-frame .paper-paragraph:empty{display:none!important}
-.paper-frame h1{font-size:var(--lpr-type-display)!important;line-height:1.09!important;
-  letter-spacing:-.016em;font-weight:500;max-width:30ch!important;margin:0 0 .7rem!important;
-  text-align:left!important;text-wrap:balance}
-.paper-frame .paper-header{box-sizing:border-box;width:min(100%,var(--lpr-column))!important;
-  max-width:var(--lpr-column)!important;margin:0!important;text-align:left!important}
-.paper-frame .paper-kicker{margin:0 0 .9rem!important;color:var(--lpr-accent)!important;
-  font-size:var(--lpr-type-xs)!important;font-weight:500!important;letter-spacing:.02em!important;
-  text-transform:none!important}
-/* The switch to the Overleaf page: a pill at the top right of the paper, level
-   with the kicker, in the empty corner the title leaves. */
-.paper-frame .paper-header{position:relative!important}
-.paper-frame .paper-format-switch{position:absolute;right:0;top:-.3rem;display:inline-flex;align-items:center;
-  gap:.35rem;padding:.42rem .9rem;border:1px solid var(--lpr-rule,#d8cdc4);border-radius:999px;
-  background:var(--lpr-sheet,#fffdf9);color:var(--lpr-muted,#615a54);font-size:var(--lpr-type-xs);
-  line-height:1.2;text-decoration:none;white-space:nowrap;z-index:2}
-.paper-frame .paper-format-switch:hover,.paper-frame .paper-format-switch:focus-visible{
-  color:var(--lpr-accent);border-color:var(--lpr-accent);text-decoration:none}
-@media(max-width:700px){.paper-frame .paper-format-switch{position:static;margin:0 0 .9rem}}
-html.pc-open .paper-frame .paper-format-switch{position:static;margin:0 0 .9rem}
-.paper-frame .paper-byline{display:none!important}
-.paper-frame .lpr-plain-summary{box-sizing:border-box;width:min(100%,var(--lpr-column));
-  max-width:var(--lpr-column)!important;margin:1.1rem 0 1.6rem!important;
-  color:var(--lpr-muted);font-size:var(--lpr-type-body);line-height:1.62;text-align:left}
-.paper-frame .paper-abstract>h2,
-.paper-frame .paper-abstract>p{box-sizing:border-box;width:min(100%,var(--lpr-column))!important;
-  max-width:var(--lpr-column)!important;margin-left:0!important;margin-right:0!important;
-  text-align:left!important}
-.paper-frame .paper-abstract>.paper-keywords{color:var(--lpr-muted);font-size:var(--lpr-type-sm);line-height:1.55}
-.paper-frame blockquote.tex-quote{position:relative;width:min(100%,58ch)!important;
-  max-width:58ch!important;margin:1.35rem 0 1.55rem!important;padding:.15rem 0 .15rem 1.2rem;
-  border-left:2px solid rgba(166,72,24,.72);color:#343638;font-size:var(--lpr-type-body);line-height:1.65}
-.paper-frame blockquote.tex-quote p{width:auto!important;max-width:none!important;
-  margin:0!important}
-.paper-frame h2,.paper-frame h3,.paper-frame h4{
-  width:min(100%,var(--lpr-column));max-width:var(--lpr-column)!important;
-  margin-left:0;margin-right:0}
-.paper-frame h2{font-size:var(--lpr-type-heading);font-weight:600;margin-top:1.6em;
-  margin-bottom:.45em;line-height:1.2;letter-spacing:-.008em}
-.paper-frame .manuscript-section>h2,.paper-frame .paper-abstract>h2,
-.paper-frame #references>h2{text-transform:uppercase;letter-spacing:.025em;font-weight:600}
-.paper-frame h3{font-size:var(--lpr-type-subheading);font-weight:600;margin-top:1.7em;
-  margin-bottom:.4em;line-height:1.3}
-.paper-frame h4{font-size:var(--lpr-type-sm);font-weight:600;margin-top:1.5em;
-  margin-bottom:.3em}
-/* The section number in the accent, the title in ink. */
-.paper-frame :is(h2,h3,h4)>span:first-child{color:var(--lpr-accent);font-weight:600;margin-right:.1em;
-  font-variant-numeric:tabular-nums}
-.paper-frame figure,.paper-frame table{margin:2em 0}
-.paper-frame figure{box-sizing:border-box;width:min(100%,var(--lpr-figure));max-width:var(--lpr-figure)}
-.paper-frame .manuscript-section>figure{width:100%!important;max-width:100%!important;
-  margin-left:0!important;margin-right:0!important}
-.paper-frame .manuscript-section>figure[data-figure-size="single"]{width:min(100%,36rem)!important}
-.paper-frame .manuscript-section>figure[data-figure-size="medium"]{width:82%!important}
-/* Explorers use the available space beside the reading column. Their left
-   edge stays aligned with the prose; only the right edge expands. */
-@media screen and (min-width:1100px){
-  .paper-workspace{container-type:inline-size}
-  .paper-frame .manuscript-section>figure:has([data-hierarchy-explorer], [data-citation-atlas]){
-    width:100cqw!important;max-width:none!important}
-}
-.paper-frame figure :where(img,svg,canvas){display:block;width:100%;max-width:100%;height:auto;margin:0}
-@media(max-width:760px){.paper-frame .manuscript-section>figure[data-figure-size="medium"]{width:100%!important}}
-/* The figures are drawn on white; multiplied onto the page they sit on its
-   paper instead of on white rectangles. A click opens one at its drawn size,
-   because the labels drawn at 13 px on a 1008 px board reach 8 px in the
-   column. */
-.paper-frame figure.tex-figure img{mix-blend-mode:multiply}
-.paper-frame .manuscript-section figure.tex-figure img{cursor:zoom-in}
-.lpr-lightbox{position:fixed;inset:0;z-index:1500;display:grid;grid-template-rows:minmax(0,1fr) auto;
-  gap:.8rem;padding:2.2rem clamp(1rem,4vw,3rem) 1.6rem;box-sizing:border-box;
-  background:color-mix(in srgb,#fbf7f1 94%,transparent);backdrop-filter:blur(8px);cursor:zoom-out}
-.lpr-lightbox[hidden]{display:none}
-.lpr-lightbox img{justify-self:center;align-self:center;width:min(100%,64rem);max-height:100%;
-  object-fit:contain;mix-blend-mode:multiply}
-.lpr-lightbox-caption{margin:0 auto;max-width:64rem;color:var(--lpr-muted,#615a54);
-  font:400 var(--lpr-type-sm,.9375rem)/1.5 var(--lpr-font,sans-serif);text-align:center;cursor:default}
-html.lpr-lightbox-open{overflow:hidden}
-.paper-frame figcaption,.paper-frame .figure-caption{
-  box-sizing:border-box;width:100%;max-width:100%;margin-left:0;margin-right:0;
-  color:var(--lpr-muted);font-size:var(--lpr-type-sm);font-weight:400;line-height:1.5;
-  margin-top:.6em}
-.paper-frame figcaption .tex-caption-number{font-weight:600;color:var(--lpr-accent);letter-spacing:.01em}
-.paper-frame figcaption strong{color:var(--lpr-ink);font-weight:600}
-/* The reference list at the small step: the web-mode list rule in
-   paper_pdf_view would otherwise set it at the body size. */
-:root[data-paper-mode="web"] .manuscript-section .lp-refs,
-:root[data-paper-mode="web"] .manuscript-section ol.lp-ref-list{font-size:var(--lpr-type-sm);line-height:1.5}
-.paper-frame .manuscript-section .lp-refs,
-.paper-frame .manuscript-section .lp-ref-list{box-sizing:border-box;width:100%!important;max-width:100%!important}
-.paper-frame .lp-ref{min-width:0}
-.paper-frame .lp-ref>div{min-width:0;overflow-wrap:anywhere}
-.paper-frame .paper-header .lpr-word-count{margin:.7rem 0 1.1rem!important;
-  color:var(--lpr-muted);font-size:var(--lpr-type-xs);line-height:1.5}
-.lpr-word-count strong{font-weight:500}
-.lpr-word-count .lpr-count-help{display:inline-flex;position:relative;vertical-align:middle;margin-left:.4em}
-.lpr-count-help-toggle{display:inline-flex;align-items:center;justify-content:center;
-  width:1.3em;height:1.3em;padding:0;border:1px solid #aab4ad;border-radius:50%;
-  background:transparent;color:inherit;font:inherit;font-size:.9em;line-height:1;cursor:help}
-.lpr-count-help-toggle:focus-visible{outline:2px solid var(--lpr-accent);outline-offset:3px}
-.lpr-count-help .lpr-count-tooltip{display:block;position:absolute;z-index:25;top:calc(100% + .4rem);left:-10rem;
-  width:max-content;max-width:min(18rem,calc(100vw - 3rem));padding:.55rem .7rem;
-  border:1px solid var(--lpr-rule);border-radius:.4rem;background:#fffefa;color:var(--lpr-ink);
-  box-shadow:0 3px 12px #263a2915;font-size:.8rem;line-height:1.45;font-weight:400;
-  visibility:hidden;opacity:0;pointer-events:none;text-align:left}
-.lpr-count-help:hover .lpr-count-tooltip,.lpr-count-help:focus-within .lpr-count-tooltip{visibility:visible;opacity:1;pointer-events:auto}
-@media print{.lpr-word-count .lpr-count-help{display:none}}
-section.lpr-hero.paper-frame .paper-header .lpr-word-count{grid-column:1;grid-row:5;order:2}
-/* The shared method stage brought the story's compact labels with it; on
-   the paper nothing is set under the paper's smallest step. */
-.paper-frame .t-venue-round-label,.paper-frame .t-venue-round-domain output,
-.paper-frame .t-method-continuity li,.paper-frame .t-method-record small,
-.paper-frame .t-method-venue-groups section :is(strong,span),
-.paper-frame .t-inspection-icons small,.paper-frame .t-venue-rounds header span,
-.paper-frame .t-venue-round-controls button,.paper-frame .t-method-human-gate span,
-.paper-frame .t-stream-separation,
-.paper-frame .sr-kicker{font-size:var(--lpr-type-2xs)!important}
-.paper-frame .tex-figure-examples{margin:.45rem 0 0;color:var(--lpr-muted);font-size:var(--lpr-type-sm);line-height:1.5}
-.paper-frame .tex-figure-examples>summary{cursor:pointer;color:var(--lpr-ink);font-weight:500}
-.paper-frame .tex-figure-examples dl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:.2rem .8rem;margin:.4rem 0 0}
-.paper-frame .tex-figure-examples dt{font-weight:500;color:var(--lpr-ink)}.paper-frame .tex-figure-examples dd{margin:0}
-.paper-frame .tex-figure-examples a{color:var(--lpr-accent)}
-.paper-frame table{font-size:var(--lpr-type-sm)}
-.paper-frame td,.paper-frame th{border-color:var(--lpr-rule)}
-/* Wide content scrolls in its own box rather than pushing the column open. */
-.paper-frame table{display:block;overflow-x:auto;max-width:100%}
-.paper-frame .lpr-evidence-correction{
-  box-sizing:border-box;width:min(100%,var(--lpr-column));max-width:var(--lpr-column);
-  margin:1.3rem 0 1.8rem;padding:1rem 1.1rem;border:1px solid #d6c2b7;
-  border-left:3px solid #b4491a;background:#fbf7f4;color:var(--lpr-ink);
-  scroll-margin-top:5rem
-}
-.paper-frame .lpr-evidence-correction h4{width:auto!important;max-width:none!important;
-  margin:0 0 .45rem!important;font-size:var(--lpr-type-sm);color:#8d3612}
-.paper-frame .lpr-evidence-correction p{width:auto!important;max-width:none!important;
-  margin:.45rem 0!important;font-size:var(--lpr-type-sm);line-height:1.55;color:#3f4749}
-.paper-frame .lpr-deep-links{box-sizing:border-box;width:min(100%,var(--lpr-column));
-  max-width:var(--lpr-column);margin:2.4rem 0;padding:1rem 0;
-  border-top:1px solid var(--lpr-rule);border-bottom:1px solid var(--lpr-rule)}
-.paper-frame .lpr-deep-links h2{margin:0 0 .45rem!important;font-size:var(--lpr-type-body)!important}
-.paper-frame .lpr-deep-links p{width:auto!important;max-width:none!important;
-  margin:0!important;color:var(--lpr-muted);font-size:var(--lpr-type-sm);line-height:1.55}#lpr-reader-tools{position:sticky;top:5rem;z-index:55;grid-area:1/1;justify-self:start;align-self:start;scrollbar-width:thin;scrollbar-color:var(--lpr-rule,#e4e2dd) transparent;
-  width:var(--lpr-rail);max-height:calc(100vh - 6rem);
-  margin:var(--lpr-rail-offset,24rem) 0 0 0;padding:1.25rem .5rem 1.25rem .25rem;
-  overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;
-  background:transparent;font-family:var(--lpr-font);border:0;
-  backdrop-filter:none;font-synthesis:none}
-/* The same rail as the TL;DR's paper map: a heading, one track with a dot per
-   section, and the current section in ink on its own accent. The drawer's
-   plus-and-minus summary and its rule are gone from the desktop; below the
-   desktop width the same element folds to a pill (see the media rules). */
-#lpr-reader-tools>summary{display:block;margin:0 0 .8rem;padding:0;cursor:default;list-style:none;
-  pointer-events:none;color:var(--lpr-ink);font:600 var(--lpr-type-2xs)/1.3 var(--lpr-font);border:0}
-#lpr-reader-tools>summary::-webkit-details-marker{display:none}
-#lpr-reader-tools>summary span{display:none}
-#lpr-reader-tools>summary::after{content:none}
-.lpr-drawer-body{display:grid;gap:.75rem;padding:0;max-width:15rem}
-.lpr-contents-title{margin:0 0 .35rem;color:var(--lpr-muted);
-  font:500 var(--lpr-type-xs)/1.3 var(--lpr-font)}
-#lpr-reader-tools .paper-contents{display:grid!important;position:relative;
-  grid-template-columns:1fr!important;gap:.08rem!important;
-  margin:0!important;padding:.15rem 0 .15rem .95rem!important;border:0!important;background:transparent!important}
-/* The line and the dots share one x, .2rem in from the list's left edge, and
-   the dot sits on the text's centre: .38rem of padding plus half a 1.3 line
-   of .7rem. These are the TL;DR map's measures, so the two rails match. */
-#lpr-reader-tools .paper-contents::before{content:"";position:absolute;left:calc(.2rem - .5px);top:.3rem;bottom:.3rem;
-  width:1px;background:var(--lpr-rule)}
-#lpr-reader-tools .paper-contents a{position:relative;display:block;width:auto!important;padding:.38rem .25rem!important;
-  border:0!important;border-radius:0!important;background:transparent!important;color:var(--lpr-muted)!important;
-  font:500 var(--lpr-type-xs)/1.35 var(--lpr-font)!important;text-decoration:none;text-align:left;transition:color .16s ease}
-/* .38rem of padding plus half a 1.35 line of .8125rem puts the dot on the
-   text's centre. */
-#lpr-reader-tools .paper-contents a::before{content:"";position:absolute;left:calc(.2rem - .95rem - .17rem);
-  top:calc(.93rem - .17rem);width:.34rem;height:.34rem;border-radius:50%;background:var(--lpr-rule)}
-#lpr-reader-tools .paper-contents a:hover{color:var(--lpr-ink)!important;text-decoration:none;
-  background:transparent!important}
-#lpr-reader-tools .paper-contents a[aria-current="location"]{color:var(--lpr-ink)!important;
-  font-weight:500!important}
-#lpr-reader-tools .paper-contents a[aria-current="location"]::before{
-  background:var(--lpr-rail-accent,var(--lpr-accent));
-  box-shadow:0 0 0 3px color-mix(in srgb,var(--lpr-rail-accent,var(--lpr-accent)) 14%,transparent)}
-/* Groups retain hover-open children while the reader moves within the rail.
-   Collapsing the preceding group during that move shifts the next target away. */
-.lpr-rail-group{position:relative}
-#lpr-reader-tools .paper-contents .lpr-rail-group>a{padding-right:1.8rem!important}
-.lpr-rail-children{display:none;grid-template-columns:1fr;gap:.04rem;padding:0 0 .2rem}
-.lpr-rail-group.is-hover-open .lpr-rail-children,.lpr-rail-group.is-open .lpr-rail-children,
-.lpr-rail-group.is-current .lpr-rail-children{display:grid}
-#lpr-reader-tools .paper-contents .lpr-rail-children a{padding:.26rem .25rem .26rem 1rem!important;
-  font-size:var(--lpr-type-2xs)!important;line-height:1.3!important}
-#lpr-reader-tools .paper-contents .lpr-rail-children a::before{width:.24rem;height:.24rem;
-  left:calc(.2rem - .95rem - .12rem);top:calc(.79rem - .12rem)}
-.lpr-rail-toggle{position:absolute;right:0;top:.34rem;width:1.3rem;height:1.3rem;padding:0;border:0;
-  background:transparent;color:var(--lpr-muted);cursor:pointer;font:inherit;line-height:1}
-.lpr-rail-toggle::before{content:"";display:block;width:.4rem;height:.4rem;margin:.4rem auto 0;
-  border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;
-  transform:rotate(-45deg);transition:transform .16s ease}
-.lpr-rail-group.is-open .lpr-rail-toggle::before{transform:rotate(45deg)}
-.lpr-rail-toggle:hover{color:var(--lpr-ink)}
-.lpr-rail-toggle:focus-visible{outline:2px solid var(--lpr-accent);outline-offset:2px}
-.lpr-local-actions{display:flex;align-items:center;flex-wrap:wrap;gap:.5rem .8rem;margin-top:.15rem}
-#lpr-reader-tools .detail-link{display:inline;color:var(--lpr-accent)!important;
-  background:transparent!important;border:0!important;padding:0!important;
-  font:500 var(--lpr-type-xs)/1.4 var(--lpr-font)!important;text-decoration:underline;
-  text-underline-offset:3px}#lpr-reader-tools::-webkit-scrollbar{width:6px}#lpr-reader-tools::-webkit-scrollbar-thumb{background:var(--lpr-rule,#e4e2dd);border-radius:3px}#lpr-reader-tools::-webkit-scrollbar-track{background:transparent}.lpr-tab[hidden]{display:none!important}
-.lpr-evidence{display:grid;gap:.02rem;padding:0 0 0 .95rem}
-.lpr-evidence-group{margin:.5rem 0 .1rem;color:var(--lpr-accent);font:600 var(--lpr-type-2xs)/1.3 var(--lpr-font);
-  letter-spacing:.08em;text-transform:uppercase}
-.lpr-evidence-group:first-child{margin-top:.1rem}
-.lpr-evidence a{display:block;padding:.26rem .25rem;color:var(--lpr-muted);
-  font:500 var(--lpr-type-xs)/1.35 var(--lpr-font);text-decoration:none;transition:color .16s ease}
-.lpr-evidence a:hover{color:var(--lpr-ink)}
-.lpr-evidence-foot{margin:.7rem 0 0 .95rem}
-#lpr-comment-slot{display:contents}
-#lpr-reader-tools .pc-launch{position:static!important;inset:auto!important;margin:0!important;
-  padding:.25rem 0!important;border:0!important;background:transparent!important;box-shadow:none!important;
-  color:var(--lpr-muted)!important;font:500 var(--lpr-type-xs)/1.3 var(--lpr-font)!important}
-#lpr-reader-tools .pc-launch strong{font:inherit!important}
-#lpr-reader-tools .pc-launch span{display:none!important}.paper-footer:empty{display:none!important}#latex-source,.pdf-pane{box-sizing:border-box;width:min(calc(100% - 2rem),72rem);margin:1rem auto 3rem}
-
-/* Between the desktop rail and the phone drawer the paper column is narrower
-   than the 52rem figure rules supplied by the shared evidence renderer.  Those
-   rules are intentionally generous on a full-width page, but inside the
-   bounded sheet they used their absolute cap and widened the entire document.
-   Keep the visual as wide as the sheet permits and contain oversized tabular
-   content in its own horizontal scroller. */
-@media (min-width:841px) and (max-width:1100px){
-  .paper-frame figure,
-  .paper-frame .tex-table,
-  .paper-frame .sr-paper-method-journey,
-  .paper-frame .t-method-stage{
-    box-sizing:border-box!important;width:auto!important;max-width:100%!important;
-    left:auto!important;right:auto!important;margin-left:0!important;margin-right:0!important;
-    transform:none!important}
-  .paper-frame :where(figure,.tex-table,.sr-paper-method-journey) :where(img,svg,canvas){
-    width:100%!important;max-width:100%!important;height:auto}
-  .paper-frame .tex-table{display:block!important;overflow-x:auto!important}
-  .paper-frame .tex-table table{width:max-content;min-width:100%;max-width:none!important}
-}
-
-@media (max-width:1100px){
-  .paper-workspace{padding:clamp(1.5rem,5vw,2.5rem)!important}
-  .paper-frame{padding:0!important}
-}
-@media (max-width:979px){
-  .lpr-reading-shell{display:block;width:100%;margin:0}
-  .paper-workspace{width:min(calc(100% - 2rem),var(--lpr-sheet));margin:1rem auto 2.5rem!important}
-  /* Below the width where the rail fits in the sheet's margin it folds to a
-     pill at the sheet's left edge, as the TL;DR's map does: open it and the
-     sections drop down under it. */
-  #lpr-reader-tools{position:sticky;top:3.3rem;z-index:60;width:max-content;max-width:calc(100% - 2rem);
-    max-height:none;margin:.5rem 0 .25rem max(1rem,calc((100% - var(--lpr-sheet)) / 2));padding:0;
-    border:0;overflow:visible}
-  #lpr-reader-tools>summary{display:inline-flex;align-items:center;gap:.4rem;margin:0;padding:.38rem .8rem;
-    border:1px solid var(--lpr-rule);border-radius:999px;background:rgba(253,251,247,.96);
-    box-shadow:0 2px 10px rgba(38,28,20,.06);font:600 var(--lpr-type-2xs)/1.2 var(--lpr-font);color:var(--lpr-ink);
-    cursor:pointer;pointer-events:auto}
-  #lpr-reader-tools>summary::after{content:"▾";font-size:.75em;opacity:.55}
-  #lpr-reader-tools[open]>summary::after{content:"▴"}
-  .lpr-drawer-body{position:absolute;left:0;top:calc(100% + .35rem);z-index:50;min-width:15rem;
-    max-width:calc(100vw - 2rem);padding:.5rem .55rem;border:1px solid var(--lpr-rule);border-radius:.55rem;
-    background:rgba(253,251,247,.98);box-shadow:0 14px 34px rgba(38,28,20,.14)}
-  #lpr-reader-tools .paper-contents{gap:.05rem!important;padding:0!important;max-height:min(60vh,22rem);overflow-y:auto}
-  #lpr-reader-tools .paper-contents::before,#lpr-reader-tools .paper-contents a::before{display:none}
-  #lpr-reader-tools .paper-contents a{padding:.38rem .4rem!important}
-}
-@media (max-width:720px){
-  .paper-workspace{width:calc(100% - 1rem);margin:.5rem auto 1.5rem!important;
-    padding:1.25rem 1rem 1.75rem!important;box-shadow:0 .8rem 2rem rgba(48,38,31,.07)}  /* On a phone the pill sits at the head of the paper rather than riding
-     along: the site's own bar already sticks, and two sticky rows would take
-     a third of the screen. */
-  #lpr-reader-tools{position:relative;top:auto;margin-left:.5rem}
-  #lpr-reader-tools>summary span{display:none}
-  .lpr-drawer-body{gap:.55rem}
-  #lpr-reader-tools .paper-contents{grid-template-columns:1fr!important;max-height:12rem}  #latex-source,.pdf-pane{width:calc(100% - 1.5rem);margin-top:.75rem}
-  .paper-frame{padding:0!important}
-  .paper-frame h1{font-size:var(--lpr-type-display)!important;line-height:1.1!important}
-  .paper-frame,.paper-frame :where(.paper-page,.page-columns,.manuscript-section){
-    column-count:1!important;columns:auto!important;font-size:var(--lpr-type-body)!important;line-height:1.68!important}
-  .paper-frame :where(p,li,blockquote){font-size:var(--lpr-type-body)!important;line-height:1.68!important}
-  .paper-frame :where(figcaption,.figure-caption){font-size:var(--lpr-type-sm)!important;line-height:1.5!important}
-  .paper-frame p,.paper-frame li{hyphens:none!important}
-  .paper-frame .manuscript-section a,
-  .paper-frame .reference-list a,
-  .paper-frame .manuscript-section code{
-    overflow-wrap:anywhere;word-break:break-word}
-}
-@media print{
-  #lpr-reader-tools{display:none!important}
-  .paper-frame{box-shadow:none;padding:0}
-}
-</style>
-<style id="learning-evidence-view-style">
-.le-scope{box-sizing:border-box;width:100%;padding:1.4rem;border:1px solid #d9e1dc;border-radius:.65rem;background:#fffefa;color:#29332e;font:400 1rem/1.5 system-ui,sans-serif}
-.le-scope *{box-sizing:border-box}.le-scope p{margin:.45rem 0;font:inherit}.le-scope h3{margin:0 0 .35rem;font:600 1.4rem/1.25 system-ui,sans-serif;color:#29332e}
-.le-scope h4{margin:0 0 1rem;font:600 1.05rem/1.3 system-ui,sans-serif;color:#29332e}
-.le-scope .le-context{color:#5b6961;font-size:.9rem}.le-all{margin:1.3rem 0}.le-all-track{display:flex;height:1.35rem;overflow:hidden;background:#eef2f3;border-radius:3px;margin:.6rem 0}.le-all-track span{display:block;background:#3f6288}
-.le-all-labels{display:flex;gap:1rem;justify-content:space-between;font-size:.9rem}.le-all-labels strong{color:#3f6288}
-.le-subset{border-top:1px solid #d9e1dc;padding-top:1.1rem}.le-controls{display:none;flex-wrap:wrap;gap:.45rem;margin:.9rem 0 1rem}.le-scope[data-ready] .le-controls{display:flex}
-.le-controls button{font:500 .87rem/1.3 system-ui,sans-serif;padding:.55rem .8rem;border:1px solid #aebcb3;border-radius:2rem;background:#fff;color:#334a3d;cursor:pointer}.le-controls button[aria-pressed=true]{background:#3f6288;border-color:#3f6288;color:white}.le-controls button:focus-visible{outline:3px solid #bd672f;outline-offset:3px}
-.le-charts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.8rem;margin-top:1.2rem}.le-scope .le-charts>section{width:auto;max-width:none;min-width:0;margin:0!important;padding:0!important}.le-rows{margin:0;padding:0;list-style:none!important}.le-rows li{list-style:none!important;margin:0 0 1rem!important;padding:0!important}.le-row-title{display:flex;gap:.6rem;justify-content:space-between;align-items:baseline;font-size:.9rem;line-height:1.4}.le-row-title output{white-space:nowrap;color:#53645a;font-variant-numeric:tabular-nums}.le-track{height:8px;background:#eef2f3;margin:.4rem 0 0}.le-bar{display:block;height:100%;background:#3f6288;transition:width .25s ease}.le-bar[data-key=loss]{background:#2b425b}.le-bar[data-key=not_measured],.le-bar[data-key=unclear]{background:#8c9ba6}
-.le-notes{margin:1rem 0 0;padding-top:.8rem;border-top:1px solid #d9e1dc;font-size:.85rem!important;color:#5b6961}.le-scope summary{cursor:pointer;font:500 .9rem/1.4 system-ui,sans-serif}.le-scope details{margin-top:.85rem}.le-scope details p{font-size:.9rem}.le-web+.le-print{display:none}
-.le-note-cards{padding-left:1.15rem!important;margin:.7rem 0 1.2rem!important}.le-note-cards li{margin:.7rem 0!important}.le-note-cards a{font-weight:600}.le-scope details h4{margin:1rem 0 .4rem}.le-note-cards p{color:#53645a}.le-ambiguity{font-size:.85rem!important;color:#53645a;margin-top:.8rem!important}
-@media(max-width:600px){.le-scope{padding:1rem}.le-charts{grid-template-columns:1fr;gap:1rem}.le-all-labels{flex-direction:column;gap:.2rem}.le-row-title{font-size:.9rem}.le-scope h3{font-size:1.2rem}}
-@media(prefers-reduced-motion:reduce){.le-bar{transition:none}}
-@media print{.le-controls{display:none!important}.le-scope{break-inside:avoid}.le-web{display:none}.le-web+.le-print{display:block}}
-</style>
-<style id="lineage-evidence-view-style">
-.ln-view{box-sizing:border-box;border:1px solid #d7dedb;border-radius:10px;padding:clamp(1rem,3vw,1.6rem);background:#fffefa;font:400 1rem/1.5 system-ui,sans-serif;color:#29332e}
-.ln-view *{box-sizing:border-box}.ln-view :is(p,h3,h4){font-family:inherit!important;color:inherit}.ln-view h3{font-size:1.4rem!important;line-height:1.25!important;margin:0 0 .5rem!important}.ln-view h4{font-size:1.08rem!important;line-height:1.35!important;margin:1.3rem 0 .65rem!important}.ln-view p{font-size:.9rem!important;line-height:1.5!important;margin:.45rem 0!important}.ln-view .ln-muted{color:#566574}.ln-use{display:grid;grid-template-columns:minmax(0,1fr) minmax(100px,.8fr) 4rem;gap:1rem;align-items:center;margin:.9rem 0;font-size:.95rem}.ln-track{height:12px;background:#eef2f3}.ln-track i{display:block;height:100%;background:#a8501c}.ln-use strong{text-align:right;font-variant-numeric:tabular-nums}.ln-coverage{border-block:1px solid #d7dedb;padding:1rem 0;margin:1.2rem 0}.ln-coverage .ln-track{margin:.65rem 0}
-.ln-table{width:100%;border-collapse:collapse!important;font:inherit!important}.ln-table :is(th,td){background:none!important;color:inherit!important;text-align:left!important;padding:.7rem .4rem!important;border:0!important;border-bottom:1px solid #e1e5e2!important;vertical-align:top}.ln-table th{font-size:.82rem!important}.ln-table td{font-size:.95rem!important}.ln-table :is(th,td):last-child{text-align:right!important}.ln-table .ln-rate{display:block;font-weight:650}.ln-table small{color:#566574;font-size:.78rem}.ln-explorer{border-top:1px solid #d7dedb;margin-top:1.2rem;padding-top:.8rem}.ln-explorer>summary{font-weight:650;cursor:pointer}.ln-controls{display:none;gap:.6rem;margin:1rem 0;align-items:center;flex-wrap:wrap}.ln-view[data-ready] .ln-controls{display:flex}.ln-controls select{font:inherit;padding:.5rem;max-width:100%;border:1px solid #b5c1bb;background:#fff;border-radius:4px;color:inherit}.ln-tradition{margin:.7rem 0;border-bottom:1px solid #e1e5e2;padding:.65rem 0}.ln-tradition>summary{cursor:pointer;font-weight:600}.ln-tradition[hidden]{display:none}.ln-relations{display:flex;flex-wrap:wrap;gap:.35rem}.ln-relations span{font-size:.8rem;border:1px solid #d9dfdb;border-radius:4px;padding:.2rem .45rem}.ln-example{padding:.7rem 0!important;border-top:1px solid #e1e5e2}.ln-example blockquote{font:inherit!important;font-size:.9rem!important;margin:.6rem 0!important;padding:0 0 0 .8rem!important;border-left:2px solid #a8501c}.ln-view a{overflow-wrap:anywhere}.ln-view summary:focus-visible,.ln-controls select:focus-visible{outline:3px solid #a8501c;outline-offset:3px}
-.research-print{display:none}
-.ln-view .ln-table{display:table!important;width:100%!important;max-width:none!important}
-.ln-jump{margin:.6rem 0!important;border:0!important;background:none!important;padding:0!important}.ln-jump>summary{cursor:pointer;font:500 14px/1.5 system-ui,sans-serif!important;color:#3b627f!important}.ln-jump .ln-controls{margin:.5rem 0}
-@media(max-width:420px){.ln-view .ln-table,.ln-table tbody{display:block!important}.ln-table thead{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%)}.ln-table tr{display:grid;grid-template-columns:1fr 1fr;gap:.25rem .8rem;padding:.7rem 0;border-bottom:1px solid #e1e5e2}.ln-view .ln-table :is(th,td){border:0!important;padding:.25rem 0!important}.ln-table td:first-child{grid-column:1 / -1;max-width:none!important;font-size:1rem!important;font-weight:650}.ln-table td:nth-child(2)::before{content:'Share of coded records';display:block;font-size:.78rem;margin-bottom:.35rem}.ln-table td:last-child::before{content:'Used in a design or measure';display:block;font-size:.78rem;margin-bottom:.35rem}.ln-table :is(th,td):last-child{text-align:left!important}.ln-table td{font-size:.95rem!important}}
-@media(max-width:600px){.ln-use{grid-template-columns:minmax(0,1fr) 4rem;gap:.4rem}.ln-use .ln-track{grid-column:1;grid-row:2}.ln-use strong{grid-column:2;grid-row:1 / span 2}.ln-table th{font-size:.72rem!important}.ln-table td{font-size:.82rem!important}.ln-table :is(th,td){padding:.6rem .2rem!important}.ln-table td:first-child{max-width:7rem}.ln-controls select{width:100%}}
-@media print{.research-web{display:none!important}.research-print{display:block!important}}
-</style>
-<style id="citation-bridge-view-style">
-.cb-scope{box-sizing:border-box;max-width:100%;color:#17232e;font:400 1rem/1.5 system-ui,sans-serif}
-.cb-scope *{box-sizing:border-box}.cb-scope [hidden]{display:none!important}
-.cb-scope .cb-web{padding:1.4rem;border:1px solid #c8d1d9;border-radius:.6rem;background:#fff}
-.cb-scope .cb-title{margin:0 0 .4rem;font:650 1.45rem/1.25 system-ui,sans-serif;color:#17232e}
-.cb-scope p{margin:.45rem 0;font:inherit}.cb-scope .cb-context{color:#566574;font-size:.92rem}
-.cb-scope .cb-track{display:flex;height:1.2rem;overflow:hidden;margin:1.15rem 0 .8rem;background:#eef2f3}
-.cb-scope .cb-track span{display:block}.cb-scope .cb-coverage{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:0 0 1rem}
-.cb-scope .cb-coverage div{min-width:0}.cb-scope .cb-coverage dt{font-size:.9rem}.cb-scope .cb-coverage dd{margin:0;font-size:1.15rem;font-weight:700}
-.cb-scope .cb-swatch{display:inline-block;width:.65rem;height:.65rem;margin-right:.35rem}
-.cb-scope .cb-heading{font:650 1.05rem/1.35 system-ui,sans-serif;margin:1.2rem 0 .4rem;color:#17232e}
-.cb-scope .cb-controls{margin:.9rem 0}.cb-scope .cb-search-label{display:block;font-size:.9rem;font-weight:600}
-.cb-scope .cb-search{width:100%;max-width:34rem;margin:.35rem 0;padding:.6rem .75rem;border:1px solid #8594a0;border-radius:.3rem;font:inherit;background:#fff;color:#17232e}
-.cb-scope .cb-search:focus-visible,.cb-scope summary:focus-visible,.cb-scope a:focus-visible{outline:3px solid #007f99;outline-offset:3px}
-.cb-scope .cb-status{display:block;color:#566574;font-size:.85rem}
-.cb-scope .cb-source{border-top:1px solid #e2e8ea;margin:0;padding:.55rem 0}
-.cb-scope .cb-source>summary{cursor:pointer;list-style:disclosure-closed;font:inherit;padding:.35rem 0;overflow-wrap:anywhere}
-.cb-scope .cb-source[open]>summary{list-style:disclosure-open}.cb-scope .cb-source-title{font-weight:650}
-.cb-scope .cb-source-count{display:block;margin:.3rem 0 0 1rem;color:#566574;font-size:.88rem;font-variant-numeric:tabular-nums}
-.cb-scope .cb-rank-track{display:block;max-width:15rem;height:.3rem;background:#eef2f3;margin:.4rem 0 0 1rem}
-.cb-scope .cb-rank-track i{display:block;height:100%;background:#007f99}
-.cb-scope .cb-citers{margin:.7rem 0 .6rem!important;padding-left:1.35rem!important}
-.cb-scope .cb-citers li{margin:.45rem 0!important;padding-left:.1rem;overflow-wrap:anywhere;font-size:.9rem}
-.cb-scope .cb-citers a{color:#00576a;text-decoration:underline;text-underline-offset:.15em}.cb-scope .cb-meta{color:#566574}
-.cb-scope .cb-rest{margin-top:.4rem}.cb-scope .cb-rest>summary{cursor:pointer;font-weight:600;padding:.7rem 0}
-.cb-scope .cb-note{border-top:1px solid #c8d1d9;padding-top:.9rem;margin-top:1rem;font-size:.88rem;color:#566574}
-.cb-scope .cb-print{display:none}.cb-scope .cb-print svg{display:block;width:100%;height:auto;max-width:100%}
-@media(max-width:620px){.cb-scope .cb-web{padding:1rem}.cb-scope .cb-title{font-size:1.2rem}.cb-scope .cb-coverage{grid-template-columns:1fr;gap:.5rem}.cb-scope .cb-coverage div{display:flex;justify-content:space-between;gap:.7rem}.cb-scope .cb-coverage dt{max-width:65%}.cb-scope .cb-coverage dd{font-size:1rem;white-space:nowrap}}
-@media print{.cb-scope .cb-web{display:none!important}.cb-scope .cb-print{display:block!important;break-inside:avoid}}
-</style>
-<style id="developmental-evidence-view-style">.dev-evidence{padding:1rem;border:1px solid #d7dedb;border-radius:6px;background:#fffefa}.dev-evidence>svg{display:block;width:100%;height:auto}.dev-evidence summary{cursor:pointer;font:500 14px/1.5 system-ui,sans-serif}.dev-evidence details{padding:.8rem 0;border-top:1px solid #d7dedb}.dev-evidence dd{margin:.2rem 0 .7rem;font:400 14px/1.5 system-ui,sans-serif}</style>
-<style id="knowledge-use-tree-style">
-.knowledge-use-tree{margin:1.2rem 0;font:400 .95rem/1.45 system-ui,sans-serif}.knowledge-use-tree *{box-sizing:border-box}
-.knowledge-use-tree details{margin:.55rem 0!important}.knowledge-use-tree summary{cursor:pointer;padding:.65rem .3rem;color:var(--branch,#426b8b);font:600 1rem/1.45 system-ui,sans-serif}
-.knowledge-use-tree summary:focus-visible{outline:3px solid #a8501c;outline-offset:3px}.knowledge-use-tree .kt-children{margin-left:.6rem;padding-left:1.4rem;border-left:2px solid var(--branch,#ccd6d1)}
-.knowledge-use-tree .kt-children>details>summary{position:relative}.knowledge-use-tree .kt-children>details>summary:before{content:'';position:absolute;left:-1.4rem;top:1.3rem;width:1.1rem;border-top:2px solid var(--branch,#ccd6d1)}
-.knowledge-use-tree .kt-number{font-size:.84rem;font-weight:400;color:#566861;margin-left:.3rem;font-variant-numeric:tabular-nums}.knowledge-use-tree .kt-bar{display:block;margin:.5rem 0 .3rem;height:6px;max-width:28rem;background:#e9efeb}.knowledge-use-tree .kt-bar i{display:block;height:100%;background:var(--branch)}
-.knowledge-use-tree .ln-tradition{border:0;border-top:1px solid #e2e8e4;border-radius:0;padding:.25rem 0!important}.knowledge-use-tree .ln-tradition>summary{font-weight:500;color:#21302a;font-size:.94rem}
-.knowledge-use-tree [hidden]{display:none!important}@media(max-width:480px){.knowledge-use-tree .kt-children{padding-left:.75rem;margin-left:.1rem}.knowledge-use-tree .kt-children>details>summary:before{left:-.75rem;width:.5rem}.knowledge-use-tree .kt-number{display:block;margin-left:0}}
-</style>
-<style id="hierarchy-explorer-style">
-.hx-frame{padding:clamp(1rem,2vw,1.5rem);border:1px solid #d7dedb;border-radius:6px;background:#fffefa;color:#29332e;text-align:left}
-.hx-frame>h3{font:650 23px/1.3 system-ui,sans-serif!important;margin:0 0 .5rem!important}.hx-frame>p{font:400 15px/1.5 system-ui,sans-serif!important;margin:.5rem 0!important}
-.hx{container-type:inline-size;color:#26312d;font:400 15px/1.45 system-ui,sans-serif;text-align:left}
-.hx *{box-sizing:border-box}.hx [hidden]{display:none!important}
-.hx .hx-hint{font:400 14px/1.5 system-ui,sans-serif!important;color:#596960;margin:.7rem 0 1.2rem!important}
-.hx .hx-desktop-hint{display:none}.hx[data-hx-wide] .hx-desktop-hint{display:inline}.hx[data-hx-wide] .hx-inline-hint{display:none}
-.hx-layout{display:grid;grid-template-columns:minmax(0,1fr);align-items:start;gap:1.5rem}
-.hx-group{--branch:#426b8b;display:grid;grid-template-columns:130px minmax(0,1fr);gap:1rem;padding:1rem 0;border-top:1px solid #dce3de}
-.hx .hx-parent{font-size:15px;line-height:1.35;color:var(--branch);padding-top:.5rem;min-width:0}
-.hx-parent strong{display:block}.hx-parent small{display:block;margin:.45rem 0;font-size:13px;font-weight:400;font-variant-numeric:tabular-nums}
-.hx-children{border-left:1px solid var(--branch);padding-left:1rem;min-width:0}
-.hx .hx-branch{border:0!important;border-radius:0!important;background:none!important;margin:0!important;padding:0!important;min-width:0}
-.hx .hx-branch>summary{position:relative;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:.5rem;list-style:none;cursor:pointer;padding:.55rem .45rem!important;font:500 14px/1.4 system-ui,sans-serif!important;color:#26312d!important;border-radius:3px;background:none}
-.hx .hx-branch>summary::-webkit-details-marker{display:none}.hx .hx-branch>summary:before{content:'';position:absolute;left:-1rem;top:50%;width:.9rem;border-top:1px solid var(--branch)}
-.hx .hx-branch>summary:after{content:'+';grid-column:2;grid-row:1;font-size:17px;color:var(--branch);width:1rem;text-align:center}
-.hx .hx-branch[open]>summary:after{content:'−'}.hx .hx-branch[open]>summary,.hx .hx-branch>summary:hover{background:#edf2ee}
-.hx .hx-branch>summary:focus-visible,.hx-inspector:focus-visible{outline:3px solid #a8501c;outline-offset:2px}
-.hx-row-label{grid-column:1;grid-row:1;padding-right:.3rem}.hx-count{display:flex;align-items:center;gap:.5rem;grid-row:2;grid-column:1 / -1;font-size:12px;font-weight:400;color:#56665d;font-variant-numeric:tabular-nums}
-.hx-bar{width:5rem;height:5px;background:#e8eeea;display:inline-block}.hx-bar i{display:block;height:100%;background:var(--branch)}
-.hx-evidence{padding:.7rem .1rem 1rem;min-width:0}.hx .hx-evidence p,.hx .hx-inspector p{font:400 14px/1.5 system-ui,sans-serif!important;margin:.5rem 0!important;max-width:none}
-.hx .hx-evidence details,.hx .hx-inspector details{border:0;border-top:1px solid #dce3de;border-radius:0;background:none;margin:.55rem 0!important;padding:.55rem 0!important}
-.hx .hx-evidence details>summary,.hx .hx-inspector details>summary{font:600 14px/1.45 system-ui,sans-serif!important;cursor:pointer;color:#26312d!important;padding:.3rem 0!important}
-.hx .hx-evidence a,.hx .hx-inspector a{color:#3b627f;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere;font-size:inherit}
-.hx .hx-evidence ul,.hx .hx-inspector ul{font:400 14px/1.5 system-ui,sans-serif;margin:.6rem 0;padding-left:1.1rem}.hx li{margin:.4rem 0}
-.hx .hx-inspector{display:none;position:sticky;top:88px;border:1px solid #cbd7ce;border-left:3px solid var(--branch,#846249);border-radius:6px;padding:1.2rem;background:#f8faf7;max-height:calc(100svh - 115px);overflow:auto;overscroll-behavior:contain}
-.hx .hx-inspector h4{font:650 20px/1.3 system-ui,sans-serif!important;margin:.3rem 0 .6rem!important;color:#26312d!important}
-.hx .hx-inspector .hx-breadcrumb{font:500 12px/1.4 system-ui,sans-serif!important;color:#637069;margin:0 0 .4rem!important}
-.hx[data-hx-wide] .hx-layout{grid-template-columns:minmax(0,1.15fr) minmax(320px,.85fr)}
-.hx[data-hx-wide] .hx-inspector{display:block}.hx[data-hx-wide] .hx-branch>.hx-evidence{display:none}
-.hx[data-hx-wide] .hx-branch>summary:after{content:'→'}
-.hx-family-nav{display:none}.hx[data-hx-families-ready] .hx-family-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.55rem;margin:.8rem 0 1.25rem}
-.hx-family-nav button{display:grid;grid-template-columns:1.6rem minmax(0,1fr);gap:.3rem .6rem;align-content:start;text-align:left;min-width:0;padding:.8rem;border:1px solid #dce3de;border-radius:4px;background:transparent;color:#29332e;font:500 14px/1.35 system-ui,sans-serif;cursor:pointer}
-.hx-family-nav button>svg{width:1.5rem!important;height:1.5rem!important;grid-row:1/3;color:var(--branch);margin:0!important}.hx-family-nav strong{font-weight:600}.hx-family-nav small{font-size:12px;font-variant-numeric:tabular-nums;color:#596960}
-.hx-family-nav button[aria-pressed=true]{border-color:var(--branch);background:#edf2ee}.hx-family-nav button:hover{background:#f3f6f2}.hx-family-nav button:focus-visible{outline:3px solid #a8501c;outline-offset:2px}
-.hx[data-hx-families-ready] .hx-group{display:block;padding:.2rem 0;border-top:0}.hx[data-hx-families-ready] .hx-parent{margin:0 0 .65rem;padding:0}.hx[data-hx-families-ready] .hx-parent strong{font-size:17px}.hx[data-hx-families-ready] .hx-parent small{display:none}
-.hx[data-hx-families-ready] .hx-children{padding-left:.8rem}.hx[data-hx-families-ready][data-hx-wide] .hx-layout{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:1.25rem}
-.hx[data-hx-families-ready] .hx-inspector{position:static;max-height:none;overflow:visible;padding:1rem}.hx[data-hx-families-ready] .hx-hint{margin:.75rem 0!important}
-.hx-column-label{font:600 12px/1.4 system-ui,sans-serif;letter-spacing:.07em;text-transform:uppercase;color:#637069;margin:0 0 .75rem;grid-column:1/-1}
-.hx:not([data-hx-families-ready]) .hx-column-label{display:none}
-.hx[data-hx-families-ready] .hx-family-nav{grid-column:1/-1;margin:0}
-.hx[data-hx-families-ready][data-hx-wide] .hx-layout{grid-template-columns:minmax(170px,.9fr) minmax(230px,1.2fr) minmax(260px,1.3fr);gap:1.2rem}
-.hx[data-hx-families-ready][data-hx-wide] .hx-family-nav{grid-column:auto;grid-template-columns:1fr;gap:.5rem;align-content:start}
-.hx[data-hx-families-ready][data-hx-wide] .hx-parent{display:none}
-.hx[data-hx-families-ready][data-hx-wide] .hx-family-nav button{position:relative;padding:.7rem .6rem;min-height:64px;grid-template-columns:1.4rem minmax(0,1fr);font-size:13px}
-.hx[data-hx-families-ready][data-hx-wide] .hx-family-nav button[aria-pressed=true]:after{content:none;position:absolute;width:1.25rem;right:-1.25rem;top:50%;border-top:1px solid var(--branch)}
-.hx[data-hx-families-ready][data-hx-wide] .hx-tree{min-width:0;max-height:min(650px,calc(100svh - 120px));overflow:auto;padding-right:.25rem}
-.hx[data-hx-families-ready][data-hx-wide] .hx-children{padding-left:.65rem}
-.hx[data-hx-families-ready][data-hx-wide] .hx-branch>summary{font-size:13px!important}
-.hx[data-hx-families-ready][data-hx-wide] .hx-inspector{position:sticky;top:88px;max-height:min(650px,calc(100svh - 120px));overflow:auto;padding:0 1rem 1rem;background:transparent;border:0;border-left:1px solid var(--branch);border-radius:0}
-.hx[data-hx-families-ready][data-hx-wide] .hx-inspector h4{font-size:18px!important}
-@container(max-width:560px){.hx[data-hx-families-ready] .hx-family-nav{grid-template-columns:repeat(2,minmax(0,1fr))}.hx-family-nav button{padding:.7rem;grid-template-columns:1.3rem minmax(0,1fr);gap:.3rem .4rem;font-size:13px}.hx-family-nav button>svg{width:1.2rem!important;height:1.2rem!important}.hx[data-hx-families-ready] .hx-parent strong{display:block}.hx-family-nav small{font-size:11px}}
-.hx:not([data-hx-active]) .hx-layout{display:block}.hx:not([data-hx-active]) .hx-inspector{display:none}
-.hx .hx-group{grid-template-columns:minmax(110px,.28fr) minmax(0,1fr);gap:1.2rem;padding:1.2rem 0}
-.hx .hx-parent{position:relative}.hx .hx-parent:after{content:'';position:absolute;right:-1.2rem;top:1.15rem;width:1rem;border-top:1px solid var(--branch)}
-.hx .hx-tree{min-width:0}.hx .hx-hint{margin:.75rem 0!important}
-@container(max-width:380px){.hx .hx-group{display:block}.hx .hx-parent{font-size:15px;margin-bottom:.8rem}.hx .hx-parent:after{display:none}.hx .hx-branch>summary{font-size:14px!important}.hx-count{flex-wrap:wrap;font-size:12px}.hx-children{padding-left:.75rem}.hx .hx-evidence{font-size:14px}}
-@container(min-width:1000px){.hx .hx-branch>summary{font-size:15px!important}.hx .hx-parent{font-size:clamp(16px,1.5cqi,20px)}.hx-count,.hx-parent small{font-size:clamp(13px,1.15cqi,15px)}.hx .hx-inspector :is(p,li,summary),.hx .hx-evidence :is(p,li,summary),.hx .hx-inspector blockquote{font-size:15px!important}.hx .hx-inspector h4{font-size:24px!important}}
-@media print{.hx-inspector{display:none!important}.hx-layout{display:block!important}}
-/* A collapsed tree is an overview of families, not a wide empty detail row. */
-.hx[data-hx-wide]:not([data-hx-families-ready]):not([data-hx-active]) .hx-tree{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.1rem 2rem}
-.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-group{display:block;min-width:0;align-self:start}
-.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-parent{margin:0 0 .85rem;padding:0}
-.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-parent strong{font-size:16px}
-.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-parent small{margin:.25rem 0 0}
-.hx[data-hx-wide][data-hx-active] .hx-layout{grid-template-columns:minmax(260px,.8fr) minmax(0,1.2fr)}
-.hx[data-hx-wide][data-hx-active] .hx-inspector{position:sticky;max-height:none;overflow:visible}
-.hx[data-hx-families-ready][data-hx-wide]:not([data-hx-active]) .hx-layout{display:grid;grid-template-columns:minmax(170px,.7fr) minmax(0,1.3fr)}
-.hx[data-hx-families-ready][data-hx-wide]:not([data-hx-active]) .hx-inspector{display:none}
-</style>
-<style id="work-role-hierarchy-style">.wr-field{border:0;border-top:1px solid #d3ddd6!important;border-radius:0!important;background:none!important;margin:1.1rem 0!important;padding:.7rem 0!important}.wr-field>summary{font:650 18px/1.4 system-ui,sans-serif!important;cursor:pointer;padding:.4rem 0!important}</style>
-<style id="mechanism-values-style">
-.hx .mv-label{font-weight:650!important;margin-top:1rem!important}
-.hx .mv-coverage,.hx .mv-unmerged{color:#5d6963;font-size:12px!important}
-.hx .mv-list{list-style:none;padding:0!important;margin:.4rem 0!important}
-.hx .mv-list li{display:grid;grid-template-columns:minmax(0,1fr) 4.5rem auto;align-items:center;gap:.2rem .7rem;border-bottom:1px solid #e0e5df;padding:.45rem 0;margin:0!important}
-.hx .mv-list small{color:#5d6963;white-space:nowrap;font-variant-numeric:tabular-nums}
-.hx .mv-bar{height:5px;background:#e8eeea;display:block}.hx .mv-bar i{display:block;height:100%;background:var(--branch)}
-.hx .mv-list a{grid-column:1/-1;font-size:12px!important}
-.hx .mv-unmerged li{margin:.3rem 0}
-@container(max-width:430px){.hx .mv-list li{grid-template-columns:minmax(0,1fr) auto}.hx .mv-bar{display:none}.hx .mv-list small{white-space:normal}}
-</style>
-<style id="work-hierarchy-style">
-.wh-field{margin-top:1.25rem;padding-top:1rem;border-top:1px solid #d3ddd6}
-.wh-field>h4{font:650 20px/1.4 system-ui,sans-serif!important;margin:0 0 .35rem!important}
-.wh-field>p,.wh-coverage,.wh-rare p{font:400 14px/1.5 system-ui,sans-serif!important;color:#5d6963;margin:.4rem 0!important}
-.wh-rare{border-top:1px solid #d3ddd6;margin-top:.9rem;padding-top:.6rem}
-.wh-rare ul{font:400 14px/1.5 system-ui,sans-serif;margin:.3rem 0;padding-left:1.1rem}.wh-rare li{margin:.3rem 0}.wh-rare small{color:#5d6963}
-.wh-figure+.wh-figure{margin-top:2rem}
-</style>
-<style id="domain-context-table-style">.domain-contexts{color:#273536;background:#fffefa;padding:1rem;overflow:auto}.domain-contexts h4{margin:0 0 .3rem;font-size:1.2rem}.domain-contexts p{margin:0 0 1rem;color:#62716f}.domain-contexts table{width:100%;min-width:42rem;border-collapse:collapse;font:inherit;font-size:.93rem}.domain-contexts th,.domain-contexts td{padding:.6rem .75rem;border-bottom:1px solid #d9ded8;text-align:left;vertical-align:top}.domain-contexts thead th{border-bottom:2px solid #b9c4bc;font-weight:600}.domain-contexts th[scope=rowgroup]{width:31%;background:#f6f4ef;font-weight:600}.domain-contexts th[scope=row]{font-weight:400}.domain-contexts td{white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums}.domain-contexts small{display:block;margin-top:.4rem;color:#62716f;font-weight:400}</style>
-<style>.review-project-switch{box-sizing:border-box;display:flex;flex-wrap:wrap;align-items:center;gap:8px 24px;padding:12px max(20px,calc((100% - 1240px)/2));background:#f4f3f0;border-bottom:1px solid #deddd7;color:#454647;font:14px/1.5 system-ui,sans-serif;position:relative;z-index:5;width:100%;max-width:100%;margin:0}
-.review-project-switch>a{display:inline-block;color:#484b51;text-decoration:none;padding:7px 0;min-width:0;white-space:normal;line-height:1.4}
-.review-project-switch>a[aria-current=page],.review-project-switch>a[aria-current=true]{font-weight:700;border-bottom:2px solid currentColor}
-.review-project-switch>a:focus-visible{outline:2px solid currentColor;outline-offset:4px}
-.review-project-switch__label{font-size:12px;font-weight:600;color:#686a6c;margin-right:auto}
-.review-project-context{box-sizing:border-box;margin:0;padding:12px max(20px,calc((100% - 1240px)/2));border-bottom:1px solid #dedbd2;background:#fbf8f1;color:#526061;font:14px/1.6 system-ui,sans-serif;position:static}
-.review-project-context a{color:#8d4525;text-underline-offset:3px}.review-project-context strong{color:#263b40}
-@media(max-width:900px){.review-project-switch{padding-inline:20px;gap:4px 20px}.review-project-switch>.review-project-switch__label{flex-basis:100%}.review-project-context{font-size:13px}}
-@media(max-width:480px){.review-project-switch{gap:3px 16px;padding-inline:16px}.review-project-switch>a{font-size:13px}.review-project-switch__label{font-size:11px}}
-
-/* Shared editorial packet and navigation; no research classifications change. */
-.prior-knowledge-link{font:500 .88rem/1.5 system-ui,sans-serif;margin:1.2rem 0}.legacy-section-anchor{scroll-margin-top:5rem}
-#current-comparisons{padding:1.8rem 0;border-block:1px solid #d6ded7;margin:2rem 0}#current-comparisons h2{font-size:1.65rem;line-height:1.3}#current-comparisons article{padding:1.3rem 0;border-top:1px solid #dce3dc}#current-comparisons h3{font-size:1.22rem;line-height:1.4}#current-comparisons h4{font-size:1rem;margin:1rem 0 .3rem}#current-comparisons p{max-width:82ch;line-height:1.7}#current-comparisons details{margin:1rem 0}#current-comparisons summary,.earlier-argument-packet>summary{cursor:pointer;font-weight:600}#current-comparisons .table-scroll{overflow:auto;max-width:100%}#current-comparisons th,#current-comparisons td{text-align:left;vertical-align:top;padding:.7rem;border-bottom:1px solid #dce3dc;min-width:11rem}#current-comparisons table{border-collapse:collapse;width:100%}.earlier-argument-packet{padding:1rem;margin:1rem 0;background:#f2f4ee}.prior-knowledge-explorers{margin:3rem 0;padding:1.2rem 0;border-top:1px solid #d6ded7}
-nav.chapter-rail{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.5rem 0}nav.chapter-rail>a{display:block;padding:1rem;border:1px solid #d7dfd9;text-decoration:none;min-width:0}nav.chapter-rail span,nav.chapter-rail strong{display:block}nav.chapter-rail span{font-size:.82rem;margin-bottom:.5rem}nav.chapter-rail strong{font-size:.94rem;line-height:1.5}
-@media(max-width:780px){nav.chapter-rail{grid-template-columns:1fr}}
-
-.research-update-note{box-sizing:border-box;width:100%;max-width:1440px;margin:.65rem auto;padding:0 clamp(20px,3vw,48px);font-size:.86rem}
-</style>
-<style>.cb-figure svg{display:block;width:100%;height:auto}.cb-explore{margin-top:1rem;border-top:1px solid #d7dedb;padding-top:1rem}.cb-explore>summary{cursor:pointer;font:500 14px/1.5 system-ui,sans-serif}@media print{.cb-explore{display:none}}</style>
-
-<link href="reader-alignment.css" rel="stylesheet"/><link href="citation-chronology.css?v=268a8201054f" rel="stylesheet"/><link href="knowledge-space.css?v=c0b53225fc3d" rel="stylesheet"/><link href="paper-cards.css" rel="stylesheet"/><link href="reader-refinement.css" rel="stylesheet"/><link href="two-rq.css?v=4738732f64ae" rel="stylesheet"/><link data-reader-experience="" href="reader-experience.css?v=ea1bfc5bbaf6" rel="stylesheet"/><meta content="Sirui Tao, Steven P. Dow" name="author"/><meta content="Sirui Tao" name="citation_author"/><meta content="Steven P. Dow" name="citation_author"/><style id="publication-author-style">.publication-byline{display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline;margin:1.1rem 0 1.4rem;text-align:left;font:400 .95rem/1.6 var(--publication-font,"Segoe UI",Arial,sans-serif);color:#34413b}.publication-byline .publication-author-names{font-weight:600}.publication-byline .publication-affiliation{font-size:.85rem;color:#68736d}@media(max-width:600px){.publication-byline{display:block}.publication-byline span{display:block}}</style><style id="paper-editorial-reading-style">
-.paper-atlas-art{max-width:100%;overflow-x:auto;overscroll-behavior-x:contain}
-.paper-atlas-art:focus-visible{outline:2px solid #b4491a;outline-offset:3px}
-.paper-atlas-art svg{display:block;width:100%;height:auto;max-width:100%}
-.paper-atlas-art svg a{cursor:pointer;outline:none}
-.paper-atlas-art svg a:hover rect,.paper-atlas-art svg a:focus-visible rect,.paper-atlas-art svg a:active rect{fill:#a8501c;fill-opacity:.09;stroke:#a8501c;stroke-width:2}
-@media(max-width:700px){.paper-atlas-art svg{width:720px;min-width:720px;max-width:none}}
-@media(max-width:700px){.paper-atlas-art img{width:720px!important;min-width:720px;max-width:none!important}.paper-atlas-art:after{content:"Scroll horizontally to read the full figure";display:block;font-size:.8rem;color:#5d6565;padding:.35rem 0}}
-.paper-figure-reading{margin:1rem 0 0;border-top:1px solid #d5ddd9;font-size:1rem;line-height:1.55}
-.paper-figure-reading summary{padding:.8rem 0;font-weight:650;color:#3f6388;cursor:pointer}
-.paper-criteria-columns{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;padding:.4rem 0 1rem}
-.paper-criteria-columns section{padding:0!important;margin:0!important;min-width:0;width:auto;max-width:none}
-.paper-criteria-columns h4{font-family:inherit;font-size:1.05rem;line-height:1.4;font-weight:650;margin:0 0 .75rem;color:#293a35}
-.paper-criteria-columns ol{padding-left:1.4rem;margin:0}
-.paper-criteria-columns li{margin:0 0 .85rem}
-.paper-criteria-columns li p,.paper-criteria-columns p{font:inherit!important;margin:.2rem 0 .7rem!important}
-.paper-criterion-stage{font-size:.8rem;color:#6b7771;margin-left:.45rem;white-space:nowrap}
-.paper-figure-reading dl{margin:.5rem 0}.paper-figure-reading dt{font-weight:650}.paper-figure-reading dd{margin:0 0 .6rem}
-/* Keep one horizontal scroll surface and let every row determine its height.
-   The older reading layer made the table itself a scrolling block, defeating
-   its column widths and creating a second scroll surface inside the figure. */
-.paper-frame .manuscript-section figure.tex-table{font-size:.82em;line-height:1.5;height:auto!important;max-height:none!important;overflow-x:auto!important;overflow-y:hidden!important;max-width:100%}
-.paper-frame .manuscript-section figure.tex-table table{display:table!important;overflow:visible!important;height:auto!important;max-height:none!important;margin:0;width:100%!important;min-width:0!important;max-width:100%!important;table-layout:fixed;border-collapse:collapse;font:inherit;font-variant-numeric:tabular-nums}
-.paper-frame .manuscript-section figure.tex-table :is(th,td){padding:.7em .75em;border:0;border-bottom:1px solid #d8d8d2;vertical-align:top;text-align:left;white-space:normal;overflow-wrap:break-word;line-height:1.5}
-.paper-frame .manuscript-section figure.tex-table th{font-weight:600;background:#f1f0ec;border-block:1px solid #b5bab3}
-.paper-frame .manuscript-section figure.tex-table .tex-table-group td{background:#f1f0ec;border-top:1px solid #9ba398;font-weight:600}
-.paper-frame .manuscript-section figure.tex-table:focus-visible{outline:2px solid #b4491a;outline-offset:3px}
-.paper-frame .manuscript-section figure.tex-table figcaption{font-size:1em;line-height:1.5;margin-top:.8em}
-.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] table{table-layout:auto;font-variant-numeric:tabular-nums}
-.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] :is(td,th){text-align:right;border:0;border-bottom:1px solid #e5e8e6;vertical-align:middle}
-.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] :is(td,th):first-child{text-align:left}
-.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] .tex-venue-group td{border-top:2px solid #fff;font-weight:650;padding-top:.85rem;padding-bottom:.85rem}
-.venue-group-share{display:block;font-size:.85em;font-weight:400;margin-top:.2rem}
-.venue-rate{display:inline-flex;align-items:center;justify-content:flex-end;gap:.7rem;white-space:nowrap}
-.venue-rate-track{display:inline-block;width:5rem;height:.45rem;background:#e8ece9;border-radius:2px;overflow:hidden}
-.venue-rate-track>span{display:block;height:100%}
-.venue-rate>span:last-child{min-width:3.6em;text-align:right}
-.paper-frame .manuscript-section figure.tex-table .tex-cell-break{display:block;content:"";margin-top:.35em}
-.paper-frame .manuscript-section figure.tex-figure[style]{width:var(--paper-figure-width,100%)!important;max-width:100%!important;margin-left:auto!important;margin-right:auto!important}
-.paper-page figure[id^="fig:reading-closure"],.paper-page figure[id="fig:construct-boundary"]{scroll-margin-top:88px}
-.paper-page :is(h2,h3,h4,h5)[id],.paper-page .manuscript-section[id]{scroll-margin-top:88px}
-.paper-page figure[id]{scroll-margin-top:96px}
-.paper-atlas-links{display:flex;flex-wrap:wrap;gap:.7rem 1.4rem;margin:1rem 0;font:600 1rem/1.5 system-ui,sans-serif}
-@media print{.paper-atlas-links{display:none}}
-.paper-page figure>img.research-print,.paper-page figure>img.citation-source-static,.paper-page figure>img.developmental-print{display:none!important}
-.paper-frame figure[id="tab:control-new-work"] table{display:table!important;width:100%!important;min-width:0!important;border-collapse:collapse;table-layout:auto;font-variant-numeric:tabular-nums}
-.paper-frame figure[id="tab:control-new-work"] :is(th,td){padding:.65rem .6rem;border-bottom:1px solid #d5ddd9;text-align:right;vertical-align:top}
-.paper-frame figure[id="tab:control-new-work"] :is(th,td):first-child{text-align:left;width:50%;padding-left:0}
-.paper-frame figure[id="tab:control-new-work"] :is(th,td):last-child{padding-right:0}
-.paper-frame figure[id="tab:control-new-work"] td:not(:first-child){white-space:nowrap}
-.paper-frame figure[id="tab:control-new-work"] th{font-weight:600}
-@media(max-width:680px){.paper-criteria-columns{grid-template-columns:1fr;gap:.5rem}.paper-frame .manuscript-section figure.tex-table:not([id^="tab:card-"]) table{min-width:640px!important}.paper-frame .manuscript-section figure.tex-figure[style]{width:100%!important}}
-@media print{.paper-figure-reading,.paper-curve-navigation,.developmental-web{display:none}.paper-page figure>img.research-print,.paper-page figure>img.developmental-print{display:block!important}}
-</style><style id="publication-nav-design">
+<script crossorigin="anonymous" defer="" id="publication-motion-lib" integrity="sha512-NcZdtrT77bJr4STcmsGAESr06BYGE8woZdSdEgqnpyqac7sugNO+Tr4bGwGF3MsnEkGKhU2KL2xh6Ec+BqsaHA==" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js"></script><script crossorigin="anonymous" defer="" id="publication-motion-plugin" integrity="sha512-P2IDYZfqSwjcSjX0BKeNhwRUH8zRPGlgcWl5n6gBLzdi4Y5/0O4zaXrtO4K9TZK6Hn1BenYpKowuCavNandERg==" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/ScrollTrigger.min.js"></script><style id="publication-nav-design">
 :root {
   --publication-page-paper: #fbf7f1;
   --publication-page-wash: #f1e7dd;
@@ -3221,7 +2334,7 @@ body[data-publication-route] {
   text-decoration: none;
   top: 52%;
   transform: translateY(-50%);
-  transition: opacity 180ms ease, background-color 180ms ease, box-shadow 180ms ease;
+  transition: opacity 180ms ease, transform 180ms ease, background-color 180ms ease, box-shadow 180ms ease;
 }
 
 .publication-depth-nav__link--left {
@@ -3246,9 +2359,7 @@ body[data-publication-route] {
   box-shadow: 0 0 24px color-mix(in srgb, var(--publication-page-accent) 11%, transparent), inset 0 0 0 1px color-mix(in srgb, white 38%, transparent);
   opacity: .9;
   outline: 0;
-  /* Keep the hit area attached to the viewport edge. Moving this link inward
-     makes a stationary edge pointer leave it, collapse it, then enter again. */
-  transform: translateY(-50%);
+  transform: translateY(-50%) translateX(calc(var(--depth-direction) * -0.18rem));
 }
 
 .publication-depth-nav__arrow {
@@ -3327,7 +2438,7 @@ body[data-publication-route] {
 
 @keyframes depth-nudge {
   0%, 100% { opacity: .46; }
-  50% { opacity: .95; }
+  50% { opacity: .95; transform: translateY(-50%) translateX(calc(var(--depth-direction) * -0.22rem)); }
 }
 
 .publication-nav__brand:focus-visible,
@@ -3999,7 +3110,896 @@ document.addEventListener('DOMContentLoaded', function () {
     }, 2400);
   });
 });
-</script><link href="https://semantic-scaffoldings.github.io/living-paper.html" rel="canonical"/><style>.public-draft-label{font:500 .72rem/1.4 system-ui;color:#6c7470;letter-spacing:.06em;text-transform:uppercase}.reader-project-context:empty{display:none}</style><script id="public-reader-analytics">
+</script><link href="assets/citation-atlas.css?v=4ec25db056c9" id="citation-atlas-css" rel="stylesheet"/>
+<style>
+/* Reading measure. The body ran the full width of the sheet, which is why the
+   page was hard to read: ~110 characters a line, well past the 45-90 that
+   sustained reading needs. */
+.paper-page .manuscript-section > p,
+.paper-page .manuscript-section > ul,
+.paper-page .manuscript-section > ol,
+.paper-page #abstract p{max-width:34em}
+.paper-page .manuscript-section > p{
+  text-align:left;              /* justified text with no hyphenation dictionary
+                                   produced the rivers of whitespace visible in
+                                   the screenshots */
+  hyphens:auto;
+  line-height:1.62;
+  margin:0 0 .95em}
+.paper-page h2{margin:1.9em 0 .5em;line-height:1.25}
+.paper-page h3{margin:1.5em 0 .35em;line-height:1.3}
+.paper-page figure figcaption,.paper-page .figure-caption{max-width:100%}
+
+/* Citations */
+/* Citations wear the paper's accent, like every other link on it; the
+   browser's blue never appears. */
+a.lp-cite{color:var(--lpr-accent,#a64818);text-decoration:none;font-variant-numeric:tabular-nums;
+  padding:0 .5px;border-radius:3px}
+a.lp-cite:hover,a.lp-cite:focus{background:color-mix(in srgb,var(--lpr-accent,#a64818) 10%,transparent);text-decoration:none}
+.lp-refs{margin:2.4em 0 0;font-size:var(--lpr-type-sm,.9375rem);line-height:1.5}
+.lp-refs h2{margin:0 0 .2em}
+.lp-refs-note{color:var(--lpr-muted,#615a54);font-size:1em;margin:0 0 .8em;max-width:34em}
+.lp-ref-list{list-style:none;margin:0;padding:0;width:100%;max-width:100%}
+.lp-ref{display:grid;grid-template-columns:2.2em 1fr;gap:.2em .4em;
+  padding:.4em 0;border-bottom:1px dotted var(--lpr-rule,#e4e2dd);font-size:1em;line-height:1.5}
+.lp-ref:last-child{border-bottom:0}
+.lp-ref-n{color:var(--lpr-muted,#615a54);font-variant-numeric:tabular-nums;text-align:right}
+.lp-ref:target{background:color-mix(in srgb,var(--lpr-accent,#a64818) 8%,transparent);border-radius:5px}
+.lp-missing{margin-top:1em;font-size:.9em;color:#8a5a00;background:#fff8e6;
+  border:1px solid #f0e0b0;border-radius:7px;padding:.6em .8em;max-width:40em}
+
+/* The citation card */
+#lp-card{position:fixed;z-index:9999;max-width:23em;background:#fffefb;
+  border:1px solid #e0d9d0;border-radius:6px;box-shadow:0 8px 26px rgba(48,38,31,.14);
+  padding:11px 13px;font-family:var(--lpr-font,var(--publication-font,sans-serif));font-size:var(--lpr-type-xs,.8125rem);line-height:1.5;display:none;color:#171716}
+#lp-card[data-open="1"]{display:block}
+#lp-card[data-pinned="1"]{border-color:var(--lpr-accent,#a64818);box-shadow:0 8px 28px rgba(166,72,24,.16)}
+#lp-card .lp-card-n{color:var(--lpr-accent,#a64818);font-size:var(--lpr-type-2xs,.75rem);letter-spacing:.08em;
+  text-transform:uppercase;font-weight:600}
+#lp-card .lp-card-title{font-weight:600;margin:2px 0 4px}
+#lp-card .lp-card-meta{color:#615a54}
+#lp-card a{color:var(--lpr-accent,#a64818)}
+
+/* Commentable blocks get a quiet rule just inside the left edge. The previous
+   affordance was an absolutely positioned uppercase label in the right margin:
+   it sat outside the text column, overlapped the margin, and read as a
+   rendering fault rather than an invitation. */
+[data-comment-anchor]{position:relative;transition:box-shadow .12s ease}
+[data-comment-anchor]:hover{box-shadow:-0.5rem 0 0 -0.4rem #cbd5e2}
+/* Audit furniture above the abstract: present for the ledger, not for
+   the reader. Hidden here rather than removed, see FURNITURE_HIDDEN. */
+.paper-byline,.status-strip{display:none!important}
+@media print{#lp-card{display:none!important}}
+</style>
+<style>
+#latex-source{display:none;font-family:Inter,ui-sans-serif,system-ui,sans-serif}
+:root[data-paper-view="latex"] #latex-source{display:block}
+:root[data-paper-view="latex"] .paper-frame{display:none}
+.ov-head{margin:0 0 1.1rem}
+.ov-head h2{margin:0 0 .3rem;font-size:1.25rem}
+.ov-head p{margin:0 0 .6rem;max-width:78ch;color:var(--muted,#6f665e);
+  font-size:.85rem;line-height:1.6}
+.ov-actions{display:flex;gap:.5rem;flex-wrap:wrap;margin:.7rem 0 0}
+.ov-actions a,.ov-file-actions a{display:inline-flex;align-items:center;color:inherit;
+  font-size:.75rem;text-decoration:none;padding:.3rem .65rem;
+  border:1px solid var(--line,#d9cec5);border-radius:.35rem;background:var(--paper,#fffdf9)}
+.ov-file-actions{display:flex;gap:.35rem;align-items:center;flex-wrap:wrap}
+.ov-copy{font:inherit;font-size:.75rem;cursor:pointer;padding:.3rem .7rem;
+  border:1px solid var(--line,#d9cec5);border-radius:.35rem;
+  background:var(--paper,#fffdf9);color:inherit;white-space:nowrap}
+.ov-copy:hover{border-color:currentColor}
+.ov-copy[data-copied="1"]{background:#1f9d55;border-color:#1f9d55;color:#fff}
+.ov-file{border:1px solid var(--line,#e4dcd2);border-radius:.6rem;
+  margin:0 0 .8rem;overflow:hidden;background:var(--paper,#fff)}
+.ov-file-head{display:flex;gap:1rem;align-items:center;justify-content:space-between;
+  padding:.6rem .8rem;border-bottom:1px solid var(--line,#e4dcd2);
+  background:var(--surface,#f6f0e9)}
+.ov-file-head h3{margin:0;font-size:.85rem;font-family:ui-monospace,SFMono-Regular,
+  Menlo,Consolas,monospace}
+.ov-file-head p{margin:.12rem 0 0;font-size:.7rem;color:var(--muted,#6f665e)}
+.ov-src{margin:0;padding:.7rem .8rem;max-height:26rem;overflow:auto;
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:.7rem;line-height:1.55;white-space:pre;tab-size:2}
+.ov-note{margin:1rem 0 0;padding-top:.7rem;border-top:1px solid var(--line,#e4dcd2);
+  font-size:.75rem;color:var(--muted,#6f665e);line-height:1.6;max-width:78ch}
+</style>
+<style>
+.pdf-switch{display:grid;gap:.55rem;margin:0}
+.pdf-switch__tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.35rem}
+.pdf-switch button{font:inherit;font-size:.78rem;text-align:left;cursor:pointer;
+  padding:.7rem .8rem;border:1px solid var(--line,#d9cec5);border-radius:.4rem;
+  background:var(--paper,#fffdf9);color:inherit;min-width:0}
+.pdf-switch button:hover{border-color:currentColor}
+.pdf-switch button[aria-selected="true"]{background:var(--ink,#2b2622);
+  border-color:var(--ink,#2b2622);color:var(--paper,#fffdf9);font-weight:600}
+.pdf-switch small{display:block;font-size:.66rem;opacity:.72;font-weight:400;
+  margin-top:.22rem;overflow-wrap:anywhere}
+.pdf-build-state{margin:0;color:var(--muted,#6f665e);font-size:.72rem;line-height:1.45}
+.pdf-web-entry{display:block;margin:0 0 .5rem;font-size:.72rem;line-height:1.5;
+  color:var(--muted,#6f665e)}
+.pdf-web-entry button{font:inherit;font-size:.72rem;cursor:pointer;padding:0;
+  border:0;background:none;color:inherit;text-decoration:underline}
+.pdf-web-entry button[aria-pressed="true"]{font-weight:700;text-decoration:none}
+/* The renderer's own two-button control. Hidden, never removed. */
+.layout-switch{display:none}
+.pdf-pane{display:none;font-family:Inter,ui-sans-serif,system-ui,sans-serif}
+.pdf-pane-head{display:flex;gap:1rem;align-items:baseline;justify-content:space-between;
+  flex-wrap:wrap;margin:0 0 .6rem}
+.pdf-pane-head>div{min-width:0}
+.pdf-pane-head h2{margin:0;font-size:1.15rem}
+.pdf-pane-head p{margin:.15rem 0 0;font-size:.75rem;color:var(--muted,#6f665e)}
+.pdf-pane-actions{display:flex;gap:.45rem;flex-wrap:wrap}
+.pdf-pane-actions a{font-size:.73rem;text-decoration:none;padding:.3rem .7rem;
+  border:1px solid var(--line,#d9cec5);border-radius:999px;color:inherit;
+  white-space:nowrap}
+.pdf-pane-actions a:hover{border-color:currentColor}
+.pdf-frame{width:100%;height:min(82vh,1100px);border:1px solid var(--line,#e4dcd2);
+  border-radius:.5rem;background:var(--surface,#f6f0e9)}
+.pdf-fallback{margin:.7rem 0 0;font-size:.75rem;line-height:1.6;
+  color:var(--muted,#6f665e);max-width:78ch}
+.pdf-pane :where(p,code){overflow-wrap:anywhere;word-break:break-word}
+.pdf-stale{margin:0 0 .7rem;padding:.5rem .7rem;border-radius:.45rem;
+  border:1px solid #b8860b;background:#fff8e6;color:#5a4200;font-size:.75rem;
+  line-height:1.55}
+/* ---------------------------------------------------------------------------
+   The web edition reads as one continuous article, not as photographed pages.
+
+   Two problems this replaces. First, the renderer painted the manuscript onto
+   fixed 11in `.paper-page` sheets with `overflow:hidden`, which only works if
+   something reflows content to fit -- and on screen nothing does. Measured: 5 of
+   11 sheets overflowed, one holding 3,751px of content in a 1,056px box, and on
+   a single sheet 26 of 36 paragraphs sat below the painted edge, unreadable and
+   unscrollable. Roughly half the manuscript was invisible, silently.
+
+   Second, what remained was a shrunken photocopy of print: 11.6px body text in
+   two 333px columns. Correct for paper, unreadable on a screen.
+
+   So in `web` mode the page furniture goes: no sheets, no shadows, no page
+   padding, one column. The article gets a reading measure instead -- 18px on a
+   38rem column, measured at 74 characters a line, inside the 45-75 band -- and
+   the wide diagrams break out past the text column so they are legible rather
+   than squeezed to it.
+
+   Print and both PDF modes are untouched. Real pagination is what the two
+   compiled PDFs are for; this surface is for reading and commenting.
+   --------------------------------------------------------------------------- */
+:root[data-paper-mode="web"] .paper-workspace,
+:root[data-paper-mode="web"] .paper-frame,
+:root[data-paper-mode="web"] .paper-pages{max-width:none;width:auto;background:none;
+  padding:0;margin:0}
+:root[data-paper-mode="web"] .paper-page{width:auto;max-width:none;height:auto;
+  min-height:0;overflow:visible;box-shadow:none;border:0;border-radius:0;
+  background:none;margin:0;padding:0}
+/* `!important` only here: the renderer sets the two-column rule inline-equivalent
+   at a specificity this cannot otherwise beat, and a second column is the one
+   thing a continuous article must not have. */
+:root[data-paper-mode="web"] .page-columns{column-count:1 !important;column-gap:0;
+  column-rule:none}
+/* The sizes are the reading layer's tokens (living_paper_reading sets them
+   on the workspace); the fallbacks are the same values, so the web article
+   reads the same with or without that layer. Five steps, not twelve. */
+:root[data-paper-mode="web"] .manuscript-section,
+:root[data-paper-mode="web"] .paper-header{max-width:38rem;margin-left:auto;
+  margin-right:auto;font-size:var(--lpr-type-body,1.0625rem);line-height:1.6}
+:root[data-paper-mode="web"] p.paper-paragraph{font-size:var(--lpr-type-body,1.0625rem);line-height:1.6;
+  margin:0 auto 1.1rem;max-width:38rem}
+:root[data-paper-mode="web"] .manuscript-section h2{font-size:var(--lpr-type-heading,1.625rem);
+  font-weight:600;line-height:1.2;margin:2.6rem auto .7rem;max-width:38rem}
+:root[data-paper-mode="web"] .manuscript-section h3{font-size:var(--lpr-type-subheading,1.1875rem);
+  font-weight:600;line-height:1.3;margin:1.9rem auto .45rem;max-width:38rem}
+:root[data-paper-mode="web"] .manuscript-section ul,
+:root[data-paper-mode="web"] .manuscript-section ol{max-width:38rem;
+  margin-left:auto;margin-right:auto;font-size:var(--lpr-type-body,1.0625rem);line-height:1.6}
+/* Wide diagrams step outside the text measure rather than being squeezed into it. */
+:root[data-paper-mode="web"] .manuscript-section figure{width:min(52rem,92vw);
+  max-width:none;position:relative;left:50%;transform:translateX(-50%);
+  margin:2.6rem 0}
+:root[data-paper-mode="web"] .manuscript-section figure img{width:100%;height:auto}
+/* A wide table scrolls in its own box; the page itself never scrolls sideways. */
+:root[data-paper-mode="web"] figure.tex-table{overflow-x:auto}
+@media (max-width:700px){
+  :root[data-paper-mode="web"] .manuscript-section,
+  :root[data-paper-mode="web"] .paper-header,
+  :root[data-paper-mode="web"] p.paper-paragraph{max-width:none;
+    padding-left:1.1rem;padding-right:1.1rem;font-size:1.0625rem}
+  :root[data-paper-mode="web"] .manuscript-section figure{width:100%;left:0;
+    transform:none}
+}
+:root[data-paper-mode="two-column"] #pdf-pane-two-column,
+:root[data-paper-mode="single-column"] #pdf-pane-single-column{display:block}
+/* Every mode but `web` hides the web edition. The renderer sets no `display` on
+   .paper-frame, so a single class selector is enough and no !important is. */
+:root[data-paper-mode="two-column"] .paper-frame,
+:root[data-paper-mode="single-column"] .paper-frame,
+:root[data-paper-mode="latex"] .paper-frame{display:none}
+/* Small screens: an <object> PDF renders as a blank box on most mobile browsers
+   rather than failing over to its fallback content, so the embed is dropped and
+   the download card shown instead. A blank rectangle is worse than a link. */
+@media (max-width:700px){
+  .pdf-frame{display:none}
+  .pdf-fallback{padding:.85rem;border:1px solid var(--line,#e4dcd2);
+    border-radius:.4rem;background:var(--surface,#f6f0e9);font-size:.8rem}
+  .pdf-switch__tabs{grid-template-columns:1fr}
+}
+@media print{
+  .pdf-pane{display:none!important}
+  :root[data-paper-mode] .paper-frame{display:block!important}
+}
+</style>
+<style id="lpr-style">
+/* ---------------------------------------------------------------- palette */
+/* The warm publication field remains visible around a bounded white sheet.
+   A quiet edge and shadow restore the proportions of a paper without bringing
+   back simulated pages or a document-viewer frame. */
+.paper-workspace,#lpr-reader-tools,.lpr-reading-shell,.lpr-hero{--lpr-paper:#fffefb;--lpr-ink:#171716;
+  --lpr-muted:#615a54;--lpr-rule:#e4e2dd;--lpr-accent:var(--publication-accent,#a64818);
+  --lpr-font:var(--publication-font,Roboto,"Helvetica Neue",Arial,sans-serif);--lpr-measure:86ch;
+  --lpr-column:var(--lpr-measure);--lpr-sheet:64rem;--lpr-figure:var(--lpr-column);--lpr-rail:13rem;
+  /* The shell is as wide as its parts, rail + gutter + the widest figure, and is
+     centred in the viewport, so the text column stands near the middle of the page
+     instead of leaving the right third empty. */
+  --lpr-gutter:clamp(1.5rem,3vw,3.5rem);
+  /* The shell is wide, so the rail stands near the left edge with a small gap, and
+     the text column centres itself in the cell beside the rail (2026-09-06). */
+  --lpr-shell:110rem;
+  /* Five deliberate steps cover utilities, captions, prose, section heads,
+     and the title.  Keeping them here prevents each renderer from inventing a
+     slightly different size and weight. */
+  --lpr-type-2xs:.75rem;--lpr-type-xs:.8125rem;--lpr-type-sm:.9375rem;--lpr-type-body:1.0625rem;
+  --lpr-type-subheading:1.1875rem;--lpr-type-heading:1.625rem;
+  --lpr-type-display:clamp(1.9rem,3vw,2.55rem)}
+
+/* ------------------------------------------------------------------ layout */
+/* One column, one container, one left edge. The rail sits hard left and the
+   gutter is wide, so the outline stops crowding the first words of every line.
+   `justify-content:start` is what actually moves the rail left -- the grid was
+   centred inside `max-width`, so widening the gutter alone just pushed the text
+   right and kept the rail beside it. */
+.paper-workspace{box-sizing:border-box;display:block!important;width:100%;max-width:var(--lpr-sheet);
+  margin:1rem 0 3rem!important;padding:clamp(1.6rem,4vw,3rem)!important;
+  /* No box: the article sits on the page's own paper, as the story does.
+     The sheet had kept a border and a shadow after its fill went, which
+     read as a card with nothing in it. */
+  border:0;border-radius:0;background:transparent;box-shadow:none;
+  font-family:var(--lpr-font);min-width:0}
+/* The hero: title, note and cards at the TL;DR's width, on the ground. */
+/* Strong selectors: the frame's own sheet centres the title and caps the
+   header at the measure, and both carry !important. */
+section.lpr-hero.paper-frame{box-sizing:border-box;width:min(calc(100% - 10rem),var(--lpr-shell))!important;
+  max-width:none!important;margin:0 auto!important;padding:.75rem 0 0!important}section.lpr-hero.paper-frame .paper-header{width:min(100%,var(--lpr-sheet))!important;
+  max-width:var(--lpr-sheet)!important;margin:0!important;text-align:left!important}
+section.lpr-hero.paper-frame .paper-header>:is(p,h1){max-width:var(--lpr-column)!important;
+  margin-left:0!important;margin-right:0!important;text-align:left!important}
+section.lpr-hero.paper-frame .sr-paper-contribution-map{width:100%!important;max-width:none!important;
+  margin:0 0 1.5rem!important}
+@keyframes lpr-arrive{from{opacity:0;transform:translateY(.7rem)}to{opacity:1;transform:none}}
+.lpr-hero-arrive .sr-paper-teaser-panel{animation:lpr-arrive .55s cubic-bezier(.2,.7,.2,1) backwards}
+.lpr-hero-arrive .sr-paper-teaser-panel:nth-child(2){animation-delay:.09s}
+.lpr-hero-arrive .sr-paper-teaser-panel:nth-child(3){animation-delay:.18s}
+@media (prefers-reduced-motion:reduce){.lpr-hero-arrive .sr-paper-teaser-panel{animation:none}}/* The same shell as the TL;DR's story: a rail column on the left, the
+   content beside it, the pair centred at the TL;DR's width. The sheet keeps
+   its own measure inside the second column. */
+.lpr-reading-shell{display:grid;grid-template-columns:minmax(10.5rem,var(--lpr-rail)) minmax(0,1fr);
+  column-gap:var(--lpr-gutter);align-items:start;
+  width:min(calc(100% - 10rem),var(--lpr-shell));margin:0 auto}
+/* When the comment dock is open the page keeps clear of it, so the column
+   re-centres in the space that is left instead of hiding under the dock. */
+html.pc-open body{padding-right:min(26rem,42vw);transition:padding-right .2s ease}
+html.pc-open .publication-nav{padding-right:min(26rem,42vw)}
+/* The web-mode rule `:root[data-paper-mode="web"] .paper-workspace` sets width:auto with one
+   more attribute selector than this one, so the width carries the flag too. */
+.lpr-reading-shell>.paper-workspace{grid-area:1/2;width:min(100%,calc(var(--lpr-column) + 6rem))!important;margin:0 auto!important}
+.paper-tools{display:none!important}
+/* Before the script builds the reading shell, the sheet already stands where
+   the shell will put it -- the rail's column and gutter to its left, the
+   shell's own margins either side -- so the rail's arrival does not shove
+   the text sideways. */
+@media (min-width:980px){
+  html:not(.lpr-ready) .paper-workspace{
+    /* The same arithmetic as the shell: the cell beside the rail, and the column
+       centred inside it, so the script's arrival moves nothing. */
+    --lpr-cell:calc(min(100% - 10rem,var(--lpr-shell)) - var(--lpr-rail) - var(--lpr-gutter));
+    --lpr-block:min(var(--lpr-cell),calc(var(--lpr-column) + 6rem));
+    --lpr-shell-left:calc(max(5rem,(100% - var(--lpr-shell))/2) + var(--lpr-rail) + var(--lpr-gutter)
+      + (var(--lpr-cell) - var(--lpr-block))/2);
+    width:var(--lpr-block);
+    margin:1rem 0 3rem var(--lpr-shell-left)!important}
+  /* Figures and prose share the article's reading measure. */
+  .paper-frame .manuscript-section :is(figure,.tex-table,table,pre){
+    max-width:min(100%,var(--lpr-figure))!important}
+  :root[data-paper-mode="web"] .paper-frame .manuscript-section figure{
+    width:min(100%,var(--lpr-figure));left:0;transform:none}
+}
+/* Large displays: extend the shared reading column to the right. The workspace
+   and outline keep their positions; prose, figures, and tables use one measure. */
+@media screen and (min-width:1440px){
+  .paper-workspace,#lpr-reader-tools,.lpr-reading-shell,.lpr-hero{
+    --lpr-column:clamp(48rem,46vw,70rem);--lpr-sheet:96rem;
+    --lpr-shell:144rem;--lpr-rail:15rem;--lpr-gutter:clamp(3rem,4vw,6rem);
+    --lpr-type-body:1.125rem;--lpr-type-sm:1rem;--lpr-type-xs:.875rem}
+  .lpr-reading-shell>.paper-workspace{width:min(100%,var(--lpr-sheet))!important}
+  html:not(.lpr-ready) .paper-workspace{--lpr-block:min(var(--lpr-cell),var(--lpr-sheet))}
+}
+
+/* The simulated sheet becomes a plain continuous column. Killing the fixed
+   height is what actually fixes the misalignment: with overflow hidden and a
+   fixed 11in, content that overflowed a sheet was clipped and the next block
+   started a new container at a different inset. */
+.paper-pages{counter-reset:none!important}
+.paper-page{
+  background:transparent!important;
+  box-shadow:none!important;
+  border:0!important;
+  height:auto!important;
+  min-height:0!important;
+  width:auto!important;
+  max-width:none!important;
+  overflow:visible!important;
+  margin:0!important;
+  padding:0!important;
+  border-radius:0!important;
+}
+.paper-page::after{content:none!important}
+.paper-page--first{padding-top:0!important}
+.paper-sheet,.paper-frame :where(.page-columns,.manuscript-section){
+  box-sizing:border-box!important;width:100%!important;max-width:none!important;
+  margin:0!important;padding:0!important;columns:auto!important;column-count:1!important}
+.paper-frame .manuscript-section{max-width:var(--lpr-column)!important}
+.paper-frame{background:transparent!important;border-radius:0!important;
+  box-shadow:none!important;padding:0!important;margin:0!important}
+
+/* -------------------------------------------------------------- typography */
+.paper-frame{color:var(--lpr-ink);font-family:var(--lpr-font);
+  font-size:var(--lpr-type-body);font-weight:400;line-height:1.6;font-synthesis:none}
+/* One link style on the paper: citations, section and figure references,
+   DOIs and card links all in the accent, no underline at rest, a hairline on
+   hover. The browser's blue never appears. */
+.paper-frame a:not(.publication-nav__link):not(.lp-cite){color:var(--lpr-accent);text-decoration:none;
+  text-decoration-color:color-mix(in srgb,var(--lpr-accent) 55%,transparent);
+  text-decoration-thickness:1px;text-underline-offset:.16em}
+.paper-frame a:not(.publication-nav__link):not(.lp-cite):hover,
+.paper-frame a:not(.publication-nav__link):not(.lp-cite):focus-visible{text-decoration-line:underline}
+.paper-frame :where(h1,h2,h3,h4,h5,h6,p,li,dt,dd,td,th,figcaption,blockquote),
+.paper-tools :where(a,p,span,strong){font-family:var(--lpr-font)!important}
+.paper-frame .manuscript-section > p,
+.paper-frame #abstract p,
+.paper-frame .manuscript-section > ul,
+.paper-frame .manuscript-section > ol,
+.paper-frame .manuscript-section > blockquote,
+.paper-frame #abstract blockquote{
+  box-sizing:border-box;
+  width:min(100%,var(--lpr-column));
+  max-width:var(--lpr-column)!important;
+  text-align:left;                  /* justified with no hyphenation dictionary
+                                       gave the whitespace rivers */
+  hyphens:auto;
+  margin:0 0 1.05em;
+}
+.paper-frame .paper-paragraph:empty{display:none!important}
+.paper-frame h1{font-size:var(--lpr-type-display)!important;line-height:1.09!important;
+  letter-spacing:-.016em;font-weight:500;max-width:30ch!important;margin:0 0 .7rem!important;
+  text-align:left!important;text-wrap:balance}
+.paper-frame .paper-header{box-sizing:border-box;width:min(100%,var(--lpr-column))!important;
+  max-width:var(--lpr-column)!important;margin:0!important;text-align:left!important}
+.paper-frame .paper-kicker{margin:0 0 .9rem!important;color:var(--lpr-accent)!important;
+  font-size:var(--lpr-type-xs)!important;font-weight:500!important;letter-spacing:.02em!important;
+  text-transform:none!important}
+/* The switch to the Overleaf page: a pill at the top right of the paper, level
+   with the kicker, in the empty corner the title leaves. */
+.paper-frame .paper-header{position:relative!important}
+.paper-frame .paper-format-switch{position:absolute;right:0;top:-.3rem;display:inline-flex;align-items:center;
+  gap:.35rem;padding:.42rem .9rem;border:1px solid var(--lpr-rule,#d8cdc4);border-radius:999px;
+  background:var(--lpr-sheet,#fffdf9);color:var(--lpr-muted,#615a54);font-size:var(--lpr-type-xs);
+  line-height:1.2;text-decoration:none;white-space:nowrap;z-index:2}
+.paper-frame .paper-format-switch:hover,.paper-frame .paper-format-switch:focus-visible{
+  color:var(--lpr-accent);border-color:var(--lpr-accent);text-decoration:none}
+@media(max-width:700px){.paper-frame .paper-format-switch{position:static;margin:0 0 .9rem}}
+html.pc-open .paper-frame .paper-format-switch{position:static;margin:0 0 .9rem}
+.paper-frame .paper-byline{display:none!important}
+.paper-frame .lpr-plain-summary{box-sizing:border-box;width:min(100%,var(--lpr-column));
+  max-width:var(--lpr-column)!important;margin:1.1rem 0 1.6rem!important;
+  color:var(--lpr-muted);font-size:var(--lpr-type-body);line-height:1.62;text-align:left}
+.paper-frame .paper-abstract>h2,
+.paper-frame .paper-abstract>p{box-sizing:border-box;width:min(100%,var(--lpr-column))!important;
+  max-width:var(--lpr-column)!important;margin-left:0!important;margin-right:0!important;
+  text-align:left!important}
+.paper-frame .paper-abstract>.paper-keywords{color:var(--lpr-muted);font-size:var(--lpr-type-sm);line-height:1.55}
+.paper-frame blockquote.tex-quote{position:relative;width:min(100%,58ch)!important;
+  max-width:58ch!important;margin:1.35rem 0 1.55rem!important;padding:.15rem 0 .15rem 1.2rem;
+  border-left:2px solid rgba(166,72,24,.72);color:#343638;font-size:var(--lpr-type-body);line-height:1.65}
+.paper-frame blockquote.tex-quote p{width:auto!important;max-width:none!important;
+  margin:0!important}
+.paper-frame h2,.paper-frame h3,.paper-frame h4{
+  width:min(100%,var(--lpr-column));max-width:var(--lpr-column)!important;
+  margin-left:0;margin-right:0}
+.paper-frame h2{font-size:var(--lpr-type-heading);font-weight:600;margin-top:1.6em;
+  margin-bottom:.45em;line-height:1.2;letter-spacing:-.008em}
+.paper-frame .manuscript-section>h2,.paper-frame .paper-abstract>h2,
+.paper-frame #references>h2{text-transform:uppercase;letter-spacing:.025em;font-weight:600}
+.paper-frame h3{font-size:var(--lpr-type-subheading);font-weight:600;margin-top:1.7em;
+  margin-bottom:.4em;line-height:1.3}
+.paper-frame h4{font-size:var(--lpr-type-sm);font-weight:600;margin-top:1.5em;
+  margin-bottom:.3em}
+/* The section number in the accent, the title in ink. */
+.paper-frame :is(h2,h3,h4)>span:first-child{color:var(--lpr-accent);font-weight:600;margin-right:.1em;
+  font-variant-numeric:tabular-nums}
+.paper-frame figure,.paper-frame table{margin:2em 0}
+.paper-frame figure{box-sizing:border-box;width:min(100%,var(--lpr-figure));max-width:var(--lpr-figure)}
+.paper-frame .manuscript-section>figure{width:100%!important;max-width:100%!important;
+  margin-left:0!important;margin-right:0!important}
+.paper-frame .manuscript-section>figure[data-figure-size="single"]{width:min(100%,36rem)!important}
+.paper-frame .manuscript-section>figure[data-figure-size="medium"]{width:82%!important}
+/* Explorers use the available space beside the reading column. Their left
+   edge stays aligned with the prose; only the right edge expands. */
+@media screen and (min-width:1100px){
+  .paper-workspace{container-type:inline-size}
+  .paper-frame .manuscript-section>figure:has([data-hierarchy-explorer], [data-citation-atlas]){
+    width:100cqw!important;max-width:none!important}
+}
+.paper-frame figure :where(img,svg,canvas){display:block;width:100%;max-width:100%;height:auto;margin:0}
+@media(max-width:760px){.paper-frame .manuscript-section>figure[data-figure-size="medium"]{width:100%!important}}
+/* The figures are drawn on white; multiplied onto the page they sit on its
+   paper instead of on white rectangles. A click opens one at its drawn size,
+   because the labels drawn at 13 px on a 1008 px board reach 8 px in the
+   column. */
+.paper-frame figure.tex-figure img{mix-blend-mode:multiply}
+.paper-frame .manuscript-section figure.tex-figure img{cursor:zoom-in}
+.lpr-lightbox{position:fixed;inset:0;z-index:1500;display:grid;grid-template-rows:minmax(0,1fr) auto;
+  gap:.8rem;padding:2.2rem clamp(1rem,4vw,3rem) 1.6rem;box-sizing:border-box;
+  background:color-mix(in srgb,#fbf7f1 94%,transparent);backdrop-filter:blur(8px);cursor:zoom-out}
+.lpr-lightbox[hidden]{display:none}
+.lpr-lightbox img{justify-self:center;align-self:center;width:min(100%,64rem);max-height:100%;
+  object-fit:contain;mix-blend-mode:multiply}
+.lpr-lightbox-caption{margin:0 auto;max-width:64rem;color:var(--lpr-muted,#615a54);
+  font:400 var(--lpr-type-sm,.9375rem)/1.5 var(--lpr-font,sans-serif);text-align:center;cursor:default}
+html.lpr-lightbox-open{overflow:hidden}
+.paper-frame figcaption,.paper-frame .figure-caption{
+  box-sizing:border-box;width:100%;max-width:100%;margin-left:0;margin-right:0;
+  color:var(--lpr-muted);font-size:var(--lpr-type-sm);font-weight:400;line-height:1.5;
+  margin-top:.6em}
+.paper-frame figcaption .tex-caption-number{font-weight:600;color:var(--lpr-accent);letter-spacing:.01em}
+.paper-frame figcaption strong{color:var(--lpr-ink);font-weight:600}
+/* The reference list at the small step: the web-mode list rule in
+   paper_pdf_view would otherwise set it at the body size. */
+:root[data-paper-mode="web"] .manuscript-section .lp-refs,
+:root[data-paper-mode="web"] .manuscript-section ol.lp-ref-list{font-size:var(--lpr-type-sm);line-height:1.5}
+.paper-frame .manuscript-section .lp-refs,
+.paper-frame .manuscript-section .lp-ref-list{box-sizing:border-box;width:100%!important;max-width:100%!important}
+.paper-frame .lp-ref{min-width:0}
+.paper-frame .lp-ref>div{min-width:0;overflow-wrap:anywhere}
+.paper-frame .paper-header .lpr-word-count{margin:.7rem 0 1.1rem!important;
+  color:var(--lpr-muted);font-size:var(--lpr-type-xs);line-height:1.5}
+.lpr-word-count strong{font-weight:500}
+.lpr-word-count .lpr-count-help{display:inline-flex;position:relative;vertical-align:middle;margin-left:.4em}
+.lpr-count-help-toggle{display:inline-flex;align-items:center;justify-content:center;
+  width:1.3em;height:1.3em;padding:0;border:1px solid #aab4ad;border-radius:50%;
+  background:transparent;color:inherit;font:inherit;font-size:.9em;line-height:1;cursor:help}
+.lpr-count-help-toggle:focus-visible{outline:2px solid var(--lpr-accent);outline-offset:3px}
+.lpr-count-help .lpr-count-tooltip{display:block;position:absolute;z-index:25;top:calc(100% + .4rem);left:-10rem;
+  width:max-content;max-width:min(18rem,calc(100vw - 3rem));padding:.55rem .7rem;
+  border:1px solid var(--lpr-rule);border-radius:.4rem;background:#fffefa;color:var(--lpr-ink);
+  box-shadow:0 3px 12px #263a2915;font-size:.8rem;line-height:1.45;font-weight:400;
+  visibility:hidden;opacity:0;pointer-events:none;text-align:left}
+.lpr-count-help:hover .lpr-count-tooltip,.lpr-count-help:focus-within .lpr-count-tooltip{visibility:visible;opacity:1;pointer-events:auto}
+@media print{.lpr-word-count .lpr-count-help{display:none}}
+section.lpr-hero.paper-frame .paper-header .lpr-word-count{grid-column:1;grid-row:5;order:2}
+/* The shared method stage brought the story's compact labels with it; on
+   the paper nothing is set under the paper's smallest step. */
+.paper-frame .t-venue-round-label,.paper-frame .t-venue-round-domain output,
+.paper-frame .t-method-continuity li,.paper-frame .t-method-record small,
+.paper-frame .t-method-venue-groups section :is(strong,span),
+.paper-frame .t-inspection-icons small,.paper-frame .t-venue-rounds header span,
+.paper-frame .t-venue-round-controls button,.paper-frame .t-method-human-gate span,
+.paper-frame .t-stream-separation,
+.paper-frame .sr-kicker{font-size:var(--lpr-type-2xs)!important}
+.paper-frame .tex-figure-examples{margin:.45rem 0 0;color:var(--lpr-muted);font-size:var(--lpr-type-sm);line-height:1.5}
+.paper-frame .tex-figure-examples>summary{cursor:pointer;color:var(--lpr-ink);font-weight:500}
+.paper-frame .tex-figure-examples dl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:.2rem .8rem;margin:.4rem 0 0}
+.paper-frame .tex-figure-examples dt{font-weight:500;color:var(--lpr-ink)}.paper-frame .tex-figure-examples dd{margin:0}
+.paper-frame .tex-figure-examples a{color:var(--lpr-accent)}
+.paper-frame table{font-size:var(--lpr-type-sm)}
+.paper-frame td,.paper-frame th{border-color:var(--lpr-rule)}
+/* Wide content scrolls in its own box rather than pushing the column open. */
+.paper-frame table{display:block;overflow-x:auto;max-width:100%}
+.paper-frame .lpr-evidence-correction{
+  box-sizing:border-box;width:min(100%,var(--lpr-column));max-width:var(--lpr-column);
+  margin:1.3rem 0 1.8rem;padding:1rem 1.1rem;border:1px solid #d6c2b7;
+  border-left:3px solid #b4491a;background:#fbf7f4;color:var(--lpr-ink);
+  scroll-margin-top:5rem
+}
+.paper-frame .lpr-evidence-correction h4{width:auto!important;max-width:none!important;
+  margin:0 0 .45rem!important;font-size:var(--lpr-type-sm);color:#8d3612}
+.paper-frame .lpr-evidence-correction p{width:auto!important;max-width:none!important;
+  margin:.45rem 0!important;font-size:var(--lpr-type-sm);line-height:1.55;color:#3f4749}
+.paper-frame .lpr-deep-links{box-sizing:border-box;width:min(100%,var(--lpr-column));
+  max-width:var(--lpr-column);margin:2.4rem 0;padding:1rem 0;
+  border-top:1px solid var(--lpr-rule);border-bottom:1px solid var(--lpr-rule)}
+.paper-frame .lpr-deep-links h2{margin:0 0 .45rem!important;font-size:var(--lpr-type-body)!important}
+.paper-frame .lpr-deep-links p{width:auto!important;max-width:none!important;
+  margin:0!important;color:var(--lpr-muted);font-size:var(--lpr-type-sm);line-height:1.55}#lpr-reader-tools{position:sticky;top:5rem;z-index:55;grid-area:1/1;justify-self:start;align-self:start;scrollbar-width:thin;scrollbar-color:var(--lpr-rule,#e4e2dd) transparent;
+  width:var(--lpr-rail);max-height:calc(100vh - 6rem);
+  margin:var(--lpr-rail-offset,24rem) 0 0 0;padding:1.25rem .5rem 1.25rem .25rem;
+  overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;
+  background:transparent;font-family:var(--lpr-font);border:0;
+  backdrop-filter:none;font-synthesis:none}
+/* The same rail as the TL;DR's paper map: a heading, one track with a dot per
+   section, and the current section in ink on its own accent. The drawer's
+   plus-and-minus summary and its rule are gone from the desktop; below the
+   desktop width the same element folds to a pill (see the media rules). */
+#lpr-reader-tools>summary{display:block;margin:0 0 .8rem;padding:0;cursor:default;list-style:none;
+  pointer-events:none;color:var(--lpr-ink);font:600 var(--lpr-type-2xs)/1.3 var(--lpr-font);border:0}
+#lpr-reader-tools>summary::-webkit-details-marker{display:none}
+#lpr-reader-tools>summary span{display:none}
+#lpr-reader-tools>summary::after{content:none}
+.lpr-drawer-body{display:grid;gap:.75rem;padding:0;max-width:15rem}
+.lpr-contents-title{margin:0 0 .35rem;color:var(--lpr-muted);
+  font:500 var(--lpr-type-xs)/1.3 var(--lpr-font)}
+#lpr-reader-tools .paper-contents{display:grid!important;position:relative;
+  grid-template-columns:1fr!important;gap:.08rem!important;
+  margin:0!important;padding:.15rem 0 .15rem .95rem!important;border:0!important;background:transparent!important}
+/* The line and the dots share one x, .2rem in from the list's left edge, and
+   the dot sits on the text's centre: .38rem of padding plus half a 1.3 line
+   of .7rem. These are the TL;DR map's measures, so the two rails match. */
+#lpr-reader-tools .paper-contents::before{content:"";position:absolute;left:calc(.2rem - .5px);top:.3rem;bottom:.3rem;
+  width:1px;background:var(--lpr-rule)}
+#lpr-reader-tools .paper-contents a{position:relative;display:block;width:auto!important;padding:.38rem .25rem!important;
+  border:0!important;border-radius:0!important;background:transparent!important;color:var(--lpr-muted)!important;
+  font:500 var(--lpr-type-xs)/1.35 var(--lpr-font)!important;text-decoration:none;text-align:left;transition:color .16s ease}
+/* .38rem of padding plus half a 1.35 line of .8125rem puts the dot on the
+   text's centre. */
+#lpr-reader-tools .paper-contents a::before{content:"";position:absolute;left:calc(.2rem - .95rem - .17rem);
+  top:calc(.93rem - .17rem);width:.34rem;height:.34rem;border-radius:50%;background:var(--lpr-rule)}
+#lpr-reader-tools .paper-contents a:hover{color:var(--lpr-ink)!important;text-decoration:none;
+  background:transparent!important}
+#lpr-reader-tools .paper-contents a[aria-current="location"]{color:var(--lpr-ink)!important;
+  font-weight:500!important}
+#lpr-reader-tools .paper-contents a[aria-current="location"]::before{
+  background:var(--lpr-rail-accent,var(--lpr-accent));
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--lpr-rail-accent,var(--lpr-accent)) 14%,transparent)}
+/* Groups: a section and its subsections, or "Appendices" and the lettered appendices.
+   Children show while the pointer rests on the group, stay open after the chevron is
+   pressed, and open by themselves for the section being read. */
+.lpr-rail-group{position:relative}
+#lpr-reader-tools .paper-contents .lpr-rail-group>a{padding-right:1.8rem!important}
+.lpr-rail-children{display:none;grid-template-columns:1fr;gap:.04rem;padding:0 0 .2rem}
+.lpr-rail-group:hover .lpr-rail-children,.lpr-rail-group.is-open .lpr-rail-children,
+.lpr-rail-group.is-current .lpr-rail-children{display:grid}
+#lpr-reader-tools .paper-contents .lpr-rail-children a{padding:.26rem .25rem .26rem 1rem!important;
+  font-size:var(--lpr-type-2xs)!important;line-height:1.3!important}
+#lpr-reader-tools .paper-contents .lpr-rail-children a::before{width:.24rem;height:.24rem;
+  left:calc(.2rem - .95rem - .12rem);top:calc(.79rem - .12rem)}
+.lpr-rail-toggle{position:absolute;right:0;top:.34rem;width:1.3rem;height:1.3rem;padding:0;border:0;
+  background:transparent;color:var(--lpr-muted);cursor:pointer;font:inherit;line-height:1}
+.lpr-rail-toggle::before{content:"";display:block;width:.4rem;height:.4rem;margin:.4rem auto 0;
+  border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;
+  transform:rotate(-45deg);transition:transform .16s ease}
+.lpr-rail-group.is-open .lpr-rail-toggle::before{transform:rotate(45deg)}
+.lpr-rail-toggle:hover{color:var(--lpr-ink)}
+.lpr-rail-toggle:focus-visible{outline:2px solid var(--lpr-accent);outline-offset:2px}
+.lpr-local-actions{display:flex;align-items:center;flex-wrap:wrap;gap:.5rem .8rem;margin-top:.15rem}
+#lpr-reader-tools .detail-link{display:inline;color:var(--lpr-accent)!important;
+  background:transparent!important;border:0!important;padding:0!important;
+  font:500 var(--lpr-type-xs)/1.4 var(--lpr-font)!important;text-decoration:underline;
+  text-underline-offset:3px}#lpr-reader-tools::-webkit-scrollbar{width:6px}#lpr-reader-tools::-webkit-scrollbar-thumb{background:var(--lpr-rule,#e4e2dd);border-radius:3px}#lpr-reader-tools::-webkit-scrollbar-track{background:transparent}.lpr-tab[hidden]{display:none!important}
+.lpr-evidence{display:grid;gap:.02rem;padding:0 0 0 .95rem}
+.lpr-evidence-group{margin:.5rem 0 .1rem;color:var(--lpr-accent);font:600 var(--lpr-type-2xs)/1.3 var(--lpr-font);
+  letter-spacing:.08em;text-transform:uppercase}
+.lpr-evidence-group:first-child{margin-top:.1rem}
+.lpr-evidence a{display:block;padding:.26rem .25rem;color:var(--lpr-muted);
+  font:500 var(--lpr-type-xs)/1.35 var(--lpr-font);text-decoration:none;transition:color .16s ease}
+.lpr-evidence a:hover{color:var(--lpr-ink)}
+.lpr-evidence-foot{margin:.7rem 0 0 .95rem}
+#lpr-comment-slot{display:contents}
+#lpr-reader-tools .pc-launch{position:static!important;inset:auto!important;margin:0!important;
+  padding:.25rem 0!important;border:0!important;background:transparent!important;box-shadow:none!important;
+  color:var(--lpr-muted)!important;font:500 var(--lpr-type-xs)/1.3 var(--lpr-font)!important}
+#lpr-reader-tools .pc-launch strong{font:inherit!important}
+#lpr-reader-tools .pc-launch span{display:none!important}.paper-footer:empty{display:none!important}#latex-source,.pdf-pane{box-sizing:border-box;width:min(calc(100% - 2rem),72rem);margin:1rem auto 3rem}
+
+/* Between the desktop rail and the phone drawer the paper column is narrower
+   than the 52rem figure rules supplied by the shared evidence renderer.  Those
+   rules are intentionally generous on a full-width page, but inside the
+   bounded sheet they used their absolute cap and widened the entire document.
+   Keep the visual as wide as the sheet permits and contain oversized tabular
+   content in its own horizontal scroller. */
+@media (min-width:841px) and (max-width:1100px){
+  .paper-frame figure,
+  .paper-frame .tex-table,
+  .paper-frame .sr-paper-method-journey,
+  .paper-frame .t-method-stage{
+    box-sizing:border-box!important;width:auto!important;max-width:100%!important;
+    left:auto!important;right:auto!important;margin-left:0!important;margin-right:0!important;
+    transform:none!important}
+  .paper-frame :where(figure,.tex-table,.sr-paper-method-journey) :where(img,svg,canvas){
+    width:100%!important;max-width:100%!important;height:auto}
+  .paper-frame .tex-table{display:block!important;overflow-x:auto!important}
+  .paper-frame .tex-table table{width:max-content;min-width:100%;max-width:none!important}
+}
+
+@media (max-width:1100px){
+  .paper-workspace{padding:clamp(1.5rem,5vw,2.5rem)!important}
+  .paper-frame{padding:0!important}
+}
+@media (max-width:979px){
+  .lpr-reading-shell{display:block;width:100%;margin:0}
+  .paper-workspace{width:min(calc(100% - 2rem),var(--lpr-sheet));margin:1rem auto 2.5rem!important}
+  /* Below the width where the rail fits in the sheet's margin it folds to a
+     pill at the sheet's left edge, as the TL;DR's map does: open it and the
+     sections drop down under it. */
+  #lpr-reader-tools{position:sticky;top:3.3rem;z-index:60;width:max-content;max-width:calc(100% - 2rem);
+    max-height:none;margin:.5rem 0 .25rem max(1rem,calc((100% - var(--lpr-sheet)) / 2));padding:0;
+    border:0;overflow:visible}
+  #lpr-reader-tools>summary{display:inline-flex;align-items:center;gap:.4rem;margin:0;padding:.38rem .8rem;
+    border:1px solid var(--lpr-rule);border-radius:999px;background:rgba(253,251,247,.96);
+    box-shadow:0 2px 10px rgba(38,28,20,.06);font:600 var(--lpr-type-2xs)/1.2 var(--lpr-font);color:var(--lpr-ink);
+    cursor:pointer;pointer-events:auto}
+  #lpr-reader-tools>summary::after{content:"▾";font-size:.75em;opacity:.55}
+  #lpr-reader-tools[open]>summary::after{content:"▴"}
+  .lpr-drawer-body{position:absolute;left:0;top:calc(100% + .35rem);z-index:50;min-width:15rem;
+    max-width:calc(100vw - 2rem);padding:.5rem .55rem;border:1px solid var(--lpr-rule);border-radius:.55rem;
+    background:rgba(253,251,247,.98);box-shadow:0 14px 34px rgba(38,28,20,.14)}
+  #lpr-reader-tools .paper-contents{gap:.05rem!important;padding:0!important;max-height:min(60vh,22rem);overflow-y:auto}
+  #lpr-reader-tools .paper-contents::before,#lpr-reader-tools .paper-contents a::before{display:none}
+  #lpr-reader-tools .paper-contents a{padding:.38rem .4rem!important}
+}
+@media (max-width:720px){
+  .paper-workspace{width:calc(100% - 1rem);margin:.5rem auto 1.5rem!important;
+    padding:1.25rem 1rem 1.75rem!important;box-shadow:0 .8rem 2rem rgba(48,38,31,.07)}  /* On a phone the pill sits at the head of the paper rather than riding
+     along: the site's own bar already sticks, and two sticky rows would take
+     a third of the screen. */
+  #lpr-reader-tools{position:relative;top:auto;margin-left:.5rem}
+  #lpr-reader-tools>summary span{display:none}
+  .lpr-drawer-body{gap:.55rem}
+  #lpr-reader-tools .paper-contents{grid-template-columns:1fr!important;max-height:12rem}  #latex-source,.pdf-pane{width:calc(100% - 1.5rem);margin-top:.75rem}
+  .paper-frame{padding:0!important}
+  .paper-frame h1{font-size:var(--lpr-type-display)!important;line-height:1.1!important}
+  .paper-frame,.paper-frame :where(.paper-page,.page-columns,.manuscript-section){
+    column-count:1!important;columns:auto!important;font-size:var(--lpr-type-body)!important;line-height:1.68!important}
+  .paper-frame :where(p,li,blockquote){font-size:var(--lpr-type-body)!important;line-height:1.68!important}
+  .paper-frame :where(figcaption,.figure-caption){font-size:var(--lpr-type-sm)!important;line-height:1.5!important}
+  .paper-frame p,.paper-frame li{hyphens:none!important}
+  .paper-frame .manuscript-section a,
+  .paper-frame .reference-list a,
+  .paper-frame .manuscript-section code{
+    overflow-wrap:anywhere;word-break:break-word}
+}
+@media print{
+  #lpr-reader-tools{display:none!important}
+  .paper-frame{box-shadow:none;padding:0}
+}
+</style>
+<style id="learning-evidence-view-style">
+.le-scope{box-sizing:border-box;width:100%;padding:1.4rem;border:1px solid #d9e1dc;border-radius:.65rem;background:#fffefa;color:#29332e;font:400 1rem/1.5 system-ui,sans-serif}
+.le-scope *{box-sizing:border-box}.le-scope p{margin:.45rem 0;font:inherit}.le-scope h3{margin:0 0 .35rem;font:600 1.4rem/1.25 system-ui,sans-serif;color:#29332e}
+.le-scope h4{margin:0 0 1rem;font:600 1.05rem/1.3 system-ui,sans-serif;color:#29332e}
+.le-scope .le-context{color:#5b6961;font-size:.9rem}.le-all{margin:1.3rem 0}.le-all-track{display:flex;height:1.35rem;overflow:hidden;background:#eef2f3;border-radius:3px;margin:.6rem 0}.le-all-track span{display:block;background:#3f6288}
+.le-all-labels{display:flex;gap:1rem;justify-content:space-between;font-size:.9rem}.le-all-labels strong{color:#3f6288}
+.le-subset{border-top:1px solid #d9e1dc;padding-top:1.1rem}.le-controls{display:none;flex-wrap:wrap;gap:.45rem;margin:.9rem 0 1rem}.le-scope[data-ready] .le-controls{display:flex}
+.le-controls button{font:500 .87rem/1.3 system-ui,sans-serif;padding:.55rem .8rem;border:1px solid #aebcb3;border-radius:2rem;background:#fff;color:#334a3d;cursor:pointer}.le-controls button[aria-pressed=true]{background:#3f6288;border-color:#3f6288;color:white}.le-controls button:focus-visible{outline:3px solid #bd672f;outline-offset:3px}
+.le-charts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.8rem;margin-top:1.2rem}.le-scope .le-charts>section{width:auto;max-width:none;min-width:0;margin:0!important;padding:0!important}.le-rows{margin:0;padding:0;list-style:none!important}.le-rows li{list-style:none!important;margin:0 0 1rem!important;padding:0!important}.le-row-title{display:flex;gap:.6rem;justify-content:space-between;align-items:baseline;font-size:.9rem;line-height:1.4}.le-row-title output{white-space:nowrap;color:#53645a;font-variant-numeric:tabular-nums}.le-track{height:8px;background:#eef2f3;margin:.4rem 0 0}.le-bar{display:block;height:100%;background:#3f6288;transition:width .25s ease}.le-bar[data-key=loss]{background:#2b425b}.le-bar[data-key=not_measured],.le-bar[data-key=unclear]{background:#8c9ba6}
+.le-notes{margin:1rem 0 0;padding-top:.8rem;border-top:1px solid #d9e1dc;font-size:.85rem!important;color:#5b6961}.le-scope summary{cursor:pointer;font:500 .9rem/1.4 system-ui,sans-serif}.le-scope details{margin-top:.85rem}.le-scope details p{font-size:.9rem}.le-web+.le-print{display:none}
+.le-note-cards{padding-left:1.15rem!important;margin:.7rem 0 1.2rem!important}.le-note-cards li{margin:.7rem 0!important}.le-note-cards a{font-weight:600}.le-scope details h4{margin:1rem 0 .4rem}.le-note-cards p{color:#53645a}.le-ambiguity{font-size:.85rem!important;color:#53645a;margin-top:.8rem!important}
+@media(max-width:600px){.le-scope{padding:1rem}.le-charts{grid-template-columns:1fr;gap:1rem}.le-all-labels{flex-direction:column;gap:.2rem}.le-row-title{font-size:.9rem}.le-scope h3{font-size:1.2rem}}
+@media(prefers-reduced-motion:reduce){.le-bar{transition:none}}
+@media print{.le-controls{display:none!important}.le-scope{break-inside:avoid}.le-web{display:none}.le-web+.le-print{display:block}}
+</style>
+<style id="lineage-evidence-view-style">
+.ln-view{box-sizing:border-box;border:1px solid #d7dedb;border-radius:10px;padding:clamp(1rem,3vw,1.6rem);background:#fffefa;font:400 1rem/1.5 system-ui,sans-serif;color:#29332e}
+.ln-view *{box-sizing:border-box}.ln-view :is(p,h3,h4){font-family:inherit!important;color:inherit}.ln-view h3{font-size:1.4rem!important;line-height:1.25!important;margin:0 0 .5rem!important}.ln-view h4{font-size:1.08rem!important;line-height:1.35!important;margin:1.3rem 0 .65rem!important}.ln-view p{font-size:.9rem!important;line-height:1.5!important;margin:.45rem 0!important}.ln-view .ln-muted{color:#566574}.ln-use{display:grid;grid-template-columns:minmax(0,1fr) minmax(100px,.8fr) 4rem;gap:1rem;align-items:center;margin:.9rem 0;font-size:.95rem}.ln-track{height:12px;background:#eef2f3}.ln-track i{display:block;height:100%;background:#a8501c}.ln-use strong{text-align:right;font-variant-numeric:tabular-nums}.ln-coverage{border-block:1px solid #d7dedb;padding:1rem 0;margin:1.2rem 0}.ln-coverage .ln-track{margin:.65rem 0}
+.ln-table{width:100%;border-collapse:collapse!important;font:inherit!important}.ln-table :is(th,td){background:none!important;color:inherit!important;text-align:left!important;padding:.7rem .4rem!important;border:0!important;border-bottom:1px solid #e1e5e2!important;vertical-align:top}.ln-table th{font-size:.82rem!important}.ln-table td{font-size:.95rem!important}.ln-table :is(th,td):last-child{text-align:right!important}.ln-table .ln-rate{display:block;font-weight:650}.ln-table small{color:#566574;font-size:.78rem}.ln-explorer{border-top:1px solid #d7dedb;margin-top:1.2rem;padding-top:.8rem}.ln-explorer>summary{font-weight:650;cursor:pointer}.ln-controls{display:none;gap:.6rem;margin:1rem 0;align-items:center;flex-wrap:wrap}.ln-view[data-ready] .ln-controls{display:flex}.ln-controls select{font:inherit;padding:.5rem;max-width:100%;border:1px solid #b5c1bb;background:#fff;border-radius:4px;color:inherit}.ln-tradition{margin:.7rem 0;border-bottom:1px solid #e1e5e2;padding:.65rem 0}.ln-tradition>summary{cursor:pointer;font-weight:600}.ln-tradition[hidden]{display:none}.ln-relations{display:flex;flex-wrap:wrap;gap:.35rem}.ln-relations span{font-size:.8rem;border:1px solid #d9dfdb;border-radius:4px;padding:.2rem .45rem}.ln-example{padding:.7rem 0!important;border-top:1px solid #e1e5e2}.ln-example blockquote{font:inherit!important;font-size:.9rem!important;margin:.6rem 0!important;padding:0 0 0 .8rem!important;border-left:2px solid #a8501c}.ln-view a{overflow-wrap:anywhere}.ln-view summary:focus-visible,.ln-controls select:focus-visible{outline:3px solid #a8501c;outline-offset:3px}
+.research-print{display:none}
+.ln-view .ln-table{display:table!important;width:100%!important;max-width:none!important}
+.ln-jump{margin:.6rem 0!important;border:0!important;background:none!important;padding:0!important}.ln-jump>summary{cursor:pointer;font:500 14px/1.5 system-ui,sans-serif!important;color:#3b627f!important}.ln-jump .ln-controls{margin:.5rem 0}
+@media(max-width:420px){.ln-view .ln-table,.ln-table tbody{display:block!important}.ln-table thead{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%)}.ln-table tr{display:grid;grid-template-columns:1fr 1fr;gap:.25rem .8rem;padding:.7rem 0;border-bottom:1px solid #e1e5e2}.ln-view .ln-table :is(th,td){border:0!important;padding:.25rem 0!important}.ln-table td:first-child{grid-column:1 / -1;max-width:none!important;font-size:1rem!important;font-weight:650}.ln-table td:nth-child(2)::before{content:'Share of coded records';display:block;font-size:.78rem;margin-bottom:.35rem}.ln-table td:last-child::before{content:'Used in a design or measure';display:block;font-size:.78rem;margin-bottom:.35rem}.ln-table :is(th,td):last-child{text-align:left!important}.ln-table td{font-size:.95rem!important}}
+@media(max-width:600px){.ln-use{grid-template-columns:minmax(0,1fr) 4rem;gap:.4rem}.ln-use .ln-track{grid-column:1;grid-row:2}.ln-use strong{grid-column:2;grid-row:1 / span 2}.ln-table th{font-size:.72rem!important}.ln-table td{font-size:.82rem!important}.ln-table :is(th,td){padding:.6rem .2rem!important}.ln-table td:first-child{max-width:7rem}.ln-controls select{width:100%}}
+@media print{.research-web{display:none!important}.research-print{display:block!important}}
+</style>
+<style id="citation-bridge-view-style">
+.cb-scope{box-sizing:border-box;max-width:100%;color:#17232e;font:400 1rem/1.5 system-ui,sans-serif}
+.cb-scope *{box-sizing:border-box}.cb-scope [hidden]{display:none!important}
+.cb-scope .cb-web{padding:1.4rem;border:1px solid #c8d1d9;border-radius:.6rem;background:#fff}
+.cb-scope .cb-title{margin:0 0 .4rem;font:650 1.45rem/1.25 system-ui,sans-serif;color:#17232e}
+.cb-scope p{margin:.45rem 0;font:inherit}.cb-scope .cb-context{color:#566574;font-size:.92rem}
+.cb-scope .cb-track{display:flex;height:1.2rem;overflow:hidden;margin:1.15rem 0 .8rem;background:#eef2f3}
+.cb-scope .cb-track span{display:block}.cb-scope .cb-coverage{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:0 0 1rem}
+.cb-scope .cb-coverage div{min-width:0}.cb-scope .cb-coverage dt{font-size:.9rem}.cb-scope .cb-coverage dd{margin:0;font-size:1.15rem;font-weight:700}
+.cb-scope .cb-swatch{display:inline-block;width:.65rem;height:.65rem;margin-right:.35rem}
+.cb-scope .cb-heading{font:650 1.05rem/1.35 system-ui,sans-serif;margin:1.2rem 0 .4rem;color:#17232e}
+.cb-scope .cb-controls{margin:.9rem 0}.cb-scope .cb-search-label{display:block;font-size:.9rem;font-weight:600}
+.cb-scope .cb-search{width:100%;max-width:34rem;margin:.35rem 0;padding:.6rem .75rem;border:1px solid #8594a0;border-radius:.3rem;font:inherit;background:#fff;color:#17232e}
+.cb-scope .cb-search:focus-visible,.cb-scope summary:focus-visible,.cb-scope a:focus-visible{outline:3px solid #007f99;outline-offset:3px}
+.cb-scope .cb-status{display:block;color:#566574;font-size:.85rem}
+.cb-scope .cb-source{border-top:1px solid #e2e8ea;margin:0;padding:.55rem 0}
+.cb-scope .cb-source>summary{cursor:pointer;list-style:disclosure-closed;font:inherit;padding:.35rem 0;overflow-wrap:anywhere}
+.cb-scope .cb-source[open]>summary{list-style:disclosure-open}.cb-scope .cb-source-title{font-weight:650}
+.cb-scope .cb-source-count{display:block;margin:.3rem 0 0 1rem;color:#566574;font-size:.88rem;font-variant-numeric:tabular-nums}
+.cb-scope .cb-rank-track{display:block;max-width:15rem;height:.3rem;background:#eef2f3;margin:.4rem 0 0 1rem}
+.cb-scope .cb-rank-track i{display:block;height:100%;background:#007f99}
+.cb-scope .cb-citers{margin:.7rem 0 .6rem!important;padding-left:1.35rem!important}
+.cb-scope .cb-citers li{margin:.45rem 0!important;padding-left:.1rem;overflow-wrap:anywhere;font-size:.9rem}
+.cb-scope .cb-citers a{color:#00576a;text-decoration:underline;text-underline-offset:.15em}.cb-scope .cb-meta{color:#566574}
+.cb-scope .cb-rest{margin-top:.4rem}.cb-scope .cb-rest>summary{cursor:pointer;font-weight:600;padding:.7rem 0}
+.cb-scope .cb-note{border-top:1px solid #c8d1d9;padding-top:.9rem;margin-top:1rem;font-size:.88rem;color:#566574}
+.cb-scope .cb-print{display:none}.cb-scope .cb-print svg{display:block;width:100%;height:auto;max-width:100%}
+@media(max-width:620px){.cb-scope .cb-web{padding:1rem}.cb-scope .cb-title{font-size:1.2rem}.cb-scope .cb-coverage{grid-template-columns:1fr;gap:.5rem}.cb-scope .cb-coverage div{display:flex;justify-content:space-between;gap:.7rem}.cb-scope .cb-coverage dt{max-width:65%}.cb-scope .cb-coverage dd{font-size:1rem;white-space:nowrap}}
+@media print{.cb-scope .cb-web{display:none!important}.cb-scope .cb-print{display:block!important;break-inside:avoid}}
+</style>
+<style id="developmental-evidence-view-style">.dev-evidence{padding:1rem;border:1px solid #d7dedb;border-radius:6px;background:#fffefa}.dev-evidence>svg{display:block;width:100%;height:auto}.dev-evidence summary{cursor:pointer;font:500 14px/1.5 system-ui,sans-serif}.dev-evidence details{padding:.8rem 0;border-top:1px solid #d7dedb}.dev-evidence dd{margin:.2rem 0 .7rem;font:400 14px/1.5 system-ui,sans-serif}</style>
+<style id="knowledge-use-tree-style">
+.knowledge-use-tree{margin:1.2rem 0;font:400 .95rem/1.45 system-ui,sans-serif}.knowledge-use-tree *{box-sizing:border-box}
+.knowledge-use-tree details{margin:.55rem 0!important}.knowledge-use-tree summary{cursor:pointer;padding:.65rem .3rem;color:var(--branch,#426b8b);font:600 1rem/1.45 system-ui,sans-serif}
+.knowledge-use-tree summary:focus-visible{outline:3px solid #a8501c;outline-offset:3px}.knowledge-use-tree .kt-children{margin-left:.6rem;padding-left:1.4rem;border-left:2px solid var(--branch,#ccd6d1)}
+.knowledge-use-tree .kt-children>details>summary{position:relative}.knowledge-use-tree .kt-children>details>summary:before{content:'';position:absolute;left:-1.4rem;top:1.3rem;width:1.1rem;border-top:2px solid var(--branch,#ccd6d1)}
+.knowledge-use-tree .kt-number{font-size:.84rem;font-weight:400;color:#566861;margin-left:.3rem;font-variant-numeric:tabular-nums}.knowledge-use-tree .kt-bar{display:block;margin:.5rem 0 .3rem;height:6px;max-width:28rem;background:#e9efeb}.knowledge-use-tree .kt-bar i{display:block;height:100%;background:var(--branch)}
+.knowledge-use-tree .ln-tradition{border:0;border-top:1px solid #e2e8e4;border-radius:0;padding:.25rem 0!important}.knowledge-use-tree .ln-tradition>summary{font-weight:500;color:#21302a;font-size:.94rem}
+.knowledge-use-tree [hidden]{display:none!important}@media(max-width:480px){.knowledge-use-tree .kt-children{padding-left:.75rem;margin-left:.1rem}.knowledge-use-tree .kt-children>details>summary:before{left:-.75rem;width:.5rem}.knowledge-use-tree .kt-number{display:block;margin-left:0}}
+</style>
+<style id="hierarchy-explorer-style">
+.hx-frame{padding:clamp(1rem,2vw,1.5rem);border:1px solid #d7dedb;border-radius:6px;background:#fffefa;color:#29332e;text-align:left}
+.hx-frame>h3{font:650 23px/1.3 system-ui,sans-serif!important;margin:0 0 .5rem!important}.hx-frame>p{font:400 15px/1.5 system-ui,sans-serif!important;margin:.5rem 0!important}
+.hx{container-type:inline-size;color:#26312d;font:400 15px/1.45 system-ui,sans-serif;text-align:left}
+.hx *{box-sizing:border-box}.hx [hidden]{display:none!important}
+.hx .hx-hint{font:400 14px/1.5 system-ui,sans-serif!important;color:#596960;margin:.7rem 0 1.2rem!important}
+.hx .hx-desktop-hint{display:none}.hx[data-hx-wide] .hx-desktop-hint{display:inline}.hx[data-hx-wide] .hx-inline-hint{display:none}
+.hx-layout{display:grid;grid-template-columns:minmax(0,1fr);align-items:start;gap:1.5rem}
+.hx-group{--branch:#426b8b;display:grid;grid-template-columns:130px minmax(0,1fr);gap:1rem;padding:1rem 0;border-top:1px solid #dce3de}
+.hx .hx-parent{font-size:15px;line-height:1.35;color:var(--branch);padding-top:.5rem;min-width:0}
+.hx-parent strong{display:block}.hx-parent small{display:block;margin:.45rem 0;font-size:13px;font-weight:400;font-variant-numeric:tabular-nums}
+.hx-children{border-left:1px solid var(--branch);padding-left:1rem;min-width:0}
+.hx .hx-branch{border:0!important;border-radius:0!important;background:none!important;margin:0!important;padding:0!important;min-width:0}
+.hx .hx-branch>summary{position:relative;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:.5rem;list-style:none;cursor:pointer;padding:.55rem .45rem!important;font:500 14px/1.4 system-ui,sans-serif!important;color:#26312d!important;border-radius:3px;background:none}
+.hx .hx-branch>summary::-webkit-details-marker{display:none}.hx .hx-branch>summary:before{content:'';position:absolute;left:-1rem;top:50%;width:.9rem;border-top:1px solid var(--branch)}
+.hx .hx-branch>summary:after{content:'+';grid-column:2;grid-row:1;font-size:17px;color:var(--branch);width:1rem;text-align:center}
+.hx .hx-branch[open]>summary:after{content:'−'}.hx .hx-branch[open]>summary,.hx .hx-branch>summary:hover{background:#edf2ee}
+.hx .hx-branch>summary:focus-visible,.hx-inspector:focus-visible{outline:3px solid #a8501c;outline-offset:2px}
+.hx-row-label{grid-column:1;grid-row:1;padding-right:.3rem}.hx-count{display:flex;align-items:center;gap:.5rem;grid-row:2;grid-column:1 / -1;font-size:12px;font-weight:400;color:#56665d;font-variant-numeric:tabular-nums}
+.hx-bar{width:5rem;height:5px;background:#e8eeea;display:inline-block}.hx-bar i{display:block;height:100%;background:var(--branch)}
+.hx-evidence{padding:.7rem .1rem 1rem;min-width:0}.hx .hx-evidence p,.hx .hx-inspector p{font:400 14px/1.5 system-ui,sans-serif!important;margin:.5rem 0!important;max-width:none}
+.hx .hx-evidence details,.hx .hx-inspector details{border:0;border-top:1px solid #dce3de;border-radius:0;background:none;margin:.55rem 0!important;padding:.55rem 0!important}
+.hx .hx-evidence details>summary,.hx .hx-inspector details>summary{font:600 14px/1.45 system-ui,sans-serif!important;cursor:pointer;color:#26312d!important;padding:.3rem 0!important}
+.hx .hx-evidence a,.hx .hx-inspector a{color:#3b627f;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere;font-size:inherit}
+.hx .hx-evidence ul,.hx .hx-inspector ul{font:400 14px/1.5 system-ui,sans-serif;margin:.6rem 0;padding-left:1.1rem}.hx li{margin:.4rem 0}
+.hx .hx-inspector{display:none;position:sticky;top:88px;border:1px solid #cbd7ce;border-left:3px solid var(--branch,#846249);border-radius:6px;padding:1.2rem;background:#f8faf7;max-height:calc(100svh - 115px);overflow:auto;overscroll-behavior:contain}
+.hx .hx-inspector h4{font:650 20px/1.3 system-ui,sans-serif!important;margin:.3rem 0 .6rem!important;color:#26312d!important}
+.hx .hx-inspector .hx-breadcrumb{font:500 12px/1.4 system-ui,sans-serif!important;color:#637069;margin:0 0 .4rem!important}
+.hx[data-hx-wide] .hx-layout{grid-template-columns:minmax(0,1.15fr) minmax(320px,.85fr)}
+.hx[data-hx-wide] .hx-inspector{display:block}.hx[data-hx-wide] .hx-branch>.hx-evidence{display:none}
+.hx[data-hx-wide] .hx-branch>summary:after{content:'→'}
+.hx-family-nav{display:none}.hx[data-hx-families-ready] .hx-family-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.55rem;margin:.8rem 0 1.25rem}
+.hx-family-nav button{display:grid;grid-template-columns:1.6rem minmax(0,1fr);gap:.3rem .6rem;align-content:start;text-align:left;min-width:0;padding:.8rem;border:1px solid #dce3de;border-radius:4px;background:transparent;color:#29332e;font:500 14px/1.35 system-ui,sans-serif;cursor:pointer}
+.hx-family-nav button>svg{width:1.5rem!important;height:1.5rem!important;grid-row:1/3;color:var(--branch);margin:0!important}.hx-family-nav strong{font-weight:600}.hx-family-nav small{font-size:12px;font-variant-numeric:tabular-nums;color:#596960}
+.hx-family-nav button[aria-pressed=true]{border-color:var(--branch);background:#edf2ee}.hx-family-nav button:hover{background:#f3f6f2}.hx-family-nav button:focus-visible{outline:3px solid #a8501c;outline-offset:2px}
+.hx[data-hx-families-ready] .hx-group{display:block;padding:.2rem 0;border-top:0}.hx[data-hx-families-ready] .hx-parent{margin:0 0 .65rem;padding:0}.hx[data-hx-families-ready] .hx-parent strong{font-size:17px}.hx[data-hx-families-ready] .hx-parent small{display:none}
+.hx[data-hx-families-ready] .hx-children{padding-left:.8rem}.hx[data-hx-families-ready][data-hx-wide] .hx-layout{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:1.25rem}
+.hx[data-hx-families-ready] .hx-inspector{position:static;max-height:none;overflow:visible;padding:1rem}.hx[data-hx-families-ready] .hx-hint{margin:.75rem 0!important}
+.hx-column-label{font:600 12px/1.4 system-ui,sans-serif;letter-spacing:.07em;text-transform:uppercase;color:#637069;margin:0 0 .75rem;grid-column:1/-1}
+.hx:not([data-hx-families-ready]) .hx-column-label{display:none}
+.hx[data-hx-families-ready] .hx-family-nav{grid-column:1/-1;margin:0}
+.hx[data-hx-families-ready][data-hx-wide] .hx-layout{grid-template-columns:minmax(170px,.9fr) minmax(230px,1.2fr) minmax(260px,1.3fr);gap:1.2rem}
+.hx[data-hx-families-ready][data-hx-wide] .hx-family-nav{grid-column:auto;grid-template-columns:1fr;gap:.5rem;align-content:start}
+.hx[data-hx-families-ready][data-hx-wide] .hx-parent{display:none}
+.hx[data-hx-families-ready][data-hx-wide] .hx-family-nav button{position:relative;padding:.7rem .6rem;min-height:64px;grid-template-columns:1.4rem minmax(0,1fr);font-size:13px}
+.hx[data-hx-families-ready][data-hx-wide] .hx-family-nav button[aria-pressed=true]:after{content:none;position:absolute;width:1.25rem;right:-1.25rem;top:50%;border-top:1px solid var(--branch)}
+.hx[data-hx-families-ready][data-hx-wide] .hx-tree{min-width:0;max-height:min(650px,calc(100svh - 120px));overflow:auto;padding-right:.25rem}
+.hx[data-hx-families-ready][data-hx-wide] .hx-children{padding-left:.65rem}
+.hx[data-hx-families-ready][data-hx-wide] .hx-branch>summary{font-size:13px!important}
+.hx[data-hx-families-ready][data-hx-wide] .hx-inspector{position:sticky;top:88px;max-height:min(650px,calc(100svh - 120px));overflow:auto;padding:0 1rem 1rem;background:transparent;border:0;border-left:1px solid var(--branch);border-radius:0}
+.hx[data-hx-families-ready][data-hx-wide] .hx-inspector h4{font-size:18px!important}
+@container(max-width:560px){.hx[data-hx-families-ready] .hx-family-nav{grid-template-columns:repeat(2,minmax(0,1fr))}.hx-family-nav button{padding:.7rem;grid-template-columns:1.3rem minmax(0,1fr);gap:.3rem .4rem;font-size:13px}.hx-family-nav button>svg{width:1.2rem!important;height:1.2rem!important}.hx[data-hx-families-ready] .hx-parent strong{display:block}.hx-family-nav small{font-size:11px}}
+.hx:not([data-hx-active]) .hx-layout{display:block}.hx:not([data-hx-active]) .hx-inspector{display:none}
+.hx .hx-group{grid-template-columns:minmax(110px,.28fr) minmax(0,1fr);gap:1.2rem;padding:1.2rem 0}
+.hx .hx-parent{position:relative}.hx .hx-parent:after{content:'';position:absolute;right:-1.2rem;top:1.15rem;width:1rem;border-top:1px solid var(--branch)}
+.hx .hx-tree{min-width:0}.hx .hx-hint{margin:.75rem 0!important}
+@container(max-width:380px){.hx .hx-group{display:block}.hx .hx-parent{font-size:15px;margin-bottom:.8rem}.hx .hx-parent:after{display:none}.hx .hx-branch>summary{font-size:14px!important}.hx-count{flex-wrap:wrap;font-size:12px}.hx-children{padding-left:.75rem}.hx .hx-evidence{font-size:14px}}
+@container(min-width:1000px){.hx .hx-branch>summary{font-size:15px!important}.hx .hx-parent{font-size:clamp(16px,1.5cqi,20px)}.hx-count,.hx-parent small{font-size:clamp(13px,1.15cqi,15px)}.hx .hx-inspector :is(p,li,summary),.hx .hx-evidence :is(p,li,summary),.hx .hx-inspector blockquote{font-size:15px!important}.hx .hx-inspector h4{font-size:24px!important}}
+@media print{.hx-inspector{display:none!important}.hx-layout{display:block!important}}
+/* A collapsed tree is an overview of families, not a wide empty detail row. */
+.hx[data-hx-wide]:not([data-hx-families-ready]):not([data-hx-active]) .hx-tree{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.1rem 2rem}
+.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-group{display:block;min-width:0;align-self:start}
+.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-parent{margin:0 0 .85rem;padding:0}
+.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-parent strong{font-size:16px}
+.hx[data-hx-wide]:not([data-hx-families-ready]) .hx-parent small{margin:.25rem 0 0}
+.hx[data-hx-wide][data-hx-active] .hx-layout{grid-template-columns:minmax(260px,.8fr) minmax(0,1.2fr)}
+.hx[data-hx-wide][data-hx-active] .hx-inspector{position:sticky;max-height:none;overflow:visible}
+.hx[data-hx-families-ready][data-hx-wide]:not([data-hx-active]) .hx-layout{display:grid;grid-template-columns:minmax(170px,.7fr) minmax(0,1.3fr)}
+.hx[data-hx-families-ready][data-hx-wide]:not([data-hx-active]) .hx-inspector{display:none}
+</style>
+<style id="work-role-hierarchy-style">.wr-field{border:0;border-top:1px solid #d3ddd6!important;border-radius:0!important;background:none!important;margin:1.1rem 0!important;padding:.7rem 0!important}.wr-field>summary{font:650 18px/1.4 system-ui,sans-serif!important;cursor:pointer;padding:.4rem 0!important}</style>
+<style id="mechanism-values-style">
+.hx .mv-label{font-weight:650!important;margin-top:1rem!important}
+.hx .mv-coverage,.hx .mv-unmerged{color:#5d6963;font-size:12px!important}
+.hx .mv-list{list-style:none;padding:0!important;margin:.4rem 0!important}
+.hx .mv-list li{display:grid;grid-template-columns:minmax(0,1fr) 4.5rem auto;align-items:center;gap:.2rem .7rem;border-bottom:1px solid #e0e5df;padding:.45rem 0;margin:0!important}
+.hx .mv-list small{color:#5d6963;white-space:nowrap;font-variant-numeric:tabular-nums}
+.hx .mv-bar{height:5px;background:#e8eeea;display:block}.hx .mv-bar i{display:block;height:100%;background:var(--branch)}
+.hx .mv-list a{grid-column:1/-1;font-size:12px!important}
+.hx .mv-unmerged li{margin:.3rem 0}
+@container(max-width:430px){.hx .mv-list li{grid-template-columns:minmax(0,1fr) auto}.hx .mv-bar{display:none}.hx .mv-list small{white-space:normal}}
+</style>
+<style id="work-hierarchy-style">
+.wh-field{margin-top:1.25rem;padding-top:1rem;border-top:1px solid #d3ddd6}
+.wh-field>h4{font:650 20px/1.4 system-ui,sans-serif!important;margin:0 0 .35rem!important}
+.wh-field>p,.wh-coverage,.wh-rare p{font:400 14px/1.5 system-ui,sans-serif!important;color:#5d6963;margin:.4rem 0!important}
+.wh-rare{border-top:1px solid #d3ddd6;margin-top:.9rem;padding-top:.6rem}
+.wh-rare ul{font:400 14px/1.5 system-ui,sans-serif;margin:.3rem 0;padding-left:1.1rem}.wh-rare li{margin:.3rem 0}.wh-rare small{color:#5d6963}
+.wh-figure+.wh-figure{margin-top:2rem}
+</style>
+<style id="domain-context-table-style">.domain-contexts{color:#273536;background:#fffefa;padding:1rem;overflow:auto}.domain-contexts h4{margin:0 0 .3rem;font-size:1.2rem}.domain-contexts p{margin:0 0 1rem;color:#62716f}.domain-contexts table{width:100%;min-width:42rem;border-collapse:collapse;font:inherit;font-size:.93rem}.domain-contexts th,.domain-contexts td{padding:.6rem .75rem;border-bottom:1px solid #d9ded8;text-align:left;vertical-align:top}.domain-contexts thead th{border-bottom:2px solid #b9c4bc;font-weight:600}.domain-contexts th[scope=rowgroup]{width:31%;background:#f6f4ef;font-weight:600}.domain-contexts th[scope=row]{font-weight:400}.domain-contexts td{white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums}.domain-contexts small{display:block;margin-top:.4rem;color:#62716f;font-weight:400}</style>
+<style>.review-project-switch{box-sizing:border-box;display:flex;flex-wrap:wrap;align-items:center;gap:8px 24px;padding:12px max(20px,calc((100% - 1240px)/2));background:#f4f3f0;border-bottom:1px solid #deddd7;color:#454647;font:14px/1.5 system-ui,sans-serif;position:relative;z-index:5;width:100%;max-width:100%;margin:0}
+.review-project-switch>a{display:inline-block;color:#484b51;text-decoration:none;padding:7px 0;min-width:0;white-space:normal;line-height:1.4}
+.review-project-switch>a[aria-current=page],.review-project-switch>a[aria-current=true]{font-weight:700;border-bottom:2px solid currentColor}
+.review-project-switch>a:focus-visible{outline:2px solid currentColor;outline-offset:4px}
+.review-project-switch__label{font-size:12px;font-weight:600;color:#686a6c;margin-right:auto}
+.review-project-context{box-sizing:border-box;margin:0;padding:12px max(20px,calc((100% - 1240px)/2));border-bottom:1px solid #dedbd2;background:#fbf8f1;color:#526061;font:14px/1.6 system-ui,sans-serif;position:static}
+.review-project-context a{color:#8d4525;text-underline-offset:3px}.review-project-context strong{color:#263b40}
+@media(max-width:900px){.review-project-switch{padding-inline:20px;gap:4px 20px}.review-project-switch>.review-project-switch__label{flex-basis:100%}.review-project-context{font-size:13px}}
+@media(max-width:480px){.review-project-switch{gap:3px 16px;padding-inline:16px}.review-project-switch>a{font-size:13px}.review-project-switch__label{font-size:11px}}
+
+/* Shared editorial packet and navigation; no research classifications change. */
+.prior-knowledge-link{font:500 .88rem/1.5 system-ui,sans-serif;margin:1.2rem 0}.legacy-section-anchor{scroll-margin-top:5rem}
+#current-comparisons{padding:1.8rem 0;border-block:1px solid #d6ded7;margin:2rem 0}#current-comparisons h2{font-size:1.65rem;line-height:1.3}#current-comparisons article{padding:1.3rem 0;border-top:1px solid #dce3dc}#current-comparisons h3{font-size:1.22rem;line-height:1.4}#current-comparisons h4{font-size:1rem;margin:1rem 0 .3rem}#current-comparisons p{max-width:82ch;line-height:1.7}#current-comparisons details{margin:1rem 0}#current-comparisons summary,.earlier-argument-packet>summary{cursor:pointer;font-weight:600}#current-comparisons .table-scroll{overflow:auto;max-width:100%}#current-comparisons th,#current-comparisons td{text-align:left;vertical-align:top;padding:.7rem;border-bottom:1px solid #dce3dc;min-width:11rem}#current-comparisons table{border-collapse:collapse;width:100%}.earlier-argument-packet{padding:1rem;margin:1rem 0;background:#f2f4ee}.prior-knowledge-explorers{margin:3rem 0;padding:1.2rem 0;border-top:1px solid #d6ded7}
+nav.chapter-rail{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.5rem 0}nav.chapter-rail>a{display:block;padding:1rem;border:1px solid #d7dfd9;text-decoration:none;min-width:0}nav.chapter-rail span,nav.chapter-rail strong{display:block}nav.chapter-rail span{font-size:.82rem;margin-bottom:.5rem}nav.chapter-rail strong{font-size:.94rem;line-height:1.5}
+@media(max-width:780px){nav.chapter-rail{grid-template-columns:1fr}}
+
+.research-update-note{box-sizing:border-box;width:100%;max-width:1440px;margin:.65rem auto;padding:0 clamp(20px,3vw,48px);font-size:.86rem}
+</style>
+<style>.cb-figure svg{display:block;width:100%;height:auto}.cb-explore{margin-top:1rem;border-top:1px solid #d7dedb;padding-top:1rem}.cb-explore>summary{cursor:pointer;font:500 14px/1.5 system-ui,sans-serif}@media print{.cb-explore{display:none}}</style>
+
+<link href="reader-alignment.css" rel="stylesheet"/><link href="citation-chronology.css?v=268a8201054f" rel="stylesheet"/><link href="knowledge-space.css?v=c0b53225fc3d" rel="stylesheet"/><link href="paper-cards.css" rel="stylesheet"/><link href="reader-refinement.css" rel="stylesheet"/><link href="two-rq.css?v=4738732f64ae" rel="stylesheet"/><link data-reader-experience="" href="reader-experience.css?v=e1f468258e95" rel="stylesheet"/><meta content="Sirui Tao, Steven P. Dow" name="author"/><meta content="Sirui Tao" name="citation_author"/><meta content="Steven P. Dow" name="citation_author"/><style id="publication-author-style">.publication-byline{display:flex;flex-wrap:wrap;gap:.3rem 1rem;align-items:baseline;margin:1.1rem 0 1.4rem;text-align:left;font:400 .95rem/1.6 var(--publication-font,"Segoe UI",Arial,sans-serif);color:#34413b}.publication-byline .publication-author-names{font-weight:600}.publication-byline .publication-affiliation{font-size:.85rem;color:#68736d}@media(max-width:600px){.publication-byline{display:block}.publication-byline span{display:block}}</style><style id="paper-editorial-reading-style">
+.paper-atlas-art{max-width:100%;overflow-x:auto;overscroll-behavior-x:contain}
+.paper-atlas-art:focus-visible{outline:2px solid #b4491a;outline-offset:3px}
+.paper-atlas-art svg{display:block;width:100%;height:auto;max-width:100%}
+.paper-atlas-art svg a{cursor:pointer;outline:none}
+.paper-atlas-art svg a:hover rect,.paper-atlas-art svg a:focus-visible rect,.paper-atlas-art svg a:active rect{fill:#a8501c;fill-opacity:.09;stroke:#a8501c;stroke-width:2}
+@media(max-width:700px){.paper-atlas-art svg{width:720px;min-width:720px;max-width:none}}
+@media(max-width:700px){.paper-atlas-art img{width:720px!important;min-width:720px;max-width:none!important}.paper-atlas-art:after{content:"Scroll horizontally to read the full figure";display:block;font-size:.8rem;color:#5d6565;padding:.35rem 0}}
+.paper-figure-reading{margin:1rem 0 0;border-top:1px solid #d5ddd9;font-size:1rem;line-height:1.55}
+.paper-figure-reading summary{padding:.8rem 0;font-weight:650;color:#3f6388;cursor:pointer}
+.paper-criteria-columns{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;padding:.4rem 0 1rem}
+.paper-criteria-columns section{padding:0!important;margin:0!important;min-width:0;width:auto;max-width:none}
+.paper-criteria-columns h4{font-family:inherit;font-size:1.05rem;line-height:1.4;font-weight:650;margin:0 0 .75rem;color:#293a35}
+.paper-criteria-columns ol{padding-left:1.4rem;margin:0}
+.paper-criteria-columns li{margin:0 0 .85rem}
+.paper-criteria-columns li p,.paper-criteria-columns p{font:inherit!important;margin:.2rem 0 .7rem!important}
+.paper-criterion-stage{font-size:.8rem;color:#6b7771;margin-left:.45rem;white-space:nowrap}
+.paper-figure-reading dl{margin:.5rem 0}.paper-figure-reading dt{font-weight:650}.paper-figure-reading dd{margin:0 0 .6rem}
+/* Keep one horizontal scroll surface and let every row determine its height.
+   The older reading layer made the table itself a scrolling block, defeating
+   its column widths and creating a second scroll surface inside the figure. */
+.paper-frame .manuscript-section figure.tex-table{font-size:.82em;line-height:1.5;height:auto!important;max-height:none!important;overflow-x:auto!important;overflow-y:hidden!important;max-width:100%}
+.paper-frame .manuscript-section figure.tex-table table{display:table!important;overflow:visible!important;height:auto!important;max-height:none!important;margin:0;width:100%!important;min-width:0!important;max-width:100%!important;table-layout:fixed;border-collapse:collapse;font:inherit;font-variant-numeric:tabular-nums}
+.paper-frame .manuscript-section figure.tex-table :is(th,td){padding:.7em .75em;border:0;border-bottom:1px solid #d8d8d2;vertical-align:top;text-align:left;white-space:normal;overflow-wrap:break-word;line-height:1.5}
+.paper-frame .manuscript-section figure.tex-table th{font-weight:600;background:#f1f0ec;border-block:1px solid #b5bab3}
+.paper-frame .manuscript-section figure.tex-table .tex-table-group td{background:#f1f0ec;border-top:1px solid #9ba398;font-weight:600}
+.paper-frame .manuscript-section figure.tex-table:focus-visible{outline:2px solid #b4491a;outline-offset:3px}
+.paper-frame .manuscript-section figure.tex-table figcaption{font-size:1em;line-height:1.5;margin-top:.8em}
+.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] table{table-layout:auto;font-variant-numeric:tabular-nums}
+.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] :is(td,th){text-align:right;border:0;border-bottom:1px solid #e5e8e6;vertical-align:middle}
+.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] :is(td,th):first-child{text-align:left}
+.paper-frame .manuscript-section figure.tex-table[id="tab:venue-accounting"] .tex-venue-group td{border-top:2px solid #fff;font-weight:650;padding-top:.85rem;padding-bottom:.85rem}
+.venue-group-share{display:block;font-size:.85em;font-weight:400;margin-top:.2rem}
+.venue-rate{display:inline-flex;align-items:center;justify-content:flex-end;gap:.7rem;white-space:nowrap}
+.venue-rate-track{display:inline-block;width:5rem;height:.45rem;background:#e8ece9;border-radius:2px;overflow:hidden}
+.venue-rate-track>span{display:block;height:100%}
+.venue-rate>span:last-child{min-width:3.6em;text-align:right}
+.paper-frame .manuscript-section figure.tex-table .tex-cell-break{display:block;content:"";margin-top:.35em}
+.paper-frame .manuscript-section figure.tex-figure[style]{width:var(--paper-figure-width,100%)!important;max-width:100%!important;margin-left:auto!important;margin-right:auto!important}
+.paper-page figure[id^="fig:reading-closure"],.paper-page figure[id="fig:construct-boundary"]{scroll-margin-top:88px}
+.paper-page :is(h2,h3,h4,h5)[id],.paper-page .manuscript-section[id]{scroll-margin-top:88px}
+.paper-page figure[id]{scroll-margin-top:96px}
+.paper-atlas-links{display:flex;flex-wrap:wrap;gap:.7rem 1.4rem;margin:1rem 0;font:600 1rem/1.5 system-ui,sans-serif}
+@media print{.paper-atlas-links{display:none}}
+.paper-page figure>img.research-print,.paper-page figure>img.citation-source-static,.paper-page figure>img.developmental-print{display:none!important}
+.paper-frame figure[id="tab:control-new-work"] table{display:table!important;width:100%!important;min-width:0!important;border-collapse:collapse;table-layout:auto;font-variant-numeric:tabular-nums}
+.paper-frame figure[id="tab:control-new-work"] :is(th,td){padding:.65rem .6rem;border-bottom:1px solid #d5ddd9;text-align:right;vertical-align:top}
+.paper-frame figure[id="tab:control-new-work"] :is(th,td):first-child{text-align:left;width:50%;padding-left:0}
+.paper-frame figure[id="tab:control-new-work"] :is(th,td):last-child{padding-right:0}
+.paper-frame figure[id="tab:control-new-work"] td:not(:first-child){white-space:nowrap}
+.paper-frame figure[id="tab:control-new-work"] th{font-weight:600}
+@media(max-width:680px){.paper-criteria-columns{grid-template-columns:1fr;gap:.5rem}.paper-frame .manuscript-section figure.tex-table:not([id^="tab:card-"]) table{min-width:640px!important}.paper-frame .manuscript-section figure.tex-figure[style]{width:100%!important}}
+@media print{.paper-figure-reading,.paper-curve-navigation,.developmental-web{display:none}.paper-page figure>img.research-print,.paper-page figure>img.developmental-print{display:block!important}}
+</style>
+<link href="https://semantic-scaffoldings.github.io/living-paper.html" rel="canonical"/><style>.public-draft-label{font:500 .72rem/1.4 system-ui;color:#6c7470;letter-spacing:.06em;text-transform:uppercase}.reader-project-context:empty{display:none}</style><script id="public-reader-analytics">
 (function(){
   if (location.hostname !== 'semantic-scaffoldings.github.io' || location.protocol !== 'https:') return;
   window.dataLayer = window.dataLayer || [];
@@ -4029,11 +4029,11 @@ document.addEventListener('DOMContentLoaded', function () {
 <nav aria-label="Methods and data" class="reader-evidence-link"><a href="index.html#tldr-act-method">Methods</a><a href="card-gallery.html">Data</a></nav></header><section aria-label="Paper argument at a glance" class="sr-paper-contribution-map"><figure class="reader-visual-teaser" id="fig:paper-overview">
 <div aria-label="Review overview: three panels with links; scroll horizontally on small screens" class="reader-teaser-viewport" role="region" tabindex="0">
 <div class="reader-teaser-canvas">
-<img alt="The review in three parts: two research questions about work and scaffold design; two separately counted evidence streams; comparisons connecting interface features, human activity, and studied outcomes." decoding="async" draggable="false" height="353.04" src="figures/generated/merged-review-map.20260923.svg?v=ff8ef42a6cbc" width="720"/>
-<nav aria-label="Explore the review overview" class="reader-teaser-regions"><a aria-describedby="fig:paper-overview-rq1-description" aria-label="RQ1 · Work and capabilities" class="reader-teaser-link" data-teaser-region="rq1" href="#workflow" style="left:3.05556%;top:31.15794%;width:28.61111%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">RQ1 · Work and capabilities</strong><span id="fig:paper-overview-rq1-description">Read how research supports work and how this is changing.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-rq2-description" aria-label="RQ2 · Scaffold design and evidence" class="reader-teaser-link" data-teaser-region="rq2" href="#representations" style="left:3.05556%;top:60.61636%;width:28.61111%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">RQ2 · Scaffold design and evidence</strong><span id="fig:paper-overview-rq2-description">Read how scaffolds are designed and what studies establish.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-stream1-description" aria-label="Stream 1 · AI interface designs" class="reader-teaser-link" data-teaser-region="stream1" href="card-gallery.html?view=ai" style="left:36.52778%;top:29.45842%;width:12.77778%;height:38.80580%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Stream 1 · AI interface designs</strong><span id="fig:paper-overview-stream1-description">Browse the mechanism and theory-lineage cards for AI systems.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-stream2-description" aria-label="Stream 2 · Prior theory and findings" class="reader-teaser-link" data-teaser-region="stream2" href="card-gallery.html?view=theory" style="left:50.69444%;top:29.45842%;width:12.77778%;height:38.80580%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Stream 2 · Prior theory and findings</strong><span id="fig:paper-overview-stream2-description">Browse separately counted knowledge-claim cards.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-method-description" aria-label="Dual-stream review method" class="reader-teaser-link" data-teaser-region="method" href="#review-method" style="left:36.52778%;top:75.62882%;width:26.94444%;height:15.57897%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Dual-stream review method</strong><span id="fig:paper-overview-method-description">See how interface designs and prior evidence inform the synthesis.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-work-description" aria-label="Findings · Work and capabilities" class="reader-teaser-link reader-teaser-link-end" data-teaser-region="work" href="#workflow" style="left:70.27778%;top:31.15794%;width:26.66667%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Findings · Work and capabilities</strong><span id="fig:paper-overview-work-description">Explore research contexts, workflows, and the work people retain.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-design-description" aria-label="Findings · Scaffold design and evidence" class="reader-teaser-link reader-teaser-link-end" data-teaser-region="design" href="#representations" style="left:70.27778%;top:60.61636%;width:26.66667%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Findings · Scaffold design and evidence</strong><span id="fig:paper-overview-design-description">Explore five families, eighteen categories, and evidence about performance and learning.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a></nav>
+<img alt="The review in three parts: research questions, two evidence streams, and findings on how work changes and how support works. Stream 1: 4,567 mechanism cards and 1,755 lineage cards for selected AI papers. Stream 2: 512 claim cards and 2,867 claims." decoding="async" draggable="false" height="353.04" src="figures/generated/merged-review-map.20260923.svg?v=448dc9aa010c" width="720"/>
+<nav aria-label="Explore the review overview" class="reader-teaser-regions"><a aria-describedby="fig:paper-overview-rq1-description" aria-label="RQ1 · What AI helps people do" class="reader-teaser-link" data-teaser-region="rq1" href="#workflow" style="left:3.05556%;top:31.15794%;width:28.61111%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">RQ1 · What AI helps people do</strong><span id="fig:paper-overview-rq1-description">Read what AI tools help people do and how this has changed.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-rq2-description" aria-label="RQ2 · Support design and learning" class="reader-teaser-link" data-teaser-region="rq2" href="#representations" style="left:3.05556%;top:60.61636%;width:28.61111%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">RQ2 · Support design and learning</strong><span id="fig:paper-overview-rq2-description">Read how support is designed and what studies show about performance and learning.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-stream1-description" aria-label="Stream 1 · AI interface designs" class="reader-teaser-link" data-teaser-region="stream1" href="card-gallery.html?view=ai" style="left:36.52778%;top:29.45842%;width:12.77778%;height:44.18763%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Stream 1 · AI interface designs</strong><span id="fig:paper-overview-stream1-description">Browse the mechanism and theory-lineage cards for AI systems.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-stream2-description" aria-label="Stream 2 · Prior theory and findings" class="reader-teaser-link" data-teaser-region="stream2" href="card-gallery.html?view=theory" style="left:50.69444%;top:29.45842%;width:12.77778%;height:44.18763%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Stream 2 · Prior theory and findings</strong><span id="fig:paper-overview-stream2-description">Browse separately counted knowledge-claim cards.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-method-description" aria-label="Dual-stream review method" class="reader-teaser-link" data-teaser-region="method" href="#review-method" style="left:36.52778%;top:81.01065%;width:26.94444%;height:12.46318%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Dual-stream review method</strong><span id="fig:paper-overview-method-description">See how interface designs and prior evidence inform the synthesis.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-work-description" aria-label="Findings · How work changes" class="reader-teaser-link reader-teaser-link-end" data-teaser-region="work" href="#workflow" style="left:70.27778%;top:31.15794%;width:26.66667%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Findings · How work changes</strong><span id="fig:paper-overview-work-description">Explore research contexts, workflows, and the work people retain.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a><a aria-describedby="fig:paper-overview-design-description" aria-label="Findings · How support works" class="reader-teaser-link reader-teaser-link-end" data-teaser-region="design" href="#representations" style="left:70.27778%;top:60.61636%;width:26.66667%;height:25.49286%"><span class="reader-teaser-preview" role="tooltip"><strong aria-hidden="true">Findings · How support works</strong><span id="fig:paper-overview-design-description">Explore five families, eighteen categories, and evidence about performance and learning.</span><span aria-hidden="true" class="reader-teaser-preview-action">Read more →</span></span></a></nav>
 </div>
 </div>
-<figcaption><span><strong>The review at a glance.</strong> Questions, evidence, and the comparisons they support.<span class="reader-teaser-instructions">Select an area to read more. Hover or focus for a preview.</span></span><a href="figures/generated/merged-review-map.20260923.svg" rel="noopener" target="_blank">Open full size <span aria-hidden="true">↗</span></a></figcaption>
+<figcaption><span><strong>The review at a glance.</strong> Selected card counts, 26 September 2026.<span class="reader-teaser-instructions">Select an area to read more. Hover or focus for a preview.</span></span><a href="figures/generated/merged-review-map.20260923.svg" rel="noopener" target="_blank">Open full size <span aria-hidden="true">↗</span></a></figcaption>
 <p class="reader-teaser-scroll-hint">Scroll across the three panels <span aria-hidden="true">→</span></p>
 </figure><section aria-label="Preview the paper" class="paper-route-map" id="lp-paper-overview"><p class="paper-route-guide">Choose where to begin</p><div aria-label="Paper previews" role="tablist"><button aria-controls="route-panel-questions" aria-selected="true" id="route-questions" role="tab" tabindex="0" type="button"><span class="paper-route-number">01</span><strong>Questions &amp; scope</strong><span aria-hidden="true" class="paper-route-arrow">↓</span></button><button aria-controls="route-panel-method" aria-selected="false" id="route-method" role="tab" tabindex="-1" type="button"><span class="paper-route-number">02</span><strong>How the review works</strong><span aria-hidden="true" class="paper-route-arrow">↓</span></button><button aria-controls="route-panel-findings" aria-selected="false" id="route-findings" role="tab" tabindex="-1" type="button"><span class="paper-route-number">03</span><strong>Findings &amp; design choices</strong><span aria-hidden="true" class="paper-route-arrow">↓</span></button></div><section aria-labelledby="route-questions" id="route-panel-questions" role="tabpanel" tabindex="0"><div><p class="reader-kicker">Inside this part</p><h2>Start with the design landscape.</h2><p>The introduction asks how AI interfaces can support work while helping people develop understanding, skills, and judgment. It sets out the review’s scope and two research questions.</p></div><nav aria-label="Read Questions &amp; scope"><a href="#introduction"><strong>Introduction &amp; research questions <span aria-hidden="true">→</span></strong><span>What designs exist, how people use them, and what studies find.</span></a><a href="#related-work"><strong>Theoretical foundations <span aria-hidden="true">→</span></strong><span>Scaffolding, external cognition, and capability with and without support.</span></a></nav></section><section aria-labelledby="route-method" hidden="" id="route-panel-method" role="tabpanel" tabindex="0"><div><p class="reader-kicker">Inside this part</p><h2>Follow an observation from paper to synthesis.</h2><p>Stream 1 records AI-involved interface designs and their foundations. Stream 2 contributes theories and empirical findings. Methods explains selection, coding, separate analysis populations, and the checks still needed.</p></div><nav aria-label="Read How the review works"><a href="#review-method"><strong>Review method <span aria-hidden="true">→</span></strong><span>Selection → evidence cards → coding → source-based comparisons.</span></a><a href="#subsec:three-card-types"><strong>What an evidence card contains <span aria-hidden="true">→</span></strong><span>Mechanisms, documented foundations, or claims, with source passages and limitations.</span></a></nav></section><section aria-labelledby="route-findings" hidden="" id="route-panel-findings" role="tabpanel" tabindex="0"><div><p class="reader-kicker">Inside this part</p><h2>Control changes what people can revise.</h2><p>Designs let people revise the task specification, the AI’s interpretation, the criteria, or the output. Those choices shape the work people do; task performance and learning require different evidence.</p></div><nav aria-label="Read Findings &amp; design choices"><a href="#workflow"><strong>Workflows and capabilities <span aria-hidden="true">→</span></strong><span>Research contexts, delegation, and the work people retain or acquire.</span></a><a href="#representations"><strong>Mechanism taxonomy <span aria-hidden="true">→</span></strong><span>Mechanism families, contrasting designs, and what evaluations actually establish.</span></a></nav></section><noscript><style>.paper-route-map [role=tablist]{display:none}.paper-route-map [role=tabpanel][hidden]{display:grid!important}</style></noscript></section></section><div class="page-columns"><section aria-labelledby="abstract-title" class="paper-abstract" id="abstract">
 <h2 id="abstract-title">Abstract</h2><p class="paper-paragraph">AI tools now help people write, program, analyze data, and design, and many also aim to help people learn through that work. What such a tool gives a person to think with varies: a generated explanation, criteria for judging alternatives, an editable plan, a record of earlier choices. We call these designed structures with task meaning <em>semantic scaffolding</em>. We reviewed 4,511 AI-involved papers from 40 venues (2019–2026), together with theories and empirical studies of how support works, and synthesized a design space of 5 mechanism families and 18 categories. Compared with papers on earlier AI, generative-AI papers more often concern producing artifacts and more often give people control over what the system does, after adjusting for venue and year. What a person can edit matters: the task specification, the AI's interpretation of it, the criteria, or the result. Designs also differ in whether people construct a representation, reason with supplied material, or judge proposed results. Studies that measure learning report gains and costs together: CodeVoyager raised closed-book comprehension without a completion advantage, and required reflection cut completed practice from 3.4 to 2.0 problems in a fixed time. The design space gives researchers named alternatives to build and test.</p>
@@ -7252,7 +7252,6 @@ a.lp-cite:hover,a.lp-cite:focus{background:color-mix(in srgb,var(--lpr-accent,#a
             event.preventDefault();
             var open = !group.classList.contains('is-open');
             group.classList.toggle('is-open', open);
-            if (!open) group.classList.remove('is-hover-open');
             toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
           });
           group.appendChild(toggle);
@@ -7263,27 +7262,6 @@ a.lp-cite:hover,a.lp-cite:focus{background:color-mix(in srgb,var(--lpr-accent,#a
         }
         group.querySelector('.lpr-rail-children').appendChild(child);
       });
-      // Keep each visited group open until the pointer leaves the whole rail.
-      // Native :hover on each group makes the next target jump as the preceding
-      // group collapses. Click-pinned groups keep their existing behavior.
-      var hoverTimer;
-      function releaseOutlineHover() {
-        clearTimeout(hoverTimer);
-        hoverTimer = setTimeout(function () {
-          if (drawer.matches(':hover')) return;
-          Object.values(groups).forEach(function (group) {
-            if (!group.contains(document.activeElement)) group.classList.remove('is-hover-open');
-          });
-        }, 180);
-      }
-      Object.values(groups).forEach(function (group) {
-        group.addEventListener('pointerenter', function (event) {
-          if (event.pointerType !== 'touch') group.classList.add('is-hover-open');
-        });
-      });
-      drawer.addEventListener('pointerenter', function () { clearTimeout(hoverTimer); });
-      drawer.addEventListener('pointerleave', releaseOutlineHover);
-      drawer.addEventListener('focusout', releaseOutlineHover);
       contentsWrap.appendChild(contents);
     }
     // One rail: the sections. The Overleaf tab moved to its own route.
