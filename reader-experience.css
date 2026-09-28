@@ -293,6 +293,21 @@ body[data-publication-route=tldr] .t-story-main{min-width:0;max-width:78rem}
 body[data-publication-route=tldr] .t-finding-body{grid-template-columns:minmax(0,1fr)}
 body[data-publication-route=tldr] .t-finding-body>*{min-width:0;max-width:100%}
 body[data-publication-route=tldr] .t-finding-body img{max-width:100%;height:auto}
+/* Contextual links stay attached to their evidence, with one spacing rhythm. */
+body[data-publication-route=tldr] .t-story-main :is(p,figcaption,.t-depth-links) a{
+ color:#a74b25;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;
+}
+body[data-publication-route=tldr] .t-story-main :is(p,figcaption,.t-depth-links) a:hover{color:#753417}
+body[data-publication-route=tldr] .t-story-main :is(p,figcaption,.t-depth-links) a:focus-visible{outline:2px solid #a74b25;outline-offset:4px;border-radius:2px}
+body[data-publication-route=tldr] .t-finding-body>.t-depth-links{margin:0;font-size:.875rem;line-height:1.5}
+body[data-publication-route=tldr] .t-finding-body>.t-depth-links a{font-size:inherit}
+body[data-publication-route=tldr] #tldr-chapter-consequences{gap:32px}
+body[data-publication-route=tldr] #tldr-chapter-consequences>:is(.reader-learning-comparisons,.reader-measurement){margin-block:0;padding-top:24px}
+body[data-publication-route=tldr] .reader-learning-comparisons .rs-opportunity-list{margin:0;gap:24px}
+body[data-publication-route=tldr] .reader-learning-comparisons .rs-opportunity-list article{border-top:0;padding-top:0}
+body[data-publication-route=tldr] .reader-learning-comparisons .rs-opportunity-list{grid-template-columns:repeat(2,minmax(0,1fr));max-width:68rem}
+body[data-publication-route=tldr] .reader-learning-comparisons .rs-opportunity-list article>a{color:#a74b25;text-underline-offset:3px}
+.reader-section-alias{display:block;position:relative;height:0;scroll-margin-top:7rem}
 body[data-publication-route=tldr] .t-story-main>.t-story-act>.t-wrap{padding-inline:0!important}
 body[data-publication-route=tldr] .t-story-act{padding-block:56px!important;min-height:0!important}
 body[data-publication-route=tldr] .t-act-threshold{margin-bottom:28px!important;padding-block:0!important}
@@ -337,6 +352,7 @@ body[data-publication-route=tldr] .reader-analysis-rows h3{font-size:22px!import
  /* Header and in-section reading links remain available without covering a
     chart's values with the desktop's floating side switch. */
  body[data-publication-route] .publication-depth-nav{display:none}
+ body[data-publication-route=tldr] .reader-learning-comparisons .rs-opportunity-list{grid-template-columns:minmax(0,1fr)}
  body[data-publication-route=tldr] .rm-detail-mobile dd{font-size:14px;line-height:1.35;overflow-wrap:anywhere}
  body[data-publication-route=tldr] .rm-detail-mobile dl{gap:12px}
  .reader-analysis-rows dl{grid-template-columns:1fr;gap:16px}
