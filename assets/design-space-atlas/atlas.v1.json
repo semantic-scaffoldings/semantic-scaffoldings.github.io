@@ -4431,7 +4431,7 @@
       "schematic": "collaborate"
     }
   ],
-  "grouping_rationale": "Branches distinguish the object, operation, or moment of intervention described by each definition. A mechanism can combine several branches.",
+  "grouping_rationale": "The overview relates the task meaning represented to the contribution a person can make through it. Representations can be authored by AI, people or both. Its eighteen illustrated relations explain the existing category definitions; they are not independent axes or new code assignments. The original five families remain metadata for coding, counts and compatible navigation. Within each category, named branches retain all 110 facets exactly once. No frequency threshold or top-k selection is used.",
   "link_base": "https://semantic-scaffoldings.github.io",
   "media": [
     {
@@ -5515,45 +5515,115 @@
     }
   },
   "promotion_authorized": false,
-  "reading_group_scope": "Overlapping editorial reading groups and complementary questions, not new coded tiers, exclusive dimensions, category assignments to axes, or measured outcomes.",
-  "reading_groups": [
-    {
-      "families": [
-        "FC-A1",
-        "FC-A2"
-      ],
-      "id": "make-sense",
-      "label": "Make sense of the work"
-    },
-    {
-      "families": [
-        "FC-A3",
-        "FC-A4"
-      ],
-      "id": "steer-support",
-      "label": "Steer and support action"
-    },
-    {
-      "families": [
-        "FC-A5"
-      ],
-      "id": "share-perspectives",
-      "label": "Share work and perspectives"
-    }
-  ],
   "reading_lenses": [
     {
-      "examples": "Reasons, relations, options and feedback",
+      "examples": "Constructed by AI, people or both",
       "id": "representation",
-      "question": "What representations does AI build?"
+      "question": "What task meaning is represented?"
     },
     {
-      "examples": "Inspect, compare, steer, reflect and share",
+      "examples": "Activities enabled or invited by the representation",
       "id": "human-use",
-      "question": "How do people use them?"
+      "question": "What can a person contribute?"
     }
   ],
-  "scope": "Five families, eighteen categories, and 110 design distinctions. Codes can overlap within a mechanism; the maps explain design choices, not their effectiveness.",
+  "reading_relation_scope": "Editorial explanations of existing definitions, not new coded tiers, category-to-axis assignments, measured activities or learning outcomes. Multiple relations can combine in one mechanism. Form, timing, agency and social arrangement can vary across relations; the marked categories expose mixed dimensions without changing their source memberships.",
+  "reading_relations": [
+    {
+      "category": "FC-C01",
+      "human_activity": "Inspect behavior;\njudge reliability",
+      "representation": "Outputs, reasons,\nstate and limits"
+    },
+    {
+      "category": "FC-C02",
+      "human_activity": "Trace a result;\ncheck its grounds",
+      "representation": "Sources, evidence\nand derivation"
+    },
+    {
+      "category": "FC-C03",
+      "human_activity": "Grasp, interpret\nor reframe content",
+      "representation": "Summaries, labels\nand profiles"
+    },
+    {
+      "category": "FC-C04",
+      "crosscutting": "form and access",
+      "human_activity": "Perceive or enact;\naccess meaning",
+      "representation": "Visual, sensory or\nembodied meaning"
+    },
+    {
+      "category": "FC-C05",
+      "human_activity": "Relate, categorize;\ninspect structure",
+      "representation": "Relations, groups\nand levels"
+    },
+    {
+      "category": "FC-C06",
+      "human_activity": "Compare options\nand trade-offs",
+      "representation": "Candidates in a\ncommon frame"
+    },
+    {
+      "category": "FC-C07",
+      "human_activity": "Find, prioritize\nand navigate",
+      "representation": "Queries, scope and\nordered results"
+    },
+    {
+      "category": "FC-C08",
+      "human_activity": "Externalize, revisit\nand continue",
+      "representation": "Notes, history and\nworking context"
+    },
+    {
+      "category": "FC-C09",
+      "human_activity": "State intentions;\nset terms for work",
+      "representation": "Goals, examples,\nrules and criteria"
+    },
+    {
+      "category": "FC-C10",
+      "human_activity": "Edit, steer, override\nor reverse actions",
+      "representation": "Editable output\nand controls"
+    },
+    {
+      "category": "FC-C11",
+      "human_activity": "Explore, constrain,\nchoose or continue",
+      "representation": "Options, variants\nand continuations"
+    },
+    {
+      "category": "FC-C12",
+      "human_activity": "Probe or rehearse;\ninspect responses",
+      "representation": "Scenarios and\npractice settings"
+    },
+    {
+      "category": "FC-C13",
+      "human_activity": "Notice, choose,\nperform or repair",
+      "representation": "Cues, advice\nand action previews"
+    },
+    {
+      "category": "FC-C14",
+      "human_activity": "Assess an attempt;\ncheck and adjust",
+      "representation": "Results, appraisals\nand checks"
+    },
+    {
+      "category": "FC-C15",
+      "crosscutting": "content, pacing and learning paths",
+      "human_activity": "Study or imitate;\nuse changing help",
+      "representation": "Explanatory help;\npacing and paths"
+    },
+    {
+      "category": "FC-C16",
+      "human_activity": "Allocate, hand off\nor resume work",
+      "representation": "Stages and roles;\ngates and state"
+    },
+    {
+      "category": "FC-C17",
+      "human_activity": "Articulate, inquire\nand reflect",
+      "representation": "Prompts for goals\nand reasoning"
+    },
+    {
+      "category": "FC-C18",
+      "crosscutting": "shared work, viewpoints and disclosure",
+      "human_activity": "Co-author, discuss;\ncontrol disclosure",
+      "representation": "Shared work, views\nand disclosure"
+    }
+  ],
+  "scope": "Eighteen representation-participation relations explain 110 design distinctions. Five original coding families remain available for counts and navigation. Codes can overlap within a mechanism; the maps explain design possibilities, not observed activities or effects.",
   "title": "Semantic scaffolding design atlas",
   "tool_version": "1.0.0"
 }
