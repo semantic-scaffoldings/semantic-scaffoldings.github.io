@@ -67,7 +67,7 @@ var PaperCards = (() => {
  }
  function evaluation(c){
   const body=rows((c.paper_code_entries||[]).filter(r=>r.key==='outcome_layer'))+rows(c.claim_entries);
-  return body?'<p class="card-measurement-guide"><a href="living-paper.html#tab:measurement-matrix">Process, artifact & learning: measurement guide ↗</a></p>'+body:'';
+  return body?'<p class="card-measurement-guide"><a href="living-paper.html#tab:measurement-matrix">Evaluation guide: when and how evidence is gathered ↗</a></p>'+body:'';
  }
  function overview(c,kind){
   if(kind==='stream1')return [

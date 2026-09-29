@@ -5515,6 +5515,44 @@
     }
   },
   "promotion_authorized": false,
+  "reading_group_scope": "Overlapping editorial reading groups and complementary questions, not new coded tiers, exclusive dimensions, category assignments to axes, or measured outcomes.",
+  "reading_groups": [
+    {
+      "families": [
+        "FC-A1",
+        "FC-A2"
+      ],
+      "id": "make-sense",
+      "label": "Make sense of the work"
+    },
+    {
+      "families": [
+        "FC-A3",
+        "FC-A4"
+      ],
+      "id": "steer-support",
+      "label": "Steer and support action"
+    },
+    {
+      "families": [
+        "FC-A5"
+      ],
+      "id": "share-perspectives",
+      "label": "Share work and perspectives"
+    }
+  ],
+  "reading_lenses": [
+    {
+      "examples": "Reasons, relations, options and feedback",
+      "id": "representation",
+      "question": "What representations does AI build?"
+    },
+    {
+      "examples": "Inspect, compare, steer, reflect and share",
+      "id": "human-use",
+      "question": "How do people use them?"
+    }
+  ],
   "scope": "Five families, eighteen categories, and 110 design distinctions. Codes can overlap within a mechanism; the maps explain design choices, not their effectiveness.",
   "title": "Semantic scaffolding design atlas",
   "tool_version": "1.0.0"
