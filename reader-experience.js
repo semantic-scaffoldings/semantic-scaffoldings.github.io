@@ -198,7 +198,7 @@
         for(const paper of shuffle(catalog.streams[stream])){
           const width=12+(paper.citations===null?0:Math.min(30,7*Math.log10(1+paper.citations)));
           // A bounded pool fills wide windows and can reveal more on resize.
-          if(items.length>=80)break;
+          if(items.length>=256)break;
           const height=74+Math.min(68,11*Math.sqrt(Math.max(0,2026-paper.year)));
           const slot=document.createElement('div');slot.className='shelf-slot';slot.setAttribute('role','listitem');
           slot.style.setProperty('--book-w',width.toFixed(1)+'px');slot.style.setProperty('--book-h',height.toFixed(1)+'px');slot.style.setProperty('--book-color',palettes[groupIndex][items.length%palettes[groupIndex].length]);
