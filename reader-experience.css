@@ -361,3 +361,48 @@ body[data-publication-route=tldr] .reader-analysis-rows h3{font-size:22px!import
  /* The story shell already supplies the phone's 20px page gutter. */
  body[data-publication-route=tldr] .t-story-main>.t-story-act>.t-wrap{padding-inline:0!important}
 }
+
+/* Findings use the available reading column instead of intrinsic grid sizing. */
+body[data-publication-route=tldr] .t-finding-body{justify-items:stretch}
+body[data-publication-route=tldr] :is(.quant-figure,.trend-chart){
+ box-sizing:border-box;width:100%;min-width:0;justify-self:stretch;
+ max-width:min(100%,68rem);margin-inline:0;
+}
+body[data-publication-route=tldr] :is(.finding-focus,.reader-finding-example){
+ box-sizing:border-box;width:100%;justify-self:start;margin-inline:0;
+}
+body[data-publication-route=tldr] .finding-focus{max-width:68ch}
+
+/* Explain the two streams beside the unchanged frozen overview figure. */
+.reader-teaser-streams{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin:8px 0 18px}
+.reader-teaser-streams section{min-width:0;border-top:2px solid #b8552e;padding-top:14px}
+.reader-teaser-streams section+section{border-color:#3c688b}
+body[data-publication-route=tldr] .reader-teaser-streams h3{font-size:20px!important;margin:0 0 10px}
+.reader-teaser-streams p{font-size:16px;line-height:1.6;margin:0;max-width:62ch}
+.reader-teaser-snapshot{border-top:1px solid #e3dfd7;padding:12px 0;font-size:14px;line-height:1.6;color:#687269}
+.reader-teaser-snapshot summary{cursor:pointer;color:#37443c;text-underline-offset:3px}
+.reader-teaser-snapshot p{margin:12px 0 0;max-width:90ch}
+@media(max-width:640px){.reader-teaser-streams{grid-template-columns:1fr;gap:20px}.reader-teaser-streams p{font-size:15px}}
+
+/* Short landscape screens use readable method summaries and native scroll. */
+@media(max-height:600px){
+ html.rm-ready body[data-publication-route=tldr] .rm-stage{height:52svh;min-height:0;top:4.7rem;grid-template-rows:auto minmax(0,1fr) auto auto}
+ html.rm-ready body[data-publication-route=tldr] .rm-active-copy{display:none}
+ html.rm-ready body[data-publication-route=tldr] .rm-scrolly{display:block}
+ html.rm-ready body[data-publication-route=tldr] .rm-step>*{visibility:visible}
+ html.rm-ready body[data-publication-route=tldr] .rm-step{min-height:65svh;scroll-margin-top:calc(52svh + 4.7rem);padding:1.4rem .75rem 3rem;pointer-events:auto}
+ body[data-publication-route=tldr] .rm-camera{overflow:auto}
+ body[data-publication-route=tldr] .rm-mobile-overview{grid-template-columns:repeat(2,minmax(0,1fr));align-content:start}
+ body[data-publication-route=tldr] .rm-mobile-overview>p{grid-column:1/-1}
+ body[data-publication-route=tldr] .rm-detail-mobile{justify-content:flex-start;overflow:auto}
+}
+@media(max-width:640px){
+ body[data-publication-route=tldr] .reader-visual-teaser.reader-teaser-observed .reader-teaser-preview{position:fixed;top:76px;bottom:auto;left:20px;right:20px;width:auto;max-width:none}
+ body[data-publication-route=tldr] .reader-visual-teaser:not(.reader-teaser-observed) .reader-teaser-preview{display:none}
+}
+@media(max-width:760px){
+ body[data-publication-route=tldr] .quant-figure.family-profile .annual-scroll::after{content:"Scroll across the chart →";position:sticky;left:0;display:block;width:max-content;font:12px/1.5 system-ui;color:#687269;padding:6px 0}
+}
+
+/* A keyboard preview belongs to its visible link, even if focus stays behind. */
+.reader-teaser-link[data-teaser-offscreen] .reader-teaser-preview{visibility:hidden;opacity:0}
