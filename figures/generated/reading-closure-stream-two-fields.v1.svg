@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="1008" height="859" viewBox="0 0 1008 859">
-<title id="figure-title">Stream 2: each coded field</title>
+<title id="figure-title">Prior studies: each coded field</title>
 <desc id="figure-description">One panel per recorded field. Shares use each series&#x27; own final size; streams are never pooled.</desc>
 <metadata>{&quot;figure_id&quot;:&quot;reading_closure_stream_two_fields&quot;,&quot;parity_spec_sha256&quot;:&quot;edf0fb69269ebc2d3c3da9e74af2b420765978fa98dd7d7a7edebece671ce966&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
 <rect x="0" y="0" width="1008" height="859" fill="#ffffff"/>
 <text x="0" y="29" fill="#17232e" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="start">
-<tspan x="0" dy="0">Stream 2: each coded field</tspan>
+<tspan x="0" dy="0">Prior studies: each coded field</tspan>
 </text>
 <text x="0" y="58" fill="#566574" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">
 <tspan x="0" dy="0">Reading order on a log scale; each curve reaches 100% of its own recorded vocabulary.</tspan>

@@ -156,7 +156,7 @@
   }
   function show(link,paper,stream){
     clearTimeout(hideTimer);if(active&&active!==link)active.removeAttribute('aria-describedby');active=link;
-    preview.innerHTML='<p class="reader-kicker">'+(stream==='stream1'?'Stream 1 · AI systems':'Stream 2 · Prior knowledge')+'</p><h3>'+esc(paper.title)+'</h3><p class="shelf-preview-meta">'+esc([paper.year,paper.venue||paper.publication_label].filter(Boolean).join(' · '))+'</p><div class="shelf-preview-foot">'+citationLabel(paper)+'</div>';
+    preview.innerHTML='<p class="reader-kicker">'+(stream==='stream1'?'Design corpus · AI interface designs':'Prior studies · Theory and findings')+'</p><h3>'+esc(paper.title)+'</h3><p class="shelf-preview-meta">'+esc([paper.year,paper.venue||paper.publication_label].filter(Boolean).join(' · '))+'</p><div class="shelf-preview-foot">'+citationLabel(paper)+'</div>';
     const openCard=document.createElement('a');openCard.href=link.href;openCard.target='_blank';openCard.rel='noopener';openCard.textContent='Open card ↗';openCard.setAttribute('aria-label','Open evidence card in a new tab');preview.querySelector('.shelf-preview-foot').append(openCard);
     preview.hidden=false;link.setAttribute('aria-describedby','shelf-preview');placePreview(link);
   }

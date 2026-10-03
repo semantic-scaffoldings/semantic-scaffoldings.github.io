@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="figure-title figure-description" width="1008" height="1242" viewBox="0 0 1008 1242">
-<title id="figure-title">Vocabulary closure by cards read, every open field of Stream 1 round 1</title>
+<title id="figure-title">Vocabulary closure by cards read, every open field of Design corpus round 1</title>
 <desc id="figure-description">One small panel per open field. x is cards read in reading order on a log scale, y is the share of the final vocabulary seen so far for canonical codes (dashed), categories (solid) and families (thick). Panel colour is the question family. The label in each panel gives the final counts and the card at which ninety percent of each had appeared.</desc>
 <metadata>{&quot;figure_id&quot;:&quot;reading_closure_fields&quot;,&quot;parity_spec_sha256&quot;:&quot;f1a3e9c471e0d29300457999f6b84a15328447867afbb5ef02293e44027a6b99&quot;,&quot;tool_version&quot;:&quot;1.0.0&quot;}</metadata>
 <rect x="0" y="0" width="1008" height="1242" fill="#ffffff"/>

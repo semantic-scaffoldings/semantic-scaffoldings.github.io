@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="720" height="353.04" viewBox="0 0 720 353.04" role="img" aria-labelledby="teaser-title teaser-desc"><title id="teaser-title">The review in three parts</title><desc id="teaser-desc">Three panels: two research questions, a dual-stream review of AI interface designs and prior theory and findings, and findings on workflows, cognitive work, and support designs. RQ1 asks: What knowledge and skills matter as AI changes work? RQ2 asks: How do scaffold designs support work and learning? Selected cards in the 2026-09-28 publication snapshot: Stream 1, 4,695 mechanism cards and 1,933 lineage cards for AI papers; Stream 2, 512 retained sources containing 2,867 claims.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="720" height="353.04" viewBox="0 0 720 353.04" role="img" aria-labelledby="teaser-title teaser-desc"><title id="teaser-title">Research questions, two bodies of work, and findings</title><desc id="teaser-desc">Three panels: two research questions, two bodies of work (the design corpus of AI interface designs, and prior studies of theory and findings), and findings on workflows, cognitive work, and support designs. RQ1 asks: What knowledge and skills matter as AI changes work? RQ2 asks: How do scaffold designs support work and learning? Frozen card-production snapshot dated 2026-09-28: Design corpus, 4,695 mechanism-card records and 1,933 theory-lineage cards for AI-involved papers; Prior studies, 512 retained sources containing 2,867 claims. The required end state pairs one mechanism card and one theory-lineage card per retained AI-involved paper, and claims with a theory-lineage card per retained prior-study source. The snapshot does not establish completed paired-card cohorts.</desc>
 <defs>
 <path id="font_1_19" d="M.49804688 .35302735C.49804688 .2944336 .49275718 .24251302 .48217774 .19726563 .4715983 .15201824 .45629884 .113850917 .4362793 .08276367 .41625978 .051676435 .39168296 .028076172 .36254884 .011962891 .3334147-.0041503908 .30029298-.012207031 .2631836-.012207031 .22802735-.012207031 .19669597-.0044759118 .16918946 .010986328 .14168294 .026448569 .118489589 .048990888 .099609378 .07861328 .080729167 .10823568 .06640625 .14461263 .056640626 .18774414 .046875 .23087566 .041992189 .28027345 .041992189 .3359375 .041992189 .3971354 .04711914 .45117188 .057373048 .49804688 .06762695 .5449219 .08268229 .5842285 .10253906 .6159668 .122395839 .6477051 .14705403 .67163088 .17651367 .68774417 .20597331 .7038574 .2397461 .71191409 .27783204 .71191409 .42464195 .71191409 .49804688 .59228518 .49804688 .35302735M.41601563 .34521485C.41601563 .5444336 .36865235 .64404299 .27392579 .64404299 .17399089 .64404299 .12402344 .54264327 .12402344 .33984376 .12402344 .15071614 .17301433 .056152345 .2709961 .056152345 .36767579 .056152345 .41601563 .15250652 .41601563 .34521485Z"/>
 <path id="font_1_20" d="M.35351563 0H.2734375V.60498049C.2672526 .5987956 .2582194 .5917155 .24633789 .58374026 .23445638 .57576498 .22111003 .5678711 .20629883 .5600586 .19148763 .5522461 .17586263 .5449219 .15942383 .53808596 .14298503 .53125 .12695313 .5258789 .111328128 .52197268V.60302737C.12890625 .60791018 .14754232 .61450198 .16723633 .62280276 .18693035 .6311035 .20629883 .64038088 .2253418 .65063479 .24438477 .6608887 .26236979 .67163088 .27929688 .6828613 .29622398 .6940918 .3108724 .7050781 .3232422 .7158203H.35351563V0Z"/>
@@ -160,6 +160,7 @@
 <path transform="matrix(1,0,0,-1,0,353.04)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#426d87" d="M262 328.04H281"/>
 <use data-text="0" xlink:href="#font_1_19" transform="matrix(8.5,0,0,-8.5,449.83595,27.172364)" fill="#426d87"/>
 <use data-text="2" xlink:href="#font_1_21" transform="matrix(8.5,0,0,-8.5,454.41746,27.172364)" fill="#426d87"/>
+<g data-public-superseded-label="joint-heading" display="none" aria-hidden="true">
 <use data-text="D" xlink:href="#font_2_39" transform="matrix(14,0,0,-14,262,51.10742)" fill="#426d87"/>
 <use data-text="u" xlink:href="#font_2_88" transform="matrix(14,0,0,-14,272.038,51.10742)" fill="#426d87"/>
 <use data-text="a" xlink:href="#font_2_68" transform="matrix(14,0,0,-14,280.19999,51.10742)" fill="#426d87"/>
@@ -178,6 +179,8 @@
 <use data-text="i" xlink:href="#font_2_76" transform="matrix(14,0,0,-14,363.69596,51.10742)" fill="#426d87"/>
 <use data-text="e" xlink:href="#font_2_72" transform="matrix(14,0,0,-14,367.34996,51.10742)" fill="#426d87"/>
 <use data-text="w" xlink:href="#font_2_90" transform="matrix(14,0,0,-14,374.78395,51.10742)" fill="#426d87"/>
+</g>
+<text data-public-naming-label="joint-heading" x="262" y="51.10742" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#426d87">Two bodies of work</text>
 <use data-text="A" xlink:href="#font_1_36" transform="matrix(10.5,0,0,-10.5,262,80.33057)" fill="#626c67"/>
 <use data-text="I" xlink:href="#font_1_44" transform="matrix(10.5,0,0,-10.5,268.7725,80.33057)" fill="#626c67"/>
 <use data-text=" " xlink:href="#font_1_3" transform="matrix(10.5,0,0,-10.5,271.5655,80.33057)" fill="#626c67"/>
@@ -409,6 +412,7 @@
 <use data-text="?" xlink:href="#font_2_34" transform="matrix(11.3,0,0,-11.3,169.97292,273.43617)" fill="#29332f"/>
 <path transform="matrix(1,0,0,-1,0,353.04)" d="M263 244.90001V97.18001C263 94.89355 264.85356 93.04001 267.14 93.04001H350.86C353.14646 93.04001 355 94.89355 355 97.18001V244.90001C355 247.18647 353.14646 249.04001 350.86 249.04001H267.14C264.85356 249.04001 263 247.18647 263 244.90001Z" fill="#ffffff"/>
 <path transform="matrix(1,0,0,-1,0,353.04)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7e2e9" d="M263 244.90001V97.18001C263 94.89355 264.85356 93.04001 267.14 93.04001H350.86C353.14646 93.04001 355 94.89355 355 97.18001V244.90001C355 247.18647 353.14646 249.04001 350.86 249.04001H267.14C264.85356 249.04001 263 247.18647 263 244.90001Z"/>
+<g data-public-superseded-label="design-corpus" display="none" aria-hidden="true">
 <use data-text="S" xlink:href="#font_2_54" transform="matrix(8,0,0,-8,271,123.63281)" fill="#426d87"/>
 <use data-text="T" xlink:href="#font_2_55" transform="matrix(8,0,0,-8,275.352,123.63281)" fill="#426d87"/>
 <use data-text="R" xlink:href="#font_2_53" transform="matrix(8,0,0,-8,279.75999,123.63281)" fill="#426d87"/>
@@ -417,8 +421,11 @@
 <use data-text="M" xlink:href="#font_2_48" transform="matrix(8,0,0,-8,294.24,123.63281)" fill="#426d87"/>
 <use data-text=" " xlink:href="#font_2_3" transform="matrix(8,0,0,-8,301.632,123.63281)" fill="#426d87"/>
 <use data-text="1" xlink:href="#font_2_20" transform="matrix(8,0,0,-8,303.82398,123.63281)" fill="#426d87"/>
+</g>
+<text data-public-naming-label="design-corpus" x="271" y="122.98535" font-family="Segoe UI, Arial, sans-serif" font-size="7.4" font-weight="600" fill="#426d87">DESIGN CORPUS</text>
 <path transform="matrix(1,0,0,-1,0,353.04)" d="M365 244.90001V97.18001C365 94.89355 366.85356 93.04001 369.14 93.04001H452.86C455.14646 93.04001 457 94.89355 457 97.18001V244.90001C457 247.18647 455.14646 249.04001 452.86 249.04001H369.14C366.85356 249.04001 365 247.18647 365 244.90001Z" fill="#ffffff"/>
 <path transform="matrix(1,0,0,-1,0,353.04)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d7e2e9" d="M365 244.90001V97.18001C365 94.89355 366.85356 93.04001 369.14 93.04001H452.86C455.14646 93.04001 457 94.89355 457 97.18001V244.90001C457 247.18647 455.14646 249.04001 452.86 249.04001H369.14C366.85356 249.04001 365 247.18647 365 244.90001Z"/>
+<g data-public-superseded-label="prior-studies" display="none" aria-hidden="true">
 <use data-text="S" xlink:href="#font_2_54" transform="matrix(8,0,0,-8,373,123.63281)" fill="#426d87"/>
 <use data-text="T" xlink:href="#font_2_55" transform="matrix(8,0,0,-8,377.352,123.63281)" fill="#426d87"/>
 <use data-text="R" xlink:href="#font_2_53" transform="matrix(8,0,0,-8,381.75999,123.63281)" fill="#426d87"/>
@@ -427,6 +434,8 @@
 <use data-text="M" xlink:href="#font_2_48" transform="matrix(8,0,0,-8,396.24,123.63281)" fill="#426d87"/>
 <use data-text=" " xlink:href="#font_2_3" transform="matrix(8,0,0,-8,403.632,123.63281)" fill="#426d87"/>
 <use data-text="2" xlink:href="#font_2_21" transform="matrix(8,0,0,-8,405.82398,123.63281)" fill="#426d87"/>
+</g>
+<text data-public-naming-label="prior-studies" x="373" y="122.98535" font-family="Segoe UI, Arial, sans-serif" font-size="7.4" font-weight="600" fill="#426d87">PRIOR STUDIES</text>
 <path transform="matrix(1,0,0,-1,0,353.04)" d="M273 215.14002V201.94C273 201.44295 273.40296 201.04001 273.9 201.04001H290.1C290.59706 201.04001 291 201.44295 291 201.94V215.14002C291 215.63707 290.59706 216.04001 290.1 216.04001H273.9C273.40296 216.04001 273 215.63707 273 215.14002Z" fill="#ffffff"/>
 <path transform="matrix(1,0,0,-1,0,353.04)" stroke-width=".7" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#426d87" d="M273 215.14002V201.94C273 201.44295 273.40296 201.04001 273.9 201.04001H290.1C290.59706 201.04001 291 201.44295 291 201.94V215.14002C291 215.63707 290.59706 216.04001 290.1 216.04001H273.9C273.40296 216.04001 273 215.63707 273 215.14002Z"/>
 <path transform="matrix(1,0,0,-1,0,353.04)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#426d87" d="M277 212.04001H287"/>
@@ -763,4 +772,5 @@
 <use data-text="m" xlink:href="#font_1_80" transform="matrix(9,0,0,-9,632.2606,328.7119)" fill="#626c67"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(9,0,0,-9,640.00967,328.7119)" fill="#626c67"/>
 <use data-text="s" xlink:href="#font_1_86" transform="matrix(9,0,0,-9,644.70767,328.7119)" fill="#626c67"/>
+<text data-public-snapshot-label="card-production" x="262" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="7.4" fill="#626c67">28 Sep 2026 · card-production snapshot</text>
 </svg>

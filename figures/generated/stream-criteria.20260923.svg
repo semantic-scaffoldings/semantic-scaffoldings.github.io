@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="960" height="475" viewBox="0 0 960 475" role="img" aria-labelledby="method-title method-description"><title id="method-title">Inclusion criteria</title><desc id="method-description">Stream 1 requires AI involvement, a designed structure with task meaning, and human inspection or action through that structure. All three criteria apply at screening and full text. Stream 2 requires relevant, transferable claims with full-text support.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="960" height="475" viewBox="0 0 960 475" role="img" aria-labelledby="method-title method-description"><title id="method-title">Inclusion criteria</title><desc id="method-description">Design corpus requires AI involvement, a designed structure with task meaning, and human inspection or action through that structure. All three criteria apply at screening and full text. Prior studies requires relevant, transferable claims with full-text support.</desc>
 <defs>
 <path id="font_1_44" d="M.2055664 0H.0859375V.7001953H.2055664V0Z"/>
 <path id="font_1_81" d="M.51904299 0H.40576173V.28173829C.40576173 .37516276 .37272135 .421875 .30664063 .421875 .2721354 .421875 .24365235 .40893556 .2211914 .38305665 .19873047 .35717774 .1875 .32454429 .1875 .28515626V0H.07373047V.5H.1875V.4169922H.18945313C.22688802 .48014323 .28092448 .51171877 .3515625 .51171877 .40592448 .51171877 .44742839 .49405924 .47607423 .45874024 .50472006 .42342124 .51904299 .37239585 .51904299 .30566407V0Z"/>
@@ -84,14 +84,14 @@
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(28,0,0,-28,201.156,40.214845)" fill="#29332f"/>
 <use data-text="i" xlink:href="#font_1_76" transform="matrix(28,0,0,-28,211.516,40.214845)" fill="#29332f"/>
 <use data-text="a" xlink:href="#font_1_68" transform="matrix(28,0,0,-28,218.824,40.214845)" fill="#29332f"/>
-<use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,89.58203)" fill="#be501e"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 1"><use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,89.58203)" fill="#be501e"/>
 <use data-text="t" xlink:href="#font_1_87" transform="matrix(20,0,0,-20,34.88,89.58203)" fill="#be501e"/>
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(20,0,0,-20,42.100004,89.58203)" fill="#be501e"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(20,0,0,-20,49.500005,89.58203)" fill="#be501e"/>
 <use data-text="a" xlink:href="#font_1_68" transform="matrix(20,0,0,-20,60.120004,89.58203)" fill="#be501e"/>
 <use data-text="m" xlink:href="#font_1_80" transform="matrix(20,0,0,-20,70.54,89.58203)" fill="#be501e"/>
 <use data-text=" " xlink:href="#font_1_3" transform="matrix(20,0,0,-20,88.240009,89.58203)" fill="#be501e"/>
-<use data-text="1" xlink:href="#font_1_20" transform="matrix(20,0,0,-20,93.72001,89.58203)" fill="#be501e"/>
+<use data-text="1" xlink:href="#font_1_20" transform="matrix(20,0,0,-20,93.72001,89.58203)" fill="#be501e"/></g><text x="24" y="89.582" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#be501e" text-anchor="start" data-reader-name="approved">Design corpus</text>
 <use data-text="T" xlink:href="#font_2_55" transform="matrix(18,0,0,-18,278,89.42383)" fill="#71685f"/>
 <use data-text="i" xlink:href="#font_2_76" transform="matrix(18,0,0,-18,287.414,89.42383)" fill="#71685f"/>
 <use data-text="t" xlink:href="#font_2_87" transform="matrix(18,0,0,-18,291.77,89.42383)" fill="#71685f"/>
@@ -375,7 +375,7 @@
 <use data-text="r" xlink:href="#font_2_85" transform="matrix(16,0,0,-16,513.128,337.26564)" fill="#71685f"/>
 <use data-text="e" xlink:href="#font_2_72" transform="matrix(16,0,0,-16,518.68,337.26564)" fill="#71685f"/>
 <use data-text="d" xlink:href="#font_2_71" transform="matrix(16,0,0,-16,527.032,337.26564)" fill="#71685f"/>
-<use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,394.58204)" fill="#416e83"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 2 · Prior theory and findings"><use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,394.58204)" fill="#416e83"/>
 <use data-text="t" xlink:href="#font_1_87" transform="matrix(20,0,0,-20,34.88,394.58204)" fill="#416e83"/>
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(20,0,0,-20,42.100004,394.58204)" fill="#416e83"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(20,0,0,-20,49.500005,394.58204)" fill="#416e83"/>
@@ -410,7 +410,7 @@
 <use data-text="i" xlink:href="#font_1_76" transform="matrix(20,0,0,-20,309.58003,394.58204)" fill="#416e83"/>
 <use data-text="n" xlink:href="#font_1_81" transform="matrix(20,0,0,-20,314.80003,394.58204)" fill="#416e83"/>
 <use data-text="g" xlink:href="#font_1_74" transform="matrix(20,0,0,-20,326.46003,394.58204)" fill="#416e83"/>
-<use data-text="s" xlink:href="#font_1_86" transform="matrix(20,0,0,-20,338.50004,394.58204)" fill="#416e83"/>
+<use data-text="s" xlink:href="#font_1_86" transform="matrix(20,0,0,-20,338.50004,394.58204)" fill="#416e83"/></g><text x="24" y="394.582" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#416e83" text-anchor="start" data-reader-name="approved">Prior studies</text>
 <use data-text="R" xlink:href="#font_2_53" transform="matrix(18,0,0,-18,24,438.42384)" fill="#29332f"/>
 <use data-text="e" xlink:href="#font_2_72" transform="matrix(18,0,0,-18,34.764,438.42384)" fill="#29332f"/>
 <use data-text="l" xlink:href="#font_2_79" transform="matrix(18,0,0,-18,44.16,438.42384)" fill="#29332f"/>

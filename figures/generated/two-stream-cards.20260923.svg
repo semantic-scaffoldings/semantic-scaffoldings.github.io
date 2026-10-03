@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="960" height="610" viewBox="0 0 960 610" role="img" aria-labelledby="method-title method-description"><title id="method-title">Literature selection and evidence extraction</title><desc id="method-description">Stream 1 moves from the venue frame through screening to one full-text reading, which branches into a mechanism card and a theory-lineage card. Stream 2 combines database searches, citation snowballing, and reviews from Stream 1, deduplicates sources, and assesses full-text claims for knowledge-claim cards. Arrows show the procedure.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="960" height="610" viewBox="0 0 960 610" role="img" aria-labelledby="method-title method-description"><title id="method-title">Literature selection and evidence extraction</title><desc id="method-description">Design corpus moves from the venue frame through screening to one full-text reading, which branches into a mechanism card and a theory-lineage card. Prior studies combines database searches, citation snowballing, and reviews from Design corpus, deduplicates sources, and assesses full-text claims for knowledge-claim cards. Arrows show the procedure.</desc>
 <defs>
 <path id="font_1_47" d="M.4741211 0H.08642578V.7001953H.20263672V.09814453H.4741211V0Z"/>
 <path id="font_1_76" d="M.13085938 .60498049C.11230469 .60498049 .09643555 .6110026 .08325195 .6230469 .07006836 .6350911 .06347656 .6503906 .06347656 .6689453 .06347656 .6875 .07006836 .7029622 .08325195 .71533206 .09643555 .72770187 .11230469 .7338867 .13085938 .7338867 .15006511 .7338867 .16634114 .72770187 .1796875 .71533206 .19303386 .7029622 .19970703 .6875 .19970703 .6689453 .19970703 .6513672 .19303386 .6363118 .1796875 .6237793 .16634114 .61124679 .15006511 .60498049 .13085938 .60498049M.18701172 0H.07373047V.5H.18701172V0Z"/>
@@ -120,7 +120,7 @@
 <use data-text="i" xlink:href="#font_1_76" transform="matrix(28,0,0,-28,537.38,40.214845)" fill="#29332f"/>
 <use data-text="o" xlink:href="#font_1_82" transform="matrix(28,0,0,-28,544.688,40.214845)" fill="#29332f"/>
 <use data-text="n" xlink:href="#font_1_81" transform="matrix(28,0,0,-28,561.404,40.214845)" fill="#29332f"/>
-<use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,85.58203)" fill="#be501e"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 1 · AI‐involved designs"><use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,85.58203)" fill="#be501e"/>
 <use data-text="t" xlink:href="#font_1_87" transform="matrix(20,0,0,-20,34.88,85.58203)" fill="#be501e"/>
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(20,0,0,-20,42.100004,85.58203)" fill="#be501e"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(20,0,0,-20,49.500005,85.58203)" fill="#be501e"/>
@@ -149,7 +149,7 @@
 <use data-text="i" xlink:href="#font_1_76" transform="matrix(20,0,0,-20,258.54,85.58203)" fill="#be501e"/>
 <use data-text="g" xlink:href="#font_1_74" transform="matrix(20,0,0,-20,263.76,85.58203)" fill="#be501e"/>
 <use data-text="n" xlink:href="#font_1_81" transform="matrix(20,0,0,-20,275.80003,85.58203)" fill="#be501e"/>
-<use data-text="s" xlink:href="#font_1_86" transform="matrix(20,0,0,-20,287.46003,85.58203)" fill="#be501e"/>
+<use data-text="s" xlink:href="#font_1_86" transform="matrix(20,0,0,-20,287.46003,85.58203)" fill="#be501e"/></g><text x="24" y="85.582" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#be501e" text-anchor="start" data-reader-name="approved">Design corpus</text>
 <use data-text="V" xlink:href="#font_1_57" transform="matrix(20,0,0,-20,24,131.58203)" fill="#29332f"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(20,0,0,-20,36.82,131.58203)" fill="#29332f"/>
 <use data-text="n" xlink:href="#font_1_81" transform="matrix(20,0,0,-20,47.440004,131.58203)" fill="#29332f"/>
@@ -745,7 +745,7 @@
 <use data-text="i" xlink:href="#font_2_76" transform="matrix(16,0,0,-16,439.85609,306.26564)" fill="#71685f"/>
 <use data-text="a" xlink:href="#font_2_68" transform="matrix(16,0,0,-16,443.7281,306.26564)" fill="#71685f"/>
 <path transform="matrix(1,0,0,-1,0,610)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ded8cd" d="M24 268H936"/>
-<use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,380.58204)" fill="#416e83"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 2 · Prior theory and findings"><use data-text="S" xlink:href="#font_1_54" transform="matrix(20,0,0,-20,24,380.58204)" fill="#416e83"/>
 <use data-text="t" xlink:href="#font_1_87" transform="matrix(20,0,0,-20,34.88,380.58204)" fill="#416e83"/>
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(20,0,0,-20,42.100004,380.58204)" fill="#416e83"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(20,0,0,-20,49.500005,380.58204)" fill="#416e83"/>
@@ -780,7 +780,7 @@
 <use data-text="i" xlink:href="#font_1_76" transform="matrix(20,0,0,-20,309.58003,380.58204)" fill="#416e83"/>
 <use data-text="n" xlink:href="#font_1_81" transform="matrix(20,0,0,-20,314.80003,380.58204)" fill="#416e83"/>
 <use data-text="g" xlink:href="#font_1_74" transform="matrix(20,0,0,-20,326.46003,380.58204)" fill="#416e83"/>
-<use data-text="s" xlink:href="#font_1_86" transform="matrix(20,0,0,-20,338.50004,380.58204)" fill="#416e83"/>
+<use data-text="s" xlink:href="#font_1_86" transform="matrix(20,0,0,-20,338.50004,380.58204)" fill="#416e83"/></g><text x="24" y="380.582" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#416e83" text-anchor="start" data-reader-name="approved">Prior studies</text>
 <path transform="matrix(1,0,0,-1,0,610)" stroke-width="1.6" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#416e83" d="M27 194C27 190.68628 29.68629 188 33 188 36.31371 188 39 190.68628 39 194 39 197.31372 36.31371 200 33 200 29.68629 200 27 197.31372 27 194Z"/>
 <path transform="matrix(1,0,0,-1,0,610)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#416e83" d="M38 189 46 181"/>
 <use data-text="D" xlink:href="#font_2_39" transform="matrix(18,0,0,-18,60,426.42384)" fill="#29332f"/>
@@ -847,14 +847,14 @@
 <use data-text="o" xlink:href="#font_2_82" transform="matrix(18,0,0,-18,139.93802,538.4238)" fill="#29332f"/>
 <use data-text="m" xlink:href="#font_2_80" transform="matrix(18,0,0,-18,150.46802,538.4238)" fill="#29332f"/>
 <use data-text=" " xlink:href="#font_2_3" transform="matrix(18,0,0,-18,165.96602,538.4238)" fill="#29332f"/>
-<use data-text="S" xlink:href="#font_2_54" transform="matrix(18,0,0,-18,170.88002,538.4238)" fill="#29332f"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 1"><use data-text="S" xlink:href="#font_2_54" transform="matrix(18,0,0,-18,170.88002,538.4238)" fill="#29332f"/>
 <use data-text="t" xlink:href="#font_2_87" transform="matrix(18,0,0,-18,180.43802,538.4238)" fill="#29332f"/>
 <use data-text="r" xlink:href="#font_2_85" transform="matrix(18,0,0,-18,186.52202,538.4238)" fill="#29332f"/>
 <use data-text="e" xlink:href="#font_2_72" transform="matrix(18,0,0,-18,192.76802,538.4238)" fill="#29332f"/>
 <use data-text="a" xlink:href="#font_2_68" transform="matrix(18,0,0,-18,202.16402,538.4238)" fill="#29332f"/>
 <use data-text="m" xlink:href="#font_2_80" transform="matrix(18,0,0,-18,211.30802,538.4238)" fill="#29332f"/>
 <use data-text=" " xlink:href="#font_2_3" transform="matrix(18,0,0,-18,226.80602,538.4238)" fill="#29332f"/>
-<use data-text="1" xlink:href="#font_2_20" transform="matrix(18,0,0,-18,231.72002,538.4238)" fill="#29332f"/>
+<use data-text="1" xlink:href="#font_2_20" transform="matrix(18,0,0,-18,231.72002,538.4238)" fill="#29332f"/></g><text x="170.88" y="538.424" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#29332f" text-anchor="start" data-reader-name="approved">Design corpus</text>
 <path transform="matrix(1,0,0,-1,0,610)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#416e83" d="M275 78H300"/>
 <path transform="matrix(1,0,0,-1,0,610)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#416e83" d="M300 190V78"/>
 <path transform="matrix(1,0,0,-1,0,610)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#416e83" d="M300 134H333"/>

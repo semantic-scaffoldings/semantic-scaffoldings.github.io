@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="504" height="451" viewBox="0 0 504 451" role="img" aria-labelledby="method-title method-description"><title id="method-title">Vocabulary growth across three card types</title><desc id="method-description">Vocabulary growth across three card types Share of the recorded vocabulary encountered; paper counts use a log scale Stream 1 · Mechanism cards · 5,049 0% 50% 100% 10 100 1,000 5,049 Cards read (log scale) Median across fields After 3,295: 12 new codes in 1,754 cards; field coverage varies in the shaded region. Families Categories Codes Original wording Stream 1 · Theory-lineage cards · 1,952 0% 50% 100% 10 100 1,000 1,952 Cards read (log scale) Cited works remain an open vocabulary; grounding kinds are a fixed schema. Grounding kinds Shared cited works All cited works Stream 2 · Knowledge-claim cards · 543 0% 50% 100% 10 100 543 Cards read (log scale) Frozen coding covers 542 cards; named constructs cover all 543. Curves stop at their coverage. Families Categories Codes Named constructs</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="504" height="451" viewBox="0 0 504 451" role="img" aria-labelledby="method-title method-description"><title id="method-title">Vocabulary growth across three card types</title><desc id="method-description">Vocabulary growth across three card types Share of the recorded vocabulary encountered; paper counts use a log scale Design corpus · Mechanism cards · 5,049 0% 50% 100% 10 100 1,000 5,049 Cards read (log scale) Median across fields After 3,295: 12 new codes in 1,754 cards; field coverage varies in the shaded region. Families Categories Codes Original wording Design corpus · Theory-lineage cards · 1,952 0% 50% 100% 10 100 1,000 1,952 Cards read (log scale) Cited works remain an open vocabulary; grounding kinds are a fixed schema. Grounding kinds Shared cited works All cited works Prior studies · Knowledge-claim cards · 543 0% 50% 100% 10 100 543 Cards read (log scale) Frozen coding covers 542 cards; named constructs cover all 543. Curves stop at their coverage. Families Categories Codes Named constructs</desc>
 <defs>
 <path id="font_1_57" d="M.6352539 .7001953 .38378907 0H.25390626L.0068359377 .7001953H.13378906L.30664063 .16894531C.31217448 .15201824 .31640626 .13232422 .31933595 .10986328H.32128907C.32356773 .12841797 .32828776 .1484375 .33544923 .16992188L.51220706 .7001953H.6352539Z"/>
 <path id="font_1_82" d="M.29541017-.01171875C.21826172-.01171875 .1566569 .01163737 .1105957 .05834961 .06453451 .10506185 .041503908 .16699219 .041503908 .24414063 .041503908 .328125 .06551107 .39371745 .11352539 .44091798 .16153972 .4881185 .22623699 .51171877 .3076172 .51171877 .3857422 .51171877 .4466146 .48876954 .49023438 .4428711 .5338542 .39697267 .55566409 .33333335 .55566409 .25195313 .55566409 .17220052 .5321452 .108317058 .48510743 .060302736 .43806968 .012288411 .37483726-.01171875 .29541017-.01171875M.30078126 .42138673C.2565104 .42138673 .22151692 .40592448 .19580078 .375 .17008464 .34407554 .15722656 .30143229 .15722656 .24707031 .15722656 .19466146 .17024739 .15340169 .19628906 .123291019 .22233074 .093180339 .25716148 .078125 .30078126 .078125 .3453776 .078125 .37963868 .092936199 .40356446 .122558597 .42749024 .15218099 .43945313 .19433594 .43945313 .24902344 .43945313 .30403648 .42749024 .34651695 .40356446 .37646485 .37963868 .40641276 .3453776 .42138673 .30078126 .42138673Z"/>
@@ -247,7 +247,7 @@
 <use data-text="a" xlink:href="#font_2_68" transform="matrix(8.4,0,0,-8.4,269.86683,32)" fill="#71685f"/>
 <use data-text="l" xlink:href="#font_2_79" transform="matrix(8.4,0,0,-8.4,274.13404,32)" fill="#71685f"/>
 <use data-text="e" xlink:href="#font_2_72" transform="matrix(8.4,0,0,-8.4,276.16685,32)" fill="#71685f"/>
-<use data-text="S" xlink:href="#font_1_54" transform="matrix(9.5,0,0,-9.5,0,48)" fill="#17232e"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 1 · "><use data-text="S" xlink:href="#font_1_54" transform="matrix(9.5,0,0,-9.5,0,48)" fill="#17232e"/>
 <use data-text="t" xlink:href="#font_1_87" transform="matrix(9.5,0,0,-9.5,5.168,48)" fill="#17232e"/>
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(9.5,0,0,-9.5,8.597501,48)" fill="#17232e"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(9.5,0,0,-9.5,12.112501,48)" fill="#17232e"/>
@@ -257,7 +257,7 @@
 <use data-text="1" xlink:href="#font_1_20" transform="matrix(9.5,0,0,-9.5,33.117006,48)" fill="#17232e"/>
 <use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,36.936006,48)" fill="#17232e"/>
 <use data-text="&#x00b7;" xlink:href="#font_1_195" transform="matrix(9.5,0,0,-9.5,39.539007,48)" fill="#17232e"/>
-<use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,41.828508,48)" fill="#17232e"/>
+<use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,41.828508,48)" fill="#17232e"/></g><text x="500" y="48" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#17232e" text-anchor="end" data-reader-name="approved">Design corpus</text>
 <use data-text="M" xlink:href="#font_1_48" transform="matrix(9.5,0,0,-9.5,44.431509,48)" fill="#17232e"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(9.5,0,0,-9.5,53.209508,48)" fill="#17232e"/>
 <use data-text="c" xlink:href="#font_1_70" transform="matrix(9.5,0,0,-9.5,58.254007,48)" fill="#17232e"/>
@@ -471,7 +471,7 @@
 <use data-text="i" xlink:href="#font_2_76" transform="matrix(9.5,0,0,-9.5,434.51905,112.5)" fill="#17232e"/>
 <use data-text="n" xlink:href="#font_2_81" transform="matrix(9.5,0,0,-9.5,436.81806,112.5)" fill="#17232e"/>
 <use data-text="g" xlink:href="#font_2_74" transform="matrix(9.5,0,0,-9.5,442.18556,112.5)" fill="#17232e"/>
-<use data-text="S" xlink:href="#font_1_54" transform="matrix(9.5,0,0,-9.5,0,181)" fill="#17232e"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 1 · "><use data-text="S" xlink:href="#font_1_54" transform="matrix(9.5,0,0,-9.5,0,181)" fill="#17232e"/>
 <use data-text="t" xlink:href="#font_1_87" transform="matrix(9.5,0,0,-9.5,5.168,181)" fill="#17232e"/>
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(9.5,0,0,-9.5,8.597501,181)" fill="#17232e"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(9.5,0,0,-9.5,12.112501,181)" fill="#17232e"/>
@@ -481,7 +481,7 @@
 <use data-text="1" xlink:href="#font_1_20" transform="matrix(9.5,0,0,-9.5,33.117006,181)" fill="#17232e"/>
 <use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,36.936006,181)" fill="#17232e"/>
 <use data-text="&#x00b7;" xlink:href="#font_1_195" transform="matrix(9.5,0,0,-9.5,39.539007,181)" fill="#17232e"/>
-<use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,41.828508,181)" fill="#17232e"/>
+<use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,41.828508,181)" fill="#17232e"/></g><text x="500" y="181" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#17232e" text-anchor="end" data-reader-name="approved">Design corpus</text>
 <use data-text="T" xlink:href="#font_1_55" transform="matrix(9.5,0,0,-9.5,44.431509,181)" fill="#17232e"/>
 <use data-text="h" xlink:href="#font_1_75" transform="matrix(9.5,0,0,-9.5,49.666009,181)" fill="#17232e"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(9.5,0,0,-9.5,55.195009,181)" fill="#17232e"/>
@@ -678,7 +678,7 @@
 <use data-text="r" xlink:href="#font_2_85" transform="matrix(9.5,0,0,-9.5,426.26356,230)" fill="#17232e"/>
 <use data-text="k" xlink:href="#font_2_78" transform="matrix(9.5,0,0,-9.5,429.56007,230)" fill="#17232e"/>
 <use data-text="s" xlink:href="#font_2_86" transform="matrix(9.5,0,0,-9.5,434.28157,230)" fill="#17232e"/>
-<use data-text="S" xlink:href="#font_1_54" transform="matrix(9.5,0,0,-9.5,0,314)" fill="#17232e"/>
+<g aria-hidden="true" display="none" data-legacy-reader-name="Stream 2 · "><use data-text="S" xlink:href="#font_1_54" transform="matrix(9.5,0,0,-9.5,0,314)" fill="#17232e"/>
 <use data-text="t" xlink:href="#font_1_87" transform="matrix(9.5,0,0,-9.5,5.168,314)" fill="#17232e"/>
 <use data-text="r" xlink:href="#font_1_85" transform="matrix(9.5,0,0,-9.5,8.597501,314)" fill="#17232e"/>
 <use data-text="e" xlink:href="#font_1_72" transform="matrix(9.5,0,0,-9.5,12.112501,314)" fill="#17232e"/>
@@ -688,7 +688,7 @@
 <use data-text="2" xlink:href="#font_1_21" transform="matrix(9.5,0,0,-9.5,33.117006,314)" fill="#17232e"/>
 <use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,38.389505,314)" fill="#17232e"/>
 <use data-text="&#x00b7;" xlink:href="#font_1_195" transform="matrix(9.5,0,0,-9.5,40.992506,314)" fill="#17232e"/>
-<use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,43.282007,314)" fill="#17232e"/>
+<use data-text=" " xlink:href="#font_1_3" transform="matrix(9.5,0,0,-9.5,43.282007,314)" fill="#17232e"/></g><text x="500" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#17232e" text-anchor="end" data-reader-name="approved">Prior studies</text>
 <use data-text="K" xlink:href="#font_1_46" transform="matrix(9.5,0,0,-9.5,45.885007,314)" fill="#17232e"/>
 <use data-text="n" xlink:href="#font_1_81" transform="matrix(9.5,0,0,-9.5,51.680009,314)" fill="#17232e"/>
 <use data-text="o" xlink:href="#font_1_82" transform="matrix(9.5,0,0,-9.5,57.218507,314)" fill="#17232e"/>

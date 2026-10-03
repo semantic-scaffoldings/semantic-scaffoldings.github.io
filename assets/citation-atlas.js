@@ -112,9 +112,9 @@
       const kicker=document.createElement('p'); kicker.className='ca-eyebrow';
       kicker.textContent=(count(n,stream)?level(count(n,stream)):'No observed link')+' · cited source'; detail.append(kicker);
       const title=document.createElement('h4'); title.textContent=n[1]; detail.append(title);
-      const p=document.createElement('p'); p.textContent=fmt(count(n,stream))+' citing review papers'+(stream==='all'?' across both streams':' in Stream '+stream.slice(1)); detail.append(p);
+      const p=document.createElement('p'); p.textContent=fmt(count(n,stream))+' citing review papers'+(stream==='all'?' across both bodies of work':' in '+(stream==='s1'?'Design corpus':'Prior studies')); detail.append(p);
       const sub=document.createElement('p'); sub.className='ca-muted';
-      sub.textContent='Stream 1: '+fmt(n[6])+' · Stream 2: '+fmt(n[7])+' · Combined: '+fmt(n[5])+' distinct papers. Stream memberships can overlap.'; detail.append(sub);
+      sub.textContent='Design corpus: '+fmt(n[6])+' · Prior studies: '+fmt(n[7])+' · Combined: '+fmt(n[5])+' distinct papers. Memberships in the two bodies of work can overlap.'; detail.append(sub);
       const url=sourceUrl(n[2]);
       if(url){const a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener';a.textContent='Open this source ↗';detail.append(a);}
       const note=document.createElement('p'); note.className='ca-muted';note.textContent='See the page-grounded examples of how sources informed a design or measure.';detail.append(note);
