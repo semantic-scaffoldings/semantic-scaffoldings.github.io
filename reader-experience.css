@@ -406,3 +406,40 @@ body[data-publication-route=tldr] .reader-teaser-streams h3{font-size:20px!impor
 
 /* A keyboard preview belongs to its visible link, even if focus stays behind. */
 .reader-teaser-link[data-teaser-offscreen] .reader-teaser-preview{visibility:hidden;opacity:0}
+
+/* Methods use the diagram's aspect ratio and the actual viewport, with copy
+   beside the drawing on spacious screens rather than above a shallow camera. */
+@media(min-width:841px) and (min-height:601px) and (not ((max-width:1180px) and (max-aspect-ratio:1/1))){
+ html.rm-ready body[data-publication-route=tldr] .rm-stage{
+  height:var(--rm-stage-height,min(80svh,720px));min-height:0;
+ }
+ html.rm-ready body[data-publication-route=tldr] .rm-scrolly{
+  padding-bottom:var(--rm-sticky-tail,0px);
+ }
+ html.rm-ready body[data-publication-route=tldr] .rm-step:first-child{
+  min-height:var(--rm-first-step-height,calc(100svh - 6.2rem));
+ }
+}
+@media(min-width:1100px) and (min-height:601px) and (not ((max-width:1180px) and (max-aspect-ratio:1/1))){
+ html.rm-ready body[data-publication-route=tldr] .rm-stage{
+  grid-template-columns:minmax(0,1fr) clamp(17rem,26%,30rem);
+  grid-template-rows:auto minmax(0,1fr) auto auto;
+ }
+ html.rm-ready body[data-publication-route=tldr] .rm-stage-bar{grid-area:1/1/2/3}
+ html.rm-ready body[data-publication-route=tldr] .rm-camera{grid-area:2/1/3/2}
+ html.rm-ready body[data-publication-route=tldr] .rm-active-copy{
+  grid-area:2/2/4/3;padding:1.1rem 1.25rem;border-bottom:0;
+  border-left:1px solid #dce2db;align-self:stretch;
+ }
+ html.rm-ready body[data-publication-route=tldr] .rm-caption{grid-area:3/1/4/2}
+ html.rm-ready body[data-publication-route=tldr] .rm-jumps{grid-area:4/1/5/3}
+}
+@media(min-width:1800px){
+ body[data-publication-route=tldr] [data-tldr-root]{--t-story-width:min(150rem,calc(100vw - 4rem))}
+ body[data-publication-route=tldr] .t-story-shell{max-width:150rem!important}
+ body[data-publication-route=tldr] .t-story-main{max-width:none}
+ body[data-publication-route=tldr] .t-story-main>.t-story-act>.t-wrap{
+  max-width:78rem;margin-inline:0;
+ }
+ body[data-publication-route=tldr] .t-story-main>#tldr-act-method>.t-wrap{max-width:none}
+}

@@ -9950,6 +9950,7 @@ for carefully thought out designs and interactions that mo-  </blockquote><detai
    // over the overview made unrelated labels bleed into the venue grid.
    svg.style.opacity=visible?'0':'1';
    svg.style.pointerEvents=visible?'none':'';
+    sizeStage(visible?detailPhase:'overview');
    if(!visible){detailLayer.style.opacity='0';return;}
    detailLayer.style.clipPath='none';
    detailLayer.style.opacity='1';
@@ -9973,7 +9974,30 @@ for carefully thought out designs and interactions that mo-  </blockquote><detai
    copyHeights=steps.map(function(s){copyStep(probe,s);return Math.ceil(Math.min(probe.scrollHeight+4,innerHeight*.29));});
    probe.remove();fitCopy();
  }
- function venueReadout(event){
+
+  function sizeStage(phase){
+    if(compact.matches||printing){
+      stage.style.removeProperty('--rm-stage-height');
+      root.style.removeProperty('--rm-sticky-tail');
+      root.style.removeProperty('--rm-first-step-height');return;
+    }
+    var camera=root.querySelector('.rm-camera'),room=camera.getBoundingClientRect();
+    var top=parseFloat(getComputedStyle(stage).top)||0,available=Math.max(240,innerHeight-top-24);
+    root.style.setProperty('--rm-first-step-height',Math.ceil(available)+'px');
+    var view=detailViews.find(function(v){return v.dataset.methodDetail===phase;});
+    var drawing=phase!=='overview'&&view&&view.querySelector('svg'),bounds=drawing&&drawing.viewBox.baseVal;
+    var ratio=bounds&&bounds.width&&bounds.height?bounds.width/bounds.height:whole[2]/whole[3];
+    var chrome=2;
+    ['.rm-stage-bar','.rm-caption','.rm-jumps'].forEach(function(s){chrome+=root.querySelector(s).getBoundingClientRect().height;});
+    if(innerWidth<1100)chrome+=copy.getBoundingClientRect().height;
+    var height=Math.ceil(Math.min(available,Math.max(Math.min(480,available),chrome+room.width/ratio)));
+    if(stage.style.getPropertyValue('--rm-stage-height')!==height+'px')stage.style.setProperty('--rm-stage-height',height+'px');
+    // Reserve the final scroll stop for the largest detail. Its sticky card
+    // should stay below the header while the last explanation is active.
+    var tail=Math.ceil(Math.max(0,available/2-steps[steps.length-1].getBoundingClientRect().height/2+24));
+    root.style.setProperty('--rm-sticky-tail',tail+'px');
+  }
+function venueReadout(event){
    var target=event.target;if(!target||!target.closest)return;
    var cell=target.closest('[data-venue-cell]');if(!cell)return;
    var frame=cell.closest('[data-venue-frame]'),out=frame&&frame.querySelector('[data-venue-readout]');
@@ -10004,7 +10028,7 @@ for carefully thought out designs and interactions that mo-  </blockquote><detai
  }
  function geometry(){
    var sr=stage.getBoundingClientRect();
-   var line=compact.matches?Math.min(innerHeight*.85,sr.bottom+(innerHeight-sr.bottom)*.35):sr.top+sr.height*.5;
+   var line=compact.matches?Math.min(innerHeight*.85,sr.bottom+(innerHeight-sr.bottom)*.35):sr.top+(innerHeight-sr.top-24)*.5;
    // On a phone, the heading marks the start of the visible explanation.
    // Its position stays useful when a supporting disclosure makes a step long.
    var centers=steps.map(function(s){var r=(compact.matches?s.querySelector('h3'):s).getBoundingClientRect();return(r.top+r.bottom)/2;});
