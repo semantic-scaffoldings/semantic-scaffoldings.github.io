@@ -439,7 +439,10 @@ body[data-publication-route=tldr] .reader-teaser-streams h3{font-size:20px!impor
  body[data-publication-route=tldr] .t-story-shell{max-width:150rem!important}
  body[data-publication-route=tldr] .t-story-main{max-width:none}
  body[data-publication-route=tldr] .t-story-main>.t-story-act>.t-wrap{
-  max-width:78rem;margin-inline:0;
+  max-width:78rem;margin-inline:auto;
  }
  body[data-publication-route=tldr] .t-story-main>#tldr-act-method>.t-wrap{max-width:none}
+ body[data-publication-route=tldr] .t-story-main>.t-story-act>.prior-knowledge-link{
+  max-width:78rem;margin-inline:auto;
+ }
 }
